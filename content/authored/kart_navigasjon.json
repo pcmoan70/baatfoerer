@@ -15,10 +15,22 @@
         "Vite at norske sjøkart bruker datum WGS84 slik at GPS-posisjoner kan brukes direkte",
         "Velge kart i størst mulig målestokk i trange farvann"
       ],
-      "image_files": ["kartverket/images/globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg"],
+      "image_files": [
+        "kartverket/images/globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg"
+      ],
       "source_refs": [
-        {"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Datum og kartprojeksjon", "quote": "Alle norske sjøkart er laga i datumet WGS84 (gradnett)."},
-        {"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Målestokk", "quote": "Ved seglas i tronge farvatn bør du bruke sjøkart i størst mogeleg målestokk."}
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Datum og kartprojeksjon",
+          "quote": "Alle norske sjøkart er laga i datumet WGS84 (gradnett)."
+        },
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Målestokk",
+          "quote": "Ved seglas i tronge farvatn bør du bruke sjøkart i størst mogeleg målestokk."
+        }
       ]
     },
     {
@@ -36,11 +48,28 @@
         "Lese fri høyde for luftspenn og fri klaring for bru, og forstå at høy vannstand reduserer klaringen",
         "Knytte kartsymbol til fysisk objekt i virkeligheten"
       ],
-      "image_files": ["kartverket/images/globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg"],
+      "image_files": [
+        "kartverket/images/globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg"
+      ],
       "source_refs": [
-        {"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Åtvaringar", "quote": "Utanfor kartrama er det lagt inn informasjon om åtvaringar for mellom anna: Kablar (luftspenn og undervasskablar) ... Vertikal klaring under bruer og luftspenn."},
-        {"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Planlegg seglingsruta", "quote": "Unngå skvalpeskjer, grunner og farlege snarvegar."},
-        {"source_id": "kartverket_symboler", "url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart", "section": "Symboler og forkortelser", "quote": "Alle symbol i sjøkart viser til eit fysisk objekt i terrenget og fortel korleis du skal navigere nær dette."}
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Åtvaringar",
+          "quote": "Utanfor kartrama er det lagt inn informasjon om åtvaringar for mellom anna: Kablar (luftspenn og undervasskablar) ... Vertikal klaring under bruer og luftspenn."
+        },
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Planlegg seglingsruta",
+          "quote": "Unngå skvalpeskjer, grunner og farlege snarvegar."
+        },
+        {
+          "source_id": "kartverket_symboler",
+          "url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart",
+          "section": "Symboler og forkortelser",
+          "quote": "Alle symbol i sjøkart viser til eit fysisk objekt i terrenget og fortel korleis du skal navigere nær dette."
+        }
       ]
     },
     {
@@ -60,7 +89,12 @@
       ],
       "image_files": [],
       "source_refs": [
-        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Navigasjon – kompass", "quote": "Kompassets virkemåte, misvisning og deviasjon."}
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Navigasjon – kompass",
+          "quote": "Kompassets virkemåte, misvisning og deviasjon."
+        }
       ]
     },
     {
@@ -79,8 +113,18 @@
         "Knytte WGS84 til at GPS-posisjon kan brukes direkte i sjøkart"
       ],
       "source_refs": [
-        {"source_id": "kartverket_enc", "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc", "section": "Unngå overskalering", "quote": "Zoomer du for langt inn, strekkes informasjonen i kartet ut over den bruken den er beregnet for. Dette kalles overskalering."},
-        {"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Datum og kartprojeksjon", "quote": "posisjonar frå GPS-baserte system kan brukast direkte i sjøkarta."}
+        {
+          "source_id": "kartverket_enc",
+          "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc",
+          "section": "Unngå overskalering",
+          "quote": "Zoomer du for langt inn, strekkes informasjonen i kartet ut over den bruken den er beregnet for. Dette kalles overskalering."
+        },
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Datum og kartprojeksjon",
+          "quote": "posisjonar frå GPS-baserte system kan brukast direkte i sjøkarta."
+        }
       ]
     },
     {
@@ -100,8 +144,18 @@
       ],
       "image_files": [],
       "source_refs": [
-        {"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Vasstand, flod og fjære", "quote": "Flod, fjære og vasstand kan varierer mykje langs Norskekysten ... tidspunkt for flod og fjære og tabellar for tidvatn."},
-        {"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Vasstand, flod og fjære", "quote": "viss du er uheldig å på støyte på eit skvalpeskjær, viss du ikkje har sjekka sjøkartet godt nok på førehand."}
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Vasstand, flod og fjære",
+          "quote": "Flod, fjære og vasstand kan varierer mykje langs Norskekysten ... tidspunkt for flod og fjære og tabellar for tidvatn."
+        },
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Vasstand, flod og fjære",
+          "quote": "viss du er uheldig å på støyte på eit skvalpeskjær, viss du ikkje har sjekka sjøkartet godt nok på førehand."
+        }
       ]
     },
     {
@@ -121,7 +175,12 @@
       ],
       "image_files": [],
       "source_refs": [
-        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Navigasjon – fart/distanse", "quote": "Beregne fart, tid og distanse. 1 nautisk mil = 1852 meter = 1 breddeminutt."}
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Navigasjon – fart/distanse",
+          "quote": "Beregne fart, tid og distanse. 1 nautisk mil = 1852 meter = 1 breddeminutt."
+        }
       ]
     },
     {
@@ -139,10 +198,22 @@
         "Forklare peiling og bestemme posisjon ved kryss­peiling til to–tre objekter",
         "Kombinere kompass, GPS og visuelle holdepunkter for sikker orientering"
       ],
-      "image_files": ["kartverket/images/globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg"],
+      "image_files": [
+        "kartverket/images/globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg"
+      ],
       "source_refs": [
-        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Navigasjon – orientering", "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning og elektroniske hjelpemidler."},
-        {"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Datum og kartprojeksjon", "quote": "posisjonar frå GPS-baserte system kan brukast direkte i sjøkarta."}
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Navigasjon – orientering",
+          "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning og elektroniske hjelpemidler."
+        },
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Datum og kartprojeksjon",
+          "quote": "posisjonar frå GPS-baserte system kan brukast direkte i sjøkarta."
+        }
       ]
     }
   ],
@@ -155,10 +226,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva angir dybdetallene i et moderne norsk sjøkart?",
-      "choices": ["Dybde i meter ned til sjøkartnull", "Dybde i fot ned til middelvann", "Høyde over havet i meter", "Avstand til land i nautiske mil"],
+      "choices": [
+        "Dybde i meter ned til sjøkartnull",
+        "Dybde i fot ned til middelvann",
+        "Høyde over havet i meter",
+        "Avstand til land i nautiske mil"
+      ],
       "correct": 0,
       "explanation": "Norske sjøkart oppgir dybde i meter målt ned til sjøkartnull (LAT).",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Djupneforhold", "quote": "Sjøkartet inneheld mykje informasjon ut over djupneforhold."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Djupneforhold",
+          "quote": "Sjøkartet inneheld mykje informasjon ut over djupneforhold."
+        }
+      ]
     },
     {
       "id": "q_nv_kart_002",
@@ -168,10 +251,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvilket kartdatum brukes i alle norske sjøkart?",
-      "choices": ["WGS84", "ED50", "NGO1948", "Mercator 1900"],
+      "choices": [
+        "WGS84",
+        "ED50",
+        "NGO1948",
+        "Mercator 1900"
+      ],
       "correct": 0,
       "explanation": "Alle norske sjøkart lages i datumet WGS84, samme som GPS bruker, slik at GPS-posisjoner kan brukes direkte i kartet.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Datum og kartprojeksjon", "quote": "Alle norske sjøkart er laga i datumet WGS84 (gradnett)."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Datum og kartprojeksjon",
+          "quote": "Alle norske sjøkart er laga i datumet WGS84 (gradnett)."
+        }
+      ]
     },
     {
       "id": "q_nv_kart_003",
@@ -181,10 +276,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva er en fordel med at norske sjøkart bruker datumet WGS84?",
-      "choices": ["GPS-posisjoner kan plottes direkte i kartet uten korreksjon", "Kartet trenger ikke målestokk", "Dybdene blir automatisk korrigert for tidevann", "Kompasset trenger ikke misvisningskorreksjon"],
+      "choices": [
+        "GPS-posisjoner kan plottes direkte i kartet uten korreksjon",
+        "Kartet trenger ikke målestokk",
+        "Dybdene blir automatisk korrigert for tidevann",
+        "Kompasset trenger ikke misvisningskorreksjon"
+      ],
       "correct": 0,
       "explanation": "WGS84 er samme referansesystem som GPS bruker, så GPS-posisjoner kan brukes direkte i sjøkartet.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Datum og kartprojeksjon", "quote": "posisjonar frå GPS-baserte system kan brukast direkte i sjøkarta."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Datum og kartprojeksjon",
+          "quote": "posisjonar frå GPS-baserte system kan brukast direkte i sjøkarta."
+        }
+      ]
     },
     {
       "id": "q_nv_kart_004",
@@ -194,10 +301,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva er sjøkartnull (referansenivået dybdene måles fra) i norske sjøkart i dag?",
-      "choices": ["Laveste astronomiske tidevann (LAT)", "Middelvannstand", "Høyeste astronomiske tidevann (HAT)", "Havoverflaten ved springflo"],
+      "choices": [
+        "Laveste astronomiske tidevann (LAT)",
+        "Middelvannstand",
+        "Høyeste astronomiske tidevann (HAT)",
+        "Havoverflaten ved springflo"
+      ],
       "correct": 0,
       "explanation": "Sjøkartnull er LAT (laveste astronomiske tidevann), slik at virkelig dybde normalt er lik eller større enn karttallet.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Referansenivå", "quote": "informasjon om gradnett, datum og referansenivå brukt ved konstruksjon av sjøkart."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Referansenivå",
+          "quote": "informasjon om gradnett, datum og referansenivå brukt ved konstruksjon av sjøkart."
+        }
+      ]
     },
     {
       "id": "q_nv_kart_005",
@@ -207,10 +326,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvorfor er den virkelige dybden under båten som regel lik eller større enn dybdetallet i kartet?",
-      "choices": ["Fordi dybden måles ned til sjøkartnull, og vannstanden ligger normalt over dette nivået", "Fordi karttallene alltid rundes ned", "Fordi GPS legger til en sikkerhetsmargin", "Fordi tidevann ikke finnes i Norge"],
+      "choices": [
+        "Fordi dybden måles ned til sjøkartnull, og vannstanden ligger normalt over dette nivået",
+        "Fordi karttallene alltid rundes ned",
+        "Fordi GPS legger til en sikkerhetsmargin",
+        "Fordi tidevann ikke finnes i Norge"
+      ],
       "correct": 0,
       "explanation": "Dybden gjelder ved sjøkartnull (LAT). Vannstanden ligger normalt over LAT, så det er vanligvis dypere enn karttallet – men ved svært lav vannstand kan det bli grunnere.",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Vasstand", "quote": "Da det var flo gjekk seglasen heilt fint. Neste gong er det kanskje fjære."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Vasstand",
+          "quote": "Da det var flo gjekk seglasen heilt fint. Neste gong er det kanskje fjære."
+        }
+      ]
     },
     {
       "id": "q_nv_kart_006",
@@ -220,23 +351,47 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvilket kart bør du bruke når du navigerer i et trangt farvann?",
-      "choices": ["Kart i størst mulig målestokk (mest detaljert)", "Kart i minst mulig målestokk", "Et oversiktskart over hele kysten", "Et turkart for land"],
+      "choices": [
+        "Kart i størst mulig målestokk (mest detaljert)",
+        "Kart i minst mulig målestokk",
+        "Et oversiktskart over hele kysten",
+        "Et turkart for land"
+      ],
       "correct": 0,
       "explanation": "I trange farvann gir kart i størst mulig målestokk de beste og mest detaljerte opplysningene.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Målestokk", "quote": "Ved seglas i tronge farvatn bør du bruke sjøkart i størst mogeleg målestokk."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Målestokk",
+          "quote": "Ved seglas i tronge farvatn bør du bruke sjøkart i størst mogeleg målestokk."
+        }
+      ]
     },
     {
       "id": "q_nv_kart_007",
       "concept_id": "nv_kart_oppbygging",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 1,
       "importance": "high",
       "exam_area": "navigasjon",
-      "prompt": "Hva forteller et ZOC-/kildediagram i sjøkartet?",
-      "choices": [],
+      "prompt": "Hva forteller et ZOC-diagram (Zones of Confidence) deg i et sjøkart?",
+      "choices": [
+        "Hvor pålitelige dybdedataene er, slik at du ser hvilke områder som har dårligere datagrunnlag",
+        "Hvilken kompassmisvisning som gjelder for det aktuelle kartområdet",
+        "Hvor høyt et luftspenn ligger over sjøkartnull",
+        "Hvilke fartsgrenser som er fastsatt i lokale forskrifter"
+      ],
       "correct": 0,
-      "explanation": "ZOC-diagrammet (Zones of Confidence) viser hvor pålitelige dybdedataene er, og synliggjør områder der datagrunnlaget er av dårligere kvalitet og navigasjon dermed er mer risikabel.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "ZOC-diagram", "quote": "synleggjere område der datagrunnlaget er av betydeleg dårlegare kvalitet, altså der det er ein større risiko å navigere."}]
+      "explanation": "ZOC-diagrammet viser hvor pålitelige dybdedataene er og synliggjør områder der datagrunnlaget er dårligere og navigasjon dermed mer risikabel.",
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "ZOC-diagram",
+          "quote": "synleggjere område der datagrunnlaget er av betydeleg dårlegare kvalitet, altså der det er ein større risiko å navigere."
+        }
+      ]
     },
     {
       "id": "q_nv_sym_001",
@@ -246,10 +401,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hva er et skvalpeskjær?",
-      "choices": ["Et skjær som tørrfaller (stikker opp) ved lav vannstand og dekkes av vann ved høy vannstand", "Et fast fyr på en holme", "Et dypt område midt i leia", "En flytende bøye som markerer trygt vann"],
+      "choices": [
+        "Et skjær som tørrfaller (stikker opp) ved lav vannstand og dekkes av vann ved høy vannstand",
+        "Et fast fyr på en holme",
+        "Et dypt område midt i leia",
+        "En flytende bøye som markerer trygt vann"
+      ],
       "correct": 0,
       "explanation": "Et skvalpeskjær tørrfaller ved fjære og er dekket av vann ved flo, og er derfor særlig farlig fordi det kan være usynlig ved høy vannstand.",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Planlegg seglingsruta", "quote": "Unngå skvalpeskjer, grunner og farlege snarvegar."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Planlegg seglingsruta",
+          "quote": "Unngå skvalpeskjer, grunner og farlege snarvegar."
+        }
+      ]
     },
     {
       "id": "q_nv_sym_002",
@@ -259,10 +426,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hvorfor er et skvalpeskjær spesielt farlig?",
-      "choices": ["Det kan være usynlig under vann ved høy vannstand, men ligger like under overflaten", "Det sender ut radarforstyrrelser", "Det flytter på seg med strømmen", "Det er bare farlig om natten"],
+      "choices": [
+        "Det kan være usynlig under vann ved høy vannstand, men ligger like under overflaten",
+        "Det sender ut radarforstyrrelser",
+        "Det flytter på seg med strømmen",
+        "Det er bare farlig om natten"
+      ],
       "correct": 0,
       "explanation": "Ved flo kan skvalpeskjæret være dekket av vann og dermed usynlig, mens det fortsatt ligger så grunt at båten kan støte på det.",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Vasstand", "quote": "kan du vere uheldig å på støyte på eit skvalpeskjær, viss du ikkje har sjekka sjøkartet godt nok."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Vasstand",
+          "quote": "kan du vere uheldig å på støyte på eit skvalpeskjær, viss du ikkje har sjekka sjøkartet godt nok."
+        }
+      ]
     },
     {
       "id": "q_nv_sym_003",
@@ -272,10 +451,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Du ser symbolet for en undervannskabel i sjøkartet. Hva er viktigst å unngå i dette området?",
-      "choices": ["Å ankre eller dregge", "Å bruke kompass", "Å seile i planing", "Å lese av dybdetall"],
+      "choices": [
+        "Å ankre eller dregge",
+        "Å bruke kompass",
+        "Å seile i planing",
+        "Å lese av dybdetall"
+      ],
       "correct": 0,
       "explanation": "Over kabler (og rørledninger) er det normalt ankringsforbud, fordi anker kan skade kabelen og sette deg selv i fare.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Åtvaringar", "quote": "Kablar (luftspenn og undervasskablar)."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Åtvaringar",
+          "quote": "Kablar (luftspenn og undervasskablar)."
+        }
+      ]
     },
     {
       "id": "q_nv_sym_004",
@@ -285,10 +476,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Et luftspenn (kraftlinje over farvannet) er merket i kartet med et høydetall. Hva angir dette tallet?",
-      "choices": ["Fri (vertikal) høyde – hvor høyt fartøy kan passere under", "Dybden under luftspennet", "Avstanden til nærmeste land", "Spennets totale lengde"],
+      "choices": [
+        "Fri (vertikal) høyde – hvor høyt fartøy kan passere under",
+        "Dybden under luftspennet",
+        "Avstanden til nærmeste land",
+        "Spennets totale lengde"
+      ],
       "correct": 0,
       "explanation": "Tallet ved luftspenn angir fri høyde, altså største høyde et fartøy (typisk en mast) kan ha for å passere trygt under.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Åtvaringar", "quote": "Vertikal klaring under bruer og luftspenn."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Åtvaringar",
+          "quote": "Vertikal klaring under bruer og luftspenn."
+        }
+      ]
     },
     {
       "id": "q_nv_sym_005",
@@ -298,10 +501,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "En bru har oppgitt fri seilingshøyde (klaring) på 10 meter. Når er klaringen minst?",
-      "choices": ["Ved høy vannstand (flo)", "Ved lav vannstand (fjære)", "Klaringen er alltid nøyaktig 10 m uansett", "Bare når det er strøm"],
+      "choices": [
+        "Ved høy vannstand (flo)",
+        "Ved lav vannstand (fjære)",
+        "Klaringen er alltid nøyaktig 10 m uansett",
+        "Bare når det er strøm"
+      ],
       "correct": 0,
       "explanation": "Når vannstanden stiger, reduseres den frie høyden under brua. Klaringen er derfor minst ved høy vannstand (flo).",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Åtvaringar", "quote": "Vertikal klaring under bruer og luftspenn."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Åtvaringar",
+          "quote": "Vertikal klaring under bruer og luftspenn."
+        }
+      ]
     },
     {
       "id": "q_nv_sym_006",
@@ -311,10 +526,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hva betyr en grunne i sjøkartet?",
-      "choices": ["Et område med liten dybde i forhold til omgivelsene", "Et område med spesielt sterk strøm", "Et område der ankring er påbudt", "Et område reservert for fiske"],
+      "choices": [
+        "Et område med liten dybde i forhold til omgivelsene",
+        "Et område med spesielt sterk strøm",
+        "Et område der ankring er påbudt",
+        "Et område reservert for fiske"
+      ],
       "correct": 0,
       "explanation": "En grunne er et område der dybden er liten i forhold til omgivelsene, og kan være farlig selv om den ikke er synlig på overflaten.",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Planlegg seglingsruta", "quote": "Unngå skvalpeskjer, grunner og farlege snarvegar."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Planlegg seglingsruta",
+          "quote": "Unngå skvalpeskjer, grunner og farlege snarvegar."
+        }
+      ]
     },
     {
       "id": "q_nv_sym_007",
@@ -324,10 +551,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hva markerer symbolet for en rørledning i sjøkartet, og hva må du ta hensyn til?",
-      "choices": ["En ledning på/i bunnen – normalt ankringsforbud over den", "En trygg ankerplass", "En anbefalt seilingsrute", "En fartsgrense på 5 knop"],
+      "choices": [
+        "En ledning på/i bunnen – normalt ankringsforbud over den",
+        "En trygg ankerplass",
+        "En anbefalt seilingsrute",
+        "En fartsgrense på 5 knop"
+      ],
       "correct": 0,
       "explanation": "En rørledning ligger på eller i bunnen, og som ved kabler gjelder normalt ankringsforbud for ikke å skade ledningen.",
-      "source_refs": [{"source_id": "kartverket_symboler", "url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart", "section": "Symboler", "quote": "Alle symbol i sjøkart viser til eit fysisk objekt i terrenget."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_symboler",
+          "url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart",
+          "section": "Symboler",
+          "quote": "Alle symbol i sjøkart viser til eit fysisk objekt i terrenget."
+        }
+      ]
     },
     {
       "id": "q_nv_sym_008",
@@ -337,23 +576,47 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hvor finner du varsler om fartsrestriksjoner, kabler, tidevann og fri klaring under broer?",
-      "choices": ["Utenfor kartrammen (i kartmargen)", "Bare i kompassrosen", "Kun på baksiden av kartet", "I dybdetallene"],
+      "choices": [
+        "Utenfor kartrammen (i kartmargen)",
+        "Bare i kompassrosen",
+        "Kun på baksiden av kartet",
+        "I dybdetallene"
+      ],
       "correct": 0,
       "explanation": "Utenfor selve kartrammen er det lagt inn advarsler om blant annet fartsrestriksjoner, kabler, tidevann og vertikal klaring under broer og luftspenn.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Åtvaringar", "quote": "Utanfor kartrama er det lagt inn informasjon om åtvaringar."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Åtvaringar",
+          "quote": "Utanfor kartrama er det lagt inn informasjon om åtvaringar."
+        }
+      ]
     },
     {
       "id": "q_nv_sym_009",
       "concept_id": "nv_kart_symboler",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 2,
       "importance": "critical",
       "exam_area": "spesielt_viktige",
-      "prompt": "Hvilken publikasjon bør du bruke for å slå opp betydningen av alle kartsymboler og forkortelser?",
-      "choices": [],
-      "correct": 0,
+      "prompt": "Hvilken publikasjon slår du opp i for å finne betydningen av kartsymboler og forkortelser i norske sjøkart?",
+      "choices": [
+        "Den norske los",
+        "Etterretninger for sjøfarende (Efs)",
+        "«Symboler og forkortelser i norske sjøkart» (norsk INT 1)",
+        "Nautisk almanakk"
+      ],
+      "correct": 2,
       "explanation": "«Symboler og forkortelser i norske sjøkart» (norsk INT 1) gir oversikt over alle kartsymboler og forkortelser i norske og internasjonale sjøkart.",
-      "source_refs": [{"source_id": "kartverket_symboler", "url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart", "section": "INT 1", "quote": "Symboler og forkortelser i norske sjøkart ... god oversikt over alle kartsymbol og forkortingar."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_symboler",
+          "url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart",
+          "section": "INT 1",
+          "quote": "Symboler og forkortelser i norske sjøkart ... god oversikt over alle kartsymbol og forkortingar."
+        }
+      ]
     },
     {
       "id": "q_nv_komp_001",
@@ -363,10 +626,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva får magnetkompassets nål til å peke i en bestemt retning?",
-      "choices": ["Jordens magnetfelt", "GPS-satellitter", "Solens posisjon", "Strøm fra båtens batteri"],
+      "choices": [
+        "Jordens magnetfelt",
+        "GPS-satellitter",
+        "Solens posisjon",
+        "Strøm fra båtens batteri"
+      ],
       "correct": 0,
       "explanation": "Magnetkompasset virker ved at nålen retter seg etter jordens magnetfelt og peker mot magnetisk nord.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Kompass", "quote": "Kompassets virkemåte."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Kompass",
+          "quote": "Kompassets virkemåte."
+        }
+      ]
     },
     {
       "id": "q_nv_komp_002",
@@ -376,10 +651,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva er misvisning (deklinasjon)?",
-      "choices": ["Vinkelen mellom rettvisende (geografisk) nord og magnetisk nord", "Kompassfeil forårsaket av metall i egen båt", "Forskjellen mellom flo og fjære", "Avviket mellom kurs over grunn og kurs gjennom vannet"],
+      "choices": [
+        "Vinkelen mellom rettvisende (geografisk) nord og magnetisk nord",
+        "Kompassfeil forårsaket av metall i egen båt",
+        "Forskjellen mellom flo og fjære",
+        "Avviket mellom kurs over grunn og kurs gjennom vannet"
+      ],
       "correct": 0,
       "explanation": "Misvisning/deklinasjon er vinkelen mellom geografisk nord og magnetisk nord; den er stedsavhengig og endrer seg over tid.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Kompass", "quote": "misvisning og deviasjon."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Kompass",
+          "quote": "misvisning og deviasjon."
+        }
+      ]
     },
     {
       "id": "q_nv_komp_003",
@@ -389,10 +676,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva er deviasjon?",
-      "choices": ["Kompassfeil som skyldes magnetiske felter i egen båt", "Vinkelen mellom magnetisk og geografisk nord", "Strømmens påvirkning på båtens kurs", "Feil i GPS-posisjonen"],
+      "choices": [
+        "Kompassfeil som skyldes magnetiske felter i egen båt",
+        "Vinkelen mellom magnetisk og geografisk nord",
+        "Strømmens påvirkning på båtens kurs",
+        "Feil i GPS-posisjonen"
+      ],
       "correct": 0,
       "explanation": "Deviasjon er kompassfeil forårsaket av magnetiske felter i egen båt (motor, stål, elektronikk) og varierer med båtens kurs.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Kompass", "quote": "misvisning og deviasjon."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Kompass",
+          "quote": "misvisning og deviasjon."
+        }
+      ]
     },
     {
       "id": "q_nv_komp_004",
@@ -402,10 +701,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvilken av kompassfeilene varierer med båtens kurs (retningen baugen peker)?",
-      "choices": ["Deviasjon", "Misvisning", "Begge er konstante", "Ingen av dem"],
+      "choices": [
+        "Deviasjon",
+        "Misvisning",
+        "Begge er konstante",
+        "Ingen av dem"
+      ],
       "correct": 0,
       "explanation": "Deviasjonen varierer med båtens kurs og føres derfor i en deviasjonstabell. Misvisning avhenger av sted og tid, ikke av kursen.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Kompass", "quote": "misvisning og deviasjon."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Kompass",
+          "quote": "misvisning og deviasjon."
+        }
+      ]
     },
     {
       "id": "q_nv_komp_005",
@@ -415,10 +726,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvor finner du opplysning om deviasjonen for ulike kurser på din egen båt?",
-      "choices": ["I en deviasjonstabell laget for båten", "I kompassrosen i sjøkartet", "I tidevannstabellen", "På GPS-en automatisk"],
+      "choices": [
+        "I en deviasjonstabell laget for båten",
+        "I kompassrosen i sjøkartet",
+        "I tidevannstabellen",
+        "På GPS-en automatisk"
+      ],
       "correct": 0,
       "explanation": "Deviasjonen kartlegges ved svinging av kompasset og føres i en deviasjonstabell som viser feilen for ulike kurser.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Kompass", "quote": "deviasjon."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Kompass",
+          "quote": "deviasjon."
+        }
+      ]
     },
     {
       "id": "q_nv_komp_006",
@@ -428,10 +751,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvor oppgis misvisningen normalt?",
-      "choices": ["I sjøkartet (ofte i kompassrosen), med årlig endring", "Bare på GPS-en", "I deviasjonstabellen", "På produsentskiltet til båten"],
+      "choices": [
+        "I sjøkartet (ofte i kompassrosen), med årlig endring",
+        "Bare på GPS-en",
+        "I deviasjonstabellen",
+        "På produsentskiltet til båten"
+      ],
       "correct": 0,
       "explanation": "Misvisningen oppgis i sjøkartet, gjerne i kompassrosen, med årlig endring slik at den kan regnes om til gjeldende år.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Kompass", "quote": "misvisning."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Kompass",
+          "quote": "misvisning."
+        }
+      ]
     },
     {
       "id": "q_nv_komp_007",
@@ -441,23 +776,47 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvordan kan du redusere deviasjonen i båtens kompass?",
-      "choices": ["Plassere kompasset unna metall, motor og elektronikk", "Skru opp lysstyrken på GPS-en", "Bruke kart i mindre målestokk", "Seile kun ved fjære"],
+      "choices": [
+        "Plassere kompasset unna metall, motor og elektronikk",
+        "Skru opp lysstyrken på GPS-en",
+        "Bruke kart i mindre målestokk",
+        "Seile kun ved fjære"
+      ],
       "correct": 0,
       "explanation": "Deviasjon skyldes magnetiske felter i båten. Ved å plassere kompasset unna stål, motor, høyttalere og elektronikk reduseres feilen.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Kompass", "quote": "deviasjon."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Kompass",
+          "quote": "deviasjon."
+        }
+      ]
     },
     {
       "id": "q_nv_komp_008",
       "concept_id": "nv_kompass",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 1,
       "importance": "high",
       "exam_area": "navigasjon",
-      "prompt": "Huskeregel: Hva «hører til stedet» og hva «hører til båten» av misvisning og deviasjon?",
-      "choices": [],
-      "correct": 0,
-      "explanation": "Misvisning hører til stedet (og endrer seg over tid). Deviasjon hører til båten og endrer seg med båtens kurs.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Kompass", "quote": "misvisning og deviasjon."}]
+      "prompt": "Hvilken påstand om misvisning og deviasjon er riktig?",
+      "choices": [
+        "Misvisning hører til båten, mens deviasjon hører til stedet",
+        "Misvisning hører til stedet, mens deviasjon hører til båten og endrer seg med kursen",
+        "Begge hører til stedet og er like store overalt",
+        "Begge hører til båten og endrer seg kun med farten"
+      ],
+      "correct": 1,
+      "explanation": "Misvisning hører til stedet (og endrer seg over tid), mens deviasjon hører til båten og endrer seg med båtens kurs.",
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Kompass",
+          "quote": "misvisning og deviasjon."
+        }
+      ]
     },
     {
       "id": "q_nv_el_001",
@@ -467,10 +826,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva gir en GPS deg primært?",
-      "choices": ["Din posisjon (breddegrad og lengdegrad)", "Vindretningen", "Bunnforholdene", "Tidevannstabellen for året"],
+      "choices": [
+        "Din posisjon (breddegrad og lengdegrad)",
+        "Vindretningen",
+        "Bunnforholdene",
+        "Tidevannstabellen for året"
+      ],
       "correct": 0,
       "explanation": "GPS gir deg din posisjon nesten hvor som helst til enhver tid; en kartplotter viser posisjonen i kartet sammen med kurs og fart.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Datum", "quote": "posisjonar frå GPS-baserte system."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Datum",
+          "quote": "posisjonar frå GPS-baserte system."
+        }
+      ]
     },
     {
       "id": "q_nv_el_002",
@@ -480,10 +851,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva er en viktig begrensning ved en kartplotter?",
-      "choices": ["Den er avhengig av strøm og kan svikte ved batteriutladning eller strømbrudd", "Den kan aldri vise fart", "Den fungerer bare på land", "Den krever papirkart for å vise posisjon"],
+      "choices": [
+        "Den er avhengig av strøm og kan svikte ved batteriutladning eller strømbrudd",
+        "Den kan aldri vise fart",
+        "Den fungerer bare på land",
+        "Den krever papirkart for å vise posisjon"
+      ],
       "correct": 0,
       "explanation": "Kartplotteren trenger strøm. Faller strømmen bort, mister du informasjonen, og derfor bør du ha papirkart og kompass som backup.",
-      "source_refs": [{"source_id": "kartverket_enc", "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc", "section": "Bruksområder", "quote": "to ECDIS-er om bord som er tilknyttet hver sin strømkilde."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_enc",
+          "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc",
+          "section": "Bruksområder",
+          "quote": "to ECDIS-er om bord som er tilknyttet hver sin strømkilde."
+        }
+      ]
     },
     {
       "id": "q_nv_el_003",
@@ -493,10 +876,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva skjer dersom du zoomer for langt inn i et elektronisk sjøkart?",
-      "choices": ["Overskalering – kartet strekkes utover det målestokken er laget for, og kan bli villedende", "Kartet blir automatisk mer nøyaktig", "GPS-en slår seg av", "Dybdene dobles"],
+      "choices": [
+        "Overskalering – kartet strekkes utover det målestokken er laget for, og kan bli villedende",
+        "Kartet blir automatisk mer nøyaktig",
+        "GPS-en slår seg av",
+        "Dybdene dobles"
+      ],
       "correct": 0,
       "explanation": "Zoomer du for langt inn, oppstår overskalering: detaljnivået overskrider det kartet er generalisert for, og bildet kan bli villedende. Mange fritidsplottere varsler ikke dette automatisk.",
-      "source_refs": [{"source_id": "kartverket_enc", "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc", "section": "Unngå overskalering", "quote": "Zoomer du for langt inn, strekkes informasjonen i kartet ut over den bruken den er beregnet for. Dette kalles overskalering."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_enc",
+          "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc",
+          "section": "Unngå overskalering",
+          "quote": "Zoomer du for langt inn, strekkes informasjonen i kartet ut over den bruken den er beregnet for. Dette kalles overskalering."
+        }
+      ]
     },
     {
       "id": "q_nv_el_004",
@@ -506,10 +901,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvorfor bør du ha papirkart og kompass tilgjengelig selv om du har kartplotter?",
-      "choices": ["Som reserve hvis elektronikken eller strømmen svikter", "Fordi plotteren ikke viser kart", "Fordi papirkart er mer nøyaktig enn GPS", "Fordi loven forbyr kartplotter på fritidsbåt"],
+      "choices": [
+        "Som reserve hvis elektronikken eller strømmen svikter",
+        "Fordi plotteren ikke viser kart",
+        "Fordi papirkart er mer nøyaktig enn GPS",
+        "Fordi loven forbyr kartplotter på fritidsbåt"
+      ],
       "correct": 0,
       "explanation": "Elektronikk kan svikte (strøm, signaltap, feil). Papirkart og kompass er en uavhengig backup som ikke trenger strøm.",
-      "source_refs": [{"source_id": "kartverket_enc", "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc", "section": "Bruksområder", "quote": "godkjent back-up-system."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_enc",
+          "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc",
+          "section": "Bruksområder",
+          "quote": "godkjent back-up-system."
+        }
+      ]
     },
     {
       "id": "q_nv_el_005",
@@ -519,10 +926,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvorfor er det viktig å holde det elektroniske kartet oppdatert?",
-      "choices": ["Nye grunner, luftspenn og merkeendringer vises ikke før kartet er oppdatert", "Ellers slutter GPS-en å virke", "Ellers endres datumet til ED50", "Ellers vises dybder i fot"],
+      "choices": [
+        "Nye grunner, luftspenn og merkeendringer vises ikke før kartet er oppdatert",
+        "Ellers slutter GPS-en å virke",
+        "Ellers endres datumet til ED50",
+        "Ellers vises dybder i fot"
+      ],
       "correct": 0,
       "explanation": "Et utdatert kart mangler nye opplysninger om f.eks. nye grunner eller luftspenn. Oppdateringer publiseres jevnlig (Efs/ER-meldinger).",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Rettingar", "quote": "Kanskje er det satt opp eit nytt luftspenn ... eller er det meldt om nye grunner i området."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Rettingar",
+          "quote": "Kanskje er det satt opp eit nytt luftspenn ... eller er det meldt om nye grunner i området."
+        }
+      ]
     },
     {
       "id": "q_nv_el_006",
@@ -532,23 +951,47 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du navigerer kun ved å stirre på kartplotteren og holder ikke utkikk. Hva er hovedproblemet?",
-      "choices": ["GPS forteller hvor du er, men ikke hva som er trygt rundt deg – du mister oversikten og utkikken", "Plotteren bruker for lite strøm", "Kartet får for høy oppløsning", "Kompasset blir mer nøyaktig"],
+      "choices": [
+        "GPS forteller hvor du er, men ikke hva som er trygt rundt deg – du mister oversikten og utkikken",
+        "Plotteren bruker for lite strøm",
+        "Kartet får for høy oppløsning",
+        "Kompasset blir mer nøyaktig"
+      ],
       "correct": 0,
       "explanation": "Blind tillit til skjermen gir dårlig utkikk. Plotteren skal brukes sammen med egne observasjoner av sjømerker og farvann, ikke i stedet for dem.",
-      "source_refs": [{"source_id": "kartverket_enc", "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc", "section": "Unngå overskalering", "quote": "den sjøfarende selv være oppmerksom."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_enc",
+          "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc",
+          "section": "Unngå overskalering",
+          "quote": "den sjøfarende selv være oppmerksom."
+        }
+      ]
     },
     {
       "id": "q_nv_el_007",
       "concept_id": "nv_elektronisk",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 1,
       "importance": "high",
       "exam_area": "navigasjon",
-      "prompt": "Nevn tre feilkilder/begrensninger ved elektronisk navigasjon.",
-      "choices": [],
-      "correct": 0,
-      "explanation": "Eksempler: avhengig av strøm/batteri (kan falle ut), signaltap eller unøyaktig GPS, utdaterte kart med varierende datakvalitet (ZOC), overskalering ved for kraftig innzooming, og blind tillit som gir dårlig utkikk.",
-      "source_refs": [{"source_id": "kartverket_enc", "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc", "section": "Unngå overskalering", "quote": "Du må altså ta hensyn til både målestokk og datakvalitet i kartet."}]
+      "prompt": "Hvilken av disse er en reell begrensning ved elektronisk navigasjon (GPS/kartplotter)?",
+      "choices": [
+        "Den fungerer alltid uavhengig av strøm og batteri",
+        "Den korrigerer automatisk for kompassdeviasjon i din egen båt",
+        "Signaltap eller unøyaktig GPS kan gi feil posisjon",
+        "Den erstatter behovet for å holde utkikk"
+      ],
+      "correct": 2,
+      "explanation": "Elektronisk navigasjon er avhengig av strøm, kan miste eller få unøyaktig GPS-signal og kan ha utdaterte kart, så den må aldri erstatte god utkikk.",
+      "source_refs": [
+        {
+          "source_id": "kartverket_enc",
+          "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc",
+          "section": "Unngå overskalering",
+          "quote": "Du må altså ta hensyn til både målestokk og datakvalitet i kartet."
+        }
+      ]
     },
     {
       "id": "q_nv_str_001",
@@ -558,10 +1001,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva kalles henholdsvis høyvann og lavvann i tidevannssyklusen?",
-      "choices": ["Flo og fjære", "Springflo og nipflo", "Strøm og motstrøm", "LAT og HAT"],
+      "choices": [
+        "Flo og fjære",
+        "Springflo og nipflo",
+        "Strøm og motstrøm",
+        "LAT og HAT"
+      ],
       "correct": 0,
       "explanation": "Vannet stiger til flo (høyvann) og synker til fjære (lavvann), normalt to ganger i døgnet langs norskekysten.",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Vasstand", "quote": "tidspunkt for flod og fjære."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Vasstand",
+          "quote": "tidspunkt for flod og fjære."
+        }
+      ]
     },
     {
       "id": "q_nv_str_002",
@@ -571,10 +1026,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva er hoveddrivkraften bak tidevannet?",
-      "choices": ["Tiltrekningen fra månen og solen", "Vinden alene", "Jordrotasjonen alene", "Temperaturforskjeller i havet"],
+      "choices": [
+        "Tiltrekningen fra månen og solen",
+        "Vinden alene",
+        "Jordrotasjonen alene",
+        "Temperaturforskjeller i havet"
+      ],
       "correct": 0,
       "explanation": "Tidevannet skyldes hovedsakelig gravitasjonen (tiltrekningen) fra månen og solen.",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Vasstand", "quote": "Flod, fjære og vasstand kan varierer mykje langs Norskekysten."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Vasstand",
+          "quote": "Flod, fjære og vasstand kan varierer mykje langs Norskekysten."
+        }
+      ]
     },
     {
       "id": "q_nv_str_003",
@@ -584,10 +1051,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvordan påvirker lav vannstand (fjære) navigasjonen?",
-      "choices": ["Skvalpeskjær og grunner kan dukke opp og bli farlige", "Klaringen under broer blir mindre", "Dybdene i kartet blir ugyldige", "Kompasset slutter å virke"],
+      "choices": [
+        "Skvalpeskjær og grunner kan dukke opp og bli farlige",
+        "Klaringen under broer blir mindre",
+        "Dybdene i kartet blir ugyldige",
+        "Kompasset slutter å virke"
+      ],
       "correct": 0,
       "explanation": "Ved fjære er virkelig dybde nær karttallet, og skvalpeskjær og grunner kan tørrfalle eller ligge like under overflaten.",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Vasstand", "quote": "da kan du vere uheldig å på støyte på eit skvalpeskjær."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Vasstand",
+          "quote": "da kan du vere uheldig å på støyte på eit skvalpeskjær."
+        }
+      ]
     },
     {
       "id": "q_nv_str_004",
@@ -597,10 +1076,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvor er tidevannsstrømmen vanligvis sterkest?",
-      "choices": ["I trange sund og innløp", "Midt ute på åpent hav", "I innelukkede ferskvann", "Der det aldri er tidevann"],
+      "choices": [
+        "I trange sund og innløp",
+        "Midt ute på åpent hav",
+        "I innelukkede ferskvann",
+        "Der det aldri er tidevann"
+      ],
       "correct": 0,
       "explanation": "Når store vannmengder presses gjennom trange sund og innløp, kan tidevannsstrømmen bli svært sterk.",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Vasstand", "quote": "Vasstand kan varierer mykje langs Norskekysten."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Vasstand",
+          "quote": "Vasstand kan varierer mykje langs Norskekysten."
+        }
+      ]
     },
     {
       "id": "q_nv_str_005",
@@ -610,10 +1101,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du krysser et sund der strømmen står på tvers av kursen. Hva må du gjøre for å holde ønsket bane over grunn?",
-      "choices": ["Korrigere kursen noe opp mot strømmen", "Øke farten til maks uansett", "Ignorere strømmen helt", "Snu og vente til neste dag"],
+      "choices": [
+        "Korrigere kursen noe opp mot strømmen",
+        "Øke farten til maks uansett",
+        "Ignorere strømmen helt",
+        "Snu og vente til neste dag"
+      ],
       "correct": 0,
       "explanation": "Strøm på tvers setter båten av kurs. Du må styre noe opp mot strømmen (kompensere) for å følge ønsket bane over grunn.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Strøm", "quote": "Strøm og tidevann."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Strøm",
+          "quote": "Strøm og tidevann."
+        }
+      ]
     },
     {
       "id": "q_nv_str_006",
@@ -623,10 +1126,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvor finner du varslet vannstand og tidspunkt for flo og fjære før en seilas?",
-      "choices": ["I tidevannstabeller / Kartverkets tjeneste «Se havnivå»", "I deviasjonstabellen", "På produsentskiltet", "I sjøveisreglene"],
+      "choices": [
+        "I tidevannstabeller / Kartverkets tjeneste «Se havnivå»",
+        "I deviasjonstabellen",
+        "På produsentskiltet",
+        "I sjøveisreglene"
+      ],
       "correct": 0,
       "explanation": "Kartverkets tjeneste «Se havnivå» gir varslet vannstand, tidspunkt for flo og fjære og tidevannstabeller.",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Vasstand", "quote": "På nettenesta Se havnivå finn du informasjon om varsla vasstand og vasstand no."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Vasstand",
+          "quote": "På nettenesta Se havnivå finn du informasjon om varsla vasstand og vasstand no."
+        }
+      ]
     },
     {
       "id": "q_nv_str_007",
@@ -636,10 +1151,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva skjer med bølgene når sterk strøm går mot vinden?",
-      "choices": ["Bølgene blir kortere, brattere og farligere", "Bølgene forsvinner helt", "Sjøen blir alltid blikkstille", "Tidevannet opphører"],
+      "choices": [
+        "Bølgene blir kortere, brattere og farligere",
+        "Bølgene forsvinner helt",
+        "Sjøen blir alltid blikkstille",
+        "Tidevannet opphører"
+      ],
       "correct": 0,
       "explanation": "Strøm mot vind gir kortere, brattere og mer kaotiske bølger, som er farligere for små båter.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Strøm", "quote": "Strøm og tidevann."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Strøm",
+          "quote": "Strøm og tidevann."
+        }
+      ]
     },
     {
       "id": "q_nv_str_008",
@@ -649,10 +1176,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du fortøyer båten ved en brygge på ettermiddagen. Hva må du ta hensyn til med tanke på tidevann?",
-      "choices": ["At vannstanden endrer seg, så fortøyningen ikke henger eller drar seg løs", "At kompasset må kalibreres", "At GPS-en må slås av", "At dybdene i kartet endrer seg permanent"],
+      "choices": [
+        "At vannstanden endrer seg, så fortøyningen ikke henger eller drar seg løs",
+        "At kompasset må kalibreres",
+        "At GPS-en må slås av",
+        "At dybdene i kartet endrer seg permanent"
+      ],
       "correct": 0,
       "explanation": "Vannstanden stiger og synker med tidevannet. Fortøyningen må gi rom for dette slik at båten verken henger fast eller drar seg løs.",
-      "source_refs": [{"source_id": "kartverket_brukkart", "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen", "section": "Vasstand", "quote": "når du skal fortøye båten på land er det viktig at du veit kor langt opp på land du bør gjere det."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_brukkart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+          "section": "Vasstand",
+          "quote": "når du skal fortøye båten på land er det viktig at du veit kor langt opp på land du bør gjere det."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_001",
@@ -662,10 +1201,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvor langt er 1 nautisk mil?",
-      "choices": ["1852 meter", "1000 meter", "1609 meter", "2000 meter"],
+      "choices": [
+        "1852 meter",
+        "1000 meter",
+        "1609 meter",
+        "2000 meter"
+      ],
       "correct": 0,
       "explanation": "1 nautisk mil = 1852 meter = 1 breddeminutt.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "1 nautisk mil = 1852 meter."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "1 nautisk mil = 1852 meter."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_002",
@@ -675,10 +1226,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva tilsvarer 1 nautisk mil i kartet?",
-      "choices": ["1 breddeminutt", "1 lengdeminutt", "1 grad bredde", "1 cm på kartet"],
+      "choices": [
+        "1 breddeminutt",
+        "1 lengdeminutt",
+        "1 grad bredde",
+        "1 cm på kartet"
+      ],
       "correct": 0,
       "explanation": "1 nautisk mil = 1 breddeminutt. Derfor måler du avstand med breddeskalaen (sidekanten), ikke lengdeskalaen.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "1 nautisk mil = 1 breddeminutt."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "1 nautisk mil = 1 breddeminutt."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_003",
@@ -688,10 +1251,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 18 knop i 40 minutter. Hvor langt seiler du?",
-      "choices": ["12 nm", "9 nm", "14 nm", "18 nm"],
+      "choices": [
+        "12 nm",
+        "9 nm",
+        "14 nm",
+        "18 nm"
+      ],
       "correct": 0,
       "explanation": "Distanse = fart × tid = 18 × (40/60) = 18 × 0,667 = 12 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_004",
@@ -701,10 +1276,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 12 knop i 30 minutter. Hvor langt seiler du?",
-      "choices": ["6 nm", "12 nm", "4 nm", "8 nm"],
+      "choices": [
+        "6 nm",
+        "12 nm",
+        "4 nm",
+        "8 nm"
+      ],
       "correct": 0,
       "explanation": "Distanse = 12 × 0,5 time = 6 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_005",
@@ -714,10 +1301,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 10 knop i 90 minutter. Hvor langt seiler du?",
-      "choices": ["15 nm", "9 nm", "10 nm", "18 nm"],
+      "choices": [
+        "15 nm",
+        "9 nm",
+        "10 nm",
+        "18 nm"
+      ],
       "correct": 0,
       "explanation": "Distanse = 10 × (90/60) = 10 × 1,5 = 15 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_006",
@@ -727,10 +1326,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 24 knop i 15 minutter. Hvor langt seiler du?",
-      "choices": ["6 nm", "4 nm", "8 nm", "12 nm"],
+      "choices": [
+        "6 nm",
+        "4 nm",
+        "8 nm",
+        "12 nm"
+      ],
       "correct": 0,
       "explanation": "Distanse = 24 × (15/60) = 24 × 0,25 = 6 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_007",
@@ -740,10 +1351,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 8 knop i 45 minutter. Hvor langt seiler du?",
-      "choices": ["6 nm", "8 nm", "4 nm", "10 nm"],
+      "choices": [
+        "6 nm",
+        "8 nm",
+        "4 nm",
+        "10 nm"
+      ],
       "correct": 0,
       "explanation": "Distanse = 8 × (45/60) = 8 × 0,75 = 6 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_008",
@@ -753,10 +1376,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 15 knop i 2 timer. Hvor langt seiler du?",
-      "choices": ["30 nm", "15 nm", "45 nm", "60 nm"],
+      "choices": [
+        "30 nm",
+        "15 nm",
+        "45 nm",
+        "60 nm"
+      ],
       "correct": 0,
       "explanation": "Distanse = 15 × 2 = 30 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_009",
@@ -766,10 +1401,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 9 knop i 1 time og 20 minutter. Hvor langt seiler du?",
-      "choices": ["12 nm", "11 nm", "13,5 nm", "9 nm"],
+      "choices": [
+        "12 nm",
+        "11 nm",
+        "13,5 nm",
+        "9 nm"
+      ],
       "correct": 0,
       "explanation": "1 t 20 min = 80 min = 80/60 = 1,333 time. Distanse = 9 × 1,333 = 12 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_010",
@@ -779,10 +1426,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 16 knop i 75 minutter. Hvor langt seiler du?",
-      "choices": ["20 nm", "16 nm", "24 nm", "18 nm"],
+      "choices": [
+        "20 nm",
+        "16 nm",
+        "24 nm",
+        "18 nm"
+      ],
       "correct": 0,
       "explanation": "Distanse = 16 × (75/60) = 16 × 1,25 = 20 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_011",
@@ -792,10 +1451,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du skal seile 24 nm og holder 12 knop. Hvor lang tid tar det?",
-      "choices": ["2 timer", "1,5 timer", "3 timer", "2,5 timer"],
+      "choices": [
+        "2 timer",
+        "1,5 timer",
+        "3 timer",
+        "2,5 timer"
+      ],
       "correct": 0,
       "explanation": "Tid = distanse ÷ fart = 24 ÷ 12 = 2 timer.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_012",
@@ -805,10 +1476,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du skal seile 30 nm og holder 20 knop. Hvor lang tid tar det?",
-      "choices": ["1 time og 30 minutter", "1 time", "2 timer", "45 minutter"],
+      "choices": [
+        "1 time og 30 minutter",
+        "1 time",
+        "2 timer",
+        "45 minutter"
+      ],
       "correct": 0,
       "explanation": "Tid = 30 ÷ 20 = 1,5 time = 1 time og 30 minutter.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_013",
@@ -818,10 +1501,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du skal seile 9 nm og holder 6 knop. Hvor lang tid tar det?",
-      "choices": ["1 time og 30 minutter", "1 time", "2 timer", "1 time og 15 minutter"],
+      "choices": [
+        "1 time og 30 minutter",
+        "1 time",
+        "2 timer",
+        "1 time og 15 minutter"
+      ],
       "correct": 0,
       "explanation": "Tid = 9 ÷ 6 = 1,5 time = 1 time og 30 minutter.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_014",
@@ -831,10 +1526,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du tilbakelegger 12 nm på 30 minutter. Hvilken fart holder du?",
-      "choices": ["24 knop", "12 knop", "6 knop", "18 knop"],
+      "choices": [
+        "24 knop",
+        "12 knop",
+        "6 knop",
+        "18 knop"
+      ],
       "correct": 0,
       "explanation": "Fart = distanse ÷ tid = 12 ÷ 0,5 = 24 knop.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_015",
@@ -844,10 +1551,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du tilbakelegger 9 nm på 45 minutter. Hvilken fart holder du?",
-      "choices": ["12 knop", "9 knop", "15 knop", "20 knop"],
+      "choices": [
+        "12 knop",
+        "9 knop",
+        "15 knop",
+        "20 knop"
+      ],
       "correct": 0,
       "explanation": "45 min = 0,75 time. Fart = 9 ÷ 0,75 = 12 knop.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_016",
@@ -857,10 +1576,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du tilbakelegger 15 nm på 1 time og 30 minutter. Hvilken fart holder du?",
-      "choices": ["10 knop", "15 knop", "12 knop", "7,5 knop"],
+      "choices": [
+        "10 knop",
+        "15 knop",
+        "12 knop",
+        "7,5 knop"
+      ],
       "correct": 0,
       "explanation": "1,5 time. Fart = 15 ÷ 1,5 = 10 knop.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_017",
@@ -870,10 +1601,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 30 knop i 10 minutter. Hvor langt seiler du?",
-      "choices": ["5 nm", "3 nm", "10 nm", "6 nm"],
+      "choices": [
+        "5 nm",
+        "3 nm",
+        "10 nm",
+        "6 nm"
+      ],
       "correct": 0,
       "explanation": "Distanse = 30 × (10/60) = 30 × 0,1667 = 5 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_018",
@@ -883,10 +1626,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 22 knop i 1 time og 30 minutter. Hvor langt seiler du?",
-      "choices": ["33 nm", "22 nm", "44 nm", "30 nm"],
+      "choices": [
+        "33 nm",
+        "22 nm",
+        "44 nm",
+        "30 nm"
+      ],
       "correct": 0,
       "explanation": "Distanse = 22 × 1,5 = 33 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_019",
@@ -896,10 +1651,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvor langt seiler du i 1 time hvis du holder 7 knop?",
-      "choices": ["7 nm", "70 nm", "1 nm", "14 nm"],
+      "choices": [
+        "7 nm",
+        "70 nm",
+        "1 nm",
+        "14 nm"
+      ],
       "correct": 0,
       "explanation": "1 knop = 1 nm/time, så 7 knop i 1 time = 7 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_020",
@@ -909,10 +1676,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du skal seile 40 nm og holder 16 knop. Hvor lang tid tar det?",
-      "choices": ["2 timer og 30 minutter", "2 timer", "3 timer", "2 timer og 15 minutter"],
+      "choices": [
+        "2 timer og 30 minutter",
+        "2 timer",
+        "3 timer",
+        "2 timer og 15 minutter"
+      ],
       "correct": 0,
       "explanation": "Tid = 40 ÷ 16 = 2,5 time = 2 timer og 30 minutter.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_021",
@@ -922,10 +1701,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvor mange meter er 3,5 nautiske mil?",
-      "choices": ["6482 m", "3500 m", "5556 m", "7000 m"],
+      "choices": [
+        "6482 m",
+        "3500 m",
+        "5556 m",
+        "7000 m"
+      ],
       "correct": 0,
       "explanation": "3,5 × 1852 = 6482 meter.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "1 nautisk mil = 1852 meter."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "1 nautisk mil = 1852 meter."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_022",
@@ -935,10 +1726,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du holder 6 knop i 20 minutter. Hvor langt seiler du?",
-      "choices": ["2 nm", "6 nm", "3 nm", "1 nm"],
+      "choices": [
+        "2 nm",
+        "6 nm",
+        "3 nm",
+        "1 nm"
+      ],
       "correct": 0,
       "explanation": "Distanse = 6 × (20/60) = 6 × 0,333 = 2 nm.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_023",
@@ -948,10 +1751,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva betyr det at en båt holder «12 knop»?",
-      "choices": ["Den tilbakelegger 12 nautiske mil per time", "Den bruker 12 minutter per nautisk mil", "Den går 12 km/t", "Den har 12 graders kurs"],
+      "choices": [
+        "Den tilbakelegger 12 nautiske mil per time",
+        "Den bruker 12 minutter per nautisk mil",
+        "Den går 12 km/t",
+        "Den har 12 graders kurs"
+      ],
       "correct": 0,
       "explanation": "1 knop = 1 nautisk mil per time, så 12 knop betyr 12 nautiske mil per time.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Fart i knop = nautiske mil per time."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Fart i knop = nautiske mil per time."
+        }
+      ]
     },
     {
       "id": "q_nv_fd_024",
@@ -961,10 +1776,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du tilbakelegger 20 nm på 1 time. Hvilken fart holder du?",
-      "choices": ["20 knop", "10 knop", "40 knop", "30 knop"],
+      "choices": [
+        "20 knop",
+        "10 knop",
+        "40 knop",
+        "30 knop"
+      ],
       "correct": 0,
       "explanation": "Fart = 20 ÷ 1 = 20 knop.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Fart/distanse", "quote": "Beregne fart, tid og distanse."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Fart/distanse",
+          "quote": "Beregne fart, tid og distanse."
+        }
+      ]
     },
     {
       "id": "q_nv_ori_001",
@@ -974,10 +1801,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvordan oppgis en GPS-posisjon?",
-      "choices": ["Som breddegrad (latitude) og lengdegrad (longitude)", "Som dybde og fart", "Som kurs og misvisning", "Som flo og fjære"],
+      "choices": [
+        "Som breddegrad (latitude) og lengdegrad (longitude)",
+        "Som dybde og fart",
+        "Som kurs og misvisning",
+        "Som flo og fjære"
+      ],
       "correct": 0,
       "explanation": "En posisjon oppgis som breddegrad (nord/sør) og lengdegrad (øst/vest), i grader og minutter.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Datum", "quote": "posisjonar frå GPS-baserte system kan brukast direkte i sjøkarta."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Datum",
+          "quote": "posisjonar frå GPS-baserte system kan brukast direkte i sjøkarta."
+        }
+      ]
     },
     {
       "id": "q_nv_ori_002",
@@ -987,10 +1826,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva er en peiling?",
-      "choices": ["Retningen i grader fra båten til et kjent objekt", "Avstanden i nautiske mil til land", "Dybden under kjølen", "Båtens fart over grunn"],
+      "choices": [
+        "Retningen i grader fra båten til et kjent objekt",
+        "Avstanden i nautiske mil til land",
+        "Dybden under kjølen",
+        "Båtens fart over grunn"
+      ],
       "correct": 0,
       "explanation": "En peiling er retningen (i grader) fra båten til et kjent objekt, og brukes til å bestemme posisjon.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Orientering", "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Orientering",
+          "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning."
+        }
+      ]
     },
     {
       "id": "q_nv_ori_003",
@@ -1000,10 +1851,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvordan kan du bestemme posisjonen din mest nøyaktig ved hjelp av peiling?",
-      "choices": ["Ta peiling til to–tre kjente objekter og tegne linjene i kartet (krysspeiling)", "Ta én peiling og gjette avstanden", "Bruke bare dybden", "Måle vindretningen"],
+      "choices": [
+        "Ta peiling til to–tre kjente objekter og tegne linjene i kartet (krysspeiling)",
+        "Ta én peiling og gjette avstanden",
+        "Bruke bare dybden",
+        "Måle vindretningen"
+      ],
       "correct": 0,
       "explanation": "Ved krysspeiling til to (helst tre) kjente objekter med god vinkel mellom seg, finner du posisjonen i skjæringspunktet mellom peilelinjene.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Orientering", "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Orientering",
+          "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning."
+        }
+      ]
     },
     {
       "id": "q_nv_ori_004",
@@ -1013,10 +1876,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvordan kan du identifisere et bestemt fyr og finne det igjen i kartet?",
-      "choices": ["Ved farge, form og lyskarakteristikk", "Ved å måle dybden under det", "Ved vindretningen rundt det", "Ved fartsgrensen i området"],
+      "choices": [
+        "Ved farge, form og lyskarakteristikk",
+        "Ved å måle dybden under det",
+        "Ved vindretningen rundt det",
+        "Ved fartsgrensen i området"
+      ],
       "correct": 0,
       "explanation": "Fyr og merker identifiseres på farge, form og lyskarakteristikk (lysrytmen), som også er angitt i kartet.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Orientering", "quote": "Orientere seg ved hjelp av ... sjømerker, landkjenning."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Orientering",
+          "quote": "Orientere seg ved hjelp av ... sjømerker, landkjenning."
+        }
+      ]
     },
     {
       "id": "q_nv_ori_005",
@@ -1026,10 +1901,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvorfor er det god praksis å bekrefte GPS-posisjonen mot synlige sjømerker og landemerker?",
-      "choices": ["Fordi elektronikken kan feile, og visuell kontroll gir en uavhengig sjekk", "Fordi GPS bare virker på land", "Fordi sjømerker viser dybde", "Fordi det er forbudt å bruke GPS alene på dagtid"],
+      "choices": [
+        "Fordi elektronikken kan feile, og visuell kontroll gir en uavhengig sjekk",
+        "Fordi GPS bare virker på land",
+        "Fordi sjømerker viser dybde",
+        "Fordi det er forbudt å bruke GPS alene på dagtid"
+      ],
       "correct": 0,
       "explanation": "Godt sjømannskap er å kombinere metodene: GPS gir løpende posisjon, men du bør bekrefte mot sjømerker og landemerker i tilfelle elektronikken svikter eller viser feil.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Orientering", "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning og elektroniske hjelpemidler."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Orientering",
+          "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning og elektroniske hjelpemidler."
+        }
+      ]
     },
     {
       "id": "q_nv_ori_006",
@@ -1039,10 +1926,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva måler breddegrad?",
-      "choices": ["Hvor langt nord eller sør for ekvator du er", "Hvor langt øst eller vest for nullmeridianen du er", "Dybden under båten", "Avstanden til nærmeste fyr"],
+      "choices": [
+        "Hvor langt nord eller sør for ekvator du er",
+        "Hvor langt øst eller vest for nullmeridianen du er",
+        "Dybden under båten",
+        "Avstanden til nærmeste fyr"
+      ],
       "correct": 0,
       "explanation": "Breddegrad (latitude) måler hvor langt nord eller sør for ekvator posisjonen ligger; lengdegrad måler øst/vest.",
-      "source_refs": [{"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Datum", "quote": "gradnett."}]
+      "source_refs": [
+        {
+          "source_id": "kartverket_sjokart",
+          "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+          "section": "Datum",
+          "quote": "gradnett."
+        }
+      ]
     },
     {
       "id": "q_nv_ori_007",
@@ -1052,24 +1951,48 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Kartplotteren slutter plutselig å virke. Hva er den beste måten å fortsette å orientere seg på?",
-      "choices": ["Bruke papirkart, kompass og synlige sjømerker/landemerker", "Stoppe motoren og vente på at plotteren starter selv", "Følge nærmeste båt uansett hvor den går", "Øke farten for å komme raskere fram"],
+      "choices": [
+        "Bruke papirkart, kompass og synlige sjømerker/landemerker",
+        "Stoppe motoren og vente på at plotteren starter selv",
+        "Følge nærmeste båt uansett hvor den går",
+        "Øke farten for å komme raskere fram"
+      ],
       "correct": 0,
       "explanation": "Med papirkart, kompass og gjenkjenning av sjømerker og landemerker kan du navigere uavhengig av elektronikken.",
       "image_file": "kartverket/images/globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Orientering", "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning og elektroniske hjelpemidler."}]
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Orientering",
+          "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning og elektroniske hjelpemidler."
+        }
+      ]
     },
     {
       "id": "q_nv_ori_008",
       "concept_id": "nv_orientering",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 2,
       "importance": "high",
       "exam_area": "navigasjon",
-      "prompt": "Nevn fire måter å orientere seg på i farvannet.",
-      "choices": [],
+      "prompt": "Hvilken av disse er en vanlig måte å orientere seg på i farvannet?",
+      "choices": [
+        "Krysspeiling til to–tre faste objekter",
+        "Avlesning av deviasjonstabellen for kursendring",
+        "Telling av blink i en sektorlykt for å finne posisjonen",
+        "Måling av sjøtemperaturen for å anslå dybden"
+      ],
       "correct": 0,
-      "explanation": "Kompasskurs, GPS-koordinater (bredde/lengde), gjenkjenning av landemerker og sjømerker, og peiling (krysspeiling til to–tre objekter). Best resultat får du ved å kombinere dem og holde god utkikk.",
-      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.3 Orientering", "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning og elektroniske hjelpemidler."}]
+      "explanation": "Du orienterer deg med kompasskurs, GPS-koordinater, gjenkjenning av landemerker og sjømerker, og peiling/krysspeiling til to–tre objekter.",
+      "source_refs": [
+        {
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "1.3 Orientering",
+          "quote": "Orientere seg ved hjelp av kompass, sjømerker, landkjenning og elektroniske hjelpemidler."
+        }
+      ]
     }
   ]
 }

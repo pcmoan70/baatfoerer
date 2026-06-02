@@ -18,7 +18,12 @@
       ],
       "image_files": [],
       "source_refs": [
-        {"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Del B – Styrings- og seilasregler (regel 5–18)", "quote": "Reglene 5–18 om utkikk, sikker fart, fare for sammenstøt, unnamanøver og vikeplikt mellom fartøy."}
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Del B – Styrings- og seilasregler (regel 5–18)",
+          "quote": "Reglene 5–18 om utkikk, sikker fart, fare for sammenstøt, unnamanøver og vikeplikt mellom fartøy."
+        }
       ]
     },
     {
@@ -39,7 +44,12 @@
       ],
       "image_files": [],
       "source_refs": [
-        {"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Del C – Lanterner og signalfigurer (regel 20–31)", "quote": "Regler om lanterneføring for maskindrevne fartøy, seilfartøy, fartøy under årer og fartøy til ankers."}
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Del C – Lanterner og signalfigurer (regel 20–31)",
+          "quote": "Regler om lanterneføring for maskindrevne fartøy, seilfartøy, fartøy under årer og fartøy til ankers."
+        }
       ]
     },
     {
@@ -58,7 +68,12 @@
       ],
       "image_files": [],
       "source_refs": [
-        {"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 33 – Utstyr for lydsignaler", "quote": "Fartøy på 12 meter eller mer skal ha fløyte; fartøy på 100 meter eller mer skal i tillegg ha klokke; mindre fartøy skal kunne gi et effektivt lydsignal."}
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 33 – Utstyr for lydsignaler",
+          "quote": "Fartøy på 12 meter eller mer skal ha fløyte; fartøy på 100 meter eller mer skal i tillegg ha klokke; mindre fartøy skal kunne gi et effektivt lydsignal."
+        }
       ]
     },
     {
@@ -77,7 +92,12 @@
       ],
       "image_files": [],
       "source_refs": [
-        {"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 34 – Manøver- og varselsignaler", "quote": "Ett kort støt: endrer kurs til styrbord; to korte: til babord; tre korte: maskin akterover; minst fem korte og raske støt: varsel/tvil."}
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 34 – Manøver- og varselsignaler",
+          "quote": "Ett kort støt: endrer kurs til styrbord; to korte: til babord; tre korte: maskin akterover; minst fem korte og raske støt: varsel/tvil."
+        }
       ]
     },
     {
@@ -97,7 +117,12 @@
       ],
       "image_files": [],
       "source_refs": [
-        {"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 35 – Lydsignaler ved nedsatt sikt", "quote": "Maskindrevet fartøy i fart: ett langt støt; stoppet: to lange; seilfartøy/manøvreringshemmet m.fl.: ett langt og to korte; til ankers: rask klokkeringing."}
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 35 – Lydsignaler ved nedsatt sikt",
+          "quote": "Maskindrevet fartøy i fart: ett langt støt; stoppet: to lange; seilfartøy/manøvreringshemmet m.fl.: ett langt og to korte; til ankers: rask klokkeringing."
+        }
       ]
     },
     {
@@ -117,7 +142,12 @@
       ],
       "image_files": [],
       "source_refs": [
-        {"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Vedlegg IV – Nødsignaler", "quote": "Anerkjente nødsignaler: rødt fallskjerm-/håndbluss, oransje røyk, langsom heving/senking av armer, kontinuerlig tåkesignal, flammer, firkantflagg med kule m.fl."}
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Vedlegg IV – Nødsignaler",
+          "quote": "Anerkjente nødsignaler: rødt fallskjerm-/håndbluss, oransje røyk, langsom heving/senking av armer, kontinuerlig tåkesignal, flammer, firkantflagg med kule m.fl."
+        }
       ]
     },
     {
@@ -137,7 +167,12 @@
       ],
       "image_files": [],
       "source_refs": [
-        {"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Norske tilleggsregler (regel 43, 44, 45, 54)", "quote": "Nasjonale tilleggsbestemmelser om forsvarlig fart og oppførsel, ansvar for bølgeslag, særskilt vikeplikt og lokale signaler i norske farvann."}
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Norske tilleggsregler (regel 43, 44, 45, 54)",
+          "quote": "Nasjonale tilleggsbestemmelser om forsvarlig fart og oppførsel, ansvar for bølgeslag, særskilt vikeplikt og lokale signaler i norske farvann."
+        }
       ]
     }
   ],
@@ -150,10 +185,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Du fører en motorbåt. En annen motorbåt nærmer seg på kryssende kurs og du ser den på din styrbord (høyre) side. Hva skal du gjøre?",
-      "choices": ["Du har vikeplikt og skal vike, helst bak den andre båten", "Du har retten til veien og skal holde stø kurs", "Begge skal dreie til babord", "Den raskeste båten viker"],
+      "choices": [
+        "Du har vikeplikt og skal vike, helst bak den andre båten",
+        "Du har retten til veien og skal holde stø kurs",
+        "Begge skal dreie til babord",
+        "Den raskeste båten viker"
+      ],
       "correct": 0,
       "explanation": "Etter regel 15 viker den som har det andre fartøyet på sin styrbord side. Den vikepliktige skal om mulig unngå å gå foran og heller passere akten om den andre.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 15 – Kryssende kurser", "quote": "Det fartøy som har det andre på sin styrbord side skal holde av veien."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 15 – Kryssende kurser",
+          "quote": "Det fartøy som har det andre på sin styrbord side skal holde av veien."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_002",
@@ -163,10 +210,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "To motorbåter møtes tilnærmet rett forfra (motgående kurser). Hva er korrekt?",
-      "choices": ["Begge dreier til styrbord og passerer babord mot babord", "Begge dreier til babord", "Den ene holder kurs, den andre viker til styrbord", "Den minste båten viker alltid"],
+      "choices": [
+        "Begge dreier til styrbord og passerer babord mot babord",
+        "Begge dreier til babord",
+        "Den ene holder kurs, den andre viker til styrbord",
+        "Den minste båten viker alltid"
+      ],
       "correct": 0,
       "explanation": "Regel 14: når to maskindrevne fartøy møtes tilnærmet rett forfra, skal begge dreie til styrbord slik at de passerer babord mot babord (som høyrekjøring).",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 14 – Motgående situasjon", "quote": "Hvert fartøy skal dreie sin kurs til styrbord, slik at de passerer hverandre om babord."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 14 – Motgående situasjon",
+          "quote": "Hvert fartøy skal dreie sin kurs til styrbord, slik at de passerer hverandre om babord."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_003",
@@ -176,10 +235,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Du tar igjen og skal kjøre forbi en annen båt som ligger foran deg i samme retning. Hvem har vikeplikt?",
-      "choices": ["Du som innhentende båt har alltid vikeplikt", "Båten foran må vike for deg", "Den som har motor viker for seil", "Ingen av dem har vikeplikt"],
+      "choices": [
+        "Du som innhentende båt har alltid vikeplikt",
+        "Båten foran må vike for deg",
+        "Den som har motor viker for seil",
+        "Ingen av dem har vikeplikt"
+      ],
       "correct": 0,
       "explanation": "Regel 13: et fartøy som tar igjen et annet (innhenter bakfra) har alltid vikeplikt, uansett fartøytype, og skal holde klar til det er helt forbi.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 13 – Innhenting", "quote": "Ethvert fartøy som innhenter et annet, skal holde av veien for det fartøy som blir innhentet."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 13 – Innhenting",
+          "quote": "Ethvert fartøy som innhenter et annet, skal holde av veien for det fartøy som blir innhentet."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_004",
@@ -189,10 +260,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Du fører en motorbåt og møter en seilbåt som seiler for seil (ikke motor) i åpent farvann. Hva gjelder?",
-      "choices": ["Motorbåten skal vike for seilbåten", "Seilbåten skal alltid vike for motorbåten", "Den som kommer fra babord viker uansett type", "Begge holder kurs"],
+      "choices": [
+        "Motorbåten skal vike for seilbåten",
+        "Seilbåten skal alltid vike for motorbåten",
+        "Den som kommer fra babord viker uansett type",
+        "Begge holder kurs"
+      ],
       "correct": 0,
       "explanation": "Regel 18: et maskindrevet fartøy skal vike for seilfartøy. (Unntak: i et trangt løp gjelder regel 9, der også en seilbåt må holde unna et stort fartøy som er bundet til løpet.)",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 18 – Innbyrdes ansvar mellom fartøy", "quote": "Et maskindrevet fartøy skal holde av veien for blant annet seilfartøy."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 18 – Innbyrdes ansvar mellom fartøy",
+          "quote": "Et maskindrevet fartøy skal holde av veien for blant annet seilfartøy."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_005",
@@ -202,10 +285,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Du seiler en liten seilbåt i et trangt løp, og et stort lasteskip kommer mot deg og kan bare gå trygt i selve løpet. Hva gjelder?",
-      "choices": ["Du må holde unna – regel 9 går foran, fordi skipet er bundet til løpet", "Lasteskipet må vike for seilbåten etter regel 18", "Begge dreier til babord", "Den minste båten har alltid retten til veien"],
+      "choices": [
+        "Du må holde unna – regel 9 går foran, fordi skipet er bundet til løpet",
+        "Lasteskipet må vike for seilbåten etter regel 18",
+        "Begge dreier til babord",
+        "Den minste båten har alltid retten til veien"
+      ],
       "correct": 0,
       "explanation": "I trangt farvann gjelder regel 9: fartøy under 20 m og seilfartøy skal ikke hindre et fartøy som bare kan navigere trygt i løpet. Her går regel 9 foran regel 18.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 9 – Trangt farvann", "quote": "Fartøy under 20 meter eller seilfartøy skal ikke hindre framkomsten for et fartøy som bare kan navigere trygt i et trangt løp."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 9 – Trangt farvann",
+          "quote": "Fartøy under 20 meter eller seilfartøy skal ikke hindre framkomsten for et fartøy som bare kan navigere trygt i et trangt løp."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_006",
@@ -215,10 +310,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "To seilbåter har vinden inn fra hver sin side. Den ene har vinden inn fra babord, den andre fra styrbord. Hvem viker?",
-      "choices": ["Den som har vinden inn fra babord viker", "Den som har vinden inn fra styrbord viker", "Den største seilbåten viker", "Den som ligger i le viker"],
+      "choices": [
+        "Den som har vinden inn fra babord viker",
+        "Den som har vinden inn fra styrbord viker",
+        "Den største seilbåten viker",
+        "Den som ligger i le viker"
+      ],
       "correct": 0,
       "explanation": "Regel 12: når seilbåtene har vinden inn fra hver sin side, viker den med vinden inn fra babord (babord halse) for den med styrbord halse.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 12 – Seilfartøy", "quote": "Når fartøyene har vinden inn fra hver sin side, skal det som har vinden inn fra babord holde av veien."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 12 – Seilfartøy",
+          "quote": "Når fartøyene har vinden inn fra hver sin side, skal det som har vinden inn fra babord holde av veien."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_007",
@@ -228,10 +335,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "To seilbåter har vinden inn fra samme side og er på kollisjonskurs. Hvem skal vike?",
-      "choices": ["Fartøyet i lo (nærmest vinden) viker for fartøyet i le", "Fartøyet i le viker for fartøyet i lo", "Den minste viker", "Begge dreier til styrbord"],
+      "choices": [
+        "Fartøyet i lo (nærmest vinden) viker for fartøyet i le",
+        "Fartøyet i le viker for fartøyet i lo",
+        "Den minste viker",
+        "Begge dreier til styrbord"
+      ],
       "correct": 0,
       "explanation": "Regel 12: når begge har vinden inn fra samme side, viker fartøyet i lo (nærmest vinden) for fartøyet i le (lengst fra vinden).",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 12 – Seilfartøy", "quote": "Når begge har vinden inn fra samme side, skal det fartøy som ligger til loart holde av veien for det som ligger til leart."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 12 – Seilfartøy",
+          "quote": "Når begge har vinden inn fra samme side, skal det fartøy som ligger til loart holde av veien for det som ligger til leart."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_008",
@@ -241,10 +360,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Diagrammet viser to motorbåter A og B på kryssende kurs sett ovenfra. Båt A kommer fra babord (venstre), båt B fra styrbord (høyre). Hvem har retten til veien?",
-      "choices": ["Båt B, fordi den kommer fra styrbord – båt A må vike og gå bak B", "Båt A, fordi den kommer fra babord", "Begge må stoppe", "Den som er størst"],
+      "choices": [
+        "Båt B, fordi den kommer fra styrbord – båt A må vike og gå bak B",
+        "Båt A, fordi den kommer fra babord",
+        "Begge må stoppe",
+        "Den som er størst"
+      ],
       "correct": 0,
       "explanation": "Regel 15: den som har det andre fartøyet på sin styrbord side viker. Båt A har B på styrbord side og må vike, helst akten om B. Båt B holder stø kurs.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 15 – Kryssende kurser", "quote": "Det fartøy som har det andre på sin styrbord side skal holde av veien."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 15 – Kryssende kurser",
+          "quote": "Det fartøy som har det andre på sin styrbord side skal holde av veien."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_009",
@@ -254,11 +385,23 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Diagrammet viser to seilbåter A og B på konvergerende kurs, med vindretningen markert. Hva er nøkkelspørsmålet du må stille for å avgjøre vikeplikten?",
-      "choices": ["Kommer vinden inn fra samme eller ulik side for de to seilbåtene?", "Hvilken båt er størst?", "Hvilken båt har motor på?", "Hvilken båt er nærmest land?"],
+      "choices": [
+        "Kommer vinden inn fra samme eller ulik side for de to seilbåtene?",
+        "Hvilken båt er størst?",
+        "Hvilken båt har motor på?",
+        "Hvilken båt er nærmest land?"
+      ],
       "correct": 0,
       "explanation": "For seilbåter avgjøres vikeplikten av vinden (regel 12). Ved vind fra ulik side viker babord halse; ved vind fra samme side viker lo-båten for le-båten.",
       "image_file": "lanternenkurs/images/wp-content-uploads-2021-04-vikeplikt-seilbat-styrbord-babord-c68f4be2.png",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 12 – Seilfartøy", "quote": "Vikeplikt mellom seilfartøy avgjøres av hvilken side vinden kommer inn fra (halse) og av lo/le."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 12 – Seilfartøy",
+          "quote": "Vikeplikt mellom seilfartøy avgjøres av hvilken side vinden kommer inn fra (halse) og av lo/le."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_010",
@@ -268,10 +411,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvordan skal et fartøy som har vikeplikt manøvrere?",
-      "choices": ["Tidlig og tydelig, slik at den andre tydelig ser hva du gjør", "Vente til siste øyeblikk for å være sikker", "Med små, gradvise kursendringer", "Først når den andre båten tuter"],
+      "choices": [
+        "Tidlig og tydelig, slik at den andre tydelig ser hva du gjør",
+        "Vente til siste øyeblikk for å være sikker",
+        "Med små, gradvise kursendringer",
+        "Først når den andre båten tuter"
+      ],
       "correct": 0,
       "explanation": "Regel 16 (og regel 8): den vikepliktige skal handle tidlig og tydelig (stor nok kurs-/fartsendring til at den sees) for å holde godt klar.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 16 – Den vikepliktige", "quote": "Den vikepliktige skal så vidt mulig manøvrere tidlig og tydelig for å holde godt klar."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 16 – Den vikepliktige",
+          "quote": "Den vikepliktige skal så vidt mulig manøvrere tidlig og tydelig for å holde godt klar."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_011",
@@ -281,23 +436,47 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvordan vet du at det er fare for sammenstøt med et annet fartøy (regel 7)?",
-      "choices": ["Hvis fartøyet holder seg på omtrent samme peiling og kommer stadig nærmere", "Bare hvis fartøyet tuter mot deg", "Hvis fartøyet er større enn din båt", "Det er aldri fare hvis du har retten til veien"],
+      "choices": [
+        "Hvis fartøyet holder seg på omtrent samme peiling og kommer stadig nærmere",
+        "Bare hvis fartøyet tuter mot deg",
+        "Hvis fartøyet er større enn din båt",
+        "Det er aldri fare hvis du har retten til veien"
+      ],
       "correct": 0,
       "explanation": "Regel 7: vedvarende konstant peiling med minkende avstand betyr fare for sammenstøt. Er du i tvil, skal du anta at faren er til stede.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 7 – Fare for sammenstøt", "quote": "Slik fare skal anses å foreligge hvis peilingen til et nærmende fartøy ikke endrer seg merkbart."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 7 – Fare for sammenstøt",
+          "quote": "Slik fare skal anses å foreligge hvis peilingen til et nærmende fartøy ikke endrer seg merkbart."
+        }
+      ]
     },
     {
       "id": "q_vikeplikt_012",
       "concept_id": "lr-vikeplikt-styring-seilas",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 2,
       "importance": "high",
       "exam_area": "lover",
-      "prompt": "Hva er rekkefølgen i vikepliktshierarkiet (hvem viker for hvem) etter regel 18?",
-      "choices": [],
+      "prompt": "Etter regel 18 om ansvar mellom fartøy – hvem viker et maskindrevet fartøy normalt for?",
+      "choices": [
+        "Maskindrevet fartøy viker for seilfartøy, fiskefartøy, manøvreringshemmet fartøy og fartøy ikke under kommando",
+        "Seilfartøy viker alltid for maskindrevet fartøy",
+        "Fiskefartøy som driver fiske viker for alle andre fartøy",
+        "Alle fartøy har lik vikeplikt uavhengig av type"
+      ],
       "correct": 0,
-      "explanation": "Maskindrevet fartøy viker for seilfartøy, fiskefartøy som driver fiske, manøvreringshemmet fartøy og fartøy ikke under kommando. Seilfartøy viker igjen for fiskefartøy, manøvreringshemmet og fartøy ikke under kommando. I trange løp går regel 9 foran.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 18 – Innbyrdes ansvar", "quote": "Rangordning for vikeplikt mellom maskindrevet fartøy, seilfartøy, fiskefartøy, manøvreringshemmet og fartøy ikke under kommando."}]
+      "explanation": "Etter regel 18 viker maskindrevet fartøy for seilfartøy, fiskefartøy som driver fiske, manøvreringshemmet fartøy og fartøy ikke under kommando, men i trange løp går regel 9 foran.",
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 18 – Innbyrdes ansvar",
+          "quote": "Rangordning for vikeplikt mellom maskindrevet fartøy, seilfartøy, fiskefartøy, manøvreringshemmet og fartøy ikke under kommando."
+        }
+      ]
     },
     {
       "id": "q_lanterner_001",
@@ -307,10 +486,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hvilken farge har sidelysene på en båt?",
-      "choices": ["Grønt på styrbord (høyre) og rødt på babord (venstre)", "Rødt på styrbord og grønt på babord", "Hvitt på begge sider", "Grønt på begge sider"],
+      "choices": [
+        "Grønt på styrbord (høyre) og rødt på babord (venstre)",
+        "Rødt på styrbord og grønt på babord",
+        "Hvitt på begge sider",
+        "Grønt på begge sider"
+      ],
       "correct": 0,
       "explanation": "Sidelysene er grønt på styrbord side og rødt på babord side, hver med en sektor på 112,5°. Et godt minneord: «rødt om babord».",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 21 – Definisjoner av lanterner", "quote": "Sidelys: grønt lys på styrbord side og rødt lys på babord side, hvert med en bue på 112,5 grader."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 21 – Definisjoner av lanterner",
+          "quote": "Sidelys: grønt lys på styrbord side og rødt lys på babord side, hvert med en bue på 112,5 grader."
+        }
+      ]
     },
     {
       "id": "q_lanterner_002",
@@ -320,10 +511,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Om natten ser du et fartøy som viser sidelys (grønt/rødt) og akterlys, men INGEN topplys. Hva slags fartøy er det?",
-      "choices": ["Et seilfartøy for seil", "En stor motorbåt", "Et fartøy til ankers", "En båt under slep"],
+      "choices": [
+        "Et seilfartøy for seil",
+        "En stor motorbåt",
+        "Et fartøy til ankers",
+        "En båt under slep"
+      ],
       "correct": 0,
       "explanation": "Et seilfartøy fører sidelys og akterlys, men ikke topplys. Mangelen på topplys skiller seilbåten fra motorbåten om natten.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 25 – Seilfartøy", "quote": "Seilfartøy som gjør fart skal vise sidelys og et akterlys."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 25 – Seilfartøy",
+          "quote": "Seilfartøy som gjør fart skal vise sidelys og et akterlys."
+        }
+      ]
     },
     {
       "id": "q_lanterner_003",
@@ -333,10 +536,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hvilke lanterner fører et maskindrevet fartøy under 50 m som er i fart?",
-      "choices": ["Topplys (hvitt) forut, sidelys (grønt/rødt) og akterlys (hvitt)", "Bare sidelys og akterlys", "To topplys og sidelys", "Ett rundtlysende rødt lys"],
+      "choices": [
+        "Topplys (hvitt) forut, sidelys (grønt/rødt) og akterlys (hvitt)",
+        "Bare sidelys og akterlys",
+        "To topplys og sidelys",
+        "Ett rundtlysende rødt lys"
+      ],
       "correct": 0,
       "explanation": "Et maskindrevet fartøy under 50 m i fart viser ett topplys forut, sidelys og akterlys. Fartøy ≥ 50 m fører to topplys.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 23 – Maskindrevne fartøy under gang", "quote": "Et maskindrevet fartøy skal vise topplys, sidelys og akterlys."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 23 – Maskindrevne fartøy under gang",
+          "quote": "Et maskindrevet fartøy skal vise topplys, sidelys og akterlys."
+        }
+      ]
     },
     {
       "id": "q_lanterner_004",
@@ -346,10 +561,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Om natten ser du ett enkelt rundtlysende hvitt lys uten andre lanterner og uten bevegelse. Hva betyr det mest sannsynlig?",
-      "choices": ["Et fartøy under 50 m som ligger til ankers", "En motorbåt i fart mot deg", "Et seilfartøy for seil", "En båt under slep"],
+      "choices": [
+        "Et fartøy under 50 m som ligger til ankers",
+        "En motorbåt i fart mot deg",
+        "Et seilfartøy for seil",
+        "En båt under slep"
+      ],
       "correct": 0,
       "explanation": "Et fartøy til ankers (under 50 m) viser ett rundtlysende hvitt lys der det best kan sees, normalt forut. Dagsignalet er én sort kule.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 30 – Fartøy til ankers", "quote": "Et fartøy til ankers skal vise et rundtlysende hvitt lys; om dagen en sort kule."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 30 – Fartøy til ankers",
+          "quote": "Et fartøy til ankers skal vise et rundtlysende hvitt lys; om dagen en sort kule."
+        }
+      ]
     },
     {
       "id": "q_lanterner_005",
@@ -359,10 +586,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hva er minimumskravet til lanterneføring for en robåt / et fartøy under årer?",
-      "choices": ["Den kan nøye seg med en elektrisk lykt/lommelykt klar til å vises i tide for å unngå sammenstøt", "Den må alltid føre topplys og sidelys", "Den trenger ingen form for lys", "Den må føre to rundtlysende hvite lys"],
+      "choices": [
+        "Den kan nøye seg med en elektrisk lykt/lommelykt klar til å vises i tide for å unngå sammenstøt",
+        "Den må alltid føre topplys og sidelys",
+        "Den trenger ingen form for lys",
+        "Den må føre to rundtlysende hvite lys"
+      ],
       "correct": 0,
       "explanation": "En robåt kan føre sidelys og akterlys som et seilfartøy, men det er nok å ha en elektrisk lykt eller lommelykt klar til å vises i tide for å unngå sammenstøt.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 25 – Fartøy under årer", "quote": "Et fartøy under årer kan vise lanterner som et seilfartøy, eller ha en elektrisk lykt klar til å vises i tide."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 25 – Fartøy under årer",
+          "quote": "Et fartøy under årer kan vise lanterner som et seilfartøy, eller ha en elektrisk lykt klar til å vises i tide."
+        }
+      ]
     },
     {
       "id": "q_lanterner_006",
@@ -372,10 +611,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Når skal lanternene føres?",
-      "choices": ["Fra solnedgang til soloppgang, og ellers ved nedsatt sikt", "Bare når det er helt mørkt", "Bare i tett tåke", "Bare når du møter andre båter"],
+      "choices": [
+        "Fra solnedgang til soloppgang, og ellers ved nedsatt sikt",
+        "Bare når det er helt mørkt",
+        "Bare i tett tåke",
+        "Bare når du møter andre båter"
+      ],
       "correct": 0,
       "explanation": "Lanternene skal føres fra solnedgang til soloppgang, og dessuten i nedsatt sikt (tåke, tett regn osv.).",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 20 – Lanterner, anvendelse", "quote": "Lanterner skal vises fra solnedgang til soloppgang og ved nedsatt sikt."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 20 – Lanterner, anvendelse",
+          "quote": "Lanterner skal vises fra solnedgang til soloppgang og ved nedsatt sikt."
+        }
+      ]
     },
     {
       "id": "q_lanterner_007",
@@ -385,10 +636,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "En båt flagger med signalflagg A (Alpha) – hvit og blå todelt. Hva betyr det?",
-      "choices": ["«Jeg har dykker nede – hold godt klar og gå med sakte fart»", "«Jeg er i nød og trenger hjelp»", "«Jeg har vikeplikt»", "«Jeg ber om los»"],
+      "choices": [
+        "«Jeg har dykker nede – hold godt klar og gå med sakte fart»",
+        "«Jeg er i nød og trenger hjelp»",
+        "«Jeg har vikeplikt»",
+        "«Jeg ber om los»"
+      ],
       "correct": 0,
       "explanation": "Signalflagg A (Alpha) betyr at fartøyet har dykker i vannet. Andre skal holde godt klar og passere sakte. Fartøyet regnes som manøvreringshemmet.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Signalflagg/Internasjonal signalbok – flagg A", "quote": "Flagg A: «Jeg har dykker nede; hold godt klar og gå med sakte fart.»"}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Signalflagg/Internasjonal signalbok – flagg A",
+          "quote": "Flagg A: «Jeg har dykker nede; hold godt klar og gå med sakte fart.»"
+        }
+      ]
     },
     {
       "id": "q_lanterner_008",
@@ -398,10 +661,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "En seilbåt starter motoren mens seilene fortsatt er oppe. Hvilke lanterner skal den nå føre?",
-      "choices": ["Som et maskindrevet fartøy – altså med topplys i tillegg til sidelys og akterlys", "Fortsatt bare sidelys og akterlys uten topplys", "Bare et rundtlysende hvitt lys", "Ingen lanterner mens motoren går"],
+      "choices": [
+        "Som et maskindrevet fartøy – altså med topplys i tillegg til sidelys og akterlys",
+        "Fortsatt bare sidelys og akterlys uten topplys",
+        "Bare et rundtlysende hvitt lys",
+        "Ingen lanterner mens motoren går"
+      ],
       "correct": 0,
       "explanation": "En seilbåt som bruker motor regnes som maskindrevet, selv med seil oppe, og skal da føre topplys i tillegg til sidelys og akterlys.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 25/3 – Seilfartøy med maskinkraft", "quote": "Et seilfartøy som også drives med maskin skal føre lanterner som et maskindrevet fartøy."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 25/3 – Seilfartøy med maskinkraft",
+          "quote": "Et seilfartøy som også drives med maskin skal føre lanterner som et maskindrevet fartøy."
+        }
+      ]
     },
     {
       "id": "q_lanterner_009",
@@ -411,10 +686,22 @@
       "importance": "normal",
       "exam_area": "lover",
       "prompt": "Over hvor stor sektor lyser et sidelys?",
-      "choices": ["112,5° – fra rett forut til 22,5° aktenfor tvers", "135° bakover", "225° forover", "360° rundt hele horisonten"],
+      "choices": [
+        "112,5° – fra rett forut til 22,5° aktenfor tvers",
+        "135° bakover",
+        "225° forover",
+        "360° rundt hele horisonten"
+      ],
       "correct": 0,
       "explanation": "Et sidelys lyser 112,5°, fra rett forut til 22,5° aktenfor tvers. Akterlyset lyser 135° bakover, og topplyset 225° forover.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 21 – Definisjoner", "quote": "Sidelys lyser over en bue på 112,5 grader; akterlys 135 grader; topplys 225 grader."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 21 – Definisjoner",
+          "quote": "Sidelys lyser over en bue på 112,5 grader; akterlys 135 grader; topplys 225 grader."
+        }
+      ]
     },
     {
       "id": "q_lanterner_010",
@@ -424,23 +711,47 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Du møter en motorbåt om natten og ser kun dens RØDE sidelys mot deg. Hva forteller det deg?",
-      "choices": ["Du ser båtens babord side – den vil krysse foran deg fra din styrbord mot babord", "Du ser den rett forfra", "Du ser den rett bakfra (akterlys)", "Den ligger til ankers"],
+      "choices": [
+        "Du ser båtens babord side – den vil krysse foran deg fra din styrbord mot babord",
+        "Du ser den rett forfra",
+        "Du ser den rett bakfra (akterlys)",
+        "Den ligger til ankers"
+      ],
       "correct": 0,
       "explanation": "Rødt sidelys er på babord side. Ser du bare det røde lyset, ser du båtens venstre side; den beveger seg fra din høyre mot venstre. Minneord: «rødt om babord».",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 21 – Sidelys", "quote": "Rødt sidelys er plassert på babord side."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 21 – Sidelys",
+          "quote": "Rødt sidelys er plassert på babord side."
+        }
+      ]
     },
     {
       "id": "q_lanterner_011",
       "concept_id": "lr-lanterner",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 2,
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hva er dagsignalet (signalfiguren) for et fartøy som ligger til ankers?",
-      "choices": [],
-      "correct": 0,
-      "explanation": "Dagsignalet for et fartøy til ankers er én sort kule, plassert i forskipet der den best kan sees. Om natten vises i stedet ett rundtlysende hvitt lys.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 30 – Fartøy til ankers", "quote": "Om dagen skal et fartøy til ankers vise en sort kule forut."}]
+      "choices": [
+        "To sorte kuler i forskipet",
+        "En sort kjegle med spissen ned",
+        "Én sort kule plassert i forskipet der den best kan sees",
+        "En sort sylinder midtskips"
+      ],
+      "correct": 2,
+      "explanation": "Dagsignalet for et fartøy til ankers er én sort kule i forskipet; om natten vises i stedet ett rundtlysende hvitt lys.",
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 30 – Fartøy til ankers",
+          "quote": "Om dagen skal et fartøy til ankers vise en sort kule forut."
+        }
+      ]
     },
     {
       "id": "q_lydsignaler_001",
@@ -450,10 +761,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvilket fartøy er pålagt å ha en fløyte (signalhorn) om bord etter regel 33?",
-      "choices": ["Fartøy på 12 meter eller mer", "Bare fartøy over 100 meter", "Alle fartøy uansett størrelse", "Bare seilfartøy"],
+      "choices": [
+        "Fartøy på 12 meter eller mer",
+        "Bare fartøy over 100 meter",
+        "Alle fartøy uansett størrelse",
+        "Bare seilfartøy"
+      ],
       "correct": 0,
       "explanation": "Regel 33: fartøy på 12 m eller mer skal ha fløyte; fartøy på 100 m eller mer skal i tillegg ha klokke. Mindre fartøy skal kunne gi et effektivt lydsignal.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 33 – Utstyr for lydsignaler", "quote": "Fartøy på 12 meter eller mer skal ha fløyte."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 33 – Utstyr for lydsignaler",
+          "quote": "Fartøy på 12 meter eller mer skal ha fløyte."
+        }
+      ]
     },
     {
       "id": "q_lydsignaler_002",
@@ -463,10 +786,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvilket utstyr skal et fartøy under 12 meter ha for å gi lydsignaler?",
-      "choices": ["Et middel til å gi et effektivt lydsignal, for eksempel et signalhorn eller en tåkelur", "Både fløyte, klokke og gongong", "Ingenting – kravet gjelder ikke små båter", "Bare en ringeklokke"],
+      "choices": [
+        "Et middel til å gi et effektivt lydsignal, for eksempel et signalhorn eller en tåkelur",
+        "Både fløyte, klokke og gongong",
+        "Ingenting – kravet gjelder ikke små båter",
+        "Bare en ringeklokke"
+      ],
       "correct": 0,
       "explanation": "Fartøy under 12 m er ikke pålagt fløyte og klokke, men skal kunne gi et effektivt lydsignal. Et signalhorn eller en tåkelur om bord oppfyller dette.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 33 – Utstyr for lydsignaler", "quote": "Fartøy under 12 meter skal ha et middel til å gi et effektivt lydsignal."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 33 – Utstyr for lydsignaler",
+          "quote": "Fartøy under 12 meter skal ha et middel til å gi et effektivt lydsignal."
+        }
+      ]
     },
     {
       "id": "q_lydsignaler_003",
@@ -476,23 +811,47 @@
       "importance": "normal",
       "exam_area": "lover",
       "prompt": "Hvilket fartøy skal ha klokke i tillegg til fløyte?",
-      "choices": ["Fartøy på 100 meter eller mer", "Fartøy på 12 meter eller mer", "Alle motorbåter", "Bare ankerliggende fartøy"],
+      "choices": [
+        "Fartøy på 100 meter eller mer",
+        "Fartøy på 12 meter eller mer",
+        "Alle motorbåter",
+        "Bare ankerliggende fartøy"
+      ],
       "correct": 0,
       "explanation": "Regel 33: fartøy på 100 m eller mer skal ha klokke i tillegg til fløyte (og de aller største også gongong). Klokken brukes blant annet av ankerliggere i nedsatt sikt.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 33 – Utstyr for lydsignaler", "quote": "Fartøy på 100 meter eller mer skal i tillegg ha en klokke."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 33 – Utstyr for lydsignaler",
+          "quote": "Fartøy på 100 meter eller mer skal i tillegg ha en klokke."
+        }
+      ]
     },
     {
       "id": "q_lydsignaler_004",
       "concept_id": "lr-lydsignaler-utstyr",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 1,
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvorfor bør også en liten fritidsbåt ha et signalhorn eller en tåkelur om bord?",
-      "choices": [],
-      "correct": 0,
-      "explanation": "For å kunne gi de påbudte manøversignalene (regel 34) og varsle ved nedsatt sikt (regel 35). Selv om fartøy under 12 m ikke må ha fløyte, skal de kunne gi et effektivt lydsignal, og et signalhorn/tåkelur oppfyller dette.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 33 – Utstyr for lydsignaler", "quote": "Mindre fartøy skal kunne gi et effektivt lydsignal."}]
+      "choices": [
+        "Fordi alle fartøy under 12 m er pålagt å ha fløyte",
+        "For å kunne gi påbudte manøversignaler og varsle ved nedsatt sikt med et effektivt lydsignal",
+        "Fordi hornet erstatter kravet om lanterner om natten",
+        "For å kunne kommunisere posisjon i stedet for VHF"
+      ],
+      "correct": 1,
+      "explanation": "Selv om fartøy under 12 m ikke må ha fløyte, skal de kunne gi et effektivt lydsignal, og et signalhorn/tåkelur dekker manøversignaler (regel 34) og varsel ved nedsatt sikt (regel 35).",
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 33 – Utstyr for lydsignaler",
+          "quote": "Mindre fartøy skal kunne gi et effektivt lydsignal."
+        }
+      ]
     },
     {
       "id": "q_lydsignaler_005",
@@ -502,10 +861,22 @@
       "importance": "normal",
       "exam_area": "lover",
       "prompt": "Manøversignalene etter regel 34 kan suppleres med lyssignaler. Hvilket lys brukes til dette?",
-      "choices": ["Blink fra et hvitt rundtlysende lys (ett, to eller tre blink)", "Røde blink fra babord sidelys", "Grønne blink fra styrbord sidelys", "Blå blink fra mastetoppen"],
+      "choices": [
+        "Blink fra et hvitt rundtlysende lys (ett, to eller tre blink)",
+        "Røde blink fra babord sidelys",
+        "Grønne blink fra styrbord sidelys",
+        "Blå blink fra mastetoppen"
+      ],
       "correct": 0,
       "explanation": "Manøversignalene kan understøttes med blink fra et hvitt rundtlysende lys: ett blink for styrbord, to for babord og tre for akterover – i takt med fløytesignalene.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 34 – Manøver- og varselsignaler", "quote": "Fløytesignalene kan suppleres med lyssignaler fra et hvitt rundtlysende lys."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 34 – Manøver- og varselsignaler",
+          "quote": "Fløytesignalene kan suppleres med lyssignaler fra et hvitt rundtlysende lys."
+        }
+      ]
     },
     {
       "id": "q_manover_001",
@@ -515,10 +886,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hva betyr ETT kort støt i fløyta (regel 34)?",
-      "choices": ["«Jeg endrer min kurs til styrbord»", "«Jeg endrer min kurs til babord»", "«Jeg bruker maskinen akterover»", "«Jeg er i nød»"],
+      "choices": [
+        "«Jeg endrer min kurs til styrbord»",
+        "«Jeg endrer min kurs til babord»",
+        "«Jeg bruker maskinen akterover»",
+        "«Jeg er i nød»"
+      ],
       "correct": 0,
       "explanation": "Ett kort støt betyr «jeg dreier til styrbord» (høyre). To korte = babord, tre korte = maskin akterover.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 34 – Manøversignaler", "quote": "Ett kort støt betyr «Jeg endrer min kurs til styrbord»."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 34 – Manøversignaler",
+          "quote": "Ett kort støt betyr «Jeg endrer min kurs til styrbord»."
+        }
+      ]
     },
     {
       "id": "q_manover_002",
@@ -528,10 +911,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hva betyr TO korte støt?",
-      "choices": ["«Jeg endrer min kurs til babord»", "«Jeg endrer min kurs til styrbord»", "«Jeg bruker maskinen akterover»", "«Hold klar, dykker nede»"],
+      "choices": [
+        "«Jeg endrer min kurs til babord»",
+        "«Jeg endrer min kurs til styrbord»",
+        "«Jeg bruker maskinen akterover»",
+        "«Hold klar, dykker nede»"
+      ],
       "correct": 0,
       "explanation": "To korte støt betyr «jeg dreier til babord» (venstre).",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 34 – Manøversignaler", "quote": "To korte støt betyr «Jeg endrer min kurs til babord»."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 34 – Manøversignaler",
+          "quote": "To korte støt betyr «Jeg endrer min kurs til babord»."
+        }
+      ]
     },
     {
       "id": "q_manover_003",
@@ -541,10 +936,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "En ferge gir tre korte støt i fløyta. Hva betyr dette signalet?",
-      "choices": ["«Jeg bruker maskinen akterover» (kjører motoren bakover / stopper)", "«Jeg dreier til styrbord»", "«Jeg dreier til babord»", "«Jeg er i nød»"],
+      "choices": [
+        "«Jeg bruker maskinen akterover» (kjører motoren bakover / stopper)",
+        "«Jeg dreier til styrbord»",
+        "«Jeg dreier til babord»",
+        "«Jeg er i nød»"
+      ],
       "correct": 0,
       "explanation": "Tre korte støt betyr at fartøyet bruker maskinen akterover. Pass på: dette betyr ikke at fergen snur, men at den kjører motoren bakover.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 34 – Manøversignaler", "quote": "Tre korte støt betyr «Jeg bruker maskinen akterover»."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 34 – Manøversignaler",
+          "quote": "Tre korte støt betyr «Jeg bruker maskinen akterover»."
+        }
+      ]
     },
     {
       "id": "q_manover_004",
@@ -554,10 +961,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "En båt nærmer seg deg og det er uklart om den vil overholde vikeplikten. Du er i tvil om dens hensikter. Hvilket signal gir du?",
-      "choices": ["Minst fem korte og raske støt (varsel-/tvilssignalet)", "Tre korte støt", "Ett langt støt", "To korte støt"],
+      "choices": [
+        "Minst fem korte og raske støt (varsel-/tvilssignalet)",
+        "Tre korte støt",
+        "Ett langt støt",
+        "To korte støt"
+      ],
       "correct": 0,
       "explanation": "Minst fem korte og raske støt er varsel-/tvilssignalet: «jeg forstår ikke dine hensikter / er i tvil om du gjør nok for å unngå sammenstøt».",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 34 – Varselsignal", "quote": "Minst fem korte og raske støt brukes som varsel om tvil eller fare."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 34 – Varselsignal",
+          "quote": "Minst fem korte og raske støt brukes som varsel om tvil eller fare."
+        }
+      ]
     },
     {
       "id": "q_manover_005",
@@ -567,23 +986,47 @@
       "importance": "normal",
       "exam_area": "lover",
       "prompt": "Du nærmer deg en uoversiktlig sving i et trangt løp der du ikke kan se rundt hjørnet. Hvilket signal bør du gi?",
-      "choices": ["Ett langt støt", "Tre korte støt", "Fem korte støt", "To lange støt"],
+      "choices": [
+        "Ett langt støt",
+        "Tre korte støt",
+        "Fem korte støt",
+        "To lange støt"
+      ],
       "correct": 0,
       "explanation": "Ved en sving med sperret utsikt gis ett langt støt. Et fartøy på den andre siden svarer med ett langt støt.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 34 – Signal ved sving/utløp", "quote": "Et fartøy som nærmer seg en sving der utsikten er sperret, skal gi ett langt støt."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 34 – Signal ved sving/utløp",
+          "quote": "Et fartøy som nærmer seg en sving der utsikten er sperret, skal gi ett langt støt."
+        }
+      ]
     },
     {
       "id": "q_manover_006",
       "concept_id": "lr-manoversignaler",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 1,
       "importance": "high",
       "exam_area": "lover",
-      "prompt": "Oppsummer manøversignalene: 1 kort, 2 korte, 3 korte og 5 korte støt.",
-      "choices": [],
-      "correct": 0,
-      "explanation": "1 kort = dreier til styrbord; 2 korte = dreier til babord; 3 korte = maskin akterover; minst 5 korte og raske = varsel/tvil («forstår ikke dine hensikter»).",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 34 – Manøver- og varselsignaler", "quote": "1 kort: styrbord; 2 korte: babord; 3 korte: maskin akterover; ≥5 korte: varsel/tvil."}]
+      "prompt": "Hva betyr manøversignalet «to korte støt»?",
+      "choices": [
+        "Jeg dreier til styrbord",
+        "Jeg dreier til babord",
+        "Maskinen går akterover",
+        "Jeg forstår ikke dine hensikter (varsel)"
+      ],
+      "correct": 1,
+      "explanation": "Ett kort = dreier styrbord, to korte = dreier babord, tre korte = maskin akterover, og minst fem korte = varsel/tvil.",
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 34 – Manøver- og varselsignaler",
+          "quote": "1 kort: styrbord; 2 korte: babord; 3 korte: maskin akterover; ≥5 korte: varsel/tvil."
+        }
+      ]
     },
     {
       "id": "q_manover_007",
@@ -593,10 +1036,22 @@
       "importance": "normal",
       "exam_area": "lover",
       "prompt": "Du hører en båt gi to korte støt. Hva forteller den deg, og hvilken vei svinger den?",
-      "choices": ["Den dreier til babord (venstre)", "Den dreier til styrbord (høyre)", "Den kjører maskinen akterover", "Den varsler om fare"],
+      "choices": [
+        "Den dreier til babord (venstre)",
+        "Den dreier til styrbord (høyre)",
+        "Den kjører maskinen akterover",
+        "Den varsler om fare"
+      ],
       "correct": 0,
       "explanation": "To korte støt betyr at fartøyet endrer kurs til babord (venstre). Husk: ett støt = styrbord, to støt = babord.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 34 – Manøversignaler", "quote": "To korte støt: «Jeg endrer min kurs til babord»."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 34 – Manøversignaler",
+          "quote": "To korte støt: «Jeg endrer min kurs til babord»."
+        }
+      ]
     },
     {
       "id": "q_nedsatt_001",
@@ -606,10 +1061,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Det er tett tåke. Du kjører motorbåt med fart gjennom vannet. Hvilket lydsignal skal du gi, og hvor ofte?",
-      "choices": ["Ett langt støt minst hvert annet minutt", "To lange støt hvert annet minutt", "Ett langt og to korte støt", "Tre korte støt"],
+      "choices": [
+        "Ett langt støt minst hvert annet minutt",
+        "To lange støt hvert annet minutt",
+        "Ett langt og to korte støt",
+        "Tre korte støt"
+      ],
       "correct": 0,
       "explanation": "Regel 35: maskindrevet fartøy med fart gjennom vannet gir ett langt støt minst hvert ≤ 2 min i nedsatt sikt.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 35 – Lydsignaler ved nedsatt sikt", "quote": "Maskindrevet fartøy med fart gjennom vannet skal gi ett langt støt med mellomrom på høyst 2 minutter."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 35 – Lydsignaler ved nedsatt sikt",
+          "quote": "Maskindrevet fartøy med fart gjennom vannet skal gi ett langt støt med mellomrom på høyst 2 minutter."
+        }
+      ]
     },
     {
       "id": "q_nedsatt_002",
@@ -619,10 +1086,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "I tåke ligger en motorbåt stoppet i vannet (har stans, men er ikke til ankers). Hvilket lydsignal skal den gi?",
-      "choices": ["To lange støt etter hverandre hvert ≤ 2 min", "Ett langt støt", "Ett langt og to korte støt", "Rask klokkeringing"],
+      "choices": [
+        "To lange støt etter hverandre hvert ≤ 2 min",
+        "Ett langt støt",
+        "Ett langt og to korte støt",
+        "Rask klokkeringing"
+      ],
       "correct": 0,
       "explanation": "Regel 35: et maskindrevet fartøy som ligger stoppet (uten fart gjennom vannet) gir to lange støt etter hverandre, med høyst 2 minutters mellomrom.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 35 – Lydsignaler ved nedsatt sikt", "quote": "Et maskindrevet fartøy uten fart gjennom vannet skal gi to lange støt etter hverandre."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 35 – Lydsignaler ved nedsatt sikt",
+          "quote": "Et maskindrevet fartøy uten fart gjennom vannet skal gi to lange støt etter hverandre."
+        }
+      ]
     },
     {
       "id": "q_nedsatt_003",
@@ -632,10 +1111,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Et seilfartøy seiler i tett tåke. Hvilket lydsignal skal det gi?",
-      "choices": ["Ett langt støt etterfulgt av to korte støt", "Ett langt støt", "To lange støt", "Fem korte støt"],
+      "choices": [
+        "Ett langt støt etterfulgt av to korte støt",
+        "Ett langt støt",
+        "To lange støt",
+        "Fem korte støt"
+      ],
       "correct": 0,
       "explanation": "Regel 35: seilfartøy, fiskefartøy, manøvreringshemmet fartøy og fartøy ikke under kommando gir ett langt + to korte støt hvert ≤ 2 min.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 35 – Lydsignaler ved nedsatt sikt", "quote": "Seilfartøy m.fl. skal gi ett langt støt fulgt av to korte støt."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 35 – Lydsignaler ved nedsatt sikt",
+          "quote": "Seilfartøy m.fl. skal gi ett langt støt fulgt av to korte støt."
+        }
+      ]
     },
     {
       "id": "q_nedsatt_004",
@@ -645,10 +1136,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvor ofte skal lydsignalene ved nedsatt sikt gjentas?",
-      "choices": ["Minst hvert annet minutt (≤ 2 min)", "Hvert tiende minutt", "Bare når du hører en annen båt", "Hvert sekund"],
+      "choices": [
+        "Minst hvert annet minutt (≤ 2 min)",
+        "Hvert tiende minutt",
+        "Bare når du hører en annen båt",
+        "Hvert sekund"
+      ],
       "correct": 0,
       "explanation": "Tåkesignalene etter regel 35 skal gjentas med mellomrom på høyst 2 minutter.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 35 – Lydsignaler ved nedsatt sikt", "quote": "Signalene skal gis med mellomrom på høyst 2 minutter."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 35 – Lydsignaler ved nedsatt sikt",
+          "quote": "Signalene skal gis med mellomrom på høyst 2 minutter."
+        }
+      ]
     },
     {
       "id": "q_nedsatt_005",
@@ -658,36 +1161,72 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "I tett tåke – hva er det viktigste tiltaket i tillegg til å gi lydsignaler?",
-      "choices": ["Sette ned farten til sikker fart slik at du kan stanse i tide, og holde skjerpet utkikk", "Øke farten for å komme raskt ut av tåken", "Slå av alle lys", "Slutte å gi lydsignaler for å høre bedre"],
+      "choices": [
+        "Sette ned farten til sikker fart slik at du kan stanse i tide, og holde skjerpet utkikk",
+        "Øke farten for å komme raskt ut av tåken",
+        "Slå av alle lys",
+        "Slutte å gi lydsignaler for å høre bedre"
+      ],
       "correct": 0,
       "explanation": "Regel 6 om sikker fart gjelder ekstra strengt i nedsatt sikt: du skal kunne stanse innenfor sikten. Hold skjerpet utkikk med syn og hørsel, og bruk eventuelt radar.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 6/19 – Sikker fart og opptreden i nedsatt sikt", "quote": "Ved nedsatt sikt skal farten avpasses slik at fartøyet kan stanse innen den avstand som er nødvendig."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 6/19 – Sikker fart og opptreden i nedsatt sikt",
+          "quote": "Ved nedsatt sikt skal farten avpasses slik at fartøyet kan stanse innen den avstand som er nødvendig."
+        }
+      ]
     },
     {
       "id": "q_nedsatt_006",
       "concept_id": "lr-nedsatt-sikt",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 3,
       "importance": "normal",
       "exam_area": "lover",
       "prompt": "Hvilket lydsignal gir et fartøy til ankers i nedsatt sikt?",
-      "choices": [],
-      "correct": 0,
-      "explanation": "Et fartøy til ankers ringer raskt med klokken i ca. 5 sekunder, med høyst 1 minutts mellomrom. Fartøy under 12 m kan i stedet gi et annet effektivt lydsignal hvert ≤ 2 min.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 35 – Fartøy til ankers", "quote": "Et fartøy til ankers skal ringe raskt med klokken i omkring 5 sekunder."}]
+      "choices": [
+        "Ett langt støt hvert ≤ 2 minutter",
+        "To lange støt hvert ≤ 2 minutter",
+        "Ett langt + to korte støt hvert ≤ 2 minutter",
+        "Rask ringing med klokken i ca. 5 sekunder, med høyst 1 minutts mellomrom"
+      ],
+      "correct": 3,
+      "explanation": "Et fartøy til ankers ringer raskt med klokken i ca. 5 sekunder med høyst 1 minutts mellomrom; fartøy under 12 m kan i stedet gi et annet effektivt lydsignal hvert ≤ 2 min.",
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 35 – Fartøy til ankers",
+          "quote": "Et fartøy til ankers skal ringe raskt med klokken i omkring 5 sekunder."
+        }
+      ]
     },
     {
       "id": "q_nedsatt_007",
       "concept_id": "lr-nedsatt-sikt",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 2,
       "importance": "high",
       "exam_area": "lover",
-      "prompt": "Oppsummer tåkesignalene for: motorbåt i fart, motorbåt stoppet, og seilbåt.",
-      "choices": [],
+      "prompt": "Hvilket tåkesignal gir en motorbåt med fart gjennom vannet i nedsatt sikt?",
+      "choices": [
+        "Ett langt støt",
+        "To lange støt",
+        "Ett langt + to korte støt",
+        "Tre korte støt"
+      ],
       "correct": 0,
-      "explanation": "Motorbåt med fart gjennom vannet: ett langt støt. Motorbåt stoppet: to lange støt. Seilbåt (og manøvreringshemmet m.fl.): ett langt + to korte støt. Alle hvert ≤ 2 min.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 35 – Lydsignaler ved nedsatt sikt", "quote": "Ulike fartøy gir ulike tåkesignaler avhengig av fart og type."}]
+      "explanation": "Motorbåt med fart gjennom vannet gir ett langt støt, stoppet motorbåt to lange støt, og seilbåt ett langt + to korte støt – alle hvert ≤ 2 min.",
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 35 – Lydsignaler ved nedsatt sikt",
+          "quote": "Ulike fartøy gir ulike tåkesignaler avhengig av fart og type."
+        }
+      ]
     },
     {
       "id": "q_nod_001",
@@ -697,10 +1236,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvilken VHF-kanal er den internasjonale nød- og anropskanalen?",
-      "choices": ["Kanal 16", "Kanal 6", "Kanal 9", "Kanal 72"],
+      "choices": [
+        "Kanal 16",
+        "Kanal 6",
+        "Kanal 9",
+        "Kanal 72"
+      ],
       "correct": 0,
       "explanation": "VHF kanal 16 er den internasjonale nød-, sikkerhets- og anropskanalen. Nødanrop sendes som «Mayday, Mayday, Mayday».",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Vedlegg IV / nødkommunikasjon", "quote": "VHF kanal 16 er internasjonal nød- og anropskanal."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Vedlegg IV / nødkommunikasjon",
+          "quote": "VHF kanal 16 er internasjonal nød- og anropskanal."
+        }
+      ]
     },
     {
       "id": "q_nod_002",
@@ -710,10 +1261,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvilket av disse er et anerkjent nødsignal etter sjøveisreglenes vedlegg IV?",
-      "choices": ["Langsom og gjentatt heving og senking av begge utstrakte armer", "Å vinke vennlig med én hånd", "Å blinke med grønt lys", "Å tute to korte støt"],
+      "choices": [
+        "Langsom og gjentatt heving og senking av begge utstrakte armer",
+        "Å vinke vennlig med én hånd",
+        "Å blinke med grønt lys",
+        "Å tute to korte støt"
+      ],
       "correct": 0,
       "explanation": "Langsom, gjentatt heving og senking av begge utstrakte armer er et anerkjent nødsignal. Andre er bl.a. rødt bluss, oransje røyk og kontinuerlig tåkesignal.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Vedlegg IV – Nødsignaler", "quote": "Langsom og gjentatt heving og senking av armene utstrakt til hver side."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Vedlegg IV – Nødsignaler",
+          "quote": "Langsom og gjentatt heving og senking av armene utstrakt til hver side."
+        }
+      ]
     },
     {
       "id": "q_nod_003",
@@ -723,10 +1286,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvilken farge har et håndbluss / fallskjermlys som brukes som nødsignal?",
-      "choices": ["Rødt", "Grønt", "Hvitt", "Blått"],
+      "choices": [
+        "Rødt",
+        "Grønt",
+        "Hvitt",
+        "Blått"
+      ],
       "correct": 0,
       "explanation": "Nødbluss er røde – både rødt fallskjermlys og rødt håndbluss. Oransje brukes på røyksignaler. Grønt og hvitt er ikke nødsignaler.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Vedlegg IV – Nødsignaler", "quote": "Rødt fallskjermlys eller rødt håndbluss som viser rødt lys."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Vedlegg IV – Nødsignaler",
+          "quote": "Rødt fallskjermlys eller rødt håndbluss som viser rødt lys."
+        }
+      ]
     },
     {
       "id": "q_nod_004",
@@ -736,10 +1311,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "På hvilket telefonnummer kan du nå Kystradioen ved nød?",
-      "choices": ["120", "110", "113", "1412"],
+      "choices": [
+        "120",
+        "110",
+        "113",
+        "1412"
+      ],
       "correct": 0,
       "explanation": "Kystradioen nås på telefon 120 ved nød. På VHF er nødkanalen 16. (110 er brann, 113 ambulanse.)",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Nødkommunikasjon", "quote": "Kystradioen kan kontaktes på telefon 120 ved nød."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Nødkommunikasjon",
+          "quote": "Kystradioen kan kontaktes på telefon 120 ved nød."
+        }
+      ]
     },
     {
       "id": "q_nod_005",
@@ -749,10 +1336,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvilket kodeord innleder et nødanrop på VHF?",
-      "choices": ["Mayday, gjentatt tre ganger", "Pan-Pan", "Securité", "Over and out"],
+      "choices": [
+        "Mayday, gjentatt tre ganger",
+        "Pan-Pan",
+        "Securité",
+        "Over and out"
+      ],
       "correct": 0,
       "explanation": "Et nødanrop innledes med «Mayday, Mayday, Mayday», etterfulgt av båtens navn, posisjon og hva som er galt. («Pan-Pan» brukes ved hastemelding uten umiddelbar livsfare.)",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Nødkommunikasjon", "quote": "Nødanrop innledes med Mayday gjentatt tre ganger på kanal 16."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Nødkommunikasjon",
+          "quote": "Nødanrop innledes med Mayday gjentatt tre ganger på kanal 16."
+        }
+      ]
     },
     {
       "id": "q_nod_006",
@@ -762,23 +1361,47 @@
       "importance": "normal",
       "exam_area": "lover",
       "prompt": "Det er dag, og du vil signalisere nød slik at det sees best mulig på avstand. Hvilket signal er mest hensiktsmessig?",
-      "choices": ["Oransje røyksignal", "Rødt håndbluss om natten", "Morse-blink med lommelykt", "Å heise et grønt flagg"],
+      "choices": [
+        "Oransje røyksignal",
+        "Rødt håndbluss om natten",
+        "Morse-blink med lommelykt",
+        "Å heise et grønt flagg"
+      ],
       "correct": 0,
       "explanation": "Oransje røyk er godt synlig på dagtid og er et anerkjent nødsignal. Røde bluss sees best i mørke/skumring. Begge er gyldige nødsignaler.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Vedlegg IV – Nødsignaler", "quote": "Oransjefarget røyksignal er et anerkjent nødsignal."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Vedlegg IV – Nødsignaler",
+          "quote": "Oransjefarget røyksignal er et anerkjent nødsignal."
+        }
+      ]
     },
     {
       "id": "q_nod_007",
       "concept_id": "lr-nodsignaler",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 2,
       "importance": "normal",
       "exam_area": "lover",
-      "prompt": "Nevn minst fire anerkjente nødsignaler etter sjøveisreglenes vedlegg IV.",
-      "choices": [],
-      "correct": 0,
-      "explanation": "Eksempler: rødt fallskjerm-/håndbluss, oransje røyksignal, langsom heving/senking av utstrakte armer, kontinuerlig tåkesignal, flammer om bord, firkantflagg med kule over/under, oransje duk, SOS i morse, og «Mayday» på VHF 16.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Vedlegg IV – Nødsignaler", "quote": "Liste over anerkjente nødsignaler i sjøveisreglenes vedlegg IV."}]
+      "prompt": "Hvilket av disse er et anerkjent nødsignal etter sjøveisreglenes vedlegg IV?",
+      "choices": [
+        "Ett kort støt i tåkeluren",
+        "Grønt håndbluss vist mot land",
+        "Rødt fallskjerm- eller håndbluss",
+        "Et hvitt rundtlysende lys forut"
+      ],
+      "correct": 2,
+      "explanation": "Anerkjente nødsignaler er blant annet rødt fallskjerm-/håndbluss, oransje røyk, langsom heving/senking av armene, kontinuerlig tåkesignal, oransje duk og «Mayday» på VHF 16.",
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Vedlegg IV – Nødsignaler",
+          "quote": "Liste over anerkjente nødsignaler i sjøveisreglenes vedlegg IV."
+        }
+      ]
     },
     {
       "id": "q_nod_008",
@@ -788,10 +1411,22 @@
       "importance": "normal",
       "exam_area": "lover",
       "prompt": "Hva er en moderne, enkel måte å sende et fullstendig digitalt nødanrop med posisjon fra VHF?",
-      "choices": ["Trykke på DSC-nødknappen (den røde knappen) på VHF-en", "Skru opp volumet på kanal 6", "Sende et tekstsignal på mobilen", "Vri kanalvelgeren raskt fram og tilbake"],
+      "choices": [
+        "Trykke på DSC-nødknappen (den røde knappen) på VHF-en",
+        "Skru opp volumet på kanal 6",
+        "Sende et tekstsignal på mobilen",
+        "Vri kanalvelgeren raskt fram og tilbake"
+      ],
       "correct": 0,
       "explanation": "En VHF med DSC (Digital Selective Calling) kan sende et digitalt nødanrop med posisjon automatisk når du holder inne den røde nødknappen.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Nødkommunikasjon – DSC", "quote": "DSC-utstyr sender digitalt nødanrop med posisjon på kanal 70."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Nødkommunikasjon – DSC",
+          "quote": "DSC-utstyr sender digitalt nødanrop med posisjon på kanal 70."
+        }
+      ]
     },
     {
       "id": "q_norske_001",
@@ -801,10 +1436,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Du passerer i høy fart nær fortøyde båter og en brygge, og bølgene fra din båt skader en fortøyd båt. Hva gjelder etter de norske tilleggsreglene?",
-      "choices": ["Du er ansvarlig for skade som skyldes bølgeslag (hekkbølger) fra din båt (regel 44)", "Du er aldri ansvarlig for bølger fra egen båt", "Bare hvis du kjørte over fartsgrensen", "Ansvaret ligger hos den fortøyde båtens eier"],
+      "choices": [
+        "Du er ansvarlig for skade som skyldes bølgeslag (hekkbølger) fra din båt (regel 44)",
+        "Du er aldri ansvarlig for bølger fra egen båt",
+        "Bare hvis du kjørte over fartsgrensen",
+        "Ansvaret ligger hos den fortøyde båtens eier"
+      ],
       "correct": 0,
       "explanation": "Regel 44 i de norske tilleggsreglene gjør fører ansvarlig for fare og skade som skyldes bølgeslag (hekkbølger) fra eget fartøy. Sett ned farten nær småbåter, brygger og badende.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 44 – Bølgeslag (norske tilleggsregler)", "quote": "Et fartøy er ansvarlig for skade og fare som voldes ved bølgeslag fra fartøyet."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 44 – Bølgeslag (norske tilleggsregler)",
+          "quote": "Et fartøy er ansvarlig for skade og fare som voldes ved bølgeslag fra fartøyet."
+        }
+      ]
     },
     {
       "id": "q_norske_002",
@@ -814,10 +1461,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hva er hovedinnholdet i den norske tilleggsregelen om forsvarlig fart og oppførsel (regel 43)?",
-      "choices": ["Du skal ferdes hensynsfullt og ikke volde fare eller skade ved fart eller oppførsel", "Du har alltid rett til full fart i åpent farvann", "Bare store skip har aktsomhetsplikt", "Regelen gjelder kun om natten"],
+      "choices": [
+        "Du skal ferdes hensynsfullt og ikke volde fare eller skade ved fart eller oppførsel",
+        "Du har alltid rett til full fart i åpent farvann",
+        "Bare store skip har aktsomhetsplikt",
+        "Regelen gjelder kun om natten"
+      ],
       "correct": 0,
       "explanation": "Regel 43 er en generell aktsomhetsplikt i norske farvann: fartøyet skal ikke ved fart eller oppførsel volde fare eller skade for andre, badende, strandlinje, dyreliv osv.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 43 – Forsvarlig fart og oppførsel (norske tilleggsregler)", "quote": "Fartøy skal ferdes slik at det ikke ved sin fart eller oppførsel volder fare eller skade."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 43 – Forsvarlig fart og oppførsel (norske tilleggsregler)",
+          "quote": "Fartøy skal ferdes slik at det ikke ved sin fart eller oppførsel volder fare eller skade."
+        }
+      ]
     },
     {
       "id": "q_norske_003",
@@ -827,10 +1486,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Reglene 43, 44, 45 og 54 i sjøveisreglene er...",
-      "choices": ["Norske tilleggsregler som gjelder i tillegg til de internasjonale reglene i norske farvann", "Internasjonale regler som gjelder over hele verden", "Opphevede regler som ikke lenger gjelder", "Regler bare for store handelsskip"],
+      "choices": [
+        "Norske tilleggsregler som gjelder i tillegg til de internasjonale reglene i norske farvann",
+        "Internasjonale regler som gjelder over hele verden",
+        "Opphevede regler som ikke lenger gjelder",
+        "Regler bare for store handelsskip"
+      ],
       "correct": 0,
       "explanation": "Reglene 43 og utover er Norges egne nasjonale tilleggsregler for norske farvann, i tillegg til de internasjonale reglene (regel 1–42).",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Norske tilleggsregler (regel 43–54)", "quote": "Reglene 43 og utover er nasjonale tilleggsbestemmelser for norske farvann."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Norske tilleggsregler (regel 43–54)",
+          "quote": "Reglene 43 og utover er nasjonale tilleggsbestemmelser for norske farvann."
+        }
+      ]
     },
     {
       "id": "q_norske_004",
@@ -840,10 +1511,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Du nærmer deg et område med badende. Hva er en grunnleggende regel du må huske på?",
-      "choices": ["Det er forbudt å passere badende nærmere enn 50 meter, og du må sette ned farten", "Du kan kjøre i full fart så lenge du holder deg utenfor svømmebøyene", "Badende har alltid vikeplikt for båter", "Regelen gjelder bare i innsjøer"],
+      "choices": [
+        "Det er forbudt å passere badende nærmere enn 50 meter, og du må sette ned farten",
+        "Du kan kjøre i full fart så lenge du holder deg utenfor svømmebøyene",
+        "Badende har alltid vikeplikt for båter",
+        "Regelen gjelder bare i innsjøer"
+      ],
       "correct": 0,
       "explanation": "Det er forbudt å passere badende nærmere enn 50 m, og mange steder gjelder maks 5 knop nær land/badeområder. Dette følger av aktsomhetsplikten og lokale fartsforskrifter.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 43 + lokale fartsforskrifter", "quote": "Forbud mot å passere badende nærmere enn 50 meter; hensynsfull fart nær land."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 43 + lokale fartsforskrifter",
+          "quote": "Forbud mot å passere badende nærmere enn 50 meter; hensynsfull fart nær land."
+        }
+      ]
     },
     {
       "id": "q_norske_005",
@@ -853,23 +1536,47 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Hvem kan fastsette lokale fartsgrenser for fritidsfartøy i et farvann?",
-      "choices": ["Kommunene, etter havne- og farvannsloven", "Bare den enkelte båteier", "Kun Sjøfartsdirektoratet for hele landet samlet", "Ingen – fart er aldri lokalt regulert"],
+      "choices": [
+        "Kommunene, etter havne- og farvannsloven",
+        "Bare den enkelte båteier",
+        "Kun Sjøfartsdirektoratet for hele landet samlet",
+        "Ingen – fart er aldri lokalt regulert"
+      ],
       "correct": 0,
       "explanation": "Kommunene kan fastsette lokale fartsgrenser for fritidsfartøy (maks 24 m) etter havne- og farvannsloven, hele eller deler av året. Sjekk alltid lokal forskrift der du ferdes.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 43/45 + havne- og farvannsloven", "quote": "Lokale fartsforskrifter fastsettes av kommunene etter havne- og farvannsloven."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 43/45 + havne- og farvannsloven",
+          "quote": "Lokale fartsforskrifter fastsettes av kommunene etter havne- og farvannsloven."
+        }
+      ]
     },
     {
       "id": "q_norske_006",
       "concept_id": "lr-norske-farvann",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 2,
       "importance": "high",
       "exam_area": "lover",
-      "prompt": "Hva må du som båtfører huske om bølgeslag (hekkbølger) i norske farvann?",
-      "choices": [],
-      "correct": 0,
-      "explanation": "Etter regel 44 er du ansvarlig for skade og fare som bølgene fra din egen båt forårsaker – på andre båter, brygger, personer og strandlinje. Sett ned farten i god tid nær småbåter, badende, brygger og i trange områder.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 44 – Bølgeslag", "quote": "Fartøyet er ansvarlig for skade og fare som voldes ved bølgeslag fra fartøyet."}]
+      "prompt": "Hva gjelder for bølgeslag (hekkbølger) fra din egen båt i norske farvann?",
+      "choices": [
+        "Du er ikke ansvarlig for bølgene så lenge du holder lovlig fart",
+        "Du er ansvarlig for skade og fare bølgene dine forårsaker, og må sette ned farten i god tid",
+        "Bølgeslag er bare et problem for store skip, ikke fritidsbåter",
+        "Ansvaret gjelder bare i havner, ikke langs strandlinjen"
+      ],
+      "correct": 1,
+      "explanation": "Etter regel 44 er du ansvarlig for skade og fare bølgene fra din egen båt forårsaker, og du skal sette ned farten i god tid nær småbåter, badende, brygger og i trange områder.",
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 44 – Bølgeslag",
+          "quote": "Fartøyet er ansvarlig for skade og fare som voldes ved bølgeslag fra fartøyet."
+        }
+      ]
     },
     {
       "id": "q_norske_007",
@@ -879,10 +1586,22 @@
       "importance": "high",
       "exam_area": "lover",
       "prompt": "Du nærmer deg en fergeled / dypvannsrenne der store fartøy ferdes. Hva er fornuftig opptreden?",
-      "choices": ["Holde god avstand og ikke hindre de store fartøyene som er bundet til leden", "Krysse rett foran fergen for å spare tid", "Forvente at fergen alltid viker for deg som fritidsbåt", "Stoppe midt i leden og vente"],
+      "choices": [
+        "Holde god avstand og ikke hindre de store fartøyene som er bundet til leden",
+        "Krysse rett foran fergen for å spare tid",
+        "Forvente at fergen alltid viker for deg som fritidsbåt",
+        "Stoppe midt i leden og vente"
+      ],
       "correct": 0,
       "explanation": "Som fritidsbåt skal du holde deg unna fergeleder og dypvannsrenner og ikke hindre store fartøy som bare kan navigere trygt der. Dette følger av regel 9 og de norske tilleggsreglene om hensynsfull ferdsel.",
-      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 9 + 43/45", "quote": "Mindre fartøy skal ikke hindre fartøy som bare kan navigere trygt i et trangt løp eller en led."}]
+      "source_refs": [
+        {
+          "source_id": "lovdata_sjoveisreglene",
+          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+          "section": "Regel 9 + 43/45",
+          "quote": "Mindre fartøy skal ikke hindre fartøy som bare kan navigere trygt i et trangt løp eller en led."
+        }
+      ]
     }
   ]
 }

@@ -21,8 +21,18 @@
         "redningsselskapet/images/content-uploads-2016-01-gront_merke.jpg"
       ],
       "source_refs": [
-        {"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Merkingen av norskekysten – lateralmerker", "quote": "IALA region A: røde merker på babord, grønne på styrbord når man følger leias hovedretning."},
-        {"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Lateralmerker – sideavmerkning", "quote": "Trafikk som følger merkinga sin hovedretning skal ha grønne merker på styrbord side og røde merker om babord."}
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Merkingen av norskekysten – lateralmerker",
+          "quote": "IALA region A: røde merker på babord, grønne på styrbord når man følger leias hovedretning."
+        },
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Lateralmerker – sideavmerkning",
+          "quote": "Trafikk som følger merkinga sin hovedretning skal ha grønne merker på styrbord side og røde merker om babord."
+        }
       ]
     },
     {
@@ -47,8 +57,18 @@
         "redningsselskapet/images/content-uploads-2025-08-vestmerke_m_bakgrunn.png"
       ],
       "source_refs": [
-        {"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinalmerker", "quote": "Nord: svart over gul (BY), to kjegler opp; Øst: BYB; Sør: gul/svart (YB), kjegler ned; Vest: YBY."},
-        {"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Kardinalmerker", "quote": "Sort/gule kardinalmerker med to-kjegle topptegn og lyskarakteristikk Q / Q(3) / Q(6)+LFl / Q(9)."}
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinalmerker",
+          "quote": "Nord: svart over gul (BY), to kjegler opp; Øst: BYB; Sør: gul/svart (YB), kjegler ned; Vest: YBY."
+        },
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Kardinalmerker",
+          "quote": "Sort/gule kardinalmerker med to-kjegle topptegn og lyskarakteristikk Q / Q(3) / Q(6)+LFl / Q(9)."
+        }
       ]
     },
     {
@@ -74,8 +94,18 @@
         "redningsselskapet/images/content-uploads-2016-01-sjomerke_blindleia.jpg"
       ],
       "source_refs": [
-        {"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Spesialmerke / Frittliggende grunne / Senterledsmerke", "quote": "Spesialmerke gult med gult kryss; frittliggende grunne svart med røde bånd, to kuler, Fl(2); senterledsmerke rød og hvit, rød kule."},
-        {"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Merkingen av norskekysten – stang, varde og båke", "quote": "Stang med viser/arm peker mot den siden leia går; visere til begge sider eller hvit refleks betyr farbart på begge sider."}
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Spesialmerke / Frittliggende grunne / Senterledsmerke",
+          "quote": "Spesialmerke gult med gult kryss; frittliggende grunne svart med røde bånd, to kuler, Fl(2); senterledsmerke rød og hvit, rød kule."
+        },
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Merkingen av norskekysten – stang, varde og båke",
+          "quote": "Stang med viser/arm peker mot den siden leia går; visere til begge sider eller hvit refleks betyr farbart på begge sider."
+        }
       ]
     },
     {
@@ -97,8 +127,18 @@
         "kartverket/images/globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg"
       ],
       "source_refs": [
-        {"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Sektorinndeling i sjøkart", "quote": "Eksempel på sektorinndeling: grønn, rød og hvit sektor gjennom leia; hvit sektor er trygt løp."},
-        {"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Fyr og sektorlys", "quote": "Hvit sektor = trygt/farbart løp; rød og grønn sektor advarer mot grunne, grønn styrbord og rød babord side av leia."}
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Sektorinndeling i sjøkart",
+          "quote": "Eksempel på sektorinndeling: grønn, rød og hvit sektor gjennom leia; hvit sektor er trygt løp."
+        },
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Fyr og sektorlys",
+          "quote": "Hvit sektor = trygt/farbart løp; rød og grønn sektor advarer mot grunne, grønn styrbord og rød babord side av leia."
+        }
       ]
     },
     {
@@ -119,8 +159,18 @@
         "lanternenkurs/images/wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg"
       ],
       "source_refs": [
-        {"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Fyr, lykter og lanterner – lyskarakteristikk", "quote": "Lykter skilles ved ulik karakteristikk (puls); karakteristikken står i sjøkartet under lyktens navn."},
-        {"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Ordliste lyskarakteristikker", "quote": "F=Fixed, Oc=Occulting, Iso=Isophase, Fl=Flashing, Q=Quick, LFl=Long Flashing, Mo(A)=Morse A."}
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Fyr, lykter og lanterner – lyskarakteristikk",
+          "quote": "Lykter skilles ved ulik karakteristikk (puls); karakteristikken står i sjøkartet under lyktens navn."
+        },
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Ordliste lyskarakteristikker",
+          "quote": "F=Fixed, Oc=Occulting, Iso=Isophase, Fl=Flashing, Q=Quick, LFl=Long Flashing, Mo(A)=Morse A."
+        }
       ]
     },
     {
@@ -142,8 +192,18 @@
         "lanternenkurs/images/wp-content-uploads-2023-09-sjomerke_blindleia-1-1024x900.jpg"
       ],
       "source_refs": [
-        {"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/", "section": "Forbudsskilt – Fartsgrense", "quote": "Fartsgrense angir høyeste tillatte fart (for eksempel 5 knop)."},
-        {"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/", "section": "Farvannsskilt", "quote": "Farvannsskilt gir veiledning til de som ferdes på sjøen; harmonisert med regelverk i andre europeiske land."}
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+          "section": "Forbudsskilt – Fartsgrense",
+          "quote": "Fartsgrense angir høyeste tillatte fart (for eksempel 5 knop)."
+        },
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+          "section": "Farvannsskilt",
+          "quote": "Farvannsskilt gir veiledning til de som ferdes på sjøen; harmonisert med regelverk i andre europeiske land."
+        }
       ]
     }
   ],
@@ -156,11 +216,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hva slags sjømerke viser bildet (rød stake)?",
-      "choices": ["Babordmerke (lateralmerke)", "Styrbordmerke (lateralmerke)", "Spesialmerke", "Nordmerke (kardinalmerke)"],
+      "choices": [
+        "Babordmerke (lateralmerke)",
+        "Styrbordmerke (lateralmerke)",
+        "Spesialmerke",
+        "Nordmerke (kardinalmerke)"
+      ],
       "correct": 0,
       "explanation": "En helrød stake er et babordmerke. I IALA region A skal røde merker holdes på babord side når du følger leias hovedretning – «rødt om babord inn».",
       "image_file": "redningsselskapet/images/content-uploads-2016-01-sideavmerking_rod.jpg",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sideavmerking rød", "quote": "Rødt merke passeres slik at man får rød lanterne (babord) mot merket når man følger ledens hovedretning."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sideavmerking rød",
+          "quote": "Rødt merke passeres slik at man får rød lanterne (babord) mot merket når man følger ledens hovedretning."
+        }
+      ]
     },
     {
       "id": "q_lateral_002",
@@ -170,11 +242,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hva slags sjømerke viser bildet (grønt, konisk merke med spiss topp)?",
-      "choices": ["Styrbordmerke (lateralmerke)", "Babordmerke (lateralmerke)", "Senterledsmerke", "Østmerke (kardinalmerke)"],
+      "choices": [
+        "Styrbordmerke (lateralmerke)",
+        "Babordmerke (lateralmerke)",
+        "Senterledsmerke",
+        "Østmerke (kardinalmerke)"
+      ],
       "correct": 0,
       "explanation": "Et helgrønt merke med spiss/konisk topp er et styrbordmerke. Grønne merker holdes på styrbord side når du følger leias hovedretning.",
       "image_file": "redningsselskapet/images/content-uploads-2016-01-gront_merke.jpg",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sideavmerking grønn", "quote": "Grønn sylinder med konisk toppmerke; passeres med grønn lanterne (styrbord) mot merket."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sideavmerking grønn",
+          "quote": "Grønn sylinder med konisk toppmerke; passeres med grønn lanterne (styrbord) mot merket."
+        }
+      ]
     },
     {
       "id": "q_lateral_003",
@@ -184,10 +268,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hva betyr huskeregelen «rødt om babord inn»?",
-      "choices": ["Når du følger leias hovedretning (inn mot havn), skal røde merker holdes på babord side", "Røde merker skal alltid holdes på styrbord side", "Røde merker betyr at det er forbudt å passere", "Røde merker markerer en frittliggende fare"],
+      "choices": [
+        "Når du følger leias hovedretning (inn mot havn), skal røde merker holdes på babord side",
+        "Røde merker skal alltid holdes på styrbord side",
+        "Røde merker betyr at det er forbudt å passere",
+        "Røde merker markerer en frittliggende fare"
+      ],
       "correct": 0,
       "explanation": "I IALA region A holder du de røde babordmerkene på din venstre (babord) side når du følger leias hovedretning innover.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Lateralmerker", "quote": "Røde merker på babord, grønne på styrbord når man følger leias hovedretning (IALA region A)."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Lateralmerker",
+          "quote": "Røde merker på babord, grønne på styrbord når man følger leias hovedretning (IALA region A)."
+        }
+      ]
     },
     {
       "id": "q_lateral_004",
@@ -197,10 +293,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Du følger leias hovedretning innover en fjord. På hvilken side skal du ha de grønne merkene?",
-      "choices": ["Styrbord (høyre)", "Babord (venstre)", "Det spiller ingen rolle", "Rett forut"],
+      "choices": [
+        "Styrbord (høyre)",
+        "Babord (venstre)",
+        "Det spiller ingen rolle",
+        "Rett forut"
+      ],
       "correct": 0,
       "explanation": "Grønne merker er styrbordmerker og holdes på styrbord (høyre) side når du følger leias hovedretning.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Lateralmerker", "quote": "Følger man hovedretninga: grønne merker på styrbord, røde om babord."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Lateralmerker",
+          "quote": "Følger man hovedretninga: grønne merker på styrbord, røde om babord."
+        }
+      ]
     },
     {
       "id": "q_lateral_005",
@@ -210,10 +318,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvordan finner du ut hva som er leias hovedretning?",
-      "choices": ["Ved å lese av pilen med en rød og en grønn prikk i sjøkartet", "Hovedretningen er alltid mot nord uansett farvann", "Den vises på selve staken med en pil", "Hovedretningen følger alltid strømmen"],
+      "choices": [
+        "Ved å lese av pilen med en rød og en grønn prikk i sjøkartet",
+        "Hovedretningen er alltid mot nord uansett farvann",
+        "Den vises på selve staken med en pil",
+        "Hovedretningen følger alltid strømmen"
+      ],
       "correct": 0,
       "explanation": "Leias hovedretning leses av i sjøkartet, der en pil med en rød og en grønn prikk viser retningen. Hovedretningen går normalt inn mot havner, men må alltid sjekkes i kartet.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sideavmerking", "quote": "I alle sjøkart finner du en pil med en rød og en grønn prikk som markerer ledens hovedretning."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sideavmerking",
+          "quote": "I alle sjøkart finner du en pil med en rød og en grønn prikk som markerer ledens hovedretning."
+        }
+      ]
     },
     {
       "id": "q_lateral_006",
@@ -223,11 +343,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Bildet viser IALA-lateralmerker. Hvilken side hører de røde merkene til når du følger leias hovedretning?",
-      "choices": ["Babord side", "Styrbord side", "Begge sider", "Midt i leia"],
+      "choices": [
+        "Babord side",
+        "Styrbord side",
+        "Begge sider",
+        "Midt i leia"
+      ],
       "correct": 0,
       "explanation": "I IALA region A er røde merker babordmerker; de grønne er styrbordmerker. «Rødt om babord inn.»",
       "image_file": "lanternenkurs/images/wp-content-uploads-2021-04-iala-system-for-sjomerker-boyer-o-c9789993.png",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Lateralmerker", "quote": "Røde merker om babord, grønne på styrbord ved følging av hovedretning."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Lateralmerker",
+          "quote": "Røde merker om babord, grønne på styrbord ved følging av hovedretning."
+        }
+      ]
     },
     {
       "id": "q_lateral_007",
@@ -237,11 +369,23 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Diagrammet viser et babordmerke og et styrbordmerke. Hvilken farge og topptegn har styrbordmerket?",
-      "choices": ["Grønt med konisk/spisst toppmerke", "Rødt med butt toppmerke", "Gult med X-topptegn", "Sort-gult med to kjegler"],
+      "choices": [
+        "Grønt med konisk/spisst toppmerke",
+        "Rødt med butt toppmerke",
+        "Gult med X-topptegn",
+        "Sort-gult med to kjegler"
+      ],
       "correct": 0,
       "explanation": "Styrbordmerket er grønt med konisk toppmerke (spiss topp). Babordmerket er rødt med butt/flat topp.",
       "image_file": "bukt/images/quiz-static-img-articles-lateralmerker.svg",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sideavmerking grønn", "quote": "Grønne staker er spisse på toppen – røde er flate."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sideavmerking grønn",
+          "quote": "Grønne staker er spisse på toppen – røde er flate."
+        }
+      ]
     },
     {
       "id": "q_lateral_008",
@@ -251,23 +395,47 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "På sjøkartet, hvordan tegnes vanligvis det grønne styrbordmerket?",
-      "choices": ["Sort og spisst", "Hvitt og butt", "Rødt og rundt", "Gult med kryss"],
+      "choices": [
+        "Sort og spisst",
+        "Hvitt og butt",
+        "Rødt og rundt",
+        "Gult med kryss"
+      ],
       "correct": 0,
       "explanation": "I kartet tegnes grønne styrbordmerker sorte og spisse, mens røde babordmerker tegnes hvite og butte.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Lateralmerker i kart", "quote": "Grønne staker (styrbord) er sorte og spisse i kartet; røde (babord) er hvite og butte."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Lateralmerker i kart",
+          "quote": "Grønne staker (styrbord) er sorte og spisse i kartet; røde (babord) er hvite og butte."
+        }
+      ]
     },
     {
       "id": "q_lateral_009",
       "concept_id": "nv-lateralmerker-iala",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 1,
       "importance": "critical",
       "exam_area": "spesielt_viktige",
-      "prompt": "Hvilken farge har et babordmerke, og hvilken side skal det holdes på i innseilingsretning?",
-      "choices": [],
-      "correct": 0,
+      "prompt": "Hvilken farge har et babordmerke, og hvor skal det holdes i innseilingsretningen?",
+      "choices": [
+        "Grønt, og holdes på babord side",
+        "Rødt, og holdes på styrbord side",
+        "Rødt, og holdes på babord (venstre) side – «rødt om babord inn»",
+        "Grønt, og holdes på styrbord side"
+      ],
+      "correct": 2,
       "explanation": "Babordmerket er rødt og holdes på babord (venstre) side når du følger leias hovedretning – «rødt om babord inn».",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sideavmerking rød", "quote": "Rødt merke = babordmerke, holdes på babord ved følging av hovedretning."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sideavmerking rød",
+          "quote": "Rødt merke = babordmerke, holdes på babord ved følging av hovedretning."
+        }
+      ]
     },
     {
       "id": "q_lateral_010",
@@ -277,10 +445,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du går UT fra havna, altså MOT leias hovedretning. Hvilken side har de røde merkene nå?",
-      "choices": ["Styrbord side (de røde merkene har byttet side i forhold til deg)", "Fortsatt babord side", "De røde merkene forsvinner", "Midt i leia"],
+      "choices": [
+        "Styrbord side (de røde merkene har byttet side i forhold til deg)",
+        "Fortsatt babord side",
+        "De røde merkene forsvinner",
+        "Midt i leia"
+      ],
       "correct": 0,
       "explanation": "Hovedregelen «rødt om babord» gjelder når du følger hovedretningen. Går du motsatt vei, vil de røde merkene være på din styrbord side. Selve merkets fysiske side i leia endres ikke; det er din retning som er motsatt.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sideavmerking", "quote": "Motsatt for trafikk som går mot hovedretninga."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sideavmerking",
+          "quote": "Motsatt for trafikk som går mot hovedretninga."
+        }
+      ]
     },
     {
       "id": "q_lateral_011",
@@ -290,10 +470,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvilken lysfarge har et belyst styrbordmerke?",
-      "choices": ["Grønt", "Rødt", "Hvitt", "Gult"],
+      "choices": [
+        "Grønt",
+        "Rødt",
+        "Hvitt",
+        "Gult"
+      ],
       "correct": 0,
       "explanation": "Styrbordmerket har grønt lys (med valgfri karakteristikk), babordmerket rødt. Det matcher merkets farge og dine egne sidelys.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sideavmerking grønn", "quote": "Grønt lys med hva som helst av karakter på styrbordmerket."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sideavmerking grønn",
+          "quote": "Grønt lys med hva som helst av karakter på styrbordmerket."
+        }
+      ]
     },
     {
       "id": "q_kardinal_001",
@@ -303,11 +495,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Bildet viser et komplett kardinalmerke-diagram rundt en fare. På hvilken side av et NORDMERKE skal du passere?",
-      "choices": ["Nord for merket", "Sør for merket", "Øst for merket", "Vest for merket"],
+      "choices": [
+        "Nord for merket",
+        "Sør for merket",
+        "Øst for merket",
+        "Vest for merket"
+      ],
       "correct": 0,
       "explanation": "Du skal passere på den kompasskanten merkets navn angir. Nordmerket passeres nord for merket.",
       "image_file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3ace3ec8.png",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinalmerker", "quote": "Man skal gå nord for et nordmerke og sør for et sørmerke, vest for et vestmerke og øst for et østmerke."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinalmerker",
+          "quote": "Man skal gå nord for et nordmerke og sør for et sørmerke, vest for et vestmerke og øst for et østmerke."
+        }
+      ]
     },
     {
       "id": "q_kardinal_002",
@@ -317,11 +521,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Bildet viser en stake som er sort øverst og gul nederst (sort over gul). Hvilket kardinalmerke er dette?",
-      "choices": ["Nordmerke", "Sørmerke", "Østmerke", "Vestmerke"],
+      "choices": [
+        "Nordmerke",
+        "Sørmerke",
+        "Østmerke",
+        "Vestmerke"
+      ],
       "correct": 0,
       "explanation": "Sort over gul (BY) er nordmerket. Topptegnet er to sorte kjegler som peker opp, og lyset er kontinuerlig hurtigblink (Q).",
       "image_file": "redningsselskapet/images/content-uploads-2025-08-nordmerk_m_bakgrunn.png",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinal nord", "quote": "Nord: svart over gul (BY); to svarte kjegler som peker opp."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinal nord",
+          "quote": "Nord: svart over gul (BY); to svarte kjegler som peker opp."
+        }
+      ]
     },
     {
       "id": "q_kardinal_003",
@@ -331,11 +547,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Bildet viser en sort stake med ett gult belte i midten (sort-gul-sort). Hvilket kardinalmerke er dette?",
-      "choices": ["Østmerke", "Vestmerke", "Nordmerke", "Sørmerke"],
+      "choices": [
+        "Østmerke",
+        "Vestmerke",
+        "Nordmerke",
+        "Sørmerke"
+      ],
       "correct": 0,
       "explanation": "Sort-gul-sort (BYB) er østmerket. Topptegnet er to kjegler med basene mot hverandre, og lyset er Q(3).",
       "image_file": "redningsselskapet/images/content-uploads-2025-08-ostmerke_m_bakgrunn.png",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinal øst", "quote": "Øst: svart gul svart (BYB); øverste kjegle peker opp, nederste ned."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinal øst",
+          "quote": "Øst: svart gul svart (BYB); øverste kjegle peker opp, nederste ned."
+        }
+      ]
     },
     {
       "id": "q_kardinal_004",
@@ -345,11 +573,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Bildet viser en stake gul-sort-gul (gul med ett sort belte i midten). Hvilket kardinalmerke er dette?",
-      "choices": ["Vestmerke", "Østmerke", "Nordmerke", "Sørmerke"],
+      "choices": [
+        "Vestmerke",
+        "Østmerke",
+        "Nordmerke",
+        "Sørmerke"
+      ],
       "correct": 0,
       "explanation": "Gul-sort-gul (YBY) er vestmerket. Topptegnet er to kjegler med spissene mot hverandre (timeglass, ligner en «V»), og lyset er Q(9).",
       "image_file": "redningsselskapet/images/content-uploads-2025-08-vestmerke_m_bakgrunn.png",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinal vest", "quote": "Vest: gul svart gul (YBY); øverste kjegle peker ned, nederste opp."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinal vest",
+          "quote": "Vest: gul svart gul (YBY); øverste kjegle peker ned, nederste opp."
+        }
+      ]
     },
     {
       "id": "q_kardinal_005",
@@ -359,10 +599,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hvilket topptegn har et SØRMERKE?",
-      "choices": ["To sorte kjegler som begge peker ned", "To sorte kjegler som begge peker opp", "To kjegler med basene mot hverandre", "To kjegler med spissene mot hverandre"],
+      "choices": [
+        "To sorte kjegler som begge peker ned",
+        "To sorte kjegler som begge peker opp",
+        "To kjegler med basene mot hverandre",
+        "To kjegler med spissene mot hverandre"
+      ],
       "correct": 0,
       "explanation": "Sørmerkets to kjegler peker begge ned – som «sør» peker ned på kartet. Fargen er gul over sort (YB), og lyset er Q(6)+LFl.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinal syd", "quote": "Sør: gul/svart (YB); to svarte kjegler som begge peker ned."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinal syd",
+          "quote": "Sør: gul/svart (YB); to svarte kjegler som begge peker ned."
+        }
+      ]
     },
     {
       "id": "q_kardinal_006",
@@ -372,10 +624,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hvilke to farger har alle kardinalmerker?",
-      "choices": ["Sort og gul", "Rød og grønn", "Rød og hvit", "Sort og rød"],
+      "choices": [
+        "Sort og gul",
+        "Rød og grønn",
+        "Rød og hvit",
+        "Sort og rød"
+      ],
       "correct": 0,
       "explanation": "Kardinalmerker er alltid sorte og gule. Rekkefølgen på fargene (BY/BYB/YB/YBY) sammen med kjeglene angir retningen.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinalmerker", "quote": "Kardinalmerker er sorte og gule (BY/BYB/YB/YBY)."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinalmerker",
+          "quote": "Kardinalmerker er sorte og gule (BY/BYB/YB/YBY)."
+        }
+      ]
     },
     {
       "id": "q_kardinal_007",
@@ -385,10 +649,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvilken lyskarakteristikk har et vestmerke?",
-      "choices": ["Q(9) – ni hvite hurtigblink i gruppe", "Q(3) – tre hvite hurtigblink", "Q(6) + langt blink", "Q – kontinuerlig hurtigblink"],
+      "choices": [
+        "Q(9) – ni hvite hurtigblink i gruppe",
+        "Q(3) – tre hvite hurtigblink",
+        "Q(6) + langt blink",
+        "Q – kontinuerlig hurtigblink"
+      ],
       "correct": 0,
       "explanation": "Vestmerket lyser med ni hurtigblink i gruppe, Q(9). Klokke-huskeregelen: vest ligger ved kl. 9.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinal vest", "quote": "Vest: hvit hurtigblink med grupper av ni blink – Q(9) W 15s."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinal vest",
+          "quote": "Vest: hvit hurtigblink med grupper av ni blink – Q(9) W 15s."
+        }
+      ]
     },
     {
       "id": "q_kardinal_008",
@@ -398,10 +674,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvilken lyskarakteristikk skiller sørmerket fra de andre kardinalmerkene?",
-      "choices": ["Q(6) + ett langt blink (LFl)", "Q(3)", "Q(9)", "Q kontinuerlig"],
+      "choices": [
+        "Q(6) + ett langt blink (LFl)",
+        "Q(3)",
+        "Q(9)",
+        "Q kontinuerlig"
+      ],
       "correct": 0,
       "explanation": "Sørmerket har seks hurtigblink etterfulgt av ett langt blink, Q(6)+LFl. De andre har Q (nord), Q(3) (øst) og Q(9) (vest).",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinal syd", "quote": "Sør: seks blink, deretter langvarig lys – Q(6) +LFl W 15s."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinal syd",
+          "quote": "Sør: seks blink, deretter langvarig lys – Q(6) +LFl W 15s."
+        }
+      ]
     },
     {
       "id": "q_kardinal_009",
@@ -411,11 +699,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Bildet viser de fire kardinalmerkene. Hva er hovedfunksjonen til disse merkene?",
-      "choices": ["Å vise hvilken kompasskant av en fare det er trygt å passere", "Å vise leias hovedretning inn mot havn", "Å markere fartsgrenser", "Å markere et badeområde"],
+      "choices": [
+        "Å vise hvilken kompasskant av en fare det er trygt å passere",
+        "Å vise leias hovedretning inn mot havn",
+        "Å markere fartsgrenser",
+        "Å markere et badeområde"
+      ],
       "correct": 0,
       "explanation": "Kardinalmerker angir hvilken kompassretning (nord/øst/sør/vest) som er trygt farvann i forhold til en fare.",
       "image_file": "bukt/images/quiz-static-img-articles-kardinalmerker.svg",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinalmerker", "quote": "Kardinalmerker gir informasjon om farer og sier hvilken kompassretning som er trygt farvann."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinalmerker",
+          "quote": "Kardinalmerker gir informasjon om farer og sier hvilken kompassretning som er trygt farvann."
+        }
+      ]
     },
     {
       "id": "q_kardinal_010",
@@ -425,23 +725,47 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Du ser en sort/gul stake med sort over gul og to kjegler som peker opp. Hvor skal du passere?",
-      "choices": ["Nord for merket", "Sør for merket", "Øst for merket", "Vest for merket"],
+      "choices": [
+        "Nord for merket",
+        "Sør for merket",
+        "Øst for merket",
+        "Vest for merket"
+      ],
       "correct": 0,
       "explanation": "Sort over gul med kjegler opp er et nordmerke – du passerer nord for det.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinal nord", "quote": "Nord (passering nord for merket): svart over gul, kjegler opp."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinal nord",
+          "quote": "Nord (passering nord for merket): svart over gul, kjegler opp."
+        }
+      ]
     },
     {
       "id": "q_kardinal_011",
       "concept_id": "nv-kardinalmerker-iala",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 2,
       "importance": "high",
       "exam_area": "navigasjon",
-      "prompt": "Hva er fargerekkefølgen (ovenfra) og kjeglene for et østmerke?",
-      "choices": [],
-      "correct": 0,
-      "explanation": "Østmerke: sort-gul-sort (BYB). Kjeglene har basene mot hverandre (øverste peker opp, nederste ned). Lys Q(3).",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinal øst", "quote": "Øst: BYB; øverste kjegle opp, nederste ned; Q(3)."}]
+      "prompt": "Hva er fargerekkefølgen (ovenfra) på et østmerke?",
+      "choices": [
+        "Sort over gul (BY)",
+        "Sort-gul-sort (BYB)",
+        "Gul over sort (YB)",
+        "Gul-sort-gul (YBY)"
+      ],
+      "correct": 1,
+      "explanation": "Østmerket er sort-gul-sort (BYB) med kjeglene base mot base, og lyser VQ(3)/Q(3) hvitt.",
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinal øst",
+          "quote": "Øst: BYB; øverste kjegle opp, nederste ned; Q(3)."
+        }
+      ]
     },
     {
       "id": "q_kardinal_012",
@@ -451,10 +775,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Et kardinalmerke har gul over sort farge (YB). Hvilket merke er det, og hvor passerer du?",
-      "choices": ["Sørmerke – passer sør for merket", "Nordmerke – passer nord for merket", "Vestmerke – passer vest for merket", "Østmerke – passer øst for merket"],
+      "choices": [
+        "Sørmerke – passer sør for merket",
+        "Nordmerke – passer nord for merket",
+        "Vestmerke – passer vest for merket",
+        "Østmerke – passer øst for merket"
+      ],
       "correct": 0,
       "explanation": "Gul over sort (YB) er sørmerket; kjeglene peker ned. Du skal passere sør for det.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Kardinal syd", "quote": "Sør: gul over sort (YB), kjegler ned; passering sør for merket."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Kardinal syd",
+          "quote": "Sør: gul over sort (YB), kjegler ned; passering sør for merket."
+        }
+      ]
     },
     {
       "id": "q_kardinal_013",
@@ -464,10 +800,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvorfor bør du alltid kontrollere kardinalmerker mot sjøkartet?",
-      "choices": ["Staker kan ha blitt skadet eller vridd og peke/stå feil", "Fargene endres med årstiden", "Kardinalmerker fjernes om natten", "Topptegnet snur seg etter strømmen med vilje"],
+      "choices": [
+        "Staker kan ha blitt skadet eller vridd og peke/stå feil",
+        "Fargene endres med årstiden",
+        "Kardinalmerker fjernes om natten",
+        "Topptegnet snur seg etter strømmen med vilje"
+      ],
       "correct": 0,
       "explanation": "Merker langs kysten kan bli skadet av sjø, vær og sammenstøt, så viser/topptegn kan stå feil. Bruk derfor alltid sjøkartet i tillegg.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Stang", "quote": "Stenger kan være skjeve og viser/toppmerke kan ha blitt vridd; bruk derfor alltid sjøkartet."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Stang",
+          "quote": "Stenger kan være skjeve og viser/toppmerke kan ha blitt vridd; bruk derfor alltid sjøkartet."
+        }
+      ]
     },
     {
       "id": "q_spesial_001",
@@ -477,11 +825,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Bildet viser et helgult merke med et gult X (Andreaskors) på toppen. Hva er dette?",
-      "choices": ["Spesialmerke", "Styrbordmerke", "Senterledsmerke", "Sørmerke"],
+      "choices": [
+        "Spesialmerke",
+        "Styrbordmerke",
+        "Senterledsmerke",
+        "Sørmerke"
+      ],
       "correct": 0,
       "explanation": "Helgult merke med gult X-topptegn er et spesialmerke. Det markerer spesielle områder som badeplasser, kabler, oppdrett eller militære felt.",
       "image_file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-1436d7ea.png",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Spesialmerke", "quote": "Spesialmerke: gul farge, gult kryss som toppmerke, gult lys."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Spesialmerke",
+          "quote": "Spesialmerke: gul farge, gult kryss som toppmerke, gult lys."
+        }
+      ]
     },
     {
       "id": "q_spesial_002",
@@ -491,11 +851,23 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Bildet viser gule merker med gult X-topptegn ved et badeområde. Hvilken regel gjelder typisk innenfor slike badebøyer?",
-      "choices": ["Maks 5 knop nærmere enn 50 m, og normalt forbud mot motorbåt innenfor bøyene", "Fri fart, men hold god utkikk", "Ankring er påbudt", "Det er kun tillatt å seile"],
+      "choices": [
+        "Maks 5 knop nærmere enn 50 m, og normalt forbud mot motorbåt innenfor bøyene",
+        "Fri fart, men hold god utkikk",
+        "Ankring er påbudt",
+        "Det er kun tillatt å seile"
+      ],
       "correct": 0,
       "explanation": "Spesialmerker brukes blant annet som badebøyer. Innenfor er det normalt forbudt å kjøre motorbåt, og nærmere enn 50 m er det maks 5 knop. Vær oppmerksom på svømmere også utenfor bøyene.",
       "image_file": "redningsselskapet/images/content-uploads-2026-04-badeboye_spesialmerke-1024x731.png",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Spesialmerke (badebøye)", "quote": "Forbudt å kjøre motorbåt innenfor bøyene; 50 m eller nærmere maksfart 5 knop."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Spesialmerke (badebøye)",
+          "quote": "Forbudt å kjøre motorbåt innenfor bøyene; 50 m eller nærmere maksfart 5 knop."
+        }
+      ]
     },
     {
       "id": "q_spesial_003",
@@ -505,11 +877,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Bildet viser et merke som er sort med rødt belte. Hva markerer dette merket?",
-      "choices": ["En frittliggende fare (isolert fare) – du kan passere på alle sider med god klaring", "Babord side av leia", "At det er forbudt å passere", "Et badeområde"],
+      "choices": [
+        "En frittliggende fare (isolert fare) – du kan passere på alle sider med god klaring",
+        "Babord side av leia",
+        "At det er forbudt å passere",
+        "Et badeområde"
+      ],
       "correct": 0,
       "explanation": "Sort med røde belter (BRB) og to sorte kuler som topptegn markerer en frittliggende/isolert fare. Det er farbart rundt på alle sider, men hold god klaring.",
       "image_file": "redningsselskapet/images/content-uploads-2016-01-frittliggende_grunne.jpg",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Frittliggende grunne", "quote": "Svart med røde bånd; trafikken kan gå på alle sider av faren."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Frittliggende grunne",
+          "quote": "Svart med røde bånd; trafikken kan gå på alle sider av faren."
+        }
+      ]
     },
     {
       "id": "q_spesial_004",
@@ -519,10 +903,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Hvilket topptegn og lys har merket for frittliggende fare (isolert fare)?",
-      "choices": ["To sorte kuler over hverandre; lys Fl(2) hvitt", "Ett gult kryss; gult lys", "Én rød kule; hvitt langblink", "To kjegler som peker opp; Q hvitt"],
+      "choices": [
+        "To sorte kuler over hverandre; lys Fl(2) hvitt",
+        "Ett gult kryss; gult lys",
+        "Én rød kule; hvitt langblink",
+        "To kjegler som peker opp; Q hvitt"
+      ],
       "correct": 0,
       "explanation": "Frittliggende fare har to sorte kuler som topptegn og lyser hvitt med to glimt i gruppe, Fl(2).",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Frittliggende grunne", "quote": "Toppmerke to svarte kuler; lys hvitt, grupper med to hurtigblink."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Frittliggende grunne",
+          "quote": "Toppmerke to svarte kuler; lys hvitt, grupper med to hurtigblink."
+        }
+      ]
     },
     {
       "id": "q_spesial_005",
@@ -532,11 +928,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Bildet viser et merke med røde og hvite vertikale striper. Hva er dette?",
-      "choices": ["Senterledsmerke (trygt vann / midtfarvann)", "Babordmerke", "Frittliggende fare", "Spesialmerke"],
+      "choices": [
+        "Senterledsmerke (trygt vann / midtfarvann)",
+        "Babordmerke",
+        "Frittliggende fare",
+        "Spesialmerke"
+      ],
       "correct": 0,
       "explanation": "Røde og hvite vertikale striper med én rød kule som topptegn er et senterledsmerke. Det markerer midten av leia / trygt vann, og du kan passere på alle sider.",
       "image_file": "redningsselskapet/images/content-uploads-2026-04-senterledsmerke-1024x731.png",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Senterledsmerke", "quote": "Rød og hvit, en rød kule som toppmerke; markerer midten av en kanal eller trygt område."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Senterledsmerke",
+          "quote": "Rød og hvit, en rød kule som toppmerke; markerer midten av en kanal eller trygt område."
+        }
+      ]
     },
     {
       "id": "q_spesial_006",
@@ -546,10 +954,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvilket topptegn har et senterledsmerke?",
-      "choices": ["Én rød kule", "To sorte kuler", "Gult kryss", "To kjegler"],
+      "choices": [
+        "Én rød kule",
+        "To sorte kuler",
+        "Gult kryss",
+        "To kjegler"
+      ],
       "correct": 0,
       "explanation": "Senterledsmerket har én rød kule som topptegn og rød-hvite vertikale striper.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Senterledsmerke", "quote": "Toppmerke: en rød kule."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Senterledsmerke",
+          "quote": "Toppmerke: en rød kule."
+        }
+      ]
     },
     {
       "id": "q_spesial_007",
@@ -559,11 +979,23 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Bildet viser en sort-hvit-sort malt varde med en horisontal arm (viser). Hva betyr armen?",
-      "choices": ["Armen peker mot trygt farvann – du passerer på den siden armen peker", "Armen peker mot fare – hold deg unna den siden", "Armen viser nord", "Armen angir fartsgrense"],
+      "choices": [
+        "Armen peker mot trygt farvann – du passerer på den siden armen peker",
+        "Armen peker mot fare – hold deg unna den siden",
+        "Armen viser nord",
+        "Armen angir fartsgrense"
+      ],
       "correct": 0,
       "explanation": "En varde/stake med arm peker alltid mot trygt farvann; du passerer på den siden armen peker. Kontroller likevel mot kartet, for armen kan ha vridd seg i dårlig vær.",
       "image_file": "redningsselskapet/images/content-uploads-2016-01-sjomerke_blindleia.jpg",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Varde med arm", "quote": "Skal passeres på den siden armen peker; armen peker mot trygt farvann."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Varde med arm",
+          "quote": "Skal passeres på den siden armen peker; armen peker mot trygt farvann."
+        }
+      ]
     },
     {
       "id": "q_spesial_008",
@@ -573,10 +1005,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Et fast merke har viser til begge sider, eller hvit refleks på toppmerket. Hva betyr det?",
-      "choices": ["Det er farbar led på begge sider av merket", "Merket er ødelagt og skal ignoreres", "Du må alltid passere på styrbord side", "Det markerer en frittliggende fare"],
+      "choices": [
+        "Det er farbar led på begge sider av merket",
+        "Merket er ødelagt og skal ignoreres",
+        "Du må alltid passere på styrbord side",
+        "Det markerer en frittliggende fare"
+      ],
       "correct": 0,
       "explanation": "Visere til begge sider eller hvit refleks på toppmerket/kreksen betyr at det er farbar led på begge sider av merket.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Stang/varde/båke", "quote": "Visere til begge sider, eller hvit refleks på toppmerket, betyr farbar led på begge sider."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Stang/varde/båke",
+          "quote": "Visere til begge sider, eller hvit refleks på toppmerket, betyr farbar led på begge sider."
+        }
+      ]
     },
     {
       "id": "q_spesial_009",
@@ -586,11 +1030,23 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Bildet viser et merke som er sort med to røde belter (bøye/stake). Hva slags merke er dette?",
-      "choices": ["Merke for frittliggende fare (isolert fare)", "Nordmerke", "Senterledsmerke", "Styrbordmerke"],
+      "choices": [
+        "Merke for frittliggende fare (isolert fare)",
+        "Nordmerke",
+        "Senterledsmerke",
+        "Styrbordmerke"
+      ],
       "correct": 0,
       "explanation": "Sort med røde belter (BRB) er merke for frittliggende/isolert fare. Topptegnet er to sorte kuler.",
       "image_file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-9db6004e.png",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Frittliggende grunne", "quote": "Svart med røde bånd; to svarte kuler som toppmerke."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Frittliggende grunne",
+          "quote": "Svart med røde bånd; to svarte kuler som toppmerke."
+        }
+      ]
     },
     {
       "id": "q_spesial_010",
@@ -600,23 +1056,47 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvilken farge og lys har et spesialmerke?",
-      "choices": ["Helgult merke med gult lys", "Sort/gult merke med hvitt lys", "Rødt merke med rødt lys", "Rød-hvitt merke med hvitt lys"],
+      "choices": [
+        "Helgult merke med gult lys",
+        "Sort/gult merke med hvitt lys",
+        "Rødt merke med rødt lys",
+        "Rød-hvitt merke med hvitt lys"
+      ],
       "correct": 0,
       "explanation": "Spesialmerket er helgult, har gult X-topptegn og gult lys med valgfri karakteristikk.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Spesialmerke", "quote": "Farge gul, toppmerke gult kryss, lys gult."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Spesialmerke",
+          "quote": "Farge gul, toppmerke gult kryss, lys gult."
+        }
+      ]
     },
     {
       "id": "q_spesial_011",
       "concept_id": "nv-spesial-fare-senterled-merker",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 2,
       "importance": "high",
       "exam_area": "navigasjon",
-      "prompt": "Hvordan kjenner du igjen et merke for frittliggende fare, og hvordan passerer du det?",
-      "choices": [],
-      "correct": 0,
-      "explanation": "Sort med røde belter (BRB), topptegn to sorte kuler, lys Fl(2) hvitt. Det er farbart på alle sider, men du holder god klaring.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Frittliggende grunne", "quote": "Svart med røde bånd; trafikken kan gå på alle sider av faren."}]
+      "prompt": "Hvordan kjenner du igjen et merke for frittliggende (isolert) fare?",
+      "choices": [
+        "Helgult med gult X-topptegn",
+        "Røde og hvite vertikale striper med én rød kule som topptegn",
+        "Grønt med kjegle som topptegn",
+        "Sort med røde belter (BRB) og to sorte kuler som topptegn"
+      ],
+      "correct": 3,
+      "explanation": "Merket for frittliggende fare er sort med røde belter (BRB), har topptegn med to sorte kuler og lys Fl(2) hvitt; det er farbart på alle sider med god klaring.",
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Frittliggende grunne",
+          "quote": "Svart med røde bånd; trafikken kan gå på alle sider av faren."
+        }
+      ]
     },
     {
       "id": "q_spesial_012",
@@ -626,10 +1106,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du nærmer deg et skjær der det står en jernstake med en arm som peker mot venstre. Hva gjør du?",
-      "choices": ["Passerer på venstre side, der armen peker (trygt farvann), men sjekker kartet", "Passerer på høyre side, motsatt av armen", "Snur og kjører tilbake", "Ankrer ved staken"],
+      "choices": [
+        "Passerer på venstre side, der armen peker (trygt farvann), men sjekker kartet",
+        "Passerer på høyre side, motsatt av armen",
+        "Snur og kjører tilbake",
+        "Ankrer ved staken"
+      ],
       "correct": 0,
       "explanation": "Armen peker mot trygt farvann, så du passerer på den siden armen peker. Kontroller alltid mot kartet, siden armen kan ha vridd seg.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Jernstang med arm", "quote": "Skal passeres på den siden som armen peker; armen peker mot trygt farvann."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Jernstang med arm",
+          "quote": "Skal passeres på den siden som armen peker; armen peker mot trygt farvann."
+        }
+      ]
     },
     {
       "id": "q_sektor_001",
@@ -639,11 +1131,23 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Bildet viser et kartutsnitt med en sektorlykt som har grønne, røde og hvite sektorer. Hvilken sektor viser det trygge løpet?",
-      "choices": ["Den hvite sektoren", "Den røde sektoren", "Den grønne sektoren", "Både rød og grønn sektor"],
+      "choices": [
+        "Den hvite sektoren",
+        "Den røde sektoren",
+        "Den grønne sektoren",
+        "Både rød og grønn sektor"
+      ],
       "correct": 0,
       "explanation": "Hvit sektor viser det farbare, trygge løpet. Rød og grønn sektor advarer mot fare/grunne.",
       "image_file": "kystverket/images/contentassets-0cdf44808b804bcfbe32912ae78e972c-eksempel-pa-s-d80e5d08.jpg",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Sektorinndeling", "quote": "Hvit sektor = trygt/farbart løp; rød og grønn sektor advarer mot fare."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Sektorinndeling",
+          "quote": "Hvit sektor = trygt/farbart løp; rød og grønn sektor advarer mot fare."
+        }
+      ]
     },
     {
       "id": "q_sektor_002",
@@ -653,10 +1157,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Du ser hvitt lys fra en sektorlykt. Hva betyr det?",
-      "choices": ["Du er i trygt, farbart løp", "Du er på vei mot en grunne på styrbord side", "Du er på vei mot en grunne på babord side", "Lykten er ute av drift"],
+      "choices": [
+        "Du er i trygt, farbart løp",
+        "Du er på vei mot en grunne på styrbord side",
+        "Du er på vei mot en grunne på babord side",
+        "Lykten er ute av drift"
+      ],
       "correct": 0,
       "explanation": "Hvitt lys (W) betyr at du er i klar/trygg sektor og kan holde kursen inn mot lykten.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sektorlys", "quote": "Hvit sektor er klar/trygg sektor."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sektorlys",
+          "quote": "Hvit sektor er klar/trygg sektor."
+        }
+      ]
     },
     {
       "id": "q_sektor_003",
@@ -666,10 +1182,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "Du ser plutselig rødt lys fra en sektorlykt mens du seiler inn. Hva bør du gjøre?",
-      "choices": ["Korrigere kursen tilbake mot hvit sektor", "Fortsette rett frem mot lykten", "Øke farten", "Ankre umiddelbart"],
+      "choices": [
+        "Korrigere kursen tilbake mot hvit sektor",
+        "Fortsette rett frem mot lykten",
+        "Øke farten",
+        "Ankre umiddelbart"
+      ],
       "correct": 0,
       "explanation": "Rødt (eller grønt) lys betyr at du er utenfor det trygge løpet, mot fare/grunne. Du må orientere deg tilbake mot hvit sektor.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sektorlys", "quote": "Er du i rød eller grønn sektor, må du orientere deg inn mot hvit sektor."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sektorlys",
+          "quote": "Er du i rød eller grønn sektor, må du orientere deg inn mot hvit sektor."
+        }
+      ]
     },
     {
       "id": "q_sektor_004",
@@ -679,10 +1207,22 @@
       "importance": "critical",
       "exam_area": "spesielt_viktige",
       "prompt": "På hvilken side av leia ligger normalt den grønne sektoren i en sektorlykt (innseilingsretning)?",
-      "choices": ["På styrbord side av leia", "På babord side av leia", "Midt i leia", "Det varierer tilfeldig"],
+      "choices": [
+        "På styrbord side av leia",
+        "På babord side av leia",
+        "Midt i leia",
+        "Det varierer tilfeldig"
+      ],
       "correct": 0,
       "explanation": "Grønn sektor ligger på styrbord side av leia, rød på babord side – samme logikk som lateralmerkene.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Sektorlykt", "quote": "Grønn sektor = styrbord side av leia, rød sektor = babord side."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Sektorlykt",
+          "quote": "Grønn sektor = styrbord side av leia, rød sektor = babord side."
+        }
+      ]
     },
     {
       "id": "q_sektor_005",
@@ -692,10 +1232,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva er en sektorlykt?",
-      "choices": ["En fast lykt som lyser med ulik farge i ulike retninger og deler farvannet i sektorer", "En flytende bøye som markerer en grunne", "Et farvannsskilt for fartsgrense", "En lanterne på en båt"],
+      "choices": [
+        "En fast lykt som lyser med ulik farge i ulike retninger og deler farvannet i sektorer",
+        "En flytende bøye som markerer en grunne",
+        "Et farvannsskilt for fartsgrense",
+        "En lanterne på en båt"
+      ],
       "correct": 0,
       "explanation": "En sektorlykt er en fast lyskilde som lyser med ulik farge (hvit/rød/grønn) i ulike retninger, slik at fargen forteller hvor du er i forhold til leia.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sektorlykt", "quote": "En sektorlykt lyser med ulike farger i forskjellige retninger og deler området i rød, grønn og hvit sektor."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sektorlykt",
+          "quote": "En sektorlykt lyser med ulike farger i forskjellige retninger og deler området i rød, grønn og hvit sektor."
+        }
+      ]
     },
     {
       "id": "q_sektor_006",
@@ -705,10 +1257,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hvordan tegnes ofte den hvite sektoren til en sektorlykt på sjøkartet?",
-      "choices": ["Som gul sektor", "Som hvit sektor", "Som grå sektor", "Den vises ikke i kartet"],
+      "choices": [
+        "Som gul sektor",
+        "Som hvit sektor",
+        "Som grå sektor",
+        "Den vises ikke i kartet"
+      ],
       "correct": 0,
       "explanation": "Den hvite sektoren tegnes vanligvis gul i sjøkartet, mens rød og grønn sektor tegnes i sine egne farger.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sektorlykt i kart", "quote": "Hvitt lys er vanligvis markert som gult på sjøkartet."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sektorlykt i kart",
+          "quote": "Hvitt lys er vanligvis markert som gult på sjøkartet."
+        }
+      ]
     },
     {
       "id": "q_sektor_007",
@@ -718,11 +1282,23 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Bildet viser Halten fyr som et hvitt tårn med to sorte belter. Hva er hovedfunksjonen til et slikt kystfyr?",
-      "choices": ["Å være et fast lysmerke som hjelper båtfolk å navigere og kjenne seg igjen", "Å markere en fartsgrense", "Å markere et badeområde", "Å vise leias hovedretning med en pil"],
+      "choices": [
+        "Å være et fast lysmerke som hjelper båtfolk å navigere og kjenne seg igjen",
+        "Å markere en fartsgrense",
+        "Å markere et badeområde",
+        "Å vise leias hovedretning med en pil"
+      ],
       "correct": 0,
       "explanation": "Et kystfyr er et fast lysmerke (med karakteristisk lys og dagmerke-utseende) som hjelper sjøfarende å navigere og orientere seg, særlig i mørke.",
       "image_file": "kartverket/images/globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Fyr og lykter", "quote": "Fyr og lykter er faste lyskilder som hjelper sjøfarende å navigere."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Fyr og lykter",
+          "quote": "Fyr og lykter er faste lyskilder som hjelper sjøfarende å navigere."
+        }
+      ]
     },
     {
       "id": "q_sektor_008",
@@ -732,23 +1308,47 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du seiler inn mot en havn i mørke og ser grønt lys fra innseilingslykten. Hva forteller dette deg, og hva gjør du?",
-      "choices": ["Du er kommet ut på styrbord side av leia og bør korrigere mot hvit sektor", "Du er midt i trygt løp og kan fortsette", "Du er på babord side og bør gå mer mot styrbord", "Lykten er en kardinalmerke-lykt"],
+      "choices": [
+        "Du er kommet ut på styrbord side av leia og bør korrigere mot hvit sektor",
+        "Du er midt i trygt løp og kan fortsette",
+        "Du er på babord side og bør gå mer mot styrbord",
+        "Lykten er en kardinalmerke-lykt"
+      ],
       "correct": 0,
       "explanation": "Grønt lys betyr at du er utenfor leia på styrbord side. Du må korrigere kursen tilbake mot hvit (trygg) sektor.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sektorlys", "quote": "Grønt lys = utenfor leia (styrbord side); juster mot hvit sektor."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sektorlys",
+          "quote": "Grønt lys = utenfor leia (styrbord side); juster mot hvit sektor."
+        }
+      ]
     },
     {
       "id": "q_sektor_009",
       "concept_id": "nv-sektorlykt-fyr",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 1,
       "importance": "critical",
       "exam_area": "spesielt_viktige",
-      "prompt": "Hva betyr henholdsvis hvit, rød og grønn sektor fra en sektorlykt?",
-      "choices": [],
+      "prompt": "Hva betyr den hvite sektoren fra en sektorlykt?",
+      "choices": [
+        "Trygt og farbart løp – styr mot hvit sektor",
+        "Fare/grunne på babord side av leia",
+        "Fare/grunne på styrbord side av leia",
+        "Fartsgrense på 5 knop i løpet"
+      ],
       "correct": 0,
-      "explanation": "Hvit = trygt/farbart løp. Rød = fare/grunne på babord side av leia. Grønn = fare/grunne på styrbord side av leia. Styr mot hvit sektor.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Sektorlys", "quote": "Hvit trygg; rød og grønn advarer; grønn styrbord, rød babord side av leia."}]
+      "explanation": "Hvit sektor betyr trygt/farbart løp, rød sektor betyr fare/grunne på babord side, og grønn sektor betyr fare/grunne på styrbord side av leia.",
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Sektorlys",
+          "quote": "Hvit trygg; rød og grønn advarer; grønn styrbord, rød babord side av leia."
+        }
+      ]
     },
     {
       "id": "q_lyskar_001",
@@ -758,11 +1358,23 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Diagrammet viser ulike lyskarakteristikker. Hva betyr karakteristikken «Iso» (isofase)?",
-      "choices": ["Like lange perioder med lys og mørke", "Lyset varer lengre enn mørket", "Mørket varer lengre enn lyset", "Konstant, fast lys"],
+      "choices": [
+        "Like lange perioder med lys og mørke",
+        "Lyset varer lengre enn mørket",
+        "Mørket varer lengre enn lyset",
+        "Konstant, fast lys"
+      ],
       "correct": 0,
       "explanation": "Isofase (Iso) betyr like lang lys- og mørketid, for eksempel 2 sekunder lys og 2 sekunder mørke.",
       "image_file": "lanternenkurs/images/wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Ordliste", "quote": "Iso = Isophase (likefase – like mye lys som mørke)."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Ordliste",
+          "quote": "Iso = Isophase (likefase – like mye lys som mørke)."
+        }
+      ]
     },
     {
       "id": "q_lyskar_002",
@@ -772,10 +1384,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva kjennetegner et formørkende lys (Oc)?",
-      "choices": ["Mest lys, med korte mørke avbrudd (lys varer lengre enn mørke)", "Korte lysglimt i lengre mørke", "Like lange lys- og mørkeperioder", "Konstant lys uten avbrudd"],
+      "choices": [
+        "Mest lys, med korte mørke avbrudd (lys varer lengre enn mørke)",
+        "Korte lysglimt i lengre mørke",
+        "Like lange lys- og mørkeperioder",
+        "Konstant lys uten avbrudd"
+      ],
       "correct": 0,
       "explanation": "Formørkende (Oc, occulting) lys er mest lys med korte mørke avbrudd – lyset varer lengre enn mørket.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Ordliste", "quote": "Oc = Occulting (mest lys, korte mørke avbrudd)."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Ordliste",
+          "quote": "Oc = Occulting (mest lys, korte mørke avbrudd)."
+        }
+      ]
     },
     {
       "id": "q_lyskar_003",
@@ -785,10 +1409,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva kjennetegner et blink-/glimtlys (Fl)?",
-      "choices": ["Korte lysglimt med lengre mørke mellom", "Lengre lys enn mørke", "Like lange lys- og mørkeperioder", "Fast, konstant lys"],
+      "choices": [
+        "Korte lysglimt med lengre mørke mellom",
+        "Lengre lys enn mørke",
+        "Like lange lys- og mørkeperioder",
+        "Fast, konstant lys"
+      ],
       "correct": 0,
       "explanation": "Blink/glimt (Fl, flashing) har korte lysglimt der mørket varer lengre enn lyset.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Ordliste", "quote": "Fl = Flashing (blinkende)."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Ordliste",
+          "quote": "Fl = Flashing (blinkende)."
+        }
+      ]
     },
     {
       "id": "q_lyskar_004",
@@ -798,10 +1434,22 @@
       "importance": "normal",
       "exam_area": "navigasjon",
       "prompt": "Hva betyr forkortelsen «F» i en lyskarakteristikk?",
-      "choices": ["Fast (konstant) lys", "Blink", "Formørkende", "Hurtigblink"],
+      "choices": [
+        "Fast (konstant) lys",
+        "Blink",
+        "Formørkende",
+        "Hurtigblink"
+      ],
       "correct": 0,
       "explanation": "F står for «Fixed» = fast, konstant lys uten avbrudd.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Ordliste", "quote": "F = Fixed (fast lys)."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Ordliste",
+          "quote": "F = Fixed (fast lys)."
+        }
+      ]
     },
     {
       "id": "q_lyskar_005",
@@ -811,10 +1459,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva betyr tallet i parentes i en karakteristikk, for eksempel Fl(2)?",
-      "choices": ["Antall blink i hver gruppe", "Antall sekunder lyset er på", "Hvor mange meter lyset rekker", "Periodens lengde i sekunder"],
+      "choices": [
+        "Antall blink i hver gruppe",
+        "Antall sekunder lyset er på",
+        "Hvor mange meter lyset rekker",
+        "Periodens lengde i sekunder"
+      ],
       "correct": 0,
       "explanation": "Tallet i parentes angir antall blink i en gruppe. Fl(2) = to glimt per syklus.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Ordliste", "quote": "Gp ( ) = antall blink i gruppe."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Ordliste",
+          "quote": "Gp ( ) = antall blink i gruppe."
+        }
+      ]
     },
     {
       "id": "q_lyskar_006",
@@ -824,10 +1484,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "I karakteristikken «Fl(2) 5s», hva betyr «5s»?",
-      "choices": ["Hele mønsteret (de to glimtene) gjentas hvert 5. sekund", "Lyset er på i 5 sekunder", "Det er 5 blink i gruppen", "Lykten rekker 5 nautiske mil"],
+      "choices": [
+        "Hele mønsteret (de to glimtene) gjentas hvert 5. sekund",
+        "Lyset er på i 5 sekunder",
+        "Det er 5 blink i gruppen",
+        "Lykten rekker 5 nautiske mil"
+      ],
       "correct": 0,
       "explanation": "Tallet med «s» angir periodens lengde: mønsteret med to glimt gjentas hvert 5. sekund.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Ordliste", "quote": "s = seconds (sekunder); periode i karakteristikken."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Ordliste",
+          "quote": "s = seconds (sekunder); periode i karakteristikken."
+        }
+      ]
     },
     {
       "id": "q_lyskar_007",
@@ -837,10 +1509,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva betyr karakteristikken «Oc(2) WRG 8s»?",
-      "choices": ["Formørkende lys i grupper på to, med hvit, rød og grønn sektor, gjentatt hvert 8. sekund", "To blink hvert 8. sekund, kun hvitt lys", "Fast hvitt lys i 8 sekunder", "Ni hurtigblink med hvit, rød og grønn sektor"],
+      "choices": [
+        "Formørkende lys i grupper på to, med hvit, rød og grønn sektor, gjentatt hvert 8. sekund",
+        "To blink hvert 8. sekund, kun hvitt lys",
+        "Fast hvitt lys i 8 sekunder",
+        "Ni hurtigblink med hvit, rød og grønn sektor"
+      ],
       "correct": 0,
       "explanation": "Oc = formørkende, (2) = to i gruppe, WRG = hvit/rød/grønn sektor, 8s = periode 8 sekunder.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Lyskarakteristikk", "quote": "WRG angir hvit/rød/grønn sektor; tall + s angir periode."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Lyskarakteristikk",
+          "quote": "WRG angir hvit/rød/grønn sektor; tall + s angir periode."
+        }
+      ]
     },
     {
       "id": "q_lyskar_008",
@@ -850,23 +1534,47 @@
       "importance": "normal",
       "exam_area": "navigasjon",
       "prompt": "Hva betyr «Q» i en lyskarakteristikk?",
-      "choices": ["Hurtigblink (quick)", "Fast lys", "Formørkende lys", "Langt blink"],
+      "choices": [
+        "Hurtigblink (quick)",
+        "Fast lys",
+        "Formørkende lys",
+        "Langt blink"
+      ],
       "correct": 0,
       "explanation": "Q står for «Quick» = hurtigblink. VQ er veldig hurtige (very quick) og UQ ultraraske blink.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Ordliste", "quote": "Q = Quick (rask); VQ = Very Quick; UQ = Ultra Quick."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Ordliste",
+          "quote": "Q = Quick (rask); VQ = Very Quick; UQ = Ultra Quick."
+        }
+      ]
     },
     {
       "id": "q_lyskar_009",
       "concept_id": "nv-lyskarakteristikker",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 2,
       "importance": "high",
       "exam_area": "navigasjon",
-      "prompt": "Hva er forskjellen på Oc (formørkende) og Fl (blink) når det gjelder lys og mørke?",
-      "choices": [],
-      "correct": 0,
-      "explanation": "Oc: lyset varer lengre enn mørket (mest lys, korte mørke avbrudd). Fl: mørket varer lengre enn lyset (korte glimt i lengre mørke).",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Ordliste", "quote": "Oc = mest lys, korte mørke avbrudd; Fl = blinkende."}]
+      "prompt": "Hva er forskjellen på Oc (formørkende) og Fl (blink)?",
+      "choices": [
+        "Oc og Fl er to navn på nøyaktig samme lyskarakteristikk",
+        "Ved Oc varer lyset lengre enn mørket, mens ved Fl varer mørket lengre enn lyset",
+        "Ved Oc varer mørket lengre enn lyset, mens ved Fl er lys og mørke like lange",
+        "Oc er fast lys uten avbrudd, mens Fl er fast lys med fargeskift"
+      ],
+      "correct": 1,
+      "explanation": "Ved Oc (formørkende) varer lyset lengre enn mørket, mens ved Fl (blink) varer mørket lengre enn lyset – korte glimt i lengre mørke.",
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Ordliste",
+          "quote": "Oc = mest lys, korte mørke avbrudd; Fl = blinkende."
+        }
+      ]
     },
     {
       "id": "q_lyskar_010",
@@ -876,10 +1584,22 @@
       "importance": "normal",
       "exam_area": "navigasjon",
       "prompt": "Hva betyr bokstavene W, R og G i en lyskarakteristikk?",
-      "choices": ["Fargen på lyset: hvit, rød og grønn", "Hvor lykten står: vest, rett og grunn", "Tre ulike blinketyper", "Antall sekunder i perioden"],
+      "choices": [
+        "Fargen på lyset: hvit, rød og grønn",
+        "Hvor lykten står: vest, rett og grunn",
+        "Tre ulike blinketyper",
+        "Antall sekunder i perioden"
+      ],
       "correct": 0,
       "explanation": "W = white (hvit), R = red (rød), G = green (grønn). De angir sektorfargene til lykten.",
-      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Ordliste", "quote": "W = White, R = Red, G = Green."}]
+      "source_refs": [
+        {
+          "source_id": "redningsselskapet_sjovett",
+          "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+          "section": "Ordliste",
+          "quote": "W = White, R = Red, G = Green."
+        }
+      ]
     },
     {
       "id": "q_lyskar_011",
@@ -889,10 +1609,22 @@
       "importance": "normal",
       "exam_area": "navigasjon",
       "prompt": "Hvorfor har hver fyrlykt sin egen lyskarakteristikk?",
-      "choices": ["For at man skal kunne skille lyktene fra hverandre og kjenne dem igjen i kartet", "For å spare strøm", "For å vise fartsgrensen i området", "For å markere leias hovedretning"],
+      "choices": [
+        "For at man skal kunne skille lyktene fra hverandre og kjenne dem igjen i kartet",
+        "For å spare strøm",
+        "For å vise fartsgrensen i området",
+        "For å markere leias hovedretning"
+      ],
       "correct": 0,
       "explanation": "Den unike «pulsen» (karakteristikken) gjør at man kan identifisere riktig lykt og koble den til navnet i sjøkartet, og dermed bekrefte posisjonen.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/", "section": "Lyskarakteristikk", "quote": "Lykter skilles fra hverandre ved ulik karakteristikk; karakteristikken står i kartet under navnet."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+          "section": "Lyskarakteristikk",
+          "quote": "Lykter skilles fra hverandre ved ulik karakteristikk; karakteristikken står i kartet under navnet."
+        }
+      ]
     },
     {
       "id": "q_farvann_001",
@@ -902,11 +1634,23 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Bildet viser et firkantet skilt med rød kant, hvitt felt og sort tall «5». Hva betyr skiltet?",
-      "choices": ["Fartsgrense: høyeste tillatte fart er 5 knop", "Det er 5 nautiske mil til neste havn", "Det er 5 meter dypt", "Maks 5 båter om gangen"],
+      "choices": [
+        "Fartsgrense: høyeste tillatte fart er 5 knop",
+        "Det er 5 nautiske mil til neste havn",
+        "Det er 5 meter dypt",
+        "Maks 5 båter om gangen"
+      ],
       "correct": 0,
       "explanation": "Et firkantet skilt med rød kant, hvitt felt og sort tall er et fartsgrenseskilt; tallet angir høyeste tillatte fart i knop.",
       "image_file": "kystverket/images/contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/", "section": "Fartsgrense", "quote": "Fartsgrense angir høyeste tillatte fart (for eksempel 5 knop)."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+          "section": "Fartsgrense",
+          "quote": "Fartsgrense angir høyeste tillatte fart (for eksempel 5 knop)."
+        }
+      ]
     },
     {
       "id": "q_farvann_002",
@@ -916,10 +1660,22 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Hva er hovedformålet med farvannsskilt?",
-      "choices": ["Å gi veiledning til dem som ferdes på sjøen", "Å markere kommunegrenser", "Å vise dybden i meter", "Å reklamere for havner"],
+      "choices": [
+        "Å gi veiledning til dem som ferdes på sjøen",
+        "Å markere kommunegrenser",
+        "Å vise dybden i meter",
+        "Å reklamere for havner"
+      ],
       "correct": 0,
       "explanation": "Farvannsskilt gir veiledning til sjøfarende og er harmonisert med tilsvarende skilt i andre europeiske land.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/", "section": "Farvannsskilt", "quote": "Farvannsskilt gir veiledning til de som ferdes på sjøen."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+          "section": "Farvannsskilt",
+          "quote": "Farvannsskilt gir veiledning til de som ferdes på sjøen."
+        }
+      ]
     },
     {
       "id": "q_farvann_003",
@@ -929,11 +1685,23 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Bildet viser et fartsgrenseskilt «5» med et underskilt «50 m fra land, 15. jun–15. aug». Hva betyr underskiltet?",
-      "choices": ["Det presiserer hvor og når fartsgrensen gjelder (virkeområde og periode)", "Det angir at fartsgrensen er 50 knop", "Det viser dybden 50 meter", "Det angir avstand til neste skilt"],
+      "choices": [
+        "Det presiserer hvor og når fartsgrensen gjelder (virkeområde og periode)",
+        "Det angir at fartsgrensen er 50 knop",
+        "Det viser dybden 50 meter",
+        "Det angir avstand til neste skilt"
+      ],
       "correct": 0,
       "explanation": "Et underskilt presiserer hovedskiltets virkeområde og/eller tidsperiode – her 50 m fra land i sommersesongen.",
       "image_file": "lanternenkurs/images/wp-content-uploads-2023-09-sjomerke_blindleia-1-1024x900.jpg",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/", "section": "Underskilt – Virkeområde/Tid", "quote": "Underskilt angir hovedskiltets virkeområde i meter og tiden det gjelder."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+          "section": "Underskilt – Virkeområde/Tid",
+          "quote": "Underskilt angir hovedskiltets virkeområde i meter og tiden det gjelder."
+        }
+      ]
     },
     {
       "id": "q_farvann_004",
@@ -943,10 +1711,22 @@
       "importance": "normal",
       "exam_area": "navigasjon",
       "prompt": "Hvilken kategori farvannsskilt hører fartsgrenseskiltet til?",
-      "choices": ["Forbudsskilt", "Varselskilt", "Opplysningsskilt", "Markeringsskilt"],
+      "choices": [
+        "Forbudsskilt",
+        "Varselskilt",
+        "Opplysningsskilt",
+        "Markeringsskilt"
+      ],
       "correct": 0,
       "explanation": "Fartsgrense er et forbudsskilt (sammen med blant annet ankring forbudt, dykking forbudt og sjøtrafikk forbudt).",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/", "section": "Forbudsskilt", "quote": "Forbudsskilt: ankring forbudt, dykking forbudt, fartsgrense, sjøtrafikk forbudt."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+          "section": "Forbudsskilt",
+          "quote": "Forbudsskilt: ankring forbudt, dykking forbudt, fartsgrense, sjøtrafikk forbudt."
+        }
+      ]
     },
     {
       "id": "q_farvann_005",
@@ -956,10 +1736,22 @@
       "importance": "normal",
       "exam_area": "navigasjon",
       "prompt": "Hva betyr skiltet «Sakte fart»?",
-      "choices": ["Fartøy skal utvise forsiktighet og avpasse farten", "Det er forbudt å kjøre motorbåt", "Maks 3 knop", "Det er en fartsgrense som opphører"],
+      "choices": [
+        "Fartøy skal utvise forsiktighet og avpasse farten",
+        "Det er forbudt å kjøre motorbåt",
+        "Maks 3 knop",
+        "Det er en fartsgrense som opphører"
+      ],
       "correct": 0,
       "explanation": "«Sakte fart» er et opplysningsskilt som angir at fartøy skal utvise forsiktighet og avpasse farten.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/", "section": "Opplysningsskilt – Sakte fart", "quote": "Angir at fartøyer skal utvise forsiktighet og avpasse farten."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+          "section": "Opplysningsskilt – Sakte fart",
+          "quote": "Angir at fartøyer skal utvise forsiktighet og avpasse farten."
+        }
+      ]
     },
     {
       "id": "q_farvann_006",
@@ -969,10 +1761,22 @@
       "importance": "normal",
       "exam_area": "navigasjon",
       "prompt": "Et skilt viser «Vertikal klaring». Hva angir det?",
-      "choices": ["Klaringshøyde under en bru eller et luftspenn", "Vanndybden under båten", "Avstanden til land", "Bredden i et trangt løp"],
+      "choices": [
+        "Klaringshøyde under en bru eller et luftspenn",
+        "Vanndybden under båten",
+        "Avstanden til land",
+        "Bredden i et trangt løp"
+      ],
       "correct": 0,
       "explanation": "Skiltet for vertikal klaring angir høyden under bru, eller sikker vertikal klaring under luftspenn med elektrisk energi/kommunikasjon. Horisontal klaring angir bredde i en innsnevring.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/", "section": "Varselskilt – Vertikal klaring", "quote": "Angir vertikal klaring under bru, og sikker vertikal klaring under luftlinje."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+          "section": "Varselskilt – Vertikal klaring",
+          "quote": "Angir vertikal klaring under bru, og sikker vertikal klaring under luftlinje."
+        }
+      ]
     },
     {
       "id": "q_farvann_007",
@@ -982,23 +1786,47 @@
       "importance": "high",
       "exam_area": "navigasjon",
       "prompt": "Du passerer et fartsgrenseskilt med «5» og et underskilt med dato. Like etter ser du intet nytt skilt. Hva bør du tenke om fartsgrensen?",
-      "choices": ["Den kan fortsatt gjelde; fartsgrenser er ofte fastsatt i lokal forskrift, så jeg holder lav fart og sjekker lokale regler", "Fartsgrensen sluttet å gjelde med en gang jeg passerte skiltet", "Underskiltet betyr at fartsgrensen er frivillig", "Jeg kan øke til full fart straks skiltet er ute av syne"],
+      "choices": [
+        "Den kan fortsatt gjelde; fartsgrenser er ofte fastsatt i lokal forskrift, så jeg holder lav fart og sjekker lokale regler",
+        "Fartsgrensen sluttet å gjelde med en gang jeg passerte skiltet",
+        "Underskiltet betyr at fartsgrensen er frivillig",
+        "Jeg kan øke til full fart straks skiltet er ute av syne"
+      ],
       "correct": 0,
       "explanation": "Fartsgrenser gjelder ofte over et område fastsatt i lokal forskrift, ikke bare ved selve skiltet. Et eget skilt viser når en fartsgrense opphører. Sjekk alltid lokale fartsforskrifter.",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/", "section": "Fartsgrense / Fartsgrense opphører", "quote": "Eget skilt angir at fartsgrense opphører; underskilt angir virkeområde."}]
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+          "section": "Fartsgrense / Fartsgrense opphører",
+          "quote": "Eget skilt angir at fartsgrense opphører; underskilt angir virkeområde."
+        }
+      ]
     },
     {
       "id": "q_farvann_008",
       "concept_id": "nv-farvannsskilt-fartsgrense",
-      "type": "flashcard",
+      "type": "mcq",
       "difficulty": 1,
       "importance": "high",
       "exam_area": "navigasjon",
-      "prompt": "Hvordan ser et fartsgrenseskilt på sjøen ut, og hva angir tallet?",
-      "choices": [],
-      "correct": 0,
-      "explanation": "Firkantet skilt med rød kant og hvitt felt med et sort tall. Tallet er høyeste tillatte fart i knop (f.eks. 5 = maks 5 knop).",
-      "source_refs": [{"source_id": "kystverket_sjomerker", "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/", "section": "Fartsgrense", "quote": "Fartsgrense angir høyeste tillatte fart (for eksempel 5 knop)."}]
+      "prompt": "Hvordan ser et fartsgrenseskilt på sjøen ut, og hva betyr tallet?",
+      "choices": [
+        "Rundt blått skilt med hvitt tall som angir minste tillatte fart",
+        "Trekantet gult skilt med sort tall som angir vanndybde",
+        "Firkantet skilt med rød kant og hvitt felt med sort tall som angir høyeste tillatte fart i knop",
+        "Sekskantet rødt skilt med hvitt tall som angir avstand til land"
+      ],
+      "correct": 2,
+      "explanation": "Et fartsgrenseskilt er firkantet med rød kant og hvitt felt med et sort tall, og tallet angir høyeste tillatte fart i knop.",
+      "source_refs": [
+        {
+          "source_id": "kystverket_sjomerker",
+          "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+          "section": "Fartsgrense",
+          "quote": "Fartsgrense angir høyeste tillatte fart (for eksempel 5 knop)."
+        }
+      ]
     }
   ]
 }

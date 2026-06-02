@@ -158,14 +158,19 @@
   {
     "id": "q_nv_kart_007",
     "concept_id": "nv_kart_oppbygging",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "high",
     "exam_area": "navigasjon",
-    "prompt": "Hva forteller et ZOC-/kildediagram i sjøkartet?",
-    "choices": [],
-    "correct": null,
-    "explanation": "ZOC-diagrammet (Zones of Confidence) viser hvor pålitelige dybdedataene er, og synliggjør områder der datagrunnlaget er av dårligere kvalitet og navigasjon dermed er mer risikabel.",
+    "prompt": "Hva forteller et ZOC-diagram (Zones of Confidence) deg i et sjøkart?",
+    "choices": [
+      "Hvor høyt et luftspenn ligger over sjøkartnull",
+      "Hvilke fartsgrenser som er fastsatt i lokale forskrifter",
+      "Hvilken kompassmisvisning som gjelder for det aktuelle kartområdet",
+      "Hvor pålitelige dybdedataene er, slik at du ser hvilke områder som har dårligere datagrunnlag"
+    ],
+    "correct": 3,
+    "explanation": "ZOC-diagrammet viser hvor pålitelige dybdedataene er og synliggjør områder der datagrunnlaget er dårligere og navigasjon dermed mer risikabel.",
     "image": null,
     "sources": [
       {
@@ -387,13 +392,18 @@
   {
     "id": "q_nv_sym_009",
     "concept_id": "nv_kart_symboler",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "critical",
     "exam_area": "spesielt_viktige",
-    "prompt": "Hvilken publikasjon bør du bruke for å slå opp betydningen av alle kartsymboler og forkortelser?",
-    "choices": [],
-    "correct": null,
+    "prompt": "Hvilken publikasjon slår du opp i for å finne betydningen av kartsymboler og forkortelser i norske sjøkart?",
+    "choices": [
+      "Etterretninger for sjøfarende (Efs)",
+      "Den norske los",
+      "Nautisk almanakk",
+      "«Symboler og forkortelser i norske sjøkart» (norsk INT 1)"
+    ],
+    "correct": 3,
     "explanation": "«Symboler og forkortelser i norske sjøkart» (norsk INT 1) gir oversikt over alle kartsymboler og forkortelser i norske og internasjonale sjøkart.",
     "image": null,
     "sources": [
@@ -590,14 +600,19 @@
   {
     "id": "q_nv_komp_008",
     "concept_id": "nv_kompass",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "high",
     "exam_area": "navigasjon",
-    "prompt": "Huskeregel: Hva «hører til stedet» og hva «hører til båten» av misvisning og deviasjon?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Misvisning hører til stedet (og endrer seg over tid). Deviasjon hører til båten og endrer seg med båtens kurs.",
+    "prompt": "Hvilken påstand om misvisning og deviasjon er riktig?",
+    "choices": [
+      "Begge hører til båten og endrer seg kun med farten",
+      "Misvisning hører til båten, mens deviasjon hører til stedet",
+      "Misvisning hører til stedet, mens deviasjon hører til båten og endrer seg med kursen",
+      "Begge hører til stedet og er like store overalt"
+    ],
+    "correct": 2,
+    "explanation": "Misvisning hører til stedet (og endrer seg over tid), mens deviasjon hører til båten og endrer seg med båtens kurs.",
     "image": null,
     "sources": [
       {
@@ -767,14 +782,19 @@
   {
     "id": "q_nv_el_007",
     "concept_id": "nv_elektronisk",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "high",
     "exam_area": "navigasjon",
-    "prompt": "Nevn tre feilkilder/begrensninger ved elektronisk navigasjon.",
-    "choices": [],
-    "correct": null,
-    "explanation": "Eksempler: avhengig av strøm/batteri (kan falle ut), signaltap eller unøyaktig GPS, utdaterte kart med varierende datakvalitet (ZOC), overskalering ved for kraftig innzooming, og blind tillit som gir dårlig utkikk.",
+    "prompt": "Hvilken av disse er en reell begrensning ved elektronisk navigasjon (GPS/kartplotter)?",
+    "choices": [
+      "Den erstatter behovet for å holde utkikk",
+      "Signaltap eller unøyaktig GPS kan gi feil posisjon",
+      "Den korrigerer automatisk for kompassdeviasjon i din egen båt",
+      "Den fungerer alltid uavhengig av strøm og batteri"
+    ],
+    "correct": 1,
+    "explanation": "Elektronisk navigasjon er avhengig av strøm, kan miste eller få unøyaktig GPS-signal og kan ha utdaterte kart, så den må aldri erstatte god utkikk.",
     "image": null,
     "sources": [
       {
@@ -1810,14 +1830,19 @@
   {
     "id": "q_nv_ori_008",
     "concept_id": "nv_orientering",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "high",
     "exam_area": "navigasjon",
-    "prompt": "Nevn fire måter å orientere seg på i farvannet.",
-    "choices": [],
-    "correct": null,
-    "explanation": "Kompasskurs, GPS-koordinater (bredde/lengde), gjenkjenning av landemerker og sjømerker, og peiling (krysspeiling til to–tre objekter). Best resultat får du ved å kombinere dem og holde god utkikk.",
+    "prompt": "Hvilken av disse er en vanlig måte å orientere seg på i farvannet?",
+    "choices": [
+      "Telling av blink i en sektorlykt for å finne posisjonen",
+      "Måling av sjøtemperaturen for å anslå dybden",
+      "Krysspeiling til to–tre faste objekter",
+      "Avlesning av deviasjonstabellen for kursendring"
+    ],
+    "correct": 2,
+    "explanation": "Du orienterer deg med kompasskurs, GPS-koordinater, gjenkjenning av landemerker og sjømerker, og peiling/krysspeiling til to–tre objekter.",
     "image": null,
     "sources": [
       {
@@ -3173,14 +3198,19 @@
   {
     "id": "q-sikkerhetsutstyr-007",
     "concept_id": "sm-sikkerhetsutstyr",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Nevn fem typiske deler av sikkerhetsutrustningen i en fritidsbåt.",
-    "choices": [],
-    "correct": null,
-    "explanation": "Flyteutstyr til alle, dødmannsknapp, ombordstigningsanordning (stige), drivanker, lydsignalapparat, brannslukker (1–6 kg) og nødsignalutstyr (bluss/raketter).",
+    "prompt": "Hvilken av disse hører til den typiske sikkerhetsutrustningen i en fritidsbåt?",
+    "choices": [
+      "Ekkolodd med kartplotter",
+      "Reservepropell og verktøysett",
+      "Solcellepanel for lading",
+      "Dødmannsknapp"
+    ],
+    "correct": 3,
+    "explanation": "Typisk sikkerhetsutrustning er flyteutstyr til alle, dødmannsknapp, ombordstigningsstige, drivanker, lydsignalapparat, brannslukker og nødsignalutstyr.",
     "image": null,
     "sources": [
       {
@@ -3324,14 +3354,19 @@
   {
     "id": "q-brann-005",
     "concept_id": "sm-brann",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Hva er branntrekanten, og hvordan slukker du en brann ut fra den?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Branntrekanten er oksygen, varme og brennbart materiale. Fjerner du én av faktorene slukner brannen – f.eks. kvele (oksygen), kjøle (varme) eller kutte drivstoff/strøm (brennbart materiale).",
+    "prompt": "Hva er de tre faktorene i branntrekanten?",
+    "choices": [
+      "Røyk, flammer og varme",
+      "Bensin, propan og elektrisk gnist",
+      "Oksygen, varme og brennbart materiale",
+      "Luft, vann og drivstoff"
+    ],
+    "correct": 2,
+    "explanation": "Branntrekanten består av oksygen, varme og brennbart materiale; fjerner du én av faktorene, slukner brannen.",
     "image": null,
     "sources": [
       {
@@ -3527,14 +3562,19 @@
   {
     "id": "q-vhf-007",
     "concept_id": "sm-vhf-nod",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 3,
     "importance": "high",
     "exam_area": "sjomannskap",
-    "prompt": "Hva er forskjellen på Mayday, Pan-Pan og Sécurité?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Mayday = overhengende fare for liv eller fartøy (nød). Pan-Pan = hastemelding uten umiddelbar livsfare. Sécurité = sikkerhetsmelding (f.eks. navigasjons- eller værvarsel).",
+    "prompt": "Hva betyr nødsignalet «Mayday» på VHF?",
+    "choices": [
+      "Overhengende fare for liv eller fartøy (nød)",
+      "En sikkerhetsmelding, for eksempel et værvarsel",
+      "En rutinemessig anropsmelding mellom fartøy",
+      "En hastemelding uten umiddelbar livsfare"
+    ],
+    "correct": 0,
+    "explanation": "Mayday betyr overhengende fare for liv eller fartøy; Pan-Pan er hastemelding uten livsfare, og Sécurité er en sikkerhetsmelding.",
     "image": null,
     "sources": [
       {
@@ -3652,14 +3692,19 @@
   {
     "id": "q-assistanse-005",
     "concept_id": "sm-assistanse",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Nevn tre forholdsregler ved sleping av en annen båt.",
-    "choices": [],
-    "correct": null,
-    "explanation": "Bruk solide festepunkter, hold lav og jevn fart, hold folk unna stram line, bruk passe lengde med litt elastisitet, og hold kontakt/avtal signaler mellom båtene.",
+    "prompt": "Hvilken forholdsregel er riktig ved sleping av en annen båt?",
+    "choices": [
+      "La mannskapet stå tett inntil festepunktet under slepet",
+      "Bruk en helt uelastisk line uten noe slakk",
+      "Hold lav og jevn fart og hold folk unna den stramme slepelinen",
+      "Hold høyest mulig fart for å komme raskt i mål"
+    ],
+    "correct": 2,
+    "explanation": "Ved sleping bør du bruke solide festepunkter, holde lav og jevn fart, holde folk unna den stramme linen og bruke en passe lengde med litt elastisitet.",
     "image": null,
     "sources": [
       {
@@ -3829,14 +3874,19 @@
   {
     "id": "q-ce-006",
     "concept_id": "sm-battyper-ce",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Hva forteller produsentskiltet på en fritidsbåt deg?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Produsentskiltet viser blant annet CE-konstruksjonskategori, største anbefalte motorstyrke og maks antall personer/last. Disse grensene skal ikke overskrides.",
+    "prompt": "Hva viser produsentskiltet (byggeskiltet) på en fritidsbåt?",
+    "choices": [
+      "Båtens registreringsnummer og hjemmehavn",
+      "CE-konstruksjonskategori, største anbefalte motorstyrke og maks antall personer",
+      "Førerens båtførerbevisnummer",
+      "Tidspunktet for siste motorservice"
+    ],
+    "correct": 1,
+    "explanation": "Produsentskiltet viser blant annet CE-konstruksjonskategori, største anbefalte motorstyrke og maks antall personer/last, og grensene skal ikke overskrides.",
     "image": null,
     "sources": [
       {
@@ -3850,14 +3900,19 @@
   {
     "id": "q-ce-007",
     "concept_id": "sm-battyper-ce",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Ranger CE-kategoriene A, B, C, D etter hvilke forhold de tåler, fra mest til minst.",
-    "choices": [],
-    "correct": null,
-    "explanation": "A (havgående) tåler mest, så B (utenskjærs), så C (kystfarvann/fjord), og D (beskyttet farvann) tåler minst vind og sjø.",
+    "prompt": "Hvilken CE-konstruksjonskategori er beregnet for de mest krevende forholdene (havgående)?",
+    "choices": [
+      "Kategori B",
+      "Kategori D",
+      "Kategori A",
+      "Kategori C"
+    ],
+    "correct": 2,
+    "explanation": "Kategori A (havgående) tåler mest, deretter B (utenskjærs), så C (kystfarvann/fjord) og D (beskyttet farvann) tåler minst.",
     "image": null,
     "sources": [
       {
@@ -4105,14 +4160,19 @@
   {
     "id": "q-vedlikehold-004",
     "concept_id": "sm-vedlikehold",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Nevn fire ting du bør sjekke før hver tur.",
-    "choices": [],
-    "correct": null,
-    "explanation": "F.eks. drivstoffnivå/lekkasje, oljenivå, kjøling/kjølevann, batteri, været, og at sikkerhetsutstyret (vester, bluss, slukker, lanterner) er om bord og i orden.",
+    "prompt": "Hvilken av disse bør du sjekke før hver tur?",
+    "choices": [
+      "At CE-skiltet fortsatt sitter på plass",
+      "Drivstoffnivå og at det ikke er lekkasje",
+      "At bunnstoffet er nylig påført",
+      "At forsikringspapirene er fornyet"
+    ],
+    "correct": 1,
+    "explanation": "Før hver tur bør du blant annet sjekke drivstoff og lekkasje, oljenivå, kjøling, batteri, været og at sikkerhetsutstyret er om bord og i orden.",
     "image": null,
     "sources": [
       {
@@ -4308,14 +4368,19 @@
   {
     "id": "q-fortoyning-006",
     "concept_id": "sm-fortoyning-anker",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Hva er forskjellen på en dregg og et vanlig anker?",
-    "choices": [],
-    "correct": null,
-    "explanation": "En dregg har flere armer/klør og er enkel og lett, egnet for små båter og hard/steinete bunn. Et anker (plog, Bruce o.l.) graver seg ned og gir bedre hold på sand/leirbunn.",
+    "prompt": "Hva kjennetegner en dregg sammenlignet med et vanlig anker?",
+    "choices": [
+      "Den har flere armer/klør og egner seg for små båter og hard/steinete bunn",
+      "Den graver seg dypt ned i sand- og leirbunn",
+      "Den brukes bare som permanent bunnfeste med kjetting",
+      "Den er tung og beregnet for store fartøy"
+    ],
+    "correct": 0,
+    "explanation": "En dregg har flere armer/klør og er lett og enkel, egnet for små båter og hard/steinete bunn, mens et anker graver seg ned og holder bedre på sand/leirbunn.",
     "image": null,
     "sources": [
       {
@@ -4433,14 +4498,19 @@
   {
     "id": "q-miljo-005",
     "concept_id": "sm-miljo",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Nevn tre miljøhensyn en båtfører skal ta.",
-    "choices": [],
-    "correct": null,
-    "explanation": "Unngå utslipp av olje/drivstoff/kloakk, respekter reservater og nasjonalparker, ta med alt avfall til land (ikke forsøple), og begrens unødvendig støy og bølgeslag.",
+    "prompt": "Hvilket av disse er et miljøhensyn en båtfører skal ta?",
+    "choices": [
+      "Ta med alt avfall til land og unngå utslipp av olje, drivstoff og kloakk",
+      "Tømme kloakk og avfall over bord i åpent farvann",
+      "Slippe ut spillolje når det er langt fra land",
+      "Kjøre i full fart for å bruke mindre tid på sjøen"
+    ],
+    "correct": 0,
+    "explanation": "Båtføreren skal unngå utslipp av olje, drivstoff og kloakk, respektere reservater, ta med alt avfall til land og begrense unødvendig støy og bølgeslag.",
     "image": null,
     "sources": [
       {
@@ -4584,14 +4654,19 @@
   {
     "id": "q-ansvar-005",
     "concept_id": "sm-ansvar-forsikring",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "normal",
     "exam_area": "sjomannskap",
     "prompt": "Hva er forskjellen på ansvarsforsikring og kaskoforsikring?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Ansvarsforsikring dekker skade du påfører andre. Kasko (eller delkasko) dekker i tillegg skade på din egen båt, f.eks. kollisjon, brann, tyveri og grunnstøting.",
+    "choices": [
+      "Ansvarsforsikring dekker skade du påfører andre, mens kasko i tillegg dekker skade på din egen båt",
+      "De dekker nøyaktig det samme, men kasko er rimeligere",
+      "Ansvarsforsikring dekker din egen båt, mens kasko bare dekker andre",
+      "Ansvarsforsikring dekker tyveri, mens kasko bare dekker brann"
+    ],
+    "correct": 0,
+    "explanation": "Ansvarsforsikring dekker skade du påfører andre, mens kasko/delkasko i tillegg dekker skade på din egen båt, som kollisjon, brann, tyveri og grunnstøting.",
     "image": null,
     "sources": [
       {
@@ -4761,14 +4836,19 @@
   {
     "id": "q-forstehjelp-006",
     "concept_id": "sm-forstehjelp",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Hva er en høyenergiskade, og hvorfor er den spesielt farlig?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Høyenergiskade oppstår ved kollisjon eller fall i høy fart. Det kan være alvorlige indre skader (nakke/rygg/organer) selv uten synlige ytre tegn – håndter personen varsomt og tilkall profesjonell hjelp.",
+    "prompt": "Hvorfor er en høyenergiskade spesielt farlig?",
+    "choices": [
+      "Den gir alltid tydelige ytre sår som er lette å oppdage",
+      "Den rammer kun huden og er ufarlig å håndtere",
+      "Den oppstår bare ved lave hastigheter og er sjelden alvorlig",
+      "Den kan gi alvorlige indre skader selv uten synlige ytre tegn"
+    ],
+    "correct": 3,
+    "explanation": "En høyenergiskade ved kollisjon eller fall i høy fart kan gi alvorlige indre skader uten synlige ytre tegn, så personen må håndteres varsomt og profesjonell hjelp tilkalles.",
     "image": null,
     "sources": [
       {
@@ -4912,13 +4992,18 @@
   {
     "id": "q-meteo-006",
     "concept_id": "sm-meteorologi",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Hva bør du sjekke om været før du legger ut på tur?",
-    "choices": [],
-    "correct": null,
+    "prompt": "Hva bør du gjøre med værmeldingen før du legger ut på tur?",
+    "choices": [
+      "Vente med å sjekke været til du allerede er ute på sjøen",
+      "Stole fullt på gårsdagens melding uten å oppdatere den",
+      "Bare sjekke temperaturen, siden vind ikke påvirker små båter",
+      "Sjekke vind, bølger, sikt og nedbør for området, ha en alternativ plan og følge med på endringer underveis"
+    ],
+    "correct": 3,
     "explanation": "Sjekk værmelding (vind, vindretning, bølger, sikt, nedbør) for området og turperioden, ha en alternativ plan/havn, og følg med på endringer underveis.",
     "image": null,
     "sources": [
@@ -5105,14 +5190,19 @@
   {
     "id": "q-vannsport-007",
     "concept_id": "sm-vannsport",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "high",
     "exam_area": "sjomannskap",
-    "prompt": "Nevn tre sikkerhetstiltak ved vannsport/sleping av personer.",
-    "choices": [],
-    "correct": null,
-    "explanation": "Den slepte skal ha flyteutstyr, ha en egen observatør, hold god avstand til badende/land/andre båter, stopp motoren når noen er i vannet nær båten, og avtal håndsignaler.",
+    "prompt": "Hvilket sikkerhetstiltak er riktig ved sleping av personer (vannsport)?",
+    "choices": [
+      "Hold deg tett inntil badende og andre båter for å se bedre",
+      "Føreren kan selv holde utkikk bakover uten egen observatør",
+      "Stopp motoren når noen er i vannet nær båten",
+      "Den slepte trenger ikke flyteutstyr ved lav fart"
+    ],
+    "correct": 2,
+    "explanation": "Den slepte skal ha flyteutstyr, du skal ha en egen observatør, holde god avstand til badende og andre, og stoppe motoren når noen er i vannet nær båten.",
     "image": null,
     "sources": [
       {
@@ -5290,14 +5380,19 @@
   {
     "id": "q-hoyfart-007",
     "concept_id": "sm-hoy-fart",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "critical",
     "exam_area": "spesielt_viktige",
-    "prompt": "List opp de viktigste farene ved høy fart til sjøs.",
-    "choices": [],
-    "correct": null,
-    "explanation": "Kortere reaksjonstid, innsnevret syn/tunnelsyn, forsinkelse ved bruk av elektronikk, behov for forsvarlig avstand til land, og mye større konsekvenser (høyenergiskader) ved sammenstøt.",
+    "prompt": "Hvilken av disse er en fare ved høy fart til sjøs?",
+    "choices": [
+      "Raskere og mer presis bruk av elektronikk",
+      "Mindre konsekvenser ved et eventuelt sammenstøt",
+      "Kortere reaksjonstid og innsnevret syn (tunnelsyn)",
+      "Lengre reaksjonstid og bedre oversikt"
+    ],
+    "correct": 2,
+    "explanation": "Høy fart gir kortere reaksjonstid, innsnevret syn/tunnelsyn, forsinkelse ved bruk av elektronikk og mye større konsekvenser ved sammenstøt.",
     "image": null,
     "sources": [
       {
@@ -5467,14 +5562,19 @@
   {
     "id": "q-godtsjo-007",
     "concept_id": "sm-godt-sjomannskap",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "critical",
     "exam_area": "spesielt_viktige",
-    "prompt": "Ramse opp de 7 sjøvettreglene.",
-    "choices": [],
-    "correct": null,
-    "explanation": "1) Tenk sikkerhet. 2) Ta med nødvendig utstyr. 3) Respekter vær og farvann. 4) Følg sjøveisreglene. 5) Bruk redningsvest eller flyteplagg. 6) Vær uthvilt og edru. 7) Vis hensyn.",
+    "prompt": "Hvilken av disse er en av de 7 sjøvettreglene?",
+    "choices": [
+      "Bruk redningsvest eller flyteplagg",
+      "Kjør alltid raskest mulig for å unngå dårlig vær",
+      "Det er greit å føre båt etter alkohol så lenge du er uthvilt",
+      "Sjøveisreglene gjelder ikke for fritidsbåter"
+    ],
+    "correct": 0,
+    "explanation": "En av de 7 sjøvettreglene er å bruke redningsvest eller flyteplagg; andre er blant annet å tenke sikkerhet, respektere vær og farvann, og være uthvilt og edru.",
     "image": null,
     "sources": [
       {
@@ -5754,13 +5854,18 @@
   {
     "id": "q_lateral_009",
     "concept_id": "nv-lateralmerker-iala",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "critical",
     "exam_area": "spesielt_viktige",
-    "prompt": "Hvilken farge har et babordmerke, og hvilken side skal det holdes på i innseilingsretning?",
-    "choices": [],
-    "correct": null,
+    "prompt": "Hvilken farge har et babordmerke, og hvor skal det holdes i innseilingsretningen?",
+    "choices": [
+      "Rødt, og holdes på babord (venstre) side – «rødt om babord inn»",
+      "Rødt, og holdes på styrbord side",
+      "Grønt, og holdes på styrbord side",
+      "Grønt, og holdes på babord side"
+    ],
+    "correct": 0,
     "explanation": "Babordmerket er rødt og holdes på babord (venstre) side når du følger leias hovedretning – «rødt om babord inn».",
     "image": null,
     "sources": [
@@ -6127,14 +6232,19 @@
   {
     "id": "q_kardinal_011",
     "concept_id": "nv-kardinalmerker-iala",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "high",
     "exam_area": "navigasjon",
-    "prompt": "Hva er fargerekkefølgen (ovenfra) og kjeglene for et østmerke?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Østmerke: sort-gul-sort (BYB). Kjeglene har basene mot hverandre (øverste peker opp, nederste ned). Lys Q(3).",
+    "prompt": "Hva er fargerekkefølgen (ovenfra) på et østmerke?",
+    "choices": [
+      "Gul-sort-gul (YBY)",
+      "Gul over sort (YB)",
+      "Sort-gul-sort (BYB)",
+      "Sort over gul (BY)"
+    ],
+    "correct": 2,
+    "explanation": "Østmerket er sort-gul-sort (BYB) med kjeglene base mot base, og lyser VQ(3)/Q(3) hvitt.",
     "image": null,
     "sources": [
       {
@@ -6508,14 +6618,19 @@
   {
     "id": "q_spesial_011",
     "concept_id": "nv-spesial-fare-senterled-merker",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "high",
     "exam_area": "navigasjon",
-    "prompt": "Hvordan kjenner du igjen et merke for frittliggende fare, og hvordan passerer du det?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Sort med røde belter (BRB), topptegn to sorte kuler, lys Fl(2) hvitt. Det er farbart på alle sider, men du holder god klaring.",
+    "prompt": "Hvordan kjenner du igjen et merke for frittliggende (isolert) fare?",
+    "choices": [
+      "Sort med røde belter (BRB) og to sorte kuler som topptegn",
+      "Helgult med gult X-topptegn",
+      "Røde og hvite vertikale striper med én rød kule som topptegn",
+      "Grønt med kjegle som topptegn"
+    ],
+    "correct": 0,
+    "explanation": "Merket for frittliggende fare er sort med røde belter (BRB), har topptegn med to sorte kuler og lys Fl(2) hvitt; det er farbart på alle sider med god klaring.",
     "image": null,
     "sources": [
       {
@@ -6779,14 +6894,19 @@
   {
     "id": "q_sektor_009",
     "concept_id": "nv-sektorlykt-fyr",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "critical",
     "exam_area": "spesielt_viktige",
-    "prompt": "Hva betyr henholdsvis hvit, rød og grønn sektor fra en sektorlykt?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Hvit = trygt/farbart løp. Rød = fare/grunne på babord side av leia. Grønn = fare/grunne på styrbord side av leia. Styr mot hvit sektor.",
+    "prompt": "Hva betyr den hvite sektoren fra en sektorlykt?",
+    "choices": [
+      "Fartsgrense på 5 knop i løpet",
+      "Trygt og farbart løp – styr mot hvit sektor",
+      "Fare/grunne på styrbord side av leia",
+      "Fare/grunne på babord side av leia"
+    ],
+    "correct": 1,
+    "explanation": "Hvit sektor betyr trygt/farbart løp, rød sektor betyr fare/grunne på babord side, og grønn sektor betyr fare/grunne på styrbord side av leia.",
     "image": null,
     "sources": [
       {
@@ -7016,14 +7136,19 @@
   {
     "id": "q_lyskar_009",
     "concept_id": "nv-lyskarakteristikker",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "high",
     "exam_area": "navigasjon",
-    "prompt": "Hva er forskjellen på Oc (formørkende) og Fl (blink) når det gjelder lys og mørke?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Oc: lyset varer lengre enn mørket (mest lys, korte mørke avbrudd). Fl: mørket varer lengre enn lyset (korte glimt i lengre mørke).",
+    "prompt": "Hva er forskjellen på Oc (formørkende) og Fl (blink)?",
+    "choices": [
+      "Oc er fast lys uten avbrudd, mens Fl er fast lys med fargeskift",
+      "Oc og Fl er to navn på nøyaktig samme lyskarakteristikk",
+      "Ved Oc varer mørket lengre enn lyset, mens ved Fl er lys og mørke like lange",
+      "Ved Oc varer lyset lengre enn mørket, mens ved Fl varer mørket lengre enn lyset"
+    ],
+    "correct": 3,
+    "explanation": "Ved Oc (formørkende) varer lyset lengre enn mørket, mens ved Fl (blink) varer mørket lengre enn lyset – korte glimt i lengre mørke.",
     "image": null,
     "sources": [
       {
@@ -7287,14 +7412,19 @@
   {
     "id": "q_farvann_008",
     "concept_id": "nv-farvannsskilt-fartsgrense",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "high",
     "exam_area": "navigasjon",
-    "prompt": "Hvordan ser et fartsgrenseskilt på sjøen ut, og hva angir tallet?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Firkantet skilt med rød kant og hvitt felt med et sort tall. Tallet er høyeste tillatte fart i knop (f.eks. 5 = maks 5 knop).",
+    "prompt": "Hvordan ser et fartsgrenseskilt på sjøen ut, og hva betyr tallet?",
+    "choices": [
+      "Firkantet skilt med rød kant og hvitt felt med sort tall som angir høyeste tillatte fart i knop",
+      "Sekskantet rødt skilt med hvitt tall som angir avstand til land",
+      "Trekantet gult skilt med sort tall som angir vanndybde",
+      "Rundt blått skilt med hvitt tall som angir minste tillatte fart"
+    ],
+    "correct": 0,
+    "explanation": "Et fartsgrenseskilt er firkantet med rød kant og hvitt felt med et sort tall, og tallet angir høyeste tillatte fart i knop.",
     "image": null,
     "sources": [
       {
@@ -7602,14 +7732,19 @@
   {
     "id": "q_vikeplikt_012",
     "concept_id": "lr-vikeplikt-styring-seilas",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "high",
     "exam_area": "lover",
-    "prompt": "Hva er rekkefølgen i vikepliktshierarkiet (hvem viker for hvem) etter regel 18?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Maskindrevet fartøy viker for seilfartøy, fiskefartøy som driver fiske, manøvreringshemmet fartøy og fartøy ikke under kommando. Seilfartøy viker igjen for fiskefartøy, manøvreringshemmet og fartøy ikke under kommando. I trange løp går regel 9 foran.",
+    "prompt": "Etter regel 18 om ansvar mellom fartøy – hvem viker et maskindrevet fartøy normalt for?",
+    "choices": [
+      "Maskindrevet fartøy viker for seilfartøy, fiskefartøy, manøvreringshemmet fartøy og fartøy ikke under kommando",
+      "Fiskefartøy som driver fiske viker for alle andre fartøy",
+      "Seilfartøy viker alltid for maskindrevet fartøy",
+      "Alle fartøy har lik vikeplikt uavhengig av type"
+    ],
+    "correct": 0,
+    "explanation": "Etter regel 18 viker maskindrevet fartøy for seilfartøy, fiskefartøy som driver fiske, manøvreringshemmet fartøy og fartøy ikke under kommando, men i trange løp går regel 9 foran.",
     "image": null,
     "sources": [
       {
@@ -7883,14 +8018,19 @@
   {
     "id": "q_lanterner_011",
     "concept_id": "lr-lanterner",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "high",
     "exam_area": "lover",
     "prompt": "Hva er dagsignalet (signalfiguren) for et fartøy som ligger til ankers?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Dagsignalet for et fartøy til ankers er én sort kule, plassert i forskipet der den best kan sees. Om natten vises i stedet ett rundtlysende hvitt lys.",
+    "choices": [
+      "Én sort kule plassert i forskipet der den best kan sees",
+      "To sorte kuler i forskipet",
+      "En sort kjegle med spissen ned",
+      "En sort sylinder midtskips"
+    ],
+    "correct": 0,
+    "explanation": "Dagsignalet for et fartøy til ankers er én sort kule i forskipet; om natten vises i stedet ett rundtlysende hvitt lys.",
     "image": null,
     "sources": [
       {
@@ -7982,14 +8122,19 @@
   {
     "id": "q_lydsignaler_004",
     "concept_id": "lr-lydsignaler-utstyr",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "high",
     "exam_area": "lover",
     "prompt": "Hvorfor bør også en liten fritidsbåt ha et signalhorn eller en tåkelur om bord?",
-    "choices": [],
-    "correct": null,
-    "explanation": "For å kunne gi de påbudte manøversignalene (regel 34) og varsle ved nedsatt sikt (regel 35). Selv om fartøy under 12 m ikke må ha fløyte, skal de kunne gi et effektivt lydsignal, og et signalhorn/tåkelur oppfyller dette.",
+    "choices": [
+      "Fordi alle fartøy under 12 m er pålagt å ha fløyte",
+      "For å kunne gi påbudte manøversignaler og varsle ved nedsatt sikt med et effektivt lydsignal",
+      "For å kunne kommunisere posisjon i stedet for VHF",
+      "Fordi hornet erstatter kravet om lanterner om natten"
+    ],
+    "correct": 1,
+    "explanation": "Selv om fartøy under 12 m ikke må ha fløyte, skal de kunne gi et effektivt lydsignal, og et signalhorn/tåkelur dekker manøversignaler (regel 34) og varsel ved nedsatt sikt (regel 35).",
     "image": null,
     "sources": [
       {
@@ -8159,14 +8304,19 @@
   {
     "id": "q_manover_006",
     "concept_id": "lr-manoversignaler",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 1,
     "importance": "high",
     "exam_area": "lover",
-    "prompt": "Oppsummer manøversignalene: 1 kort, 2 korte, 3 korte og 5 korte støt.",
-    "choices": [],
-    "correct": null,
-    "explanation": "1 kort = dreier til styrbord; 2 korte = dreier til babord; 3 korte = maskin akterover; minst 5 korte og raske = varsel/tvil («forstår ikke dine hensikter»).",
+    "prompt": "Hva betyr manøversignalet «to korte støt»?",
+    "choices": [
+      "Jeg dreier til babord",
+      "Maskinen går akterover",
+      "Jeg forstår ikke dine hensikter (varsel)",
+      "Jeg dreier til styrbord"
+    ],
+    "correct": 0,
+    "explanation": "Ett kort = dreier styrbord, to korte = dreier babord, tre korte = maskin akterover, og minst fem korte = varsel/tvil.",
     "image": null,
     "sources": [
       {
@@ -8336,14 +8486,19 @@
   {
     "id": "q_nedsatt_006",
     "concept_id": "lr-nedsatt-sikt",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 3,
     "importance": "normal",
     "exam_area": "lover",
     "prompt": "Hvilket lydsignal gir et fartøy til ankers i nedsatt sikt?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Et fartøy til ankers ringer raskt med klokken i ca. 5 sekunder, med høyst 1 minutts mellomrom. Fartøy under 12 m kan i stedet gi et annet effektivt lydsignal hvert ≤ 2 min.",
+    "choices": [
+      "Ett langt støt hvert ≤ 2 minutter",
+      "To lange støt hvert ≤ 2 minutter",
+      "Ett langt + to korte støt hvert ≤ 2 minutter",
+      "Rask ringing med klokken i ca. 5 sekunder, med høyst 1 minutts mellomrom"
+    ],
+    "correct": 3,
+    "explanation": "Et fartøy til ankers ringer raskt med klokken i ca. 5 sekunder med høyst 1 minutts mellomrom; fartøy under 12 m kan i stedet gi et annet effektivt lydsignal hvert ≤ 2 min.",
     "image": null,
     "sources": [
       {
@@ -8357,14 +8512,19 @@
   {
     "id": "q_nedsatt_007",
     "concept_id": "lr-nedsatt-sikt",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "high",
     "exam_area": "lover",
-    "prompt": "Oppsummer tåkesignalene for: motorbåt i fart, motorbåt stoppet, og seilbåt.",
-    "choices": [],
-    "correct": null,
-    "explanation": "Motorbåt med fart gjennom vannet: ett langt støt. Motorbåt stoppet: to lange støt. Seilbåt (og manøvreringshemmet m.fl.): ett langt + to korte støt. Alle hvert ≤ 2 min.",
+    "prompt": "Hvilket tåkesignal gir en motorbåt med fart gjennom vannet i nedsatt sikt?",
+    "choices": [
+      "To lange støt",
+      "Tre korte støt",
+      "Ett langt + to korte støt",
+      "Ett langt støt"
+    ],
+    "correct": 3,
+    "explanation": "Motorbåt med fart gjennom vannet gir ett langt støt, stoppet motorbåt to lange støt, og seilbåt ett langt + to korte støt – alle hvert ≤ 2 min.",
     "image": null,
     "sources": [
       {
@@ -8534,14 +8694,19 @@
   {
     "id": "q_nod_007",
     "concept_id": "lr-nodsignaler",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "normal",
     "exam_area": "lover",
-    "prompt": "Nevn minst fire anerkjente nødsignaler etter sjøveisreglenes vedlegg IV.",
-    "choices": [],
-    "correct": null,
-    "explanation": "Eksempler: rødt fallskjerm-/håndbluss, oransje røyksignal, langsom heving/senking av utstrakte armer, kontinuerlig tåkesignal, flammer om bord, firkantflagg med kule over/under, oransje duk, SOS i morse, og «Mayday» på VHF 16.",
+    "prompt": "Hvilket av disse er et anerkjent nødsignal etter sjøveisreglenes vedlegg IV?",
+    "choices": [
+      "Grønt håndbluss vist mot land",
+      "Et hvitt rundtlysende lys forut",
+      "Rødt fallskjerm- eller håndbluss",
+      "Ett kort støt i tåkeluren"
+    ],
+    "correct": 2,
+    "explanation": "Anerkjente nødsignaler er blant annet rødt fallskjerm-/håndbluss, oransje røyk, langsom heving/senking av armene, kontinuerlig tåkesignal, oransje duk og «Mayday» på VHF 16.",
     "image": null,
     "sources": [
       {
@@ -8711,14 +8876,19 @@
   {
     "id": "q_norske_006",
     "concept_id": "lr-norske-farvann",
-    "type": "flashcard",
+    "type": "mcq",
     "difficulty": 2,
     "importance": "high",
     "exam_area": "lover",
-    "prompt": "Hva må du som båtfører huske om bølgeslag (hekkbølger) i norske farvann?",
-    "choices": [],
-    "correct": null,
-    "explanation": "Etter regel 44 er du ansvarlig for skade og fare som bølgene fra din egen båt forårsaker – på andre båter, brygger, personer og strandlinje. Sett ned farten i god tid nær småbåter, badende, brygger og i trange områder.",
+    "prompt": "Hva gjelder for bølgeslag (hekkbølger) fra din egen båt i norske farvann?",
+    "choices": [
+      "Ansvaret gjelder bare i havner, ikke langs strandlinjen",
+      "Du er ikke ansvarlig for bølgene så lenge du holder lovlig fart",
+      "Du er ansvarlig for skade og fare bølgene dine forårsaker, og må sette ned farten i god tid",
+      "Bølgeslag er bare et problem for store skip, ikke fritidsbåter"
+    ],
+    "correct": 2,
+    "explanation": "Etter regel 44 er du ansvarlig for skade og fare bølgene fra din egen båt forårsaker, og du skal sette ned farten i god tid nær småbåter, badende, brygger og i trange områder.",
     "image": null,
     "sources": [
       {
