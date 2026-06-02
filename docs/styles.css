@@ -350,6 +350,15 @@ body {
 }
 a.img-credit:hover { text-decoration: underline; }
 
+/* toast-varsel (f.eks. etter sendt tilbakemelding) */
+.toast {
+  position: fixed; left: 50%; bottom: 26px; transform: translateX(-50%) translateY(12px);
+  background: var(--navy-700); color: var(--sand); padding: 12px 20px; border-radius: 999px;
+  border: 1px solid rgba(199,154,75,.5); box-shadow: var(--shadow); font-size: .92rem; font-weight: 600;
+  z-index: 80; opacity: 0; transition: opacity .25s, transform .25s;
+}
+.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
 /* ===== Panel (feillogg) ===== */
 .panel {
   max-width: 920px; margin: 0 auto; background: var(--sand);

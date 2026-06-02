@@ -312,8 +312,24 @@ function imgCredit(img) {
     : `<span class="img-credit">${esc(txt)}</span>`;
 }
 
-// ---- Meld feil / tilbakemelding (åpner e-post via mailto) ----
-const FEEDBACK_EMAIL = "vesmir09@gmail.com";
+// ---- Meld feil / tilbakemelding ----
+const FEEDBACK_EMAIL = "vesmir09@gmail.com";   // mottaker av tilbakemeldinger
+// EmailJS-konfig. Fyll inn de to plassholderne fra EmailJS-dashbordet:
+//   publicKey  : Account → General → API Keys (Public Key)
+//   templateId : Email Templates → (din mal) → Template ID (f.eks. template_xxx)
+// Template-malen bør bruke variablene under (Cc/To = {{to_email}}).
+const EMAILJS = {
+  publicKey: "DIN_PUBLIC_KEY",       // <-- LIM INN Public Key her
+  serviceId: "baatfører",            // oppgitt (sjekk at den matcher Service ID i EmailJS)
+  templateId: "DIN_TEMPLATE_ID",     // <-- LIM INN Template ID her
+};
+let emailjsReady = false;
+function initEmailJS() {
+  const k = EMAILJS.publicKey;
+  if (window.emailjs && k && !k.startsWith("DIN_")) {
+    try { emailjs.init({ publicKey: k }); emailjsReady = true; } catch (e) { console.warn("EmailJS init feilet", e); }
+  }
+}
 let feedbackQ = null;
 function findQ(id) { return DATA.questions.find(x => x.id === id) || null; }
 function openFeedback(q) {
@@ -336,9 +352,39 @@ function buildFeedbackMailto(q, note) {
   ].filter(x => x !== null).join("\n");
   return `mailto:${FEEDBACK_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 }
-function sendFeedback() {
-  window.location.href = buildFeedbackMailto(feedbackQ, ($("#fbText").value || "").trim());
+function feedbackParams(q, note) {
+  return {
+    to_email: FEEDBACK_EMAIL,
+    subject: "Båtføreprøven – tilbakemelding" + (q ? ` (oppgave ${q.id})` : ""),
+    question_id: q ? q.id : "",
+    question: q ? q.prompt : "",
+    correct_answer: (q && q.choices && q.correct != null) ? q.choices[q.correct] : "",
+    source: (q && (q.sources || [])[0] && q.sources[0].url) || "",
+    student: P ? P.name : "",
+    comment: note || "(ingen kommentar)",
+  };
+}
+async function sendFeedback() {
+  const note = ($("#fbText").value || "").trim();
+  const q = feedbackQ;
   $("#feedbackModal").hidden = true;
+  if (emailjsReady) {
+    try {
+      await emailjs.send(EMAILJS.serviceId, EMAILJS.templateId, feedbackParams(q, note));
+      toast("Takk! Tilbakemeldingen er sendt. ⚓");
+      return;
+    } catch (e) {
+      console.error("EmailJS-sending feilet – faller tilbake til e-postklient.", e);
+    }
+  }
+  // Fallback (EmailJS ikke konfigurert eller feilet): åpne e-postklienten.
+  window.location.href = buildFeedbackMailto(q, note);
+}
+let toastTimer = null;
+function toast(msg) {
+  const t = $("#toast"); t.textContent = msg; t.hidden = false; t.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { t.classList.remove("show"); setTimeout(() => t.hidden = true, 300); }, 3500);
 }
 
 // ---- Flyt ----
@@ -619,6 +665,7 @@ function renderResources() {
 
 async function init() {
   bindEvents();
+  initEmailJS();
   try { await loadData(); }
   catch (err) {
     $("#questionText").textContent = "Kunne ikke laste data. Siden må kjøres via en webserver (GitHub Pages), ikke fra fil.";
