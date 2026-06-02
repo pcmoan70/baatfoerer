@@ -78,7 +78,6 @@
         "Forstå hvorfor papirkart og kompass bør være tilgjengelig som reserve",
         "Knytte WGS84 til at GPS-posisjon kan brukes direkte i sjøkart"
       ],
-      "image_files": ["kartverket/images/globalassets-bilder-til-sjos-foto-seilbat-gps-adobestock.jpg-3b9cbf77.jpg"],
       "source_refs": [
         {"source_id": "kartverket_enc", "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc", "section": "Unngå overskalering", "quote": "Zoomer du for langt inn, strekkes informasjonen i kartet ut over den bruken den er beregnet for. Dette kalles overskalering."},
         {"source_id": "kartverket_sjokart", "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet", "section": "Datum og kartprojeksjon", "quote": "posisjonar frå GPS-baserte system kan brukast direkte i sjøkarta."}
@@ -536,7 +535,6 @@
       "choices": ["GPS forteller hvor du er, men ikke hva som er trygt rundt deg – du mister oversikten og utkikken", "Plotteren bruker for lite strøm", "Kartet får for høy oppløsning", "Kompasset blir mer nøyaktig"],
       "correct": 0,
       "explanation": "Blind tillit til skjermen gir dårlig utkikk. Plotteren skal brukes sammen med egne observasjoner av sjømerker og farvann, ikke i stedet for dem.",
-      "image_file": "kartverket/images/globalassets-bilder-til-sjos-foto-seilbat-gps-adobestock.jpg-3b9cbf77.jpg",
       "source_refs": [{"source_id": "kartverket_enc", "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc", "section": "Unngå overskalering", "quote": "den sjøfarende selv være oppmerksom."}]
     },
     {

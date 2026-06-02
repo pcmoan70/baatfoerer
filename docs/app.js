@@ -1,270 +1,359 @@
 // =========================================================
-//  Båtføreprøven — quizmotor (prototype, statisk)
-//  Data-drevet: bytt ut SAMPLE med /data/questions.json senere.
+//  Båtføreprøven — treningsmotor (statisk, data-drevet)
+//  Laster docs/data/*.json, adaptiv utvelgelse, mestring per emne,
+//  feillogg og elevprofiler i localStorage. Må serveres over http
+//  (GitHub Pages e.l.) — fetch fungerer ikke fra file://.
 // =========================================================
 
-// ---- Maritime SVG-illustrasjoner (felles stil) ----------
-// Konsekvent: marineblå linjer, messing-aksent, sjøgrønne høylys.
+const $ = (s) => document.querySelector(s);
+const KEYS = ["A", "B", "C", "D", "E", "F"];
+const STORE_KEY = "bfp.profile.v1";
 
-const compassWatermark = `
-  <g opacity="0.10" stroke="#0c2a40" stroke-width="1.2" fill="none">
-    <circle cx="50" cy="30" r="13"/>
-    <path d="M50 15 L52 30 L50 45 L48 30 Z" fill="#0c2a40" stroke="none"/>
-    <path d="M35 30 L50 28 L65 30 L50 32 Z" fill="#0c2a40" stroke="none"/>
-  </g>`;
-
+// ---- Maritime SVG-scener (fallback når et spørsmål ikke har bilde) ----
+function sceneFor(area) {
+  if (area === "lover") return sceneLantern();
+  if (area === "navigasjon") return sceneBuoy();
+  return sceneBoat();
+}
 function sceneBoat() {
-  return `
-  <svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice" role="img">
-    <defs>
-      <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#cfe7ef"/><stop offset="1" stop-color="#9ccadb"/>
-      </linearGradient>
-    </defs>
-    <rect width="100" height="42" fill="url(#sky)"/>
-    <circle cx="78" cy="14" r="7" fill="#e9d39b" opacity="0.85"/>
-    ${compassWatermark}
-    <!-- sjø -->
+  return `<svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice">
+    <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfe7ef"/><stop offset="1" stop-color="#9ccadb"/></linearGradient></defs>
+    <rect width="100" height="42" fill="url(#sky)"/><circle cx="78" cy="14" r="7" fill="#e9d39b" opacity=".85"/>
     <rect y="42" width="100" height="58" fill="#15526e"/>
-    <!-- båt -->
     <g stroke="#0c2a40" stroke-width="1.4" stroke-linejoin="round">
-      <path d="M52 26 L52 41 L40 41 Q46 30 52 26 Z" fill="#f6f1e7"/>
-      <path d="M54 26 L66 40 L54 40 Z" fill="#c79a4b"/>
-      <line x1="53" y1="22" x2="53" y2="41"/>
-      <path d="M37 41 L67 41 L63 48 L41 48 Z" fill="#103a57"/>
-    </g>
-    <!-- bølger + speiling -->
-    <g stroke="#4a97b3" stroke-width="1.2" fill="none" opacity="0.8">
-      <path d="M0 54 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/>
-      <path d="M0 64 q10 4 20 0 t20 0 t20 0 t20 0 t20 0"/>
-      <path d="M0 76 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/>
-    </g>
-    <g stroke="#0c2a40" stroke-width="1" opacity="0.25">
-      <line x1="46" y1="50" x2="46" y2="60"/><line x1="58" y1="50" x2="58" y2="58"/>
-    </g>
-  </svg>`;
+      <path d="M52 26 L52 41 L40 41 Q46 30 52 26 Z" fill="#f6f1e7"/><path d="M54 26 L66 40 L54 40 Z" fill="#c79a4b"/>
+      <line x1="53" y1="22" x2="53" y2="41"/><path d="M37 41 L67 41 L63 48 L41 48 Z" fill="#103a57"/></g>
+    <g stroke="#4a97b3" stroke-width="1.2" fill="none" opacity=".8">
+      <path d="M0 54 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/><path d="M0 66 q10 4 20 0 t20 0 t20 0 t20 0 t20 0"/>
+      <path d="M0 78 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/></g></svg>`;
 }
-
 function sceneLantern() {
-  return `
-  <svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice" role="img">
+  return `<svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice">
     <rect width="100" height="100" fill="#06192a"/>
-    <circle cx="20" cy="16" r="0.8" fill="#cdd9e0"/><circle cx="74" cy="12" r="0.7" fill="#cdd9e0"/>
-    <circle cx="88" cy="24" r="0.6" fill="#cdd9e0"/><circle cx="40" cy="9" r="0.6" fill="#cdd9e0"/>
-    <!-- båt forfra i mørke -->
-    <g stroke="#16334a" stroke-width="1.4" fill="#0c2334">
-      <path d="M34 60 L66 60 L61 70 L39 70 Z"/>
-      <line x1="50" y1="40" x2="50" y2="60" stroke="#16334a"/>
-    </g>
-    <!-- lanterner: babord rød, styrbord grønn, topp hvit -->
-    <g>
-      <circle cx="38" cy="58" r="3.2" fill="#e0533f"/><circle cx="38" cy="58" r="6" fill="#e0533f" opacity="0.18"/>
-      <circle cx="62" cy="58" r="3.2" fill="#2fae6b"/><circle cx="62" cy="58" r="6" fill="#2fae6b" opacity="0.18"/>
-      <circle cx="50" cy="40" r="2.6" fill="#f4ead0"/><circle cx="50" cy="40" r="6" fill="#f4ead0" opacity="0.15"/>
-    </g>
-    <g stroke="#0e2b40" stroke-width="1" fill="none" opacity="0.7">
-      <path d="M0 78 q12 -3 24 0 t24 0 t24 0 t24 0"/>
-      <path d="M0 88 q12 3 24 0 t24 0 t24 0 t24 0"/>
-    </g>
-  </svg>`;
+    <circle cx="20" cy="16" r=".8" fill="#cdd9e0"/><circle cx="74" cy="12" r=".7" fill="#cdd9e0"/><circle cx="40" cy="9" r=".6" fill="#cdd9e0"/>
+    <g stroke="#16334a" stroke-width="1.4" fill="#0c2334"><path d="M34 60 L66 60 L61 70 L39 70 Z"/><line x1="50" y1="40" x2="50" y2="60" stroke="#16334a"/></g>
+    <circle cx="38" cy="58" r="3.2" fill="#e0533f"/><circle cx="38" cy="58" r="6" fill="#e0533f" opacity=".18"/>
+    <circle cx="62" cy="58" r="3.2" fill="#2fae6b"/><circle cx="62" cy="58" r="6" fill="#2fae6b" opacity=".18"/>
+    <circle cx="50" cy="40" r="2.6" fill="#f4ead0"/><circle cx="50" cy="40" r="6" fill="#f4ead0" opacity=".15"/>
+    <g stroke="#0e2b40" stroke-width="1" fill="none" opacity=".7"><path d="M0 80 q12 -3 24 0 t24 0 t24 0 t24 0"/><path d="M0 90 q12 3 24 0 t24 0 t24 0 t24 0"/></g></svg>`;
 }
-
-function sceneBuoy(kind = "lateral-red") {
-  const red = kind === "lateral-red";
-  const body = red ? "#c0392b" : "#1f7a3d";
-  return `
-  <svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice" role="img">
-    <rect width="100" height="42" fill="#cfe7ef"/>
-    ${compassWatermark}
-    <rect y="42" width="100" height="58" fill="#15526e"/>
-    <!-- merke -->
+function sceneBuoy() {
+  return `<svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice">
+    <rect width="100" height="42" fill="#cfe7ef"/><rect y="42" width="100" height="58" fill="#15526e"/>
     <g stroke="#0c2a40" stroke-width="1.3" stroke-linejoin="round">
-      <rect x="45" y="30" width="10" height="16" fill="${body}"/>
-      <path d="M45 30 L55 30 L50 20 Z" fill="${body}"/>
-      <rect x="46" y="46" width="8" height="6" fill="#1a1a1a"/>
-    </g>
-    <g stroke="#4a97b3" stroke-width="1.2" fill="none" opacity="0.85">
-      <path d="M0 56 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/>
-      <path d="M0 68 q10 4 20 0 t20 0 t20 0 t20 0 t20 0"/>
-    </g>
-  </svg>`;
+      <rect x="45" y="30" width="10" height="16" fill="#1f7a3d"/><path d="M45 30 L55 30 L50 20 Z" fill="#1f7a3d"/><rect x="46" y="46" width="8" height="6" fill="#1a1a1a"/></g>
+    <g stroke="#4a97b3" stroke-width="1.2" fill="none" opacity=".85"><path d="M0 56 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/><path d="M0 68 q10 4 20 0 t20 0 t20 0 t20 0 t20 0"/></g></svg>`;
 }
 
-const SCENES = {
-  boat: sceneBoat,
-  lantern: sceneLantern,
-  buoyRed: () => sceneBuoy("lateral-red"),
-  buoyGreen: () => sceneBuoy("lateral-green"),
-};
+// ---- Datalast ----
+let DATA = { areas: [], concepts: [], questions: [], sources: [] };
+let conceptById = {}, areaById = {};
 
-// ---- Moduler / ressurser (sidemeny) ---------------------
-const MODULES = [
-  { id: "sjomannskap", label: "Sjømannskap" },
-  { id: "lover", label: "Lover og regler" },
-  { id: "navigasjon", label: "Navigasjon og kart" },
-  { id: "spesielt", label: "Spesielt viktige emner" },
-];
-
-const RESOURCES = [
-  { label: "Sjøfartsdirektoratet — pensum", url: "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/" },
-  { label: "Kystverket — sjømerker", url: "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/" },
-  { label: "Redningsselskapet — sjøvett", url: "https://rs.no/sikker-til-sjos/sjovettreglene/" },
-];
-
-// ---- Eksempelspørsmål (egne formuleringer) --------------
-const SAMPLE = [
-  {
-    id: "q_lanterner_001",
-    module: "spesielt",
-    scene: "lantern",
-    question: "Du ser en grønn lanterne alene i mørket. Hva betyr det mest sannsynlig?",
-    choices: [
-      "Du ser styrbord side av et fartøy",
-      "Du ser babord side av et fartøy",
-      "Fartøyet ligger for anker",
-      "Fartøyet har motorstopp",
-    ],
-    correct: 0,
-    explanation: "Grønn lanterne markerer styrbord side. Ser du den alene, viser fartøyet deg sin styrbordside.",
-    source: { label: "Kystverket — lanterner", url: "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/#lanterner" },
-  },
-  {
-    id: "q_sjomerker_001",
-    module: "navigasjon",
-    scene: "buoyRed",
-    question: "Du seiler inn mot havn og ser et rødt lateralmerke. På hvilken side skal du holde det?",
-    choices: [
-      "På babord side (venstre)",
-      "På styrbord side (høyre)",
-      "Rett forut",
-      "Det kan passeres på begge sider",
-    ],
-    correct: 0,
-    explanation: "Ved innseiling holdes røde lateralmerker på babord side. Husk: «rødt om babord inn».",
-    source: { label: "Kystverket — lateralmerker", url: "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/#lateralmerker" },
-  },
-  {
-    id: "q_fart_001",
-    module: "navigasjon",
-    scene: "boat",
-    question: "En båt holder 18 knop. Hvor langt kommer den på 40 minutter?",
-    choices: ["6 nautiske mil", "9 nautiske mil", "12 nautiske mil", "18 nautiske mil"],
-    correct: 2,
-    explanation: "18 knop = 18 nm/time. 40 min = 2/3 time → 18 × 2/3 = 12 nautiske mil.",
-    source: { label: "Sjøfartsdirektoratet — pensum", url: "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/" },
-  },
-  {
-    id: "q_vikeplikt_001",
-    module: "spesielt",
-    scene: "boat",
-    question: "Du møter en seilbåt for seil som kommer inn fra din styrbord side. Hva gjør du?",
-    choices: [
-      "Holder kursen — jeg har vikeplikt-fri sone",
-      "Viker, fordi seilbåten kommer fra styrbord",
-      "Øker farten og krysser foran",
-      "Tvinger seilbåten til å vike",
-    ],
-    correct: 1,
-    explanation: "Fartøy som har det andre på sin styrbord side har normalt vikeplikt. En seilbåt for seil har dessuten ofte fortrinn framfor motorbåt.",
-    source: { label: "Sjøfartsdirektoratet — pensum", url: "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/" },
-  },
-];
-
-// ---- Tilstand -------------------------------------------
-let idx = 0;
-const answers = new Array(SAMPLE.length).fill(null); // valgt indeks per spørsmål
-
-// ---- Render ---------------------------------------------
-const $ = (sel) => document.querySelector(sel);
-const KEYS = ["A", "B", "C", "D", "E"];
-
-function renderSidebar() {
-  $("#moduleList").innerHTML = MODULES.map((m, i) =>
-    `<li data-module="${m.id}"${i === 0 ? ' class="active"' : ""}>${m.label}
-       <span class="count">${SAMPLE.filter(q => q.module === m.id).length}</span></li>`
-  ).join("");
-  $("#resourceList").innerHTML = RESOURCES.map(r =>
-    `<li onclick="window.open('${r.url}','_blank')">${r.label}</li>`
-  ).join("");
+async function loadData() {
+  const base = "data/";
+  const [syllabus, concepts, questions, sources] = await Promise.all([
+    fetch(base + "syllabus.json").then(r => r.json()),
+    fetch(base + "concepts.json").then(r => r.json()),
+    fetch(base + "questions.json").then(r => r.json()),
+    fetch(base + "sources.json").then(r => r.json()),
+  ]);
+  DATA = { areas: syllabus, concepts, questions, sources };
+  conceptById = Object.fromEntries(concepts.map(c => [c.id, c]));
+  areaById = Object.fromEntries(syllabus.map(a => [a.id, a]));
 }
 
-function renderClarity() {
-  const done = answers.filter(a => a !== null);
-  if (!done.length) { $("#clarityValue").textContent = "—"; return; }
-  const correct = answers.filter((a, i) => a === SAMPLE[i].correct).length;
-  $("#clarityValue").textContent = Math.round((correct / done.length) * 100) + " %";
+// ---- Profil (localStorage) ----
+let P = null;
+function loadProfile() {
+  try { P = JSON.parse(localStorage.getItem(STORE_KEY)); } catch { P = null; }
+  return P;
+}
+function newProfile(name) {
+  P = { name, created: new Date().toISOString(), answers: {}, mastery: {}, lastSeen: {}, errors: [], recent: [] };
+  saveProfile();
+}
+function saveProfile() { localStorage.setItem(STORE_KEY, JSON.stringify(P)); }
+
+// ---- Mestring & utvelgelse ----
+const IMP_W = { normal: 1.0, high: 1.3, critical: 1.6 };
+function masteryOf(cid) { return P.mastery[cid] ?? 0.3; }
+function updateMastery(cid, correct) {
+  const m = masteryOf(cid);
+  const next = correct ? m + 0.25 * (1 - m) : m - 0.32 * m;
+  P.mastery[cid] = Math.max(0, Math.min(1, next));
+  P.lastSeen[cid] = Date.now();
+}
+function areaMastery(areaId) {
+  const cs = DATA.concepts.filter(c => c.area === areaId && (P.mastery[c.id] !== undefined));
+  if (!cs.length) return null;
+  return cs.reduce((s, c) => s + P.mastery[c.id], 0) / cs.length;
+}
+function clarityIndex() {
+  const seen = Object.keys(P.mastery);
+  if (!seen.length) return null;
+  return seen.reduce((s, id) => s + P.mastery[id], 0) / seen.length;
 }
 
-function renderTask() {
-  const q = SAMPLE[idx];
-  $("#sceneFigure").innerHTML = (SCENES[q.scene] || SCENES.boat)();
-  $("#taskModule").textContent = MODULES.find(m => m.id === q.module)?.label || "Oppgave";
-  $("#taskCounter").textContent = `${idx + 1} / ${SAMPLE.length}`;
-  $("#progressFill").style.width = ((idx + 1) / SAMPLE.length * 100) + "%";
-  $("#questionText").textContent = q.question;
+// Adaptiv: flere spørsmål på svake/viktige emner, færre på sterke.
+let filter = { view: "adaptive", area: null }; // area = id | "spesielt" | null
 
-  const chosen = answers[idx];
-  $("#choices").innerHTML = q.choices.map((c, i) => {
-    let cls = "choice";
-    if (chosen !== null) {
-      if (i === q.correct) cls += " correct";
-      else if (i === chosen) cls += " wrong";
-    }
-    return `<li><button class="${cls}" data-i="${i}" ${chosen !== null ? "disabled" : ""}>
-      <span class="key">${KEYS[i]}</span><span>${c}</span></button></li>`;
-  }).join("");
+function candidatePool() {
+  let qs = DATA.questions;
+  if (filter.area === "spesielt") qs = qs.filter(q => q.exam_area === "spesielt_viktige");
+  else if (filter.area) qs = qs.filter(q => conceptById[q.concept_id]?.area === filter.area);
+  return qs;
+}
+function pickQuestion() {
+  const pool = candidatePool();
+  if (!pool.length) return null;
+  const recent = new Set(P.recent.slice(-12));
+  let best = null, bestScore = -1e9;
+  pool.forEach((q, i) => {
+    const c = conceptById[q.concept_id];
+    const weakness = 1 - masteryOf(q.concept_id);
+    const imp = IMP_W[q.importance] || 1;
+    const due = P.lastSeen[q.concept_id] ? Math.min(1, (Date.now() - P.lastSeen[q.concept_id]) / 6e5) : 1;
+    let score = 2.0 * weakness + 0.6 * imp + 0.6 * due;
+    if (recent.has(q.id)) score -= 5;             // unngå repetisjon
+    score += ((i * 2654435761) % 1000) / 4000;    // deterministisk «støy» for variasjon
+    if (score > bestScore) { bestScore = score; best = q; }
+  });
+  return best;
+}
 
-  const fb = $("#feedback");
-  if (chosen !== null) {
-    fb.hidden = false;
-    $("#feedbackText").textContent = q.explanation;
-    const link = $("#sourceLink");
-    link.textContent = q.source.label + " →";
-    link.href = q.source.url;
+// ---- Render: quiz ----
+let current = null, answered = false;
+
+function showView(view) {
+  $("#taskCard").hidden = view !== "quiz";
+  $("#errPanel").hidden = view !== "feillogg";
+}
+
+function renderQuestion(q) {
+  current = q; answered = false;
+  showView("quiz");
+  const c = conceptById[q.concept_id] || {};
+  const area = areaById[c.area];
+  $("#taskModule").textContent = (area ? area.title : "Oppgave") + (c.title ? " · " + c.title : "");
+  $("#taskCounter").textContent = "";
+  $("#progressFill").style.width = Math.round((clarityIndex() || 0) * 100) + "%";
+
+  // badge
+  const badge = $("#qBadge");
+  if (q.exam_area === "spesielt_viktige") { badge.hidden = false; badge.textContent = "★ Spesielt viktig"; badge.className = "badge crit"; }
+  else if (q.importance === "high") { badge.hidden = false; badge.textContent = "Viktig"; badge.className = "badge"; }
+  else badge.hidden = true;
+
+  // scene / bilde
+  const fig = $("#sceneFigure");
+  if (q.image && q.image.src) {
+    fig.innerHTML = `<img class="photo" src="${q.image.src}" alt="${q.image.alt || ""}"><span class="img-credit">Foto/illustrasjon: offentlig kilde</span>`;
+  } else { fig.innerHTML = sceneFor(c.area); }
+
+  $("#questionText").textContent = q.prompt;
+
+  const choices = $("#choices");
+  if (q.type === "flashcard" || !q.choices || !q.choices.length) {
+    choices.innerHTML = `<li><button class="choice" data-i="0"><span class="key">?</span><span>Vis svar</span></button></li>`;
   } else {
-    fb.hidden = true;
+    choices.innerHTML = q.choices.map((ch, i) =>
+      `<li><button class="choice" data-i="${i}"><span class="key">${KEYS[i]}</span><span>${esc(ch)}</span></button></li>`).join("");
   }
-
-  $("#prevBtn").disabled = idx === 0;
-  $("#nextBtn").disabled = idx === SAMPLE.length - 1;
-
-  // marker aktiv modul
-  document.querySelectorAll("#moduleList li").forEach(li =>
-    li.classList.toggle("active", li.dataset.module === q.module));
-
+  $("#feedback").hidden = true;
+  $("#sourceLink").hidden = true;
+  $("#nextLabel").textContent = "Hopp over";
   renderStreak();
-  renderClarity();
+}
+
+function answer(i) {
+  if (answered) return;
+  const q = current;
+  const correct = (q.type === "flashcard") ? true : (i === q.correct);
+  answered = true;
+
+  // marker valg
+  document.querySelectorAll(".choice").forEach(btn => {
+    const bi = Number(btn.dataset.i);
+    btn.disabled = true;
+    if (q.type !== "flashcard") {
+      if (bi === q.correct) btn.classList.add("correct");
+      else if (bi === i) btn.classList.add("wrong");
+    }
+  });
+
+  // logg
+  P.answers[q.id] = { correct, ts: Date.now() };
+  P.recent.push(q.id);
+  updateMastery(q.concept_id, correct);
+  if (!correct) logError(q, i);
+  saveProfile();
+
+  // feedback
+  $("#feedbackText").textContent = q.explanation || "";
+  $("#feedback").hidden = false;
+  const src = (q.sources || [])[0];
+  const link = $("#sourceLink");
+  if (src && src.url) {
+    link.hidden = false; link.href = src.url;
+    link.textContent = (src.section ? src.section + " — " : "") + "Les hos kilden →";
+  } else link.hidden = true;
+  $("#nextLabel").textContent = "Neste";
+  renderStreak(); renderSidebar(); renderClarity();
+}
+
+function logError(q, chosen) {
+  P.errors = P.errors.filter(e => e.qid !== q.id);   // unngå duplikat
+  P.errors.unshift({ qid: q.id, concept_id: q.concept_id, ts: Date.now(),
+                     chosen: q.choices ? q.choices[chosen] : null });
+  P.errors = P.errors.slice(0, 100);
 }
 
 function renderStreak() {
-  const correct = answers.filter((a, i) => a !== null && a === SAMPLE[i].correct).length;
-  const total = answers.filter(a => a !== null).length;
-  $("#streak").textContent = total ? `${correct}/${total} riktige` : "";
+  const a = Object.values(P.answers);
+  const corr = a.filter(x => x.correct).length;
+  $("#streak").textContent = a.length ? `${corr}/${a.length} riktige totalt` : "";
 }
 
-// ---- Hendelser ------------------------------------------
-$("#choices").addEventListener("click", (e) => {
-  const btn = e.target.closest(".choice");
-  if (!btn || answers[idx] !== null) return;
-  answers[idx] = Number(btn.dataset.i);
-  renderTask();
-});
+// ---- Render: feillogg ----
+function renderErrors() {
+  showView("feillogg");
+  const list = $("#errList");
+  if (!P.errors.length) { list.innerHTML = `<li class="err-empty">Ingen feil registrert ennå. Bra jobba! ⚓</li>`; return; }
+  list.innerHTML = P.errors.map(e => {
+    const q = DATA.questions.find(x => x.id === e.qid);
+    const c = conceptById[e.concept_id] || {};
+    const area = areaById[c.area];
+    if (!q) return "";
+    return `<li class="err-item" data-q="${e.qid}">
+      <span class="err-x">✗</span>
+      <div><div class="err-text">${esc(q.prompt)}</div>
+        <div class="err-meta">${esc(area ? area.title : "")}${c.title ? " · " + esc(c.title) : ""} — trykk for å øve på dette temaet</div></div></li>`;
+  }).join("");
+}
 
-$("#prevBtn").addEventListener("click", () => { if (idx > 0) { idx--; renderTask(); } });
-$("#nextBtn").addEventListener("click", () => { if (idx < SAMPLE.length - 1) { idx++; renderTask(); } });
+// ---- Render: sidemeny + header ----
+function renderSidebar() {
+  $("#cAll").textContent = DATA.questions.length;
+  $("#cErr").textContent = P.errors.length;
+  // pensumområder med mestringsfelt
+  const areaItems = DATA.areas.map(a => {
+    const isSpes = a.id === "spesielt";
+    const nq = isSpes
+      ? DATA.questions.filter(q => q.exam_area === "spesielt_viktige").length
+      : DATA.questions.filter(q => conceptById[q.concept_id]?.area === a.id).length;
+    const m = isSpes ? spesieltMastery() : areaMastery(a.id);
+    const pct = m == null ? 0 : Math.round(m * 100);
+    const active = filter.area === a.id ? " active" : "";
+    return `<li class="area-item${active}" data-area="${a.id}">
+      <div class="area-row"><span>${esc(a.title)}</span><span class="count">${nq}</span></div>
+      <div class="mastery"><i style="width:${pct}%"></i></div></li>`;
+  }).join("");
+  $("#areaList").innerHTML = areaItems;
+  // marker aktiv modus
+  document.querySelectorAll("#modeList li").forEach(li =>
+    li.classList.toggle("active", filter.view === li.dataset.view && !filter.area));
+  // foot
+  const ci = clarityIndex();
+  $("#footStats").textContent = ci == null
+    ? `${DATA.questions.length} spørsmål · ${DATA.concepts.length} emner`
+    : `Svart: ${Object.keys(P.answers).length} · Feillogg: ${P.errors.length}`;
+}
+function spesieltMastery() {
+  const ids = new Set(DATA.questions.filter(q => q.exam_area === "spesielt_viktige").map(q => q.concept_id));
+  const seen = [...ids].filter(id => P.mastery[id] !== undefined);
+  if (!seen.length) return null;
+  return seen.reduce((s, id) => s + P.mastery[id], 0) / seen.length;
+}
+function renderClarity() {
+  const ci = clarityIndex();
+  $("#clarityValue").textContent = ci == null ? "—" : Math.round(ci * 100) + " %";
+}
 
-document.addEventListener("keydown", (e) => {
-  if (e.key === "ArrowLeft") $("#prevBtn").click();
-  if (e.key === "ArrowRight") $("#nextBtn").click();
-  const k = KEYS.indexOf(e.key.toUpperCase());
-  if (k >= 0 && answers[idx] === null) {
-    const b = document.querySelector(`.choice[data-i="${k}"]`);
-    if (b) b.click();
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+
+// ---- Flyt ----
+function nextQuestion() {
+  const q = pickQuestion();
+  if (q) renderQuestion(q);
+  else { $("#questionText").textContent = "Ingen oppgaver i dette utvalget."; $("#choices").innerHTML = ""; }
+}
+
+function setView(view, area = null) {
+  filter = { view, area };
+  if ($("#sidebar").classList.contains("open")) $("#sidebar").classList.remove("open");
+  if (view === "feillogg") renderErrors();
+  else nextQuestion();
+  renderSidebar();
+}
+
+// ---- Elev-modal ----
+function openNameModal(isNew) {
+  $("#nameInput").value = isNew ? "" : (P?.name || "");
+  $("#resetBtn").hidden = isNew;
+  $("#nameModal").hidden = false;
+  setTimeout(() => $("#nameInput").focus(), 50);
+}
+function closeNameModal() { $("#nameModal").hidden = true; }
+
+function commitName() {
+  const name = ($("#nameInput").value || "").trim() || "Elev";
+  if (!P) newProfile(name);
+  else { P.name = name; saveProfile(); }
+  $("#studentName").textContent = P.name;
+  closeNameModal();
+  renderSidebar(); renderClarity();
+  if (filter.view === "feillogg") renderErrors(); else if (!current) nextQuestion();
+}
+
+// ---- Init ----
+function bindEvents() {
+  $("#choices").addEventListener("click", e => {
+    const btn = e.target.closest(".choice"); if (btn) answer(Number(btn.dataset.i));
+  });
+  $("#nextBtn").addEventListener("click", () => { if (filter.view === "feillogg") return; nextQuestion(); });
+  document.addEventListener("keydown", e => {
+    if (!$("#nameModal").hidden) { if (e.key === "Enter") commitName(); return; }
+    if (filter.view !== "adaptive" && filter.view !== "quiz") return;
+    if (e.key === "Enter" || e.key === "ArrowRight") $("#nextBtn").click();
+    const k = KEYS.indexOf(e.key.toUpperCase());
+    if (k >= 0 && !answered) { const b = document.querySelector(`.choice[data-i="${k}"]`); if (b) b.click(); }
+  });
+  $("#menuToggle").addEventListener("click", () => $("#sidebar").classList.toggle("open"));
+  $("#studentBtn").addEventListener("click", () => openNameModal(false));
+  $("#saveName").addEventListener("click", commitName);
+  $("#resetBtn").addEventListener("click", () => {
+    if (confirm("Nullstille all fremgang for denne eleven?")) { newProfile(P.name); commitName(); }
+  });
+  $("#modeList").addEventListener("click", e => {
+    const li = e.target.closest("li"); if (li) setView(li.dataset.view, null);
+  });
+  $("#areaList").addEventListener("click", e => {
+    const li = e.target.closest("li"); if (li) setView("adaptive", li.dataset.area);
+  });
+  $("#errList").addEventListener("click", e => {
+    const li = e.target.closest(".err-item"); if (!li) return;
+    const q = DATA.questions.find(x => x.id === li.dataset.q);
+    if (q) { filter = { view: "adaptive", area: conceptById[q.concept_id]?.area || null }; renderQuestion(q); renderSidebar(); }
+  });
+  $("#clearErr").addEventListener("click", () => { if (confirm("Tømme feilloggen?")) { P.errors = []; saveProfile(); renderErrors(); renderSidebar(); } });
+}
+
+function renderResources() {
+  const off = DATA.sources.filter(s => s.authority === "official" || s.authority === "official_law").slice(0, 6);
+  $("#resourceList").innerHTML = off.map(s => `<li onclick="window.open('${s.url}','_blank')">${esc(s.name)}</li>`).join("");
+}
+
+async function init() {
+  bindEvents();
+  try { await loadData(); }
+  catch (err) {
+    $("#questionText").textContent = "Kunne ikke laste data. Siden må kjøres via en webserver (GitHub Pages), ikke fra fil.";
+    console.error(err); return;
   }
-});
+  renderResources();
+  loadProfile();
+  if (!P || !P.name) { openNameModal(true); $("#studentName").textContent = "—"; }
+  else { $("#studentName").textContent = P.name; nextQuestion(); renderSidebar(); renderClarity(); }
+}
 
-$("#menuToggle").addEventListener("click", () => $("#sidebar").classList.toggle("open"));
-
-// ---- Start ----------------------------------------------
-renderSidebar();
-renderTask();
+init();

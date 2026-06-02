@@ -20,25 +20,39 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
 - Note: lovdata blokkert av robots (lenke-only per plan); goypasjoen/bliskipper
   er JS-tunge private sider (1 side hver) — lav prioritet, inspirasjon-only
 
-## Fase 1 — Database + innholdsmodell ← PÅGÅR
+## Fase 1 — Database + innholdsmodell ← FERDIG ✅
 
-- [ ] **God database**: SQLite kilde-database `content/batforer.db` (normalisert)
-- [ ] `content/schema.sql` — sources, areas, topics, concepts, learning_goals,
+- [x] **God database**: SQLite kilde-database `content/batforer.db` (normalisert)
+- [x] `content/schema.sql` — sources, areas, topics, concepts, learning_goals,
       questions, choices, *_sources, images, concept_images
-- [ ] `content/syllabus_seed.json` — offisiell pensumstruktur (4 deler, revidert 2014)
-- [ ] `content/build_db.py` — last seed + forfattet innhold + bilder → DB
-- [ ] `content/validate.py` — fasit, forklaring, source_refs, dubletter, dekning
-- [ ] `content/export_json.py` — DB → `docs/data/*.json` (frontend-bundles)
+- [x] `content/syllabus_seed.json` — offisiell pensumstruktur (4 deler, revidert 2014)
+- [x] `content/build_db.py` — last seed + forfattet innhold + bilder → DB
+- [x] `content/validate.py` — fasit, forklaring, source_refs, dubletter, dekning
+- [x] `content/export_json.py` — DB → `docs/data/*.json` (kun gjenbrukbare bilder)
 - [ ] `scraper/diff.py` — kildeendringsvarsling (checksum-diff)
 
-## Fase 2 — Innhold (egne spørsmål, dekker hele pensum)
+## Fase 2 — Innhold (egne spørsmål, dekker hele pensum) ← FERDIG ✅
 
-- [ ] Konsepter + forklaringer for ALLE pensumpunkter (1.1–1.4), egne ord
-- [ ] Skriv om privat-skrapet innhold; korrekt mot lov/forskrift/sjøveisregler
-- [ ] Knytt analyserte fagbilder til konsepter (sjømerker, lanterner, fyr)
-- [ ] Dype regelreferanser (lovdata, sjøveisregler, sdir-pensum) per spørsmål
-- [ ] Stor spørsmålsbank; ekstra vekt på «spesielt viktige emner» (1.4)
-- [ ] Validator + faglig kontroll av lovfakta (promille, flyteutstyr, vikeplikt)
+- [x] 41 konsepter + forklaringer for hele pensum (1.1–1.4), egne ord
+- [x] 335 spørsmål; privat innhold skrevet om; korrekt mot lov/forskrift/sjøveisregler
+- [x] Analyserte fagbilder knyttet til konsepter (sjømerker, lanterner, fyr, skilt)
+- [x] Dype regelreferanser (lovdata, sjøveisregler, sdir) på hvert spørsmål
+- [x] 75 spørsmål markert «spesielt viktige emner» (1.4)
+- [x] **Regler dobbeltsjekket mot nett** (2021: 10-knopsgrense fjernet; 2023:
+      høyhastighetsbevis ≥50 kn / 18 år; promille 0,8/<15 m)
+- [x] Adversarisk faglig kontroll (5 verifiseringsagenter): numerikk reberegnet,
+      lovfakta + bilde–svar-konsistens bekreftet; 0 copyright-bilder vist
+
+## Fase 3 — Frontend (statisk webapp) ← STØRSTEDELEN FERDIG
+
+- [x] Data-drevet: laster `docs/data/*.json` (erstattet SAMPLE)
+- [x] **localStorage elevprofiler** med navn (sett/bytt elev) + nullstilling
+- [x] Mestring per emne/område + Klarhetsindeks (maritimt dashbord)
+- [x] **Adaptiv utvelgelse**: flere spørsmål på svake/viktige emner
+- [x] **Feillogg** for feil-besvarte oppgaver (klikkbar for repetisjon)
+- [x] Bilde-/symbolspørsmål med ekte fagbilder + kildelenker
+- [ ] Egen eksamensmodus (50 spm / 60 min / 80 % + spesielt-krav)
+- [ ] Spaced repetition / flashcard-modus
 
 ## Kildelenking-prinsipp (gjelder alt innhold) 🔗
 

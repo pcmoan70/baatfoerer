@@ -304,4 +304,85 @@ body {
   }
   .sidebar.open { transform: translateX(0); }
   .clarity-label { display: none; }
+  .student-label { display: none; }
 }
+
+/* ===== Elev-knapp i topplinjen ===== */
+.student {
+  display: flex; flex-direction: column; align-items: flex-end;
+  gap: 1px; background: none; border: 0; cursor: pointer; color: var(--sand);
+  padding: 4px 12px; border-left: 1px solid rgba(199,154,75,.25);
+}
+.student-label { font-size: .62rem; letter-spacing: 1.5px; text-transform: uppercase; color: var(--sea-light); }
+.student-name { font-family: var(--font-display); font-size: 1.02rem; font-weight: 600; color: var(--sand); }
+.student:hover .student-name { color: var(--brass-light); }
+
+/* ===== Mestringsfelt i sidemeny ===== */
+.area-item { flex-direction: column; align-items: stretch; gap: 6px; }
+.area-row { display: flex; align-items: center; gap: 10px; width: 100%; }
+.area-row .count { margin-left: auto; }
+.mastery { height: 5px; border-radius: 4px; background: rgba(255,255,255,.1); overflow: hidden; }
+.mastery > i { display: block; height: 100%; background: linear-gradient(90deg, var(--teal), var(--brass)); }
+.nav-list li.crit::after { content: "★"; color: var(--brass); margin-left: 6px; font-size: .8rem; }
+
+/* ===== Badge på spørsmål ===== */
+.badge {
+  align-self: flex-start; font-size: .68rem; letter-spacing: 1px; text-transform: uppercase;
+  font-weight: 700; color: var(--navy); background: var(--brass-light);
+  padding: 3px 9px; border-radius: 999px; margin-bottom: 10px;
+}
+.badge.crit { background: #e6b8a8; color: #7a2d18; }
+
+/* bilde i scenen */
+.scene img.photo { width: 100%; height: 100%; object-fit: cover; display: block; }
+.scene .img-credit {
+  position: absolute; bottom: 6px; right: 8px; font-size: .62rem; color: #fff;
+  background: rgba(12,42,64,.55); padding: 2px 7px; border-radius: 6px;
+}
+
+/* ===== Panel (feillogg) ===== */
+.panel {
+  max-width: 920px; margin: 0 auto; background: var(--sand);
+  border-radius: var(--radius); box-shadow: var(--shadow); padding: 22px 26px 30px;
+  border: 1px solid rgba(199,154,75,.25);
+}
+.panel-head { display: flex; align-items: center; justify-content: space-between; }
+.panel-head h2 { font-family: var(--font-display); color: var(--navy); margin: 0; }
+.panel-sub { color: var(--ink-soft); font-size: .9rem; margin: 6px 0 18px; }
+.err-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.err-item {
+  display: flex; align-items: flex-start; gap: 12px; padding: 13px 15px; cursor: pointer;
+  background: var(--foam); border: 1px solid rgba(12,42,64,.12); border-radius: var(--radius-sm);
+  transition: border-color .15s, transform .08s;
+}
+.err-item:hover { border-color: var(--sea); transform: translateY(-1px); }
+.err-x { color: var(--wrong); font-weight: 700; flex: none; }
+.err-text { font-size: .95rem; color: var(--ink); }
+.err-meta { font-size: .78rem; color: var(--ink-soft); margin-top: 3px; }
+.err-empty { color: var(--ink-soft); font-style: italic; padding: 14px 0; }
+.ghost-btn { background: none; border: 1.5px solid rgba(12,42,64,.25); color: var(--navy-600);
+  border-radius: 999px; padding: 7px 14px; font-weight: 600; font-size: .82rem; cursor: pointer; }
+.ghost-btn:hover { background: rgba(12,42,64,.06); }
+
+/* ===== Modal ===== */
+.modal-overlay {
+  position: fixed; inset: 0; z-index: 60; display: grid; place-items: center;
+  background: rgba(8,24,38,.72); backdrop-filter: blur(3px); padding: 20px;
+}
+.modal-overlay[hidden] { display: none; }
+.modal {
+  width: min(440px, 92vw); background: var(--sand); border-radius: var(--radius);
+  box-shadow: var(--shadow); padding: 30px 28px; text-align: center;
+  border: 1px solid rgba(199,154,75,.4);
+}
+.modal-mark { width: 46px; height: 46px; color: var(--brass); }
+.modal h2 { font-family: var(--font-display); color: var(--navy); margin: 8px 0 6px; }
+.modal p { color: var(--ink-soft); font-size: .92rem; margin: 0 0 18px; }
+.modal input {
+  width: 100%; padding: 13px 15px; font-size: 1.05rem; font-family: var(--font-body);
+  border: 1.5px solid rgba(12,42,64,.25); border-radius: var(--radius-sm); margin-bottom: 16px;
+}
+.modal input:focus { outline: none; border-color: var(--sea); }
+.modal-actions { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+.modal-actions .nav-btn { margin-left: auto; }
+

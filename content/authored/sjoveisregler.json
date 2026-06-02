@@ -244,7 +244,6 @@
       "choices": ["Båt B, fordi den kommer fra styrbord – båt A må vike og gå bak B", "Båt A, fordi den kommer fra babord", "Begge må stoppe", "Den som er størst"],
       "correct": 0,
       "explanation": "Regel 15: den som har det andre fartøyet på sin styrbord side viker. Båt A har B på styrbord side og må vike, helst akten om B. Båt B holder stø kurs.",
-      "image_file": "lanternenkurs/images/wp-content-uploads-2021-04-vikeplikt-mototbat-kryssende-kurs-8f67cef9.png",
       "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Regel 15 – Kryssende kurser", "quote": "Det fartøy som har det andre på sin styrbord side skal holde av veien."}]
     },
     {
