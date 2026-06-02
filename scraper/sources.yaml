@@ -1,0 +1,120 @@
+# Kilderegister for båtførerprøven-treningsside.
+# site = mappenavn under data/{site}/
+# allow_subpages: følg interne lenker (samme domene) opp til crawl-grensene
+# pdf: last ned lenkede PDF-er
+# authority: official | official_law | ngo | private
+
+sources:
+  # --- Offisielle / offentlige kilder ---
+  - id: sdir_pensum
+    site: sdir
+    name: Sjøfartsdirektoratet – pensum til båtførerprøven
+    url: https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/
+    authority: official
+    allow_subpages: true
+    pdf: true
+
+  - id: sdir_batforerbevis
+    site: sdir
+    name: Sjøfartsdirektoratet – båtførerbevis
+    url: https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/batforerbevis/
+    authority: official
+    allow_subpages: true
+    pdf: true
+
+  - id: sdir_skolekart
+    site: sdir
+    name: Sjøfartsdirektoratet – skolekart
+    url: https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/skolekart-til-batforerproven/
+    authority: official
+    allow_subpages: true
+    pdf: true
+
+  - id: batforerregisteret
+    site: batforerregisteret
+    name: Båtførerregisteret
+    url: https://xn--btfrerregisteret-dob85a.no/
+    authority: official
+    allow_subpages: true
+    pdf: true
+
+  - id: lovdata_forskrift
+    site: lovdata
+    name: Forskrift om minstealder og båtførerbevis (2009-03-03-259)
+    url: https://lovdata.no/dokument/SF/forskrift/2009-03-03-259
+    authority: official_law
+    allow_subpages: false
+    pdf: false
+
+  - id: kystverket_sjomerker
+    site: kystverket
+    name: Kystverket – fyr, lykter og sjømerker
+    url: https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/
+    authority: official
+    allow_subpages: true
+    pdf: true
+
+  - id: kystverket_batfart
+    site: kystverket
+    name: Kystverket – BåtFart / fartsgrenser
+    url: https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/batfart/
+    authority: official
+    allow_subpages: true
+    pdf: true
+
+  - id: kartverket_skolekart
+    site: kartverket
+    name: Kartverket – skolekart
+    url: https://www.kartverket.no/til-sjos/kart/skolekart
+    authority: official
+    allow_subpages: true
+    pdf: true
+
+  - id: redningsselskapet_sjovett
+    site: redningsselskapet
+    name: Redningsselskapet – sjøvettreglene
+    url: https://rs.no/sikker-til-sjos/sjovettreglene/
+    authority: ngo
+    allow_subpages: true
+    pdf: false
+
+  # --- Private gratisressurser (raadata til senere reformulering) ---
+  - id: bukt
+    site: bukt
+    name: bUkt.no
+    url: https://bukt.no/
+    authority: private
+    allow_subpages: true
+    pdf: false
+
+  - id: goypasjoen
+    site: goypasjoen
+    name: Gøy på sjøen
+    url: https://xn--gypsjen-gxa2of.no/batforerproven
+    authority: private
+    allow_subpages: true
+    pdf: false
+
+  - id: bliskipper
+    site: bliskipper
+    name: BliSkipper – gratis test
+    url: https://bliskipper.no/gratis-test-batforerproven
+    authority: private
+    allow_subpages: true
+    pdf: false
+
+  - id: lanternenkurs
+    site: lanternenkurs
+    name: Lanternen kurs – quiz
+    url: https://www.lanternenkurs.no/quiz/
+    authority: private
+    allow_subpages: true
+    pdf: false
+
+  - id: batforerproven
+    site: batforerproven
+    name: Båtførerprøven.no – gratistest
+    url: https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/
+    authority: private
+    allow_subpages: true
+    pdf: false
