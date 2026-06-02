@@ -9,40 +9,39 @@ const $ = (s) => document.querySelector(s);
 const KEYS = ["A", "B", "C", "D", "E", "F"];
 const STORE_KEY = "bfp.profile.v1";
 
-// ---- Maritime SVG-scener (fallback når et spørsmål ikke har bilde) ----
+// ---- Maritime bakgrunnsscener (kun dekor; ingen faglige påstander) ----
+// NB: Disse vises som nøytral bakgrunn på spørsmål UTEN eget kildebilde. De
+// skal aldri hevde noe fagstoff (lanternefarger, merkefarger osv.), siden samme
+// scene vises på mange ulike spørsmål. Faglig korrekte illustrasjoner kommer
+// fra de offisielle kildebildene (q.image) på bilde-/symbolspørsmål.
 function sceneFor(area) {
-  if (area === "lover") return sceneLantern();
-  if (area === "navigasjon") return sceneBuoy();
-  return sceneBoat();
+  return area === "lover" ? sceneNightNeutral() : sceneDayNeutral();
 }
-function sceneBoat() {
+function compassRose() {
+  return `<g opacity=".12" stroke="#0c2a40" stroke-width="1" fill="none">
+    <circle cx="76" cy="20" r="11"/><path d="M76 8 L78 20 L76 32 L74 20 Z" fill="#0c2a40" stroke="none"/>
+    <path d="M64 20 L76 18 L88 20 L76 22 Z" fill="#0c2a40" stroke="none"/></g>`;
+}
+// Nøytral dagscene: horisont, bølger, kompassrose og en enkel seilbåt-silhuett.
+function sceneDayNeutral() {
   return `<svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice">
     <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfe7ef"/><stop offset="1" stop-color="#9ccadb"/></linearGradient></defs>
-    <rect width="100" height="42" fill="url(#sky)"/><circle cx="78" cy="14" r="7" fill="#e9d39b" opacity=".85"/>
-    <rect y="42" width="100" height="58" fill="#15526e"/>
-    <g stroke="#0c2a40" stroke-width="1.4" stroke-linejoin="round">
-      <path d="M52 26 L52 41 L40 41 Q46 30 52 26 Z" fill="#f6f1e7"/><path d="M54 26 L66 40 L54 40 Z" fill="#c79a4b"/>
-      <line x1="53" y1="22" x2="53" y2="41"/><path d="M37 41 L67 41 L63 48 L41 48 Z" fill="#103a57"/></g>
+    <rect width="100" height="46" fill="url(#sky)"/>${compassRose()}
+    <rect y="46" width="100" height="54" fill="#15526e"/>
+    <g fill="#0c2a40" opacity=".85"><path d="M47 28 L47 46 L37 46 Q43 33 47 28 Z"/><path d="M49 30 L60 46 L49 46 Z"/><path d="M35 46 L63 46 L59 51 L39 51 Z"/></g>
     <g stroke="#4a97b3" stroke-width="1.2" fill="none" opacity=".8">
-      <path d="M0 54 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/><path d="M0 66 q10 4 20 0 t20 0 t20 0 t20 0 t20 0"/>
-      <path d="M0 78 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/></g></svg>`;
+      <path d="M0 58 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/><path d="M0 70 q10 4 20 0 t20 0 t20 0 t20 0 t20 0"/>
+      <path d="M0 82 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/></g></svg>`;
 }
-function sceneLantern() {
+// Nøytral nattscene: stjerner, måne og mørk sjø. INGEN fargede lanterner.
+function sceneNightNeutral() {
   return `<svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice">
     <rect width="100" height="100" fill="#06192a"/>
-    <circle cx="20" cy="16" r=".8" fill="#cdd9e0"/><circle cx="74" cy="12" r=".7" fill="#cdd9e0"/><circle cx="40" cy="9" r=".6" fill="#cdd9e0"/>
-    <g stroke="#16334a" stroke-width="1.4" fill="#0c2334"><path d="M34 60 L66 60 L61 70 L39 70 Z"/><line x1="50" y1="40" x2="50" y2="60" stroke="#16334a"/></g>
-    <circle cx="38" cy="58" r="3.2" fill="#e0533f"/><circle cx="38" cy="58" r="6" fill="#e0533f" opacity=".18"/>
-    <circle cx="62" cy="58" r="3.2" fill="#2fae6b"/><circle cx="62" cy="58" r="6" fill="#2fae6b" opacity=".18"/>
-    <circle cx="50" cy="40" r="2.6" fill="#f4ead0"/><circle cx="50" cy="40" r="6" fill="#f4ead0" opacity=".15"/>
-    <g stroke="#0e2b40" stroke-width="1" fill="none" opacity=".7"><path d="M0 80 q12 -3 24 0 t24 0 t24 0 t24 0"/><path d="M0 90 q12 3 24 0 t24 0 t24 0 t24 0"/></g></svg>`;
-}
-function sceneBuoy() {
-  return `<svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice">
-    <rect width="100" height="42" fill="#cfe7ef"/><rect y="42" width="100" height="58" fill="#15526e"/>
-    <g stroke="#0c2a40" stroke-width="1.3" stroke-linejoin="round">
-      <rect x="45" y="30" width="10" height="16" fill="#1f7a3d"/><path d="M45 30 L55 30 L50 20 Z" fill="#1f7a3d"/><rect x="46" y="46" width="8" height="6" fill="#1a1a1a"/></g>
-    <g stroke="#4a97b3" stroke-width="1.2" fill="none" opacity=".85"><path d="M0 56 q8 -4 16 0 t16 0 t16 0 t16 0 t16 0 t16 0"/><path d="M0 68 q10 4 20 0 t20 0 t20 0 t20 0 t20 0"/></g></svg>`;
+    <circle cx="78" cy="16" r="7" fill="#e8e2cf" opacity=".5"/><circle cx="75" cy="14" r="6" fill="#06192a"/>
+    <g fill="#cdd9e0"><circle cx="20" cy="14" r=".8"/><circle cx="40" cy="9" r=".6"/><circle cx="54" cy="20" r=".5"/><circle cx="30" cy="24" r=".5"/><circle cx="88" cy="30" r=".6"/></g>
+    <g stroke="#0e2b40" stroke-width="1" fill="none" opacity=".8">
+      <path d="M0 64 q10 -3 20 0 t20 0 t20 0 t20 0 t20 0"/><path d="M0 76 q12 3 24 0 t24 0 t24 0 t24 0"/>
+      <path d="M0 88 q10 -3 20 0 t20 0 t20 0 t20 0 t20 0"/></g></svg>`;
 }
 
 // ---- Datalast ----
