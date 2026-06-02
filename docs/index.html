@@ -41,6 +41,7 @@
           <li data-view="adaptive" class="active">Adaptiv øving <span class="count" id="cAll"></span></li>
           <li data-view="eksamen">Eksamensmodus</li>
           <li data-view="feillogg">Feillogg <span class="count" id="cErr">0</span></li>
+          <li data-view="sammenlign">Sammenlign elever</li>
         </ul>
         <p class="nav-heading">Pensumområder</p>
         <ul class="nav-list" id="areaList"></ul>
@@ -126,6 +127,21 @@
         </footer>
       </section>
 
+      <!-- Sammenlign elever -->
+      <section class="panel" id="comparePanel" hidden>
+        <header class="panel-head"><h2>Sammenlign elever</h2><button class="ghost-btn" id="addFromCompare">+ Ny elev</button></header>
+        <p class="panel-sub">Klarhetsindeks og mestring per pensumområde for hver elev lagret på denne enheten.</p>
+        <div class="table-wrap">
+          <table class="compare-table">
+            <thead><tr>
+              <th>Elev</th><th>Klarhetsindeks</th><th>Svart</th><th>Riktig</th>
+              <th>Sjømannskap</th><th>Lover</th><th>Navigasjon</th><th>★ Spesielt</th><th>Beste eksamen</th>
+            </tr></thead>
+            <tbody id="compareBody"></tbody>
+          </table>
+        </div>
+      </section>
+
       <!-- Eksamen: resultat -->
       <section class="panel" id="resultPanel" hidden>
         <header class="panel-head"><h2 id="resultTitle">Resultat</h2><button class="ghost-btn" id="resultClose">Lukk</button></header>
@@ -137,16 +153,21 @@
     </main>
   </div>
 
-  <!-- ===== Elev-modal ===== -->
+  <!-- ===== Elev-modal (flere elever) ===== -->
   <div class="modal-overlay" id="nameModal" hidden>
     <div class="modal">
       <svg class="modal-mark" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="21" fill="none" stroke="currentColor" stroke-width="2"/><path d="M24 5 L27 22 L43 24 L27 26 L24 43 L21 26 L5 24 L21 22 Z" fill="currentColor"/></svg>
-      <h2>Hvem trener?</h2>
-      <p>Skriv navnet ditt. Fremgang, mestring og feillogg lagres lokalt på denne enheten.</p>
-      <input type="text" id="nameInput" maxlength="40" placeholder="Navn" autocomplete="name" />
+      <h2>Elever</h2>
+      <p>Velg en elev, eller legg til en ny. Fremgang, mestring og feillogg lagres lokalt på denne enheten.</p>
+      <ul class="student-list" id="studentList"></ul>
+      <div class="add-row">
+        <input type="text" id="nameInput" maxlength="40" placeholder="Navn på ny elev" autocomplete="name" />
+        <button class="nav-btn next" id="addStudent">Legg til</button>
+      </div>
       <div class="modal-actions">
-        <button class="ghost-btn" id="resetBtn" hidden>Nullstill fremgang</button>
-        <button class="nav-btn next" id="saveName">Start</button>
+        <button class="ghost-btn" id="resetBtn">Nullstill fremgang</button>
+        <button class="ghost-btn" id="compareBtn">Sammenlign</button>
+        <button class="nav-btn" id="closeModal">Lukk</button>
       </div>
     </div>
   </div>

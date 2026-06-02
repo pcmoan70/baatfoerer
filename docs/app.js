@@ -7,7 +7,8 @@
 
 const $ = (s) => document.querySelector(s);
 const KEYS = ["A", "B", "C", "D", "E", "F"];
-const STORE_KEY = "bfp.profile.v1";
+const STORE_KEY = "bfp.v2";          // { currentId, students: { id: profile } }
+const LEGACY_KEY = "bfp.profile.v1"; // gammel enkeltprofil (migreres)
 
 // ---- Maritime bakgrunnsscener (kun dekor; ingen faglige påstander) ----
 // NB: Disse vises som nøytral bakgrunn på spørsmål UTEN eget kildebilde. De
@@ -61,19 +62,43 @@ async function loadData() {
   areaById = Object.fromEntries(syllabus.map(a => [a.id, a]));
 }
 
-// ---- Profil (localStorage) ----
-let P = null;
-function loadProfile() {
-  try { P = JSON.parse(localStorage.getItem(STORE_KEY)); } catch { P = null; }
-  return P;
-}
-function newProfile(name) {
-  P = { name, created: new Date().toISOString(), answers: {}, mastery: {}, lastSeen: {}, errors: [], recent: [] };
-  saveProfile();
-}
-function saveProfile() { localStorage.setItem(STORE_KEY, JSON.stringify(P)); }
+// ---- Profiler (localStorage, flere elever) ----
+let STORE = { currentId: null, students: {} };
+let P = null;   // gjeldende elevprofil
 
-// ---- Mestring & utvelgelse ----
+function uid() { return "s" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); }
+function normProfile(p) {
+  p.answers ||= {}; p.mastery ||= {}; p.lastSeen ||= {}; p.errors ||= []; p.recent ||= []; p.exams ||= [];
+  return p;
+}
+function loadStore() {
+  try { STORE = JSON.parse(localStorage.getItem(STORE_KEY)); } catch { STORE = null; }
+  if (!STORE || !STORE.students) {
+    STORE = { currentId: null, students: {} };
+    try {  // migrer gammel enkeltprofil
+      const old = JSON.parse(localStorage.getItem(LEGACY_KEY));
+      if (old && old.name) { const id = uid(); old.id = id; STORE.students[id] = normProfile(old); STORE.currentId = id; saveStore(); }
+    } catch {}
+  }
+  Object.values(STORE.students).forEach(normProfile);
+  P = STORE.currentId ? STORE.students[STORE.currentId] : null;
+}
+function saveStore() { localStorage.setItem(STORE_KEY, JSON.stringify(STORE)); }
+const saveProfile = saveStore;   // alias (mange kallsteder)
+function newStudent(name) {
+  const id = uid();
+  STORE.students[id] = normProfile({ id, name, created: new Date().toISOString() });
+  STORE.currentId = id; P = STORE.students[id]; saveStore();
+}
+function switchStudent(id) { if (STORE.students[id]) { STORE.currentId = id; P = STORE.students[id]; saveStore(); } }
+function deleteStudent(id) {
+  delete STORE.students[id];
+  if (STORE.currentId === id) STORE.currentId = Object.keys(STORE.students)[0] || null;
+  P = STORE.currentId ? STORE.students[STORE.currentId] : null;
+  saveStore();
+}
+
+// ---- Mestring & statistikk (parametrisert på profil for sammenligning) ----
 const IMP_W = { normal: 1.0, high: 1.3, critical: 1.6 };
 function masteryOf(cid) { return P.mastery[cid] ?? 0.3; }
 function updateMastery(cid, correct) {
@@ -82,16 +107,29 @@ function updateMastery(cid, correct) {
   P.mastery[cid] = Math.max(0, Math.min(1, next));
   P.lastSeen[cid] = Date.now();
 }
-function areaMastery(areaId) {
-  const cs = DATA.concepts.filter(c => c.area === areaId && (P.mastery[c.id] !== undefined));
-  if (!cs.length) return null;
-  return cs.reduce((s, c) => s + P.mastery[c.id], 0) / cs.length;
+function clarityOf(pr) {
+  const m = pr.mastery || {}; const seen = Object.keys(m);
+  return seen.length ? seen.reduce((s, id) => s + m[id], 0) / seen.length : null;
 }
-function clarityIndex() {
-  const seen = Object.keys(P.mastery);
-  if (!seen.length) return null;
-  return seen.reduce((s, id) => s + P.mastery[id], 0) / seen.length;
+function areaMasteryOf(pr, areaId) {
+  const m = pr.mastery || {};
+  const cs = DATA.concepts.filter(c => c.area === areaId && m[c.id] !== undefined);
+  return cs.length ? cs.reduce((s, c) => s + m[c.id], 0) / cs.length : null;
 }
+function spesieltMasteryOf(pr) {
+  const m = pr.mastery || {};
+  const ids = new Set(DATA.questions.filter(q => q.exam_area === "spesielt_viktige").map(q => q.concept_id));
+  const seen = [...ids].filter(id => m[id] !== undefined);
+  return seen.length ? seen.reduce((s, id) => s + m[id], 0) / seen.length : null;
+}
+function answeredStats(pr) {
+  const a = Object.values(pr.answers || {}); const c = a.filter(x => x.correct).length;
+  return { n: a.length, correctPct: a.length ? c / a.length : null };
+}
+function bestExam(pr) { const e = pr.exams || []; return e.length ? Math.max(...e.map(x => x.pct)) : null; }
+// snarveier for gjeldende profil
+function areaMastery(areaId) { return areaMasteryOf(P, areaId); }
+function clarityIndex() { return clarityOf(P); }
 
 // Adaptiv: flere spørsmål på svake/viktige emner, færre på sterke.
 let filter = { view: "adaptive", area: null }; // area = id | "spesielt" | null
@@ -123,7 +161,7 @@ function pickQuestion() {
 // ---- Render: quiz ----
 let current = null, answered = false;
 
-const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel" };
+const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel", sammenlign: "#comparePanel" };
 function showView(which) {
   for (const sel of Object.values(MAIN_SECTIONS)) { const el = $(sel); if (el) el.hidden = true; }
   const el = $(MAIN_SECTIONS[which]); if (el) el.hidden = false;
@@ -258,12 +296,7 @@ function renderSidebar() {
     ? `${DATA.questions.length} spørsmål · ${DATA.concepts.length} emner`
     : `Svart: ${Object.keys(P.answers).length} · Feillogg: ${P.errors.length}`;
 }
-function spesieltMastery() {
-  const ids = new Set(DATA.questions.filter(q => q.exam_area === "spesielt_viktige").map(q => q.concept_id));
-  const seen = [...ids].filter(id => P.mastery[id] !== undefined);
-  if (!seen.length) return null;
-  return seen.reduce((s, id) => s + P.mastery[id], 0) / seen.length;
-}
+function spesieltMastery() { return spesieltMasteryOf(P); }
 function renderClarity() {
   const ci = clarityIndex();
   $("#clarityValue").textContent = ci == null ? "—" : Math.round(ci * 100) + " %";
@@ -273,6 +306,12 @@ function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<":
 
 // ---- Flyt ----
 function nextQuestion() {
+  // Oversprang (ikke besvart): merk som nylig sett så velgeren ikke gjentar det.
+  if (current && !answered) {
+    P.recent.push(current.id);
+    if (P.recent.length > 60) P.recent = P.recent.slice(-60);
+    saveProfile();
+  }
   const q = pickQuestion();
   if (q) renderQuestion(q);
   else { $("#questionText").textContent = "Ingen oppgaver i dette utvalget."; $("#choices").innerHTML = ""; }
@@ -284,27 +323,42 @@ function setView(view, area = null) {
   if (exam.timerId && view !== "eksamen") stopExamTimer();
   if (view === "feillogg") renderErrors();
   else if (view === "eksamen") showView("examStart");
+  else if (view === "sammenlign") renderCompare();
   else nextQuestion();
   renderSidebar();
 }
 
-// ---- Elev-modal ----
-function openNameModal(isNew) {
-  $("#nameInput").value = isNew ? "" : (P?.name || "");
-  $("#resetBtn").hidden = isNew;
+// ---- Elev-håndtering (modal med flere elever) ----
+function openStudentModal() {
+  renderStudentList();
+  $("#nameInput").value = "";
   $("#nameModal").hidden = false;
+  $("#closeModal").style.visibility = P ? "visible" : "hidden";
+  $("#resetBtn").style.visibility = P ? "visible" : "hidden";
+  $("#compareBtn").style.visibility = Object.keys(STORE.students).length > 1 ? "visible" : "hidden";
   setTimeout(() => $("#nameInput").focus(), 50);
 }
-function closeNameModal() { $("#nameModal").hidden = true; }
-
-function commitName() {
-  const name = ($("#nameInput").value || "").trim() || "Elev";
-  if (!P) newProfile(name);
-  else { P.name = name; saveProfile(); }
-  $("#studentName").textContent = P.name;
-  closeNameModal();
-  renderSidebar(); renderClarity();
-  if (filter.view === "feillogg") renderErrors(); else if (!current) nextQuestion();
+function renderStudentList() {
+  const ids = Object.keys(STORE.students);
+  $("#studentList").innerHTML = ids.length ? ids.map(id => {
+    const s = STORE.students[id]; const ci = clarityOf(s);
+    const cl = ci == null ? "ny" : Math.round(ci * 100) + " %";
+    return `<li class="student-row ${id === STORE.currentId ? "active" : ""}">
+      <button class="student-pick" data-id="${id}"><b>${esc(s.name)}</b>
+        <span>${cl} klarhetsindeks · ${Object.keys(s.answers || {}).length} svart</span></button>
+      <button class="student-del" data-id="${id}" title="Slett elev">✕</button></li>`;
+  }).join("") : `<li class="err-empty">Ingen elever ennå — legg til én under.</li>`;
+}
+function afterStudentChange() {
+  $("#studentName").textContent = P ? P.name : "—";
+  $("#nameModal").hidden = true;
+  filter = { view: "adaptive", area: null }; current = null;
+  nextQuestion(); renderSidebar(); renderClarity();
+}
+function addStudentFromInput() {
+  const name = ($("#nameInput").value || "").trim();
+  if (!name) { $("#nameInput").focus(); return; }
+  newStudent(name); afterStudentChange();
 }
 
 // ---- Eksamensmodus (50 spm / 60 min / ≥80 % + ≥80 % spesielt) ----
@@ -383,10 +437,11 @@ function submitExam() {
     updateMastery(q.concept_id, ok);
     if (!ok) logError(q, exam.answers[i] ?? -1);
   });
-  saveProfile();
   const pct = correct / exam.questions.length;
   const spesPct = spesTot ? spesCorr / spesTot : 1;
   const pass = pct >= 0.8 && spesPct >= 0.8;
+  P.exams.push({ ts: Date.now(), pct, spesPct, pass, correct, total: exam.questions.length });
+  saveProfile();
   renderResult({ correct, total: exam.questions.length, pct, spesTot, spesCorr, spesPct, pass, perArea, wrong });
   renderSidebar(); renderClarity();
 }
@@ -415,6 +470,27 @@ function renderResult(r) {
   }).join("");
 }
 
+// ---- Sammenlign elever ----
+function renderCompare() {
+  showView("sammenlign");
+  const ids = Object.keys(STORE.students);
+  const pc = v => v == null ? "–" : Math.round(v * 100) + " %";
+  const rows = ids.map(id => {
+    const s = STORE.students[id]; const ci = clarityOf(s); const st = answeredStats(s); const be = bestExam(s);
+    return `<tr class="${id === STORE.currentId ? "me" : ""}">
+      <td class="c-name">${esc(s.name)}${id === STORE.currentId ? ' <span class="c-you">(deg)</span>' : ""}</td>
+      <td><div class="cbar"><i style="width:${ci ? Math.round(ci * 100) : 0}%"></i></div><span class="cbar-v">${pc(ci)}</span></td>
+      <td>${st.n}</td>
+      <td>${pc(st.correctPct)}</td>
+      <td>${pc(areaMasteryOf(s, "sjomannskap"))}</td>
+      <td>${pc(areaMasteryOf(s, "lover"))}</td>
+      <td>${pc(areaMasteryOf(s, "navigasjon"))}</td>
+      <td class="c-spes">${pc(spesieltMasteryOf(s))}</td>
+      <td>${be == null ? "–" : Math.round(be * 100) + " %"}</td></tr>`;
+  }).join("");
+  $("#compareBody").innerHTML = rows || `<tr><td colspan="9" class="err-empty">Ingen elever ennå.</td></tr>`;
+}
+
 // ---- Init ----
 function bindEvents() {
   $("#choices").addEventListener("click", e => {
@@ -422,7 +498,7 @@ function bindEvents() {
   });
   $("#nextBtn").addEventListener("click", () => { if (filter.view === "feillogg") return; nextQuestion(); });
   document.addEventListener("keydown", e => {
-    if (!$("#nameModal").hidden) { if (e.key === "Enter") commitName(); return; }
+    if (!$("#nameModal").hidden) { if (e.key === "Enter") addStudentFromInput(); else if (e.key === "Escape" && P) $("#nameModal").hidden = true; return; }
     if (filter.view === "eksamen" && !$("#examCard").hidden) {
       if (e.key === "ArrowRight") examGo(1);
       else if (e.key === "ArrowLeft") examGo(-1);
@@ -435,11 +511,31 @@ function bindEvents() {
     if (k >= 0 && !answered) { const b = document.querySelector(`.choice[data-i="${k}"]`); if (b) b.click(); }
   });
   $("#menuToggle").addEventListener("click", () => $("#sidebar").classList.toggle("open"));
-  $("#studentBtn").addEventListener("click", () => openNameModal(false));
-  $("#saveName").addEventListener("click", commitName);
-  $("#resetBtn").addEventListener("click", () => {
-    if (confirm("Nullstille all fremgang for denne eleven?")) { newProfile(P.name); commitName(); }
+  $("#studentBtn").addEventListener("click", openStudentModal);
+  $("#addStudent").addEventListener("click", addStudentFromInput);
+  $("#studentList").addEventListener("click", e => {
+    const pick = e.target.closest(".student-pick"), del = e.target.closest(".student-del");
+    if (pick) { switchStudent(pick.dataset.id); afterStudentChange(); }
+    else if (del) {
+      const s = STORE.students[del.dataset.id];
+      if (s && confirm(`Slette eleven «${s.name}» og all fremgang?`)) {
+        deleteStudent(del.dataset.id);
+        renderStudentList();
+        $("#studentName").textContent = P ? P.name : "—";
+        if (P) { renderSidebar(); renderClarity(); }
+      }
+    }
   });
+  $("#resetBtn").addEventListener("click", () => {
+    if (!P) return;
+    if (confirm(`Nullstille all fremgang for «${P.name}»?`)) {
+      STORE.students[P.id] = normProfile({ id: P.id, name: P.name, created: P.created });
+      P = STORE.students[P.id]; saveStore(); afterStudentChange(); renderStudentList();
+    }
+  });
+  $("#compareBtn").addEventListener("click", () => { if (P) { $("#nameModal").hidden = true; setView("sammenlign"); } });
+  $("#closeModal").addEventListener("click", () => { if (P) $("#nameModal").hidden = true; });
+  $("#addFromCompare").addEventListener("click", openStudentModal);
   $("#modeList").addEventListener("click", e => {
     const li = e.target.closest("li"); if (li) setView(li.dataset.view, null);
   });
@@ -480,8 +576,8 @@ async function init() {
     console.error(err); return;
   }
   renderResources();
-  loadProfile();
-  if (!P || !P.name) { openNameModal(true); $("#studentName").textContent = "—"; }
+  loadStore();
+  if (!P) { openStudentModal(); $("#studentName").textContent = "—"; }
   else { $("#studentName").textContent = P.name; nextQuestion(); renderSidebar(); renderClarity(); }
 }
 
