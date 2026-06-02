@@ -490,6 +490,37 @@ score =
   0.5 * recentSeenPenalty
 ```
 
+### Mestringsscore og adaptiv frekvens 🎯
+
+Siden skal **score hvor godt eleven gjør det per emne** og bruke det aktivt:
+stille **flere spørsmål om emner eleven strever med, og færre om emner eleven
+allerede mestrer**.
+
+- Hold en `mastery`-score (0–1) per konsept/emne, oppdatert etter hvert svar
+  (riktig ↑, feil ↓), vektet av nylighet, latens og vanskelighetsgrad.
+- Utvalgssannsynlighet er **omvendt proporsjonal med mestring**: lav mestring →
+  oftere; høy mestring → sjeldnere (men aldri null, pga. glemsel/repetisjon).
+- Spesielt viktige emner får et gulv på minimumsfrekvens uansett mestring.
+- Vis mestring per emne i klarhetsindeksen, og gi konkret anbefaling
+  («tren mest på navigasjon og vikeplikt»).
+
+Praktisk utvalgsvekt (utvider scoren over):
+
+```text
+weaknessScore   = 1 - mastery[concept]          # lav mestring => høy vekt
+P(velg konsept) ∝ 2.0*weaknessScore
+                + 1.5*importanceScore
+                + 1.2*dueForReviewScore
+                - 0.5*recentSeenPenalty
+```
+
+Mestringsoppdatering (enkel, kan byttes til en glemselskurve-/IRT-modell):
+
+```text
+mastery <- clamp(mastery + (riktig ? +α*(1-mastery) : -β*mastery), 0, 1)
+# α litt mindre enn β slik at feil straffer mer enn ett riktig svar belønner
+```
+
 ### Eksamensmodus
 
 For eksamensmodus bør du ikke bruke adaptiv utvelgelse. Bruk heller fast fordeling etter pensumområder og egen beståttlogikk for spesielt viktige emner.

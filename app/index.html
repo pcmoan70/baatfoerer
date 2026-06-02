@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Båtføreprøven — treningssimulator</title>
+  <meta name="description" content="Interaktiv treningsside til båtførerprøven: oppgaver, sjømerker, lanterner og navigasjon." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- ===== Topplinje ===== -->
+  <header class="topbar">
+    <button class="hamburger" id="menuToggle" aria-label="Meny">
+      <span></span><span></span><span></span>
+    </button>
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 48 48" aria-hidden="true">
+        <circle cx="24" cy="24" r="21" fill="none" stroke="currentColor" stroke-width="2"/>
+        <path d="M24 5 L27 22 L43 24 L27 26 L24 43 L21 26 L5 24 L21 22 Z" fill="currentColor"/>
+        <circle cx="24" cy="24" r="3.2" fill="var(--navy)"/>
+      </svg>
+      <div class="brand-text">
+        <h1>Båtføreprøven</h1>
+        <p>treningssimulator</p>
+      </div>
+    </div>
+    <div class="clarity" title="Klarhetsindeks">
+      <span class="clarity-label">Klarhetsindeks</span>
+      <span class="clarity-value" id="clarityValue">—</span>
+    </div>
+  </header>
+
+  <div class="layout">
+    <!-- ===== Sidemeny ===== -->
+    <aside class="sidebar" id="sidebar">
+      <nav>
+        <p class="nav-heading">Moduler</p>
+        <ul class="nav-list" id="moduleList"></ul>
+
+        <p class="nav-heading">Ressurser</p>
+        <ul class="nav-list nav-resources" id="resourceList"></ul>
+      </nav>
+      <div class="sidebar-foot">
+        <p>Egne spørsmål · offentlige kilder</p>
+      </div>
+    </aside>
+
+    <!-- ===== Hovedinnhold ===== -->
+    <main class="main">
+      <section class="task-card" id="taskCard">
+        <header class="task-head">
+          <span class="task-kicker" id="taskModule">Oppgave</span>
+          <span class="task-counter" id="taskCounter">– / –</span>
+        </header>
+
+        <div class="progress"><div class="progress-fill" id="progressFill"></div></div>
+
+        <div class="task-body">
+          <!-- Maritim illustrasjon -->
+          <figure class="scene" id="sceneFigure" aria-hidden="true"></figure>
+
+          <!-- Spørsmål + svaralternativer -->
+          <div class="qa">
+            <h2 class="question" id="questionText">Laster oppgave …</h2>
+            <ul class="choices" id="choices"></ul>
+
+            <div class="feedback" id="feedback" hidden>
+              <p class="feedback-text" id="feedbackText"></p>
+              <a class="source-link" id="sourceLink" target="_blank" rel="noopener">
+                Les mer hos kilden →
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Forrige / neste -->
+        <footer class="task-nav">
+          <button class="nav-btn" id="prevBtn" aria-label="Forrige oppgave">
+            <svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            <span>Forrige</span>
+          </button>
+          <span class="streak" id="streak"></span>
+          <button class="nav-btn next" id="nextBtn" aria-label="Neste oppgave">
+            <span>Neste</span>
+            <svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </footer>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -61,17 +61,23 @@ relevante offentlige nettsiden — ned til avsnitt/linje, ikke bare forsiden.**
 
 ## Fase 3 — Frontend (statisk webapp)
 
-- [ ] Sett opp SvelteKit/React + Vite + TypeScript
-- [ ] Implementer det maritime designsystemet (se Designprinsipp over)
-- [ ] Datalag: last `sources/syllabus/concepts/questions.json`
-- [ ] Quizmotor (Question/UserAnswer-modeller)
+- [x] Statisk prototype `app/` (zero-build HTML/CSS/JS) — modern maritim layout
+- [x] Maritimt designsystem (design tokens, palett, typografi) i `styles.css`
+- [x] Felles SVG-illustrasjonsstil (boat / lantern / sjømerke-scener)
+- [x] Quizmotor-prototype: spørsmål, svar, feedback, dyp kildelenke, klarhetsindeks
+- [x] Responsiv (sidebar → hamburger på mobil)
+- [ ] Koble til ekte data: `data/questions.json` (i stedet for SAMPLE)
 - [ ] Eksamensmodus (50 spørsmål / 60 min / 80 %)
 - [ ] Lokal progresjonslagring (IndexedDB via Dexie)
-- [ ] Klarhetsindeks-forside (maritimt dashbord)
+- [ ] Vurder migrering til SvelteKit/Vite når omfanget vokser
 
 ## Fase 4 — Adaptiv og simulatorer
 
+- [ ] **Mestringsscore per emne** (0–1), oppdatert etter hvert svar
+- [ ] **Adaptiv frekvens**: flere spørsmål på svake emner, færre på sterke
+- [ ] Minimumsfrekvens-gulv for «spesielt viktige emner»
 - [ ] Adaptiv spørsmålsutvelgelse (weakness/importance/due-score)
+- [ ] Mestring + anbefaling vist i klarhetsindeks
 - [ ] Spaced repetition / flashcards
 - [ ] Sjømerke-simulator (lateral/kardinal/spesial)
 - [ ] Lanterne-simulator
