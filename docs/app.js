@@ -321,7 +321,7 @@ const FEEDBACK_EMAIL = "vesmir09@gmail.com";   // mottaker av tilbakemeldinger
 const EMAILJS = {
   publicKey: "-5S2PctOrxEViV5Pf",    // EmailJS Public Key
   serviceId: "baatfører",            // Service ID (bekreft at den matcher EmailJS → Email Services)
-  templateId: "template_pwhwacl",    // EmailJS Template ID
+  templateId: "template_ucu8i6f",    // EmailJS Template ID
 };
 let emailjsReady = false;
 function initEmailJS() {
