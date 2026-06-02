@@ -39,6 +39,7 @@
         <p class="nav-heading">Trening</p>
         <ul class="nav-list" id="modeList">
           <li data-view="adaptive" class="active">Adaptiv øving <span class="count" id="cAll"></span></li>
+          <li data-view="eksamen">Eksamensmodus</li>
           <li data-view="feillogg">Feillogg <span class="count" id="cErr">0</span></li>
         </ul>
         <p class="nav-heading">Pensumområder</p>
@@ -84,6 +85,54 @@
         <header class="panel-head"><h2>Feillogg</h2><button class="ghost-btn" id="clearErr">Tøm feillogg</button></header>
         <p class="panel-sub">Oppgaver du har svart feil på. Trykk for å øve på temaet igjen.</p>
         <ul class="err-list" id="errList"></ul>
+      </section>
+
+      <!-- Eksamen: introduksjon -->
+      <section class="panel" id="examStart" hidden>
+        <header class="panel-head"><h2>Eksamensmodus</h2></header>
+        <p class="panel-sub">Samme format som den ekte båtførerprøven.</p>
+        <ul class="exam-facts">
+          <li><b>50</b> spørsmål</li>
+          <li><b>60</b> minutter</li>
+          <li>Bestått: <b>≥ 80 %</b> riktig totalt</li>
+          <li>I tillegg: <b>≥ 80 %</b> på «spesielt viktige emner»</li>
+        </ul>
+        <p class="panel-sub">Du får ingen fasit underveis — først når du leverer. Du kan navigere fritt og endre svar før innlevering.</p>
+        <button class="nav-btn next" id="startExam"><span>Start eksamen</span></button>
+      </section>
+
+      <!-- Eksamen: gjennomføring -->
+      <section class="task-card" id="examCard" hidden>
+        <header class="task-head">
+          <span class="task-kicker">Eksamen</span>
+          <span class="exam-timer" id="examTimer">60:00</span>
+        </header>
+        <div class="exam-palette" id="examPalette"></div>
+        <div class="task-body">
+          <figure class="scene" id="examScene" aria-hidden="true"></figure>
+          <div class="qa">
+            <span class="badge" id="examBadge" hidden></span>
+            <h2 class="question" id="examQuestion"></h2>
+            <ul class="choices" id="examChoices"></ul>
+          </div>
+        </div>
+        <footer class="task-nav">
+          <button class="nav-btn" id="examPrev"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Forrige</span></button>
+          <span class="streak" id="examCounter"></span>
+          <span style="display:flex;gap:10px">
+            <button class="nav-btn next" id="examNext"><span>Neste</span><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button class="nav-btn deliver" id="examSubmit"><span>Lever</span></button>
+          </span>
+        </footer>
+      </section>
+
+      <!-- Eksamen: resultat -->
+      <section class="panel" id="resultPanel" hidden>
+        <header class="panel-head"><h2 id="resultTitle">Resultat</h2><button class="ghost-btn" id="resultClose">Lukk</button></header>
+        <div class="result-score" id="resultScore"></div>
+        <div class="result-areas" id="resultAreas"></div>
+        <h3 class="result-sub" id="resultReviewHead">Gjennomgang av feil</h3>
+        <ul class="err-list" id="resultReview"></ul>
       </section>
     </main>
   </div>

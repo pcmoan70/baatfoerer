@@ -51,8 +51,12 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
 - [x] **Adaptiv utvelgelse**: flere spørsmål på svake/viktige emner
 - [x] **Feillogg** for feil-besvarte oppgaver (klikkbar for repetisjon)
 - [x] Bilde-/symbolspørsmål med ekte fagbilder + kildelenker
-- [ ] Egen eksamensmodus (50 spm / 60 min / 80 % + spesielt-krav)
+- [x] **Eksamensmodus**: 50 spm / 60 min nedtelling / ≥80 % + eget ≥80 %
+      spesielt-krav; spørsmålspalett, resultat med områdefordeling og
+      feilgjennomgang (forklaring + kilde); oppdaterer mestring + feillogg
+- [x] **Stokket svaralternativer** (fasit var 100 % på A) — nå jevnt fordelt
 - [ ] Spaced repetition / flashcard-modus
+- [ ] Eksport/import av progresjon + offline-PWA (Fase 5)
 
 ## Kildelenking-prinsipp (gjelder alt innhold) 🔗
 

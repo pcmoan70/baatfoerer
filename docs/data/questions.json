@@ -8,12 +8,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva angir dybdetallene i et moderne norsk sjøkart?",
     "choices": [
-      "Dybde i meter ned til sjøkartnull",
-      "Dybde i fot ned til middelvann",
       "Høyde over havet i meter",
+      "Dybde i fot ned til middelvann",
+      "Dybde i meter ned til sjøkartnull",
       "Avstand til land i nautiske mil"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Norske sjøkart oppgir dybde i meter målt ned til sjøkartnull (LAT).",
     "image": null,
     "sources": [
@@ -34,12 +34,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvilket kartdatum brukes i alle norske sjøkart?",
     "choices": [
-      "WGS84",
-      "ED50",
       "NGO1948",
+      "ED50",
+      "WGS84",
       "Mercator 1900"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Alle norske sjøkart lages i datumet WGS84, samme som GPS bruker, slik at GPS-posisjoner kan brukes direkte i kartet.",
     "image": null,
     "sources": [
@@ -60,12 +60,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva er en fordel med at norske sjøkart bruker datumet WGS84?",
     "choices": [
-      "GPS-posisjoner kan plottes direkte i kartet uten korreksjon",
       "Kartet trenger ikke målestokk",
       "Dybdene blir automatisk korrigert for tidevann",
-      "Kompasset trenger ikke misvisningskorreksjon"
+      "Kompasset trenger ikke misvisningskorreksjon",
+      "GPS-posisjoner kan plottes direkte i kartet uten korreksjon"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "WGS84 er samme referansesystem som GPS bruker, så GPS-posisjoner kan brukes direkte i sjøkartet.",
     "image": null,
     "sources": [
@@ -86,12 +86,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva er sjøkartnull (referansenivået dybdene måles fra) i norske sjøkart i dag?",
     "choices": [
-      "Laveste astronomiske tidevann (LAT)",
       "Middelvannstand",
-      "Høyeste astronomiske tidevann (HAT)",
-      "Havoverflaten ved springflo"
+      "Laveste astronomiske tidevann (LAT)",
+      "Havoverflaten ved springflo",
+      "Høyeste astronomiske tidevann (HAT)"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Sjøkartnull er LAT (laveste astronomiske tidevann), slik at virkelig dybde normalt er lik eller større enn karttallet.",
     "image": null,
     "sources": [
@@ -112,12 +112,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvorfor er den virkelige dybden under båten som regel lik eller større enn dybdetallet i kartet?",
     "choices": [
+      "Fordi tidevann ikke finnes i Norge",
       "Fordi dybden måles ned til sjøkartnull, og vannstanden ligger normalt over dette nivået",
       "Fordi karttallene alltid rundes ned",
-      "Fordi GPS legger til en sikkerhetsmargin",
-      "Fordi tidevann ikke finnes i Norge"
+      "Fordi GPS legger til en sikkerhetsmargin"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Dybden gjelder ved sjøkartnull (LAT). Vannstanden ligger normalt over LAT, så det er vanligvis dypere enn karttallet – men ved svært lav vannstand kan det bli grunnere.",
     "image": null,
     "sources": [
@@ -138,12 +138,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvilket kart bør du bruke når du navigerer i et trangt farvann?",
     "choices": [
-      "Kart i størst mulig målestokk (mest detaljert)",
       "Kart i minst mulig målestokk",
+      "Kart i størst mulig målestokk (mest detaljert)",
       "Et oversiktskart over hele kysten",
       "Et turkart for land"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "I trange farvann gir kart i størst mulig målestokk de beste og mest detaljerte opplysningene.",
     "image": null,
     "sources": [
@@ -185,12 +185,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hva er et skvalpeskjær?",
     "choices": [
-      "Et skjær som tørrfaller (stikker opp) ved lav vannstand og dekkes av vann ved høy vannstand",
       "Et fast fyr på en holme",
+      "Et skjær som tørrfaller (stikker opp) ved lav vannstand og dekkes av vann ved høy vannstand",
       "Et dypt område midt i leia",
       "En flytende bøye som markerer trygt vann"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Et skvalpeskjær tørrfaller ved fjære og er dekket av vann ved flo, og er derfor særlig farlig fordi det kan være usynlig ved høy vannstand.",
     "image": null,
     "sources": [
@@ -212,8 +212,8 @@
     "prompt": "Hvorfor er et skvalpeskjær spesielt farlig?",
     "choices": [
       "Det kan være usynlig under vann ved høy vannstand, men ligger like under overflaten",
-      "Det sender ut radarforstyrrelser",
       "Det flytter på seg med strømmen",
+      "Det sender ut radarforstyrrelser",
       "Det er bare farlig om natten"
     ],
     "correct": 0,
@@ -237,12 +237,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Du ser symbolet for en undervannskabel i sjøkartet. Hva er viktigst å unngå i dette området?",
     "choices": [
-      "Å ankre eller dregge",
-      "Å bruke kompass",
       "Å seile i planing",
-      "Å lese av dybdetall"
+      "Å lese av dybdetall",
+      "Å bruke kompass",
+      "Å ankre eller dregge"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Over kabler (og rørledninger) er det normalt ankringsforbud, fordi anker kan skade kabelen og sette deg selv i fare.",
     "image": null,
     "sources": [
@@ -264,8 +264,8 @@
     "prompt": "Et luftspenn (kraftlinje over farvannet) er merket i kartet med et høydetall. Hva angir dette tallet?",
     "choices": [
       "Fri (vertikal) høyde – hvor høyt fartøy kan passere under",
-      "Dybden under luftspennet",
       "Avstanden til nærmeste land",
+      "Dybden under luftspennet",
       "Spennets totale lengde"
     ],
     "correct": 0,
@@ -289,12 +289,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "En bru har oppgitt fri seilingshøyde (klaring) på 10 meter. Når er klaringen minst?",
     "choices": [
-      "Ved høy vannstand (flo)",
-      "Ved lav vannstand (fjære)",
       "Klaringen er alltid nøyaktig 10 m uansett",
-      "Bare når det er strøm"
+      "Bare når det er strøm",
+      "Ved lav vannstand (fjære)",
+      "Ved høy vannstand (flo)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Når vannstanden stiger, reduseres den frie høyden under brua. Klaringen er derfor minst ved høy vannstand (flo).",
     "image": null,
     "sources": [
@@ -315,12 +315,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hva betyr en grunne i sjøkartet?",
     "choices": [
+      "Et område reservert for fiske",
       "Et område med liten dybde i forhold til omgivelsene",
       "Et område med spesielt sterk strøm",
-      "Et område der ankring er påbudt",
-      "Et område reservert for fiske"
+      "Et område der ankring er påbudt"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "En grunne er et område der dybden er liten i forhold til omgivelsene, og kan være farlig selv om den ikke er synlig på overflaten.",
     "image": null,
     "sources": [
@@ -341,12 +341,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hva markerer symbolet for en rørledning i sjøkartet, og hva må du ta hensyn til?",
     "choices": [
+      "En fartsgrense på 5 knop",
       "En ledning på/i bunnen – normalt ankringsforbud over den",
-      "En trygg ankerplass",
       "En anbefalt seilingsrute",
-      "En fartsgrense på 5 knop"
+      "En trygg ankerplass"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "En rørledning ligger på eller i bunnen, og som ved kabler gjelder normalt ankringsforbud for ikke å skade ledningen.",
     "image": null,
     "sources": [
@@ -368,8 +368,8 @@
     "prompt": "Hvor finner du varsler om fartsrestriksjoner, kabler, tidevann og fri klaring under broer?",
     "choices": [
       "Utenfor kartrammen (i kartmargen)",
-      "Bare i kompassrosen",
       "Kun på baksiden av kartet",
+      "Bare i kompassrosen",
       "I dybdetallene"
     ],
     "correct": 0,
@@ -414,12 +414,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva får magnetkompassets nål til å peke i en bestemt retning?",
     "choices": [
-      "Jordens magnetfelt",
       "GPS-satellitter",
       "Solens posisjon",
-      "Strøm fra båtens batteri"
+      "Strøm fra båtens batteri",
+      "Jordens magnetfelt"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Magnetkompasset virker ved at nålen retter seg etter jordens magnetfelt og peker mot magnetisk nord.",
     "image": null,
     "sources": [
@@ -440,12 +440,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva er misvisning (deklinasjon)?",
     "choices": [
-      "Vinkelen mellom rettvisende (geografisk) nord og magnetisk nord",
+      "Avviket mellom kurs over grunn og kurs gjennom vannet",
       "Kompassfeil forårsaket av metall i egen båt",
-      "Forskjellen mellom flo og fjære",
-      "Avviket mellom kurs over grunn og kurs gjennom vannet"
+      "Vinkelen mellom rettvisende (geografisk) nord og magnetisk nord",
+      "Forskjellen mellom flo og fjære"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Misvisning/deklinasjon er vinkelen mellom geografisk nord og magnetisk nord; den er stedsavhengig og endrer seg over tid.",
     "image": null,
     "sources": [
@@ -467,9 +467,9 @@
     "prompt": "Hva er deviasjon?",
     "choices": [
       "Kompassfeil som skyldes magnetiske felter i egen båt",
-      "Vinkelen mellom magnetisk og geografisk nord",
+      "Feil i GPS-posisjonen",
       "Strømmens påvirkning på båtens kurs",
-      "Feil i GPS-posisjonen"
+      "Vinkelen mellom magnetisk og geografisk nord"
     ],
     "correct": 0,
     "explanation": "Deviasjon er kompassfeil forårsaket av magnetiske felter i egen båt (motor, stål, elektronikk) og varierer med båtens kurs.",
@@ -492,12 +492,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvilken av kompassfeilene varierer med båtens kurs (retningen baugen peker)?",
     "choices": [
-      "Deviasjon",
       "Misvisning",
-      "Begge er konstante",
-      "Ingen av dem"
+      "Deviasjon",
+      "Ingen av dem",
+      "Begge er konstante"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Deviasjonen varierer med båtens kurs og føres derfor i en deviasjonstabell. Misvisning avhenger av sted og tid, ikke av kursen.",
     "image": null,
     "sources": [
@@ -519,9 +519,9 @@
     "prompt": "Hvor finner du opplysning om deviasjonen for ulike kurser på din egen båt?",
     "choices": [
       "I en deviasjonstabell laget for båten",
-      "I kompassrosen i sjøkartet",
+      "På GPS-en automatisk",
       "I tidevannstabellen",
-      "På GPS-en automatisk"
+      "I kompassrosen i sjøkartet"
     ],
     "correct": 0,
     "explanation": "Deviasjonen kartlegges ved svinging av kompasset og føres i en deviasjonstabell som viser feilen for ulike kurser.",
@@ -545,8 +545,8 @@
     "prompt": "Hvor oppgis misvisningen normalt?",
     "choices": [
       "I sjøkartet (ofte i kompassrosen), med årlig endring",
-      "Bare på GPS-en",
       "I deviasjonstabellen",
+      "Bare på GPS-en",
       "På produsentskiltet til båten"
     ],
     "correct": 0,
@@ -570,12 +570,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvordan kan du redusere deviasjonen i båtens kompass?",
     "choices": [
-      "Plassere kompasset unna metall, motor og elektronikk",
+      "Seile kun ved fjære",
       "Skru opp lysstyrken på GPS-en",
-      "Bruke kart i mindre målestokk",
-      "Seile kun ved fjære"
+      "Plassere kompasset unna metall, motor og elektronikk",
+      "Bruke kart i mindre målestokk"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Deviasjon skyldes magnetiske felter i båten. Ved å plassere kompasset unna stål, motor, høyttalere og elektronikk reduseres feilen.",
     "image": null,
     "sources": [
@@ -617,12 +617,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva gir en GPS deg primært?",
     "choices": [
-      "Din posisjon (breddegrad og lengdegrad)",
-      "Vindretningen",
       "Bunnforholdene",
-      "Tidevannstabellen for året"
+      "Vindretningen",
+      "Tidevannstabellen for året",
+      "Din posisjon (breddegrad og lengdegrad)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "GPS gir deg din posisjon nesten hvor som helst til enhver tid; en kartplotter viser posisjonen i kartet sammen med kurs og fart.",
     "image": null,
     "sources": [
@@ -669,12 +669,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva skjer dersom du zoomer for langt inn i et elektronisk sjøkart?",
     "choices": [
-      "Overskalering – kartet strekkes utover det målestokken er laget for, og kan bli villedende",
-      "Kartet blir automatisk mer nøyaktig",
+      "Dybdene dobles",
       "GPS-en slår seg av",
-      "Dybdene dobles"
+      "Overskalering – kartet strekkes utover det målestokken er laget for, og kan bli villedende",
+      "Kartet blir automatisk mer nøyaktig"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Zoomer du for langt inn, oppstår overskalering: detaljnivået overskrider det kartet er generalisert for, og bildet kan bli villedende. Mange fritidsplottere varsler ikke dette automatisk.",
     "image": null,
     "sources": [
@@ -695,12 +695,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvorfor bør du ha papirkart og kompass tilgjengelig selv om du har kartplotter?",
     "choices": [
-      "Som reserve hvis elektronikken eller strømmen svikter",
       "Fordi plotteren ikke viser kart",
-      "Fordi papirkart er mer nøyaktig enn GPS",
-      "Fordi loven forbyr kartplotter på fritidsbåt"
+      "Som reserve hvis elektronikken eller strømmen svikter",
+      "Fordi loven forbyr kartplotter på fritidsbåt",
+      "Fordi papirkart er mer nøyaktig enn GPS"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Elektronikk kan svikte (strøm, signaltap, feil). Papirkart og kompass er en uavhengig backup som ikke trenger strøm.",
     "image": null,
     "sources": [
@@ -721,12 +721,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvorfor er det viktig å holde det elektroniske kartet oppdatert?",
     "choices": [
+      "Ellers vises dybder i fot",
       "Nye grunner, luftspenn og merkeendringer vises ikke før kartet er oppdatert",
-      "Ellers slutter GPS-en å virke",
       "Ellers endres datumet til ED50",
-      "Ellers vises dybder i fot"
+      "Ellers slutter GPS-en å virke"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Et utdatert kart mangler nye opplysninger om f.eks. nye grunner eller luftspenn. Oppdateringer publiseres jevnlig (Efs/ER-meldinger).",
     "image": null,
     "sources": [
@@ -747,12 +747,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du navigerer kun ved å stirre på kartplotteren og holder ikke utkikk. Hva er hovedproblemet?",
     "choices": [
-      "GPS forteller hvor du er, men ikke hva som er trygt rundt deg – du mister oversikten og utkikken",
-      "Plotteren bruker for lite strøm",
       "Kartet får for høy oppløsning",
-      "Kompasset blir mer nøyaktig"
+      "GPS forteller hvor du er, men ikke hva som er trygt rundt deg – du mister oversikten og utkikken",
+      "Kompasset blir mer nøyaktig",
+      "Plotteren bruker for lite strøm"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Blind tillit til skjermen gir dårlig utkikk. Plotteren skal brukes sammen med egne observasjoner av sjømerker og farvann, ikke i stedet for dem.",
     "image": null,
     "sources": [
@@ -794,12 +794,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva kalles henholdsvis høyvann og lavvann i tidevannssyklusen?",
     "choices": [
-      "Flo og fjære",
-      "Springflo og nipflo",
+      "LAT og HAT",
       "Strøm og motstrøm",
-      "LAT og HAT"
+      "Flo og fjære",
+      "Springflo og nipflo"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Vannet stiger til flo (høyvann) og synker til fjære (lavvann), normalt to ganger i døgnet langs norskekysten.",
     "image": null,
     "sources": [
@@ -820,12 +820,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva er hoveddrivkraften bak tidevannet?",
     "choices": [
-      "Tiltrekningen fra månen og solen",
-      "Vinden alene",
       "Jordrotasjonen alene",
-      "Temperaturforskjeller i havet"
+      "Tiltrekningen fra månen og solen",
+      "Temperaturforskjeller i havet",
+      "Vinden alene"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Tidevannet skyldes hovedsakelig gravitasjonen (tiltrekningen) fra månen og solen.",
     "image": null,
     "sources": [
@@ -846,12 +846,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvordan påvirker lav vannstand (fjære) navigasjonen?",
     "choices": [
-      "Skvalpeskjær og grunner kan dukke opp og bli farlige",
+      "Kompasset slutter å virke",
       "Klaringen under broer blir mindre",
-      "Dybdene i kartet blir ugyldige",
-      "Kompasset slutter å virke"
+      "Skvalpeskjær og grunner kan dukke opp og bli farlige",
+      "Dybdene i kartet blir ugyldige"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Ved fjære er virkelig dybde nær karttallet, og skvalpeskjær og grunner kan tørrfalle eller ligge like under overflaten.",
     "image": null,
     "sources": [
@@ -872,12 +872,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvor er tidevannsstrømmen vanligvis sterkest?",
     "choices": [
-      "I trange sund og innløp",
+      "Der det aldri er tidevann",
       "Midt ute på åpent hav",
-      "I innelukkede ferskvann",
-      "Der det aldri er tidevann"
+      "I trange sund og innløp",
+      "I innelukkede ferskvann"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Når store vannmengder presses gjennom trange sund og innløp, kan tidevannsstrømmen bli svært sterk.",
     "image": null,
     "sources": [
@@ -898,12 +898,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du krysser et sund der strømmen står på tvers av kursen. Hva må du gjøre for å holde ønsket bane over grunn?",
     "choices": [
-      "Korrigere kursen noe opp mot strømmen",
       "Øke farten til maks uansett",
       "Ignorere strømmen helt",
-      "Snu og vente til neste dag"
+      "Snu og vente til neste dag",
+      "Korrigere kursen noe opp mot strømmen"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Strøm på tvers setter båten av kurs. Du må styre noe opp mot strømmen (kompensere) for å følge ønsket bane over grunn.",
     "image": null,
     "sources": [
@@ -924,12 +924,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvor finner du varslet vannstand og tidspunkt for flo og fjære før en seilas?",
     "choices": [
+      "I sjøveisreglene",
       "I tidevannstabeller / Kartverkets tjeneste «Se havnivå»",
-      "I deviasjonstabellen",
       "På produsentskiltet",
-      "I sjøveisreglene"
+      "I deviasjonstabellen"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Kartverkets tjeneste «Se havnivå» gir varslet vannstand, tidspunkt for flo og fjære og tidevannstabeller.",
     "image": null,
     "sources": [
@@ -950,12 +950,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva skjer med bølgene når sterk strøm går mot vinden?",
     "choices": [
-      "Bølgene blir kortere, brattere og farligere",
-      "Bølgene forsvinner helt",
       "Sjøen blir alltid blikkstille",
-      "Tidevannet opphører"
+      "Bølgene blir kortere, brattere og farligere",
+      "Tidevannet opphører",
+      "Bølgene forsvinner helt"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Strøm mot vind gir kortere, brattere og mer kaotiske bølger, som er farligere for små båter.",
     "image": null,
     "sources": [
@@ -976,12 +976,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du fortøyer båten ved en brygge på ettermiddagen. Hva må du ta hensyn til med tanke på tidevann?",
     "choices": [
-      "At vannstanden endrer seg, så fortøyningen ikke henger eller drar seg løs",
-      "At kompasset må kalibreres",
+      "At dybdene i kartet endrer seg permanent",
       "At GPS-en må slås av",
-      "At dybdene i kartet endrer seg permanent"
+      "At kompasset må kalibreres",
+      "At vannstanden endrer seg, så fortøyningen ikke henger eller drar seg løs"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Vannstanden stiger og synker med tidevannet. Fortøyningen må gi rom for dette slik at båten verken henger fast eller drar seg løs.",
     "image": null,
     "sources": [
@@ -1002,12 +1002,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvor langt er 1 nautisk mil?",
     "choices": [
-      "1852 meter",
-      "1000 meter",
       "1609 meter",
-      "2000 meter"
+      "1000 meter",
+      "2000 meter",
+      "1852 meter"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "1 nautisk mil = 1852 meter = 1 breddeminutt.",
     "image": null,
     "sources": [
@@ -1028,12 +1028,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva tilsvarer 1 nautisk mil i kartet?",
     "choices": [
+      "1 cm på kartet",
       "1 breddeminutt",
       "1 lengdeminutt",
-      "1 grad bredde",
-      "1 cm på kartet"
+      "1 grad bredde"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "1 nautisk mil = 1 breddeminutt. Derfor måler du avstand med breddeskalaen (sidekanten), ikke lengdeskalaen.",
     "image": null,
     "sources": [
@@ -1054,12 +1054,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 18 knop i 40 minutter. Hvor langt seiler du?",
     "choices": [
-      "12 nm",
-      "9 nm",
+      "18 nm",
       "14 nm",
-      "18 nm"
+      "12 nm",
+      "9 nm"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Distanse = fart × tid = 18 × (40/60) = 18 × 0,667 = 12 nm.",
     "image": null,
     "sources": [
@@ -1080,12 +1080,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 12 knop i 30 minutter. Hvor langt seiler du?",
     "choices": [
-      "6 nm",
       "12 nm",
+      "8 nm",
       "4 nm",
-      "8 nm"
+      "6 nm"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Distanse = 12 × 0,5 time = 6 nm.",
     "image": null,
     "sources": [
@@ -1106,12 +1106,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 10 knop i 90 minutter. Hvor langt seiler du?",
     "choices": [
-      "15 nm",
-      "9 nm",
       "10 nm",
-      "18 nm"
+      "18 nm",
+      "9 nm",
+      "15 nm"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Distanse = 10 × (90/60) = 10 × 1,5 = 15 nm.",
     "image": null,
     "sources": [
@@ -1132,12 +1132,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 24 knop i 15 minutter. Hvor langt seiler du?",
     "choices": [
-      "6 nm",
       "4 nm",
-      "8 nm",
-      "12 nm"
+      "12 nm",
+      "6 nm",
+      "8 nm"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Distanse = 24 × (15/60) = 24 × 0,25 = 6 nm.",
     "image": null,
     "sources": [
@@ -1158,12 +1158,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 8 knop i 45 minutter. Hvor langt seiler du?",
     "choices": [
-      "6 nm",
       "8 nm",
       "4 nm",
+      "6 nm",
       "10 nm"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Distanse = 8 × (45/60) = 8 × 0,75 = 6 nm.",
     "image": null,
     "sources": [
@@ -1184,12 +1184,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 15 knop i 2 timer. Hvor langt seiler du?",
     "choices": [
-      "30 nm",
-      "15 nm",
+      "60 nm",
       "45 nm",
-      "60 nm"
+      "30 nm",
+      "15 nm"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Distanse = 15 × 2 = 30 nm.",
     "image": null,
     "sources": [
@@ -1210,12 +1210,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 9 knop i 1 time og 20 minutter. Hvor langt seiler du?",
     "choices": [
-      "12 nm",
+      "9 nm",
       "11 nm",
       "13,5 nm",
-      "9 nm"
+      "12 nm"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "1 t 20 min = 80 min = 80/60 = 1,333 time. Distanse = 9 × 1,333 = 12 nm.",
     "image": null,
     "sources": [
@@ -1236,12 +1236,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 16 knop i 75 minutter. Hvor langt seiler du?",
     "choices": [
-      "20 nm",
       "16 nm",
       "24 nm",
+      "20 nm",
       "18 nm"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Distanse = 16 × (75/60) = 16 × 1,25 = 20 nm.",
     "image": null,
     "sources": [
@@ -1262,12 +1262,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du skal seile 24 nm og holder 12 knop. Hvor lang tid tar det?",
     "choices": [
-      "2 timer",
       "1,5 timer",
+      "2,5 timer",
       "3 timer",
-      "2,5 timer"
+      "2 timer"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Tid = distanse ÷ fart = 24 ÷ 12 = 2 timer.",
     "image": null,
     "sources": [
@@ -1288,12 +1288,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du skal seile 30 nm og holder 20 knop. Hvor lang tid tar det?",
     "choices": [
-      "1 time og 30 minutter",
-      "1 time",
+      "45 minutter",
       "2 timer",
-      "45 minutter"
+      "1 time",
+      "1 time og 30 minutter"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Tid = 30 ÷ 20 = 1,5 time = 1 time og 30 minutter.",
     "image": null,
     "sources": [
@@ -1316,8 +1316,8 @@
     "choices": [
       "1 time og 30 minutter",
       "1 time",
-      "2 timer",
-      "1 time og 15 minutter"
+      "1 time og 15 minutter",
+      "2 timer"
     ],
     "correct": 0,
     "explanation": "Tid = 9 ÷ 6 = 1,5 time = 1 time og 30 minutter.",
@@ -1340,12 +1340,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du tilbakelegger 12 nm på 30 minutter. Hvilken fart holder du?",
     "choices": [
+      "18 knop",
       "24 knop",
       "12 knop",
-      "6 knop",
-      "18 knop"
+      "6 knop"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Fart = distanse ÷ tid = 12 ÷ 0,5 = 24 knop.",
     "image": null,
     "sources": [
@@ -1367,8 +1367,8 @@
     "prompt": "Du tilbakelegger 9 nm på 45 minutter. Hvilken fart holder du?",
     "choices": [
       "12 knop",
-      "9 knop",
       "15 knop",
+      "9 knop",
       "20 knop"
     ],
     "correct": 0,
@@ -1393,9 +1393,9 @@
     "prompt": "Du tilbakelegger 15 nm på 1 time og 30 minutter. Hvilken fart holder du?",
     "choices": [
       "10 knop",
-      "15 knop",
+      "7,5 knop",
       "12 knop",
-      "7,5 knop"
+      "15 knop"
     ],
     "correct": 0,
     "explanation": "1,5 time. Fart = 15 ÷ 1,5 = 10 knop.",
@@ -1418,12 +1418,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 30 knop i 10 minutter. Hvor langt seiler du?",
     "choices": [
-      "5 nm",
       "3 nm",
       "10 nm",
+      "5 nm",
       "6 nm"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Distanse = 30 × (10/60) = 30 × 0,1667 = 5 nm.",
     "image": null,
     "sources": [
@@ -1444,12 +1444,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 22 knop i 1 time og 30 minutter. Hvor langt seiler du?",
     "choices": [
-      "33 nm",
-      "22 nm",
       "44 nm",
-      "30 nm"
+      "33 nm",
+      "30 nm",
+      "22 nm"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Distanse = 22 × 1,5 = 33 nm.",
     "image": null,
     "sources": [
@@ -1470,12 +1470,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvor langt seiler du i 1 time hvis du holder 7 knop?",
     "choices": [
-      "7 nm",
+      "14 nm",
       "70 nm",
-      "1 nm",
-      "14 nm"
+      "7 nm",
+      "1 nm"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "1 knop = 1 nm/time, så 7 knop i 1 time = 7 nm.",
     "image": null,
     "sources": [
@@ -1496,12 +1496,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du skal seile 40 nm og holder 16 knop. Hvor lang tid tar det?",
     "choices": [
-      "2 timer og 30 minutter",
       "2 timer",
+      "2 timer og 30 minutter",
       "3 timer",
       "2 timer og 15 minutter"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Tid = 40 ÷ 16 = 2,5 time = 2 timer og 30 minutter.",
     "image": null,
     "sources": [
@@ -1523,8 +1523,8 @@
     "prompt": "Hvor mange meter er 3,5 nautiske mil?",
     "choices": [
       "6482 m",
-      "3500 m",
       "5556 m",
+      "3500 m",
       "7000 m"
     ],
     "correct": 0,
@@ -1548,12 +1548,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du holder 6 knop i 20 minutter. Hvor langt seiler du?",
     "choices": [
-      "2 nm",
-      "6 nm",
       "3 nm",
-      "1 nm"
+      "6 nm",
+      "1 nm",
+      "2 nm"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Distanse = 6 × (20/60) = 6 × 0,333 = 2 nm.",
     "image": null,
     "sources": [
@@ -1574,12 +1574,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva betyr det at en båt holder «12 knop»?",
     "choices": [
-      "Den tilbakelegger 12 nautiske mil per time",
-      "Den bruker 12 minutter per nautisk mil",
       "Den går 12 km/t",
-      "Den har 12 graders kurs"
+      "Den tilbakelegger 12 nautiske mil per time",
+      "Den har 12 graders kurs",
+      "Den bruker 12 minutter per nautisk mil"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "1 knop = 1 nautisk mil per time, så 12 knop betyr 12 nautiske mil per time.",
     "image": null,
     "sources": [
@@ -1600,12 +1600,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du tilbakelegger 20 nm på 1 time. Hvilken fart holder du?",
     "choices": [
-      "20 knop",
-      "10 knop",
       "40 knop",
-      "30 knop"
+      "30 knop",
+      "10 knop",
+      "20 knop"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Fart = 20 ÷ 1 = 20 knop.",
     "image": null,
     "sources": [
@@ -1626,12 +1626,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvordan oppgis en GPS-posisjon?",
     "choices": [
-      "Som breddegrad (latitude) og lengdegrad (longitude)",
       "Som dybde og fart",
       "Som kurs og misvisning",
-      "Som flo og fjære"
+      "Som flo og fjære",
+      "Som breddegrad (latitude) og lengdegrad (longitude)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "En posisjon oppgis som breddegrad (nord/sør) og lengdegrad (øst/vest), i grader og minutter.",
     "image": null,
     "sources": [
@@ -1652,12 +1652,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva er en peiling?",
     "choices": [
-      "Retningen i grader fra båten til et kjent objekt",
-      "Avstanden i nautiske mil til land",
       "Dybden under kjølen",
+      "Avstanden i nautiske mil til land",
+      "Retningen i grader fra båten til et kjent objekt",
       "Båtens fart over grunn"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "En peiling er retningen (i grader) fra båten til et kjent objekt, og brukes til å bestemme posisjon.",
     "image": null,
     "sources": [
@@ -1678,12 +1678,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvordan kan du bestemme posisjonen din mest nøyaktig ved hjelp av peiling?",
     "choices": [
+      "Bruke bare dybden",
       "Ta peiling til to–tre kjente objekter og tegne linjene i kartet (krysspeiling)",
       "Ta én peiling og gjette avstanden",
-      "Bruke bare dybden",
       "Måle vindretningen"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Ved krysspeiling til to (helst tre) kjente objekter med god vinkel mellom seg, finner du posisjonen i skjæringspunktet mellom peilelinjene.",
     "image": null,
     "sources": [
@@ -1704,12 +1704,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvordan kan du identifisere et bestemt fyr og finne det igjen i kartet?",
     "choices": [
-      "Ved farge, form og lyskarakteristikk",
       "Ved å måle dybden under det",
+      "Ved farge, form og lyskarakteristikk",
       "Ved vindretningen rundt det",
       "Ved fartsgrensen i området"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Fyr og merker identifiseres på farge, form og lyskarakteristikk (lysrytmen), som også er angitt i kartet.",
     "image": null,
     "sources": [
@@ -1730,12 +1730,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvorfor er det god praksis å bekrefte GPS-posisjonen mot synlige sjømerker og landemerker?",
     "choices": [
-      "Fordi elektronikken kan feile, og visuell kontroll gir en uavhengig sjekk",
-      "Fordi GPS bare virker på land",
       "Fordi sjømerker viser dybde",
+      "Fordi GPS bare virker på land",
+      "Fordi elektronikken kan feile, og visuell kontroll gir en uavhengig sjekk",
       "Fordi det er forbudt å bruke GPS alene på dagtid"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Godt sjømannskap er å kombinere metodene: GPS gir løpende posisjon, men du bør bekrefte mot sjømerker og landemerker i tilfelle elektronikken svikter eller viser feil.",
     "image": null,
     "sources": [
@@ -1756,12 +1756,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva måler breddegrad?",
     "choices": [
-      "Hvor langt nord eller sør for ekvator du er",
-      "Hvor langt øst eller vest for nullmeridianen du er",
       "Dybden under båten",
-      "Avstanden til nærmeste fyr"
+      "Hvor langt øst eller vest for nullmeridianen du er",
+      "Avstanden til nærmeste fyr",
+      "Hvor langt nord eller sør for ekvator du er"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Breddegrad (latitude) måler hvor langt nord eller sør for ekvator posisjonen ligger; lengdegrad måler øst/vest.",
     "image": null,
     "sources": [
@@ -1782,12 +1782,12 @@
     "exam_area": "navigasjon",
     "prompt": "Kartplotteren slutter plutselig å virke. Hva er den beste måten å fortsette å orientere seg på?",
     "choices": [
-      "Bruke papirkart, kompass og synlige sjømerker/landemerker",
+      "Øke farten for å komme raskere fram",
       "Stoppe motoren og vente på at plotteren starter selv",
-      "Følge nærmeste båt uansett hvor den går",
-      "Øke farten for å komme raskere fram"
+      "Bruke papirkart, kompass og synlige sjømerker/landemerker",
+      "Følge nærmeste båt uansett hvor den går"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Med papirkart, kompass og gjenkjenning av sjømerker og landemerker kan du navigere uavhengig av elektronikken.",
     "image": {
       "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg",
@@ -1835,9 +1835,9 @@
     "prompt": "Hva er småbåtloven (LOV-1998-06-26-47)?",
     "choices": [
       "Rammeloven som regulerer bruk av fritids- og småbåter i Norge",
-      "En forskrift kun om sjømerker og fyrlykter",
       "En internasjonal konvensjon om handelsfartøy",
-      "EUs direktiv om fiskekvoter"
+      "EUs direktiv om fiskekvoter",
+      "En forskrift kun om sjømerker og fyrlykter"
     ],
     "correct": 0,
     "explanation": "Småbåtloven er den sentrale norske loven for fritidsbåtbruk og regulerer blant annet aktsomhet, fart, promille og flyteutstyr.",
@@ -1860,12 +1860,12 @@
     "exam_area": "lover",
     "prompt": "Hvem har hovedansvaret for at en fritidsbåt brukes i samsvar med loven?",
     "choices": [
-      "Båtføreren",
       "Passasjerene",
       "Forsikringsselskapet",
-      "Kommunen"
+      "Kommunen",
+      "Båtføreren"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Føreren er juridisk ansvarlig for sikker og hensynsfull ferdsel etter småbåtlovens aktsomhetsplikt.",
     "image": null,
     "sources": [
@@ -1886,12 +1886,12 @@
     "exam_area": "lover",
     "prompt": "Hvilken av disse reguleres IKKE direkte av småbåtloven og dens forskrifter?",
     "choices": [
-      "Skatteregler for båtprodusenter",
-      "Promillegrense for båtfører",
+      "Krav til avpasset fart",
       "Krav om flyteutstyr om bord",
-      "Krav til avpasset fart"
+      "Skatteregler for båtprodusenter",
+      "Promillegrense for båtfører"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Småbåtloven regulerer promille, flyteutstyr, fart og aktsomhet. Skatteregler hører ikke under denne loven.",
     "image": null,
     "sources": [
@@ -1912,12 +1912,12 @@
     "exam_area": "lover",
     "prompt": "Hva innebærer aktsomhetsplikten i småbåtloven?",
     "choices": [
-      "Båten skal brukes hensynsfullt slik at det ikke oppstår fare eller skade, og andre ikke unødig hindres",
-      "Føreren kan kjøre fritt så lenge han har båtførerbevis",
+      "Plikten gjelder bare for båter over 15 meter",
       "Det er kun krav om aktsomhet i havneområder",
-      "Plikten gjelder bare for båter over 15 meter"
+      "Båten skal brukes hensynsfullt slik at det ikke oppstår fare eller skade, og andre ikke unødig hindres",
+      "Føreren kan kjøre fritt så lenge han har båtførerbevis"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Aktsomhetsplikten innebærer hensynsfull og forsvarlig bruk slik at fare, skade og unødig forstyrrelse av andre unngås.",
     "image": null,
     "sources": [
@@ -1938,12 +1938,12 @@
     "exam_area": "lover",
     "prompt": "Du er usikker på hvilke fartsgrenser som gjelder i et nytt område du skal seile i. Hva tilsier loven?",
     "choices": [
-      "Du må selv sette deg inn i og følge lokale forskrifter for området",
+      "Det finnes aldri lokale fartsgrenser i Norge",
       "Du kan se bort fra lokale regler hvis du har båtførerbevis",
-      "Fartsgrenser gjelder bare der det er skiltet med bøyer",
-      "Det finnes aldri lokale fartsgrenser i Norge"
+      "Du må selv sette deg inn i og følge lokale forskrifter for området",
+      "Fartsgrenser gjelder bare der det er skiltet med bøyer"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Føreren er ansvarlig for å kjenne og følge lokale forskrifter, inkludert lokale fartsgrenser, i området det ferdes i.",
     "image": null,
     "sources": [
@@ -1965,8 +1965,8 @@
     "prompt": "Hva er riktig om obligatorisk registrering av fritidsbåt i Norge i dag?",
     "choices": [
       "Det er utredet/foreslått, men ikke innført som generell plikt",
-      "Alle fritidsbåter må være registrert siden 1998",
       "Bare seilbåter må registreres",
+      "Alle fritidsbåter må være registrert siden 1998",
       "Registrering er forbudt for fritidsbåter"
     ],
     "correct": 0,
@@ -1990,12 +1990,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hva er promillegrensen for å føre en fritidsbåt under 15 meter?",
     "choices": [
-      "0,8 ‰",
       "0,2 ‰",
       "0,5 ‰",
+      "0,8 ‰",
       "1,0 ‰"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "For fritidsbåt under 15 meter er promillegrensen 0,8 ‰ etter småbåtloven § 33.",
     "image": null,
     "sources": [
@@ -2016,12 +2016,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hva er promillegrensen for å føre en båt som er 15 meter eller lengre?",
     "choices": [
-      "0,2 ‰",
-      "0,8 ‰",
       "0,4 ‰",
-      "Ingen grense"
+      "0,8 ‰",
+      "Ingen grense",
+      "0,2 ‰"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "For båt på 15 meter eller mer gjelder den strengere grensen 0,2 ‰, på linje med yrkesfartøy.",
     "image": null,
     "sources": [
@@ -2042,12 +2042,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Gjelder promillereglene også andre rusmidler enn alkohol?",
     "choices": [
-      "Ja, det er forbudt å føre båt påvirket av andre berusende eller bedøvende midler",
       "Nei, bare alkohol er regulert",
+      "Bare for båter over 15 meter",
       "Bare narkotika, ikke medisiner",
-      "Bare for båter over 15 meter"
+      "Ja, det er forbudt å føre båt påvirket av andre berusende eller bedøvende midler"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Det er forbudt å føre båt påvirket av alkohol OG andre berusende eller bedøvende midler, uavhengig av båtlengde.",
     "image": null,
     "sources": [
@@ -2095,9 +2095,9 @@
     "prompt": "Hvilken paragraf i småbåtloven regulerer promille?",
     "choices": [
       "§ 33",
+      "§ 50",
       "§ 23a",
-      "§ 9",
-      "§ 50"
+      "§ 9"
     ],
     "correct": 0,
     "explanation": "Promillebestemmelsen står i småbåtloven § 33.",
@@ -2120,12 +2120,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvorfor er det likevel anbefalt å være helt edru selv om grensen er 0,8 ‰ for små båter?",
     "choices": [
+      "Fordi 0,8 ‰ egentlig betyr full edruelighet",
       "Alkohol svekker dømmekraft, balanse og reaksjonstid, og forsterkes av sol, vind og bølger",
       "Fordi politiet aldri kontrollerer fart",
-      "Fordi 0,8 ‰ egentlig betyr full edruelighet",
       "Fordi alkohol gjør deg en bedre navigatør"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Selv lave promillenivåer svekker viktige ferdigheter, og miljøet til sjøs øker risikoen. Godt sjømannskap tilsier edru fører.",
     "image": null,
     "sources": [
@@ -2172,12 +2172,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "I hvilke båter er det påbudt at alle som er utendørs har flyteutstyr PÅ SEG når båten er i fart?",
     "choices": [
-      "Båter under 8 meter",
-      "Bare båter over 15 meter",
+      "Bare seilbåter",
       "Alle båter uansett lengde, til enhver tid",
-      "Bare seilbåter"
+      "Bare båter over 15 meter",
+      "Båter under 8 meter"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "I båt under 8 meter skal alle som oppholder seg utendørs ha flyteutstyr på seg når båten er i fart.",
     "image": null,
     "sources": [
@@ -2198,12 +2198,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvor mye flyteutstyr skal finnes om bord i en fritidsbåt?",
     "choices": [
-      "Egnet flyteutstyr til alle om bord",
-      "Minst to vester uansett antall personer",
       "Bare til føreren",
-      "Det er ikke krav om flyteutstyr"
+      "Det er ikke krav om flyteutstyr",
+      "Egnet flyteutstyr til alle om bord",
+      "Minst to vester uansett antall personer"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Det skal alltid være egnet flyteutstyr til alle om bord, tilpasset hver enkelt person.",
     "image": null,
     "sources": [
@@ -2225,8 +2225,8 @@
     "prompt": "Du kjører en 19 fots åpen båt (under 8 m) med to gjester på dekk. Hva er riktig?",
     "choices": [
       "Alle som er utendørs skal ha flyteutstyr på seg når båten er i fart",
-      "Det holder at vestene ligger i et skap om bord",
       "Bare føreren trenger vest",
+      "Det holder at vestene ligger i et skap om bord",
       "Påbudet gjelder ikke hvis det er fint vær"
     ],
     "correct": 0,
@@ -2250,12 +2250,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Når gjelder IKKE påbudet om å ha flyteutstyret på seg i en båt under 8 m i fart?",
     "choices": [
-      "Når man oppholder seg helt eller delvis under dekk eller i lukket styrehus",
-      "Når sjøen er rolig",
       "Når man har båtførerbevis",
-      "Når man er en erfaren svømmer"
+      "Når sjøen er rolig",
+      "Når man er en erfaren svømmer",
+      "Når man oppholder seg helt eller delvis under dekk eller i lukket styrehus"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Unntaket gjelder opphold helt/delvis under dekk eller i lukket styrehus, der man er beskyttet mot å falle over bord.",
     "image": null,
     "sources": [
@@ -2276,12 +2276,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvilket krav gjelder til selve flyteutstyret?",
     "choices": [
-      "Det skal være CE-/rattmerket og i god stand",
       "Det må være rødt",
+      "Det er ingen krav til godkjenning",
       "Det må være kjøpt samme år som båten",
-      "Det er ingen krav til godkjenning"
+      "Det skal være CE-/rattmerket og i god stand"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Flyte- og redningsutstyr skal være CE-/rattmerket (godkjent etter gjeldende standarder) og holdes i god stand.",
     "image": null,
     "sources": [
@@ -2302,12 +2302,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvorfor er det viktig å ha vesten på seg FØR et uhell, og ikke bare ha den tilgjengelig?",
     "choices": [
+      "Det har ingen praktisk betydning",
       "Det kan være umulig å få vesten på etter at man har havnet i vannet",
-      "Vesten veier mindre når den er på",
       "Loven krever bare at vesten finnes om bord",
-      "Det har ingen praktisk betydning"
+      "Vesten veier mindre når den er på"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Ved et plutselig fall i sjøen, kaldt vann og panikk kan det være umulig å få på seg vesten. Derfor skal den være på i fart i små båter.",
     "image": null,
     "sources": [
@@ -2328,12 +2328,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Et lite barn er med i båten. Hva gjelder for barnets flyteutstyr?",
     "choices": [
-      "Barnet skal ha eget, riktig tilpasset flyteutstyr",
-      "Barn trenger ikke flyteutstyr",
       "En voksenvest kan brukes på barnet",
-      "Barn under 5 år er unntatt alle krav"
+      "Barnet skal ha eget, riktig tilpasset flyteutstyr",
+      "Barn under 5 år er unntatt alle krav",
+      "Barn trenger ikke flyteutstyr"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Flyteutstyret skal være egnet for hver person. Barn må ha eget utstyr i riktig størrelse for at det skal fungere.",
     "image": null,
     "sources": [
@@ -2354,12 +2354,12 @@
     "exam_area": "lover",
     "prompt": "Hvor nær badende er det forbudt å passere med båt?",
     "choices": [
-      "Nærmere enn 50 meter",
-      "Nærmere enn 10 meter",
+      "Det finnes ingen slik regel",
       "Nærmere enn 200 meter",
-      "Det finnes ingen slik regel"
+      "Nærmere enn 50 meter",
+      "Nærmere enn 10 meter"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Det er forbudt å passere badende nærmere enn 50 meter.",
     "image": null,
     "sources": [
@@ -2380,12 +2380,12 @@
     "exam_area": "lover",
     "prompt": "Hva betyr dette farvannsskiltet (firkantet, rød kant, hvitt felt med tallet 5)?",
     "choices": [
-      "Fartsgrense 5 knop",
       "5 meters dybde",
       "5 nautiske mil til havn",
+      "Fartsgrense 5 knop",
       "Maks 5 personer om bord"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Et firkantet skilt med rød kant og sort tall angir tillatt fart i knop – her 5 knop.",
     "image": {
       "src": "data/img/kystverket__images__contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
@@ -2411,12 +2411,12 @@
     "exam_area": "lover",
     "prompt": "Hvilken fartsgrense gjelder mange steder nær land, fortøyde båter og i havner?",
     "choices": [
-      "Maks 5 knop",
       "Maks 25 knop",
-      "Ingen grense",
-      "Maks 50 knop"
+      "Maks 50 knop",
+      "Maks 5 knop",
+      "Ingen grense"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Mange steder gjelder maks 5 knop nærmere enn 50/100 m fra land, holmer, fortøyde båter og i havner – sjekk lokal forskrift.",
     "image": null,
     "sources": [
@@ -2439,8 +2439,8 @@
     "choices": [
       "Kommunene (for fartøy opp til 24 m), etter havne- og farvannsloven",
       "Bare Sjøfartsdirektoratet sentralt",
-      "Hver enkelt båtfører",
-      "Ingen – fart er aldri lokalt regulert"
+      "Ingen – fart er aldri lokalt regulert",
+      "Hver enkelt båtfører"
     ],
     "correct": 0,
     "explanation": "Kommunene kan fastsette lokale fartsgrenser for fritidsfartøy med lengde opp til 24 meter, for hele eller deler av året.",
@@ -2464,9 +2464,9 @@
     "prompt": "Du nærmer deg en badeplass med mange svømmere. Hva gjør du?",
     "choices": [
       "Holder minst 50 m avstand til de badende og senker farten",
-      "Kjører tett forbi i full fart for å spare tid",
       "Øker farten for å lage mindre bølger",
-      "Ignorerer svømmerne hvis de er utenfor merket badeområde"
+      "Ignorerer svømmerne hvis de er utenfor merket badeområde",
+      "Kjører tett forbi i full fart for å spare tid"
     ],
     "correct": 0,
     "explanation": "Du må ikke passere badende nærmere enn 50 m, og skal holde lav fart slik at du ikke skaper fare eller skadelig bølgeslag.",
@@ -2490,8 +2490,8 @@
     "prompt": "Hva sier sjøveisreglene om fart generelt?",
     "choices": [
       "Det skal alltid holdes sikker og avpasset fart etter forholdene",
-      "Maksfart er alltid 5 knop overalt",
       "Fart er bare regulert om natten",
+      "Maksfart er alltid 5 knop overalt",
       "Det er ingen krav til fart utenfor havner"
     ],
     "correct": 0,
@@ -2515,12 +2515,12 @@
     "exam_area": "lover",
     "prompt": "Du holder lovlig fart, men hekkbølgene dine velter ut av en liten robåt. Hva gjelder?",
     "choices": [
-      "Du kan bli ansvarlig for skade/fare forårsaket av eget bølgeslag",
       "Du har ikke noe ansvar så lenge du holder fartsgrensen",
-      "Ansvaret ligger alltid hos robåten",
-      "Bølgeslag er aldri regulert"
+      "Bølgeslag er aldri regulert",
+      "Du kan bli ansvarlig for skade/fare forårsaket av eget bølgeslag",
+      "Ansvaret ligger alltid hos robåten"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Selv innenfor fartsgrensen kan du bli ansvarlig hvis bølgeslag fra båten din volder fare eller skade. Senk farten ved passering.",
     "image": null,
     "sources": [
@@ -2543,8 +2543,8 @@
     "choices": [
       "24 meter",
       "15 meter",
-      "8 meter",
-      "50 meter"
+      "50 meter",
+      "8 meter"
     ],
     "correct": 0,
     "explanation": "Kommunenes myndighet til å fastsette lokale fartsgrenser for fritidsfartøy gjelder fartøy med lengde opp til 24 meter.",
@@ -2567,12 +2567,12 @@
     "exam_area": "lover",
     "prompt": "Hvem må ha båtførerbevis for å føre en fritidsbåt over 8 m eller med motor over 25 hk?",
     "choices": [
+      "Bare personer over 25 år",
       "Personer født 1.1.1980 eller senere",
-      "Alle uansett fødselsår",
       "Bare personer født før 1980",
-      "Bare personer over 25 år"
+      "Alle uansett fødselsår"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Båtførerbevis kreves for personer født 1.1.1980 eller senere som skal føre båt over 8 m eller med motor over 25 hk.",
     "image": null,
     "sources": [
@@ -2593,12 +2593,12 @@
     "exam_area": "lover",
     "prompt": "Hva er minstealderen for å føre en fritidsbåt med motor over 10 hk?",
     "choices": [
-      "16 år",
-      "12 år",
+      "15 år",
       "18 år",
-      "15 år"
+      "12 år",
+      "16 år"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Minstealderen for å føre fritidsbåt med motor over 10 hk er 16 år.",
     "image": null,
     "sources": [
@@ -2619,12 +2619,12 @@
     "exam_area": "lover",
     "prompt": "Hva avgjør aldersgrensen for å føre fritidsbåt etter regelendringen 1. juli 2021?",
     "choices": [
-      "Kun motorstyrken (hk) – ikke farten",
       "Kun farten – båten må holde under 10 knop",
-      "Både fart og hk samtidig",
-      "Båtens farge"
+      "Båtens farge",
+      "Kun motorstyrken (hk) – ikke farten",
+      "Både fart og hk samtidig"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "10-knopsgrensen ble fjernet 1.7.2021. Nå er det kun motorstyrken (hk), ikke farten, som bestemmer aldersgrensen.",
     "image": null,
     "sources": [
@@ -2645,12 +2645,12 @@
     "exam_area": "lover",
     "prompt": "En 15-åring vil føre en båt med 40 hk motor, men lover å aldri overstige 10 knop. Er det lov?",
     "choices": [
-      "Nei – etter 1.7.2021 er det motorstyrken (40 hk > 10 hk) som gjelder, ikke farten",
       "Ja, så lenge farten holdes under 10 knop",
       "Ja, hvis en voksen er med",
+      "Nei – etter 1.7.2021 er det motorstyrken (40 hk > 10 hk) som gjelder, ikke farten",
       "Ja, 40 hk er under grensen"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Den gamle 10-knopsregelen er fjernet. Med motor over 10 hk kreves minst 16 år, uavhengig av fart.",
     "image": null,
     "sources": [
@@ -2671,12 +2671,12 @@
     "exam_area": "lover",
     "prompt": "Hva er høyhastighetsbevis, innført våren 2023?",
     "choices": [
-      "Et bevis som kreves i tillegg til båtførerbevis for å føre båt under 24 m som kan gå 50 knop eller mer",
+      "Et bevis for vannski",
       "Et bevis bare for yrkesfartøy",
       "Et bevis som erstatter båtførerbeviset for raske båter",
-      "Et bevis for vannski"
+      "Et bevis som kreves i tillegg til båtførerbevis for å føre båt under 24 m som kan gå 50 knop eller mer"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Høyhastighetsbeviset kreves i tillegg til båtførerbevis for fritidsbåt under 24 m som kan gå 50 knop eller mer.",
     "image": null,
     "sources": [
@@ -2697,12 +2697,12 @@
     "exam_area": "lover",
     "prompt": "Hva er minstealderen for høyhastighetsbevis?",
     "choices": [
-      "18 år",
-      "16 år",
       "20 år",
-      "21 år"
+      "16 år",
+      "21 år",
+      "18 år"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Minstealderen for høyhastighetsbevis er 18 år.",
     "image": null,
     "sources": [
@@ -2723,12 +2723,12 @@
     "exam_area": "lover",
     "prompt": "Du har båtførerbevis og kjøper en rask båt som kan gå 55 knop. Hva trenger du i tillegg?",
     "choices": [
-      "Høyhastighetsbevis (og du må være minst 18 år)",
-      "Ingenting ekstra – båtførerbevis holder",
+      "Kun en VHF-lisens",
       "Yrkessertifikat",
-      "Kun en VHF-lisens"
+      "Høyhastighetsbevis (og du må være minst 18 år)",
+      "Ingenting ekstra – båtførerbevis holder"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Båter som kan gå 50 knop eller mer krever høyhastighetsbevis i tillegg til båtførerbevis, med minstealder 18 år.",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
@@ -2754,12 +2754,12 @@
     "exam_area": "lover",
     "prompt": "Hvilke regler gjelder for vannscooter?",
     "choices": [
-      "Samme regler som annen fritidsbåt (de egne vannscooterreglene ble opphevet i 2017)",
+      "Det finnes egne, strengere vannscooterregler i en egen lov",
       "Vannscooter er forbudt i Norge",
-      "Vannscooter krever flysertifikat",
-      "Det finnes egne, strengere vannscooterregler i en egen lov"
+      "Samme regler som annen fritidsbåt (de egne vannscooterreglene ble opphevet i 2017)",
+      "Vannscooter krever flysertifikat"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Vannscooter regnes som fritidsbåt og følger samme regler. De egne vannscooterreglene ble opphevet i 2017.",
     "image": null,
     "sources": [
@@ -2780,12 +2780,12 @@
     "exam_area": "lover",
     "prompt": "Hvor stor båt kan du føre i Norge med båtførerbevis?",
     "choices": [
-      "Fritidsbåt opp til 15 meter",
-      "Fritidsbåt opp til 8 meter",
       "Alle båter uansett lengde",
-      "Bare båter under 25 hk"
+      "Bare båter under 25 hk",
+      "Fritidsbåt opp til 8 meter",
+      "Fritidsbåt opp til 15 meter"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Med båtførerbevis kan man føre fritidsbåt opp til 15 meter innenfor Norge.",
     "image": null,
     "sources": [
@@ -2806,12 +2806,12 @@
     "exam_area": "lover",
     "prompt": "Hva angir CE-konstruksjonskategoriene A, B, C og D for en fritidsbåt?",
     "choices": [
-      "Hvilket farvann og hvilke værforhold båten er bygget for",
       "Båtens farge og design",
       "Motorens hestekrefter",
+      "Hvilket farvann og hvilke værforhold båten er bygget for",
       "Antall sitteplasser"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "CE-kategorien viser hvilke farvanns- og værforhold båten er konstruert for, fra havgående (A) til beskyttet farvann (D).",
     "image": null,
     "sources": [
@@ -2833,9 +2833,9 @@
     "prompt": "Hvilken CE-kategori er bygget for havgående bruk i de mest krevende forholdene?",
     "choices": [
       "Kategori A",
-      "Kategori B",
+      "Kategori D",
       "Kategori C",
-      "Kategori D"
+      "Kategori B"
     ],
     "correct": 0,
     "explanation": "Kategori A er havgående og bygget for åpent hav med kraftig vind og høy sjø.",
@@ -2858,12 +2858,12 @@
     "exam_area": "lover",
     "prompt": "Hvilken CE-kategori gjelder for beskyttet farvann som innsjøer, elver og kanaler?",
     "choices": [
-      "Kategori D",
-      "Kategori A",
+      "Kategori C",
       "Kategori B",
-      "Kategori C"
+      "Kategori D",
+      "Kategori A"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Kategori D er for beskyttet farvann med små bølger og svak vind.",
     "image": null,
     "sources": [
@@ -2884,12 +2884,12 @@
     "exam_area": "lover",
     "prompt": "Hva er CIN på en fritidsbåt?",
     "choices": [
-      "Båtens unike skrog-/identifikasjonsnummer (14 tegn)",
-      "Et internasjonalt fartssertifikat",
       "Motorens serienummer",
+      "Et internasjonalt fartssertifikat",
+      "Båtens unike skrog-/identifikasjonsnummer (14 tegn)",
       "Et forsikringsnummer fra kommunen"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "CIN (Craft Identification Number) er båtens unike 14-tegns skrognummer som identifiserer produsent, byggeland og byggeår.",
     "image": null,
     "sources": [
@@ -2910,12 +2910,12 @@
     "exam_area": "lover",
     "prompt": "Hva finner du typisk på produsentskiltet på en fritidsbåt?",
     "choices": [
-      "CE-merke, konstruksjonskategori, største anbefalte antall personer og største last/motorytelse",
-      "Båtens nåværende posisjon",
+      "Dagens promillegrense",
       "Eierens personnummer",
-      "Dagens promillegrense"
+      "Båtens nåværende posisjon",
+      "CE-merke, konstruksjonskategori, største anbefalte antall personer og største last/motorytelse"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Produsentskiltet oppgir blant annet produsent, CE-merke, kategori, maks antall personer og største anbefalte last/motor.",
     "image": null,
     "sources": [
@@ -2936,12 +2936,12 @@
     "exam_area": "lover",
     "prompt": "Hvilke dokumenter skal følge med en CE-merket fritidsbåt?",
     "choices": [
-      "Samsvarserklæring og brukerhåndbok",
-      "Bare en kvittering",
+      "Ingen dokumenter kreves",
       "Et politisertifikat",
-      "Ingen dokumenter kreves"
+      "Bare en kvittering",
+      "Samsvarserklæring og brukerhåndbok"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Med båten skal følge en samsvarserklæring (bekreftelse på at krav er oppfylt) og en brukerhåndbok.",
     "image": null,
     "sources": [
@@ -2962,12 +2962,12 @@
     "exam_area": "lover",
     "prompt": "Du skal kjøpe en båt for å krysse åpent hav i krevende forhold. Hvilken CE-kategori bør du minst velge?",
     "choices": [
-      "Kategori A (havgående)",
       "Kategori D (beskyttet farvann)",
       "Kategori C (kystfarvann/fjord)",
+      "Kategori A (havgående)",
       "Kategorien har ingen betydning"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "For åpent hav i krevende forhold bør du velge kategori A, som er bygget for havgående bruk.",
     "image": null,
     "sources": [
@@ -2988,12 +2988,12 @@
     "exam_area": "lover",
     "prompt": "Du vil hovedsakelig kjøre i fjorden og langs kysten i moderate forhold. Hvilken CE-kategori passer typisk?",
     "choices": [
-      "Kategori C (kystfarvann/fjord)",
       "Kategori A (havgående)",
+      "Det kreves alltid kategori A",
       "Kategori D (beskyttet farvann)",
-      "Det kreves alltid kategori A"
+      "Kategori C (kystfarvann/fjord)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Kategori C er konstruert for kystnært farvann, fjorder og store innsjøer med moderate forhold.",
     "image": null,
     "sources": [
@@ -3015,9 +3015,9 @@
     "prompt": "Hva er hovedkravet til flyteutstyr om bord i en fritidsbåt?",
     "choices": [
       "Det skal være egnet flyteutstyr til alle om bord",
-      "Det holder med én vest i båten",
+      "Flyteutstyr kreves bare på seilbåt",
       "Bare føreren må ha flyteutstyr",
-      "Flyteutstyr kreves bare på seilbåt"
+      "Det holder med én vest i båten"
     ],
     "correct": 0,
     "explanation": "Småbåtloven §23a krever at det skal være egnet flyteutstyr til alle om bord. I båt under 8 m skal alle i tillegg ha det på seg når båten er i fart.",
@@ -3040,12 +3040,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "I hvilke båter må alle om bord ha PÅ SEG flyteutstyr når båten er i fart?",
     "choices": [
-      "Båter under 8 meter",
-      "Båter under 15 meter",
       "Bare i båter under 5 meter",
+      "Båter under 15 meter",
+      "Båter under 8 meter",
       "Alle båter uansett lengde"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "I fritidsbåter under 8 meter skal alle om bord ha på seg flyteutstyr når båten er i fart, med unntak når man oppholder seg helt/delvis under dekk eller i lukket styrehus.",
     "image": null,
     "sources": [
@@ -3067,8 +3067,8 @@
     "prompt": "Hva er hensikten med en dødmannsknapp (sikkerhetsline)?",
     "choices": [
       "Å stoppe motoren hvis føreren faller over bord eller bort fra roret",
-      "Å låse rattet i rett kurs",
       "Å starte motoren raskere",
+      "Å låse rattet i rett kurs",
       "Å regulere farten automatisk"
     ],
     "correct": 0,
@@ -3092,12 +3092,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva er forskjellen mellom et flyteplagg og en redningsvest?",
     "choices": [
-      "En redningsvest vender en bevisstløs person med ansiktet opp; et flyteplagg holder deg flytende men gir ikke nødvendigvis dette",
-      "Et flyteplagg er kun for barn",
       "En redningsvest kan bare brukes på seilbåt",
+      "Et flyteplagg er kun for barn",
+      "En redningsvest vender en bevisstløs person med ansiktet opp; et flyteplagg holder deg flytende men gir ikke nødvendigvis dette",
       "Det er ingen forskjell"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "En redningsvest har større oppdrift og er konstruert for å snu en bevisstløs person slik at ansiktet kommer over vann. Et flyteplagg holder deg flytende, men forutsetter at du selv kan holde hodet over vann.",
     "image": null,
     "sources": [
@@ -3118,12 +3118,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva er hensikten med et drivanker?",
     "choices": [
-      "Å bremse avdriften og holde baugen mot sjøen i dårlig vær",
+      "Å erstatte dødmannsknappen",
       "Å holde båten fortøyd til brygge",
       "Å øke farten i medvind",
-      "Å erstatte dødmannsknappen"
+      "Å bremse avdriften og holde baugen mot sjøen i dårlig vær"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Et drivanker er en duk/sekk som slepes i sjøen og bremser avdriften, samtidig som det hjelper å holde baugen opp mot bølgene i dårlig vær eller ved motorstopp.",
     "image": null,
     "sources": [
@@ -3144,12 +3144,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Du skal ut i en åpen båt på 6,5 meter med tre passasjerer og planlegger å kjøre i plan. Hva må du sørge for?",
     "choices": [
-      "At alle om bord har på seg egnet flyteutstyr mens båten er i fart",
+      "At du har én vest per to personer",
       "At kun føreren har vest på",
       "At vestene ligger lett tilgjengelig, men ingen trenger å ha dem på",
-      "At du har én vest per to personer"
+      "At alle om bord har på seg egnet flyteutstyr mens båten er i fart"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Båten er under 8 meter, så alle om bord skal ha på seg egnet flyteutstyr når båten er i fart.",
     "image": null,
     "sources": [
@@ -3191,12 +3191,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvorfor er en ombordstigningsanordning (stige) viktig sikkerhetsutstyr?",
     "choices": [
-      "Den gjør det mulig å komme seg opp i båten igjen etter fall i sjøen",
-      "Den brukes til å feste fortøyningen",
       "Den øker stabiliteten i fart",
+      "Den brukes til å feste fortøyningen",
+      "Den gjør det mulig å komme seg opp i båten igjen etter fall i sjøen",
       "Den erstatter redningsvesten"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Det er ofte svært vanskelig å komme seg opp i en båt fra vannet uten hjelpemiddel. En stige eller annen ombordstigningsanordning kan være forskjellen på liv og død, spesielt i kaldt vann.",
     "image": null,
     "sources": [
@@ -3217,12 +3217,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvorfor er bensindamp og propan spesielt farlig i en båt?",
     "choices": [
-      "De er tyngre enn luft og samler seg lavt i båten, der de kan danne eksplosiv blanding",
       "De er lettere enn luft og forsvinner raskt",
+      "De stiger til topps og lufter seg selv ut",
       "De luktes ikke og er ufarlige",
-      "De stiger til topps og lufter seg selv ut"
+      "De er tyngre enn luft og samler seg lavt i båten, der de kan danne eksplosiv blanding"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Både bensindamp og propan er tyngre enn luft og synker ned i bunnen og motorrommet, der de kan danne en eksplosiv blanding. Derfor må man lufte før start.",
     "image": null,
     "sources": [
@@ -3243,12 +3243,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Du har en innenbordsmotor med bensin. Hva bør du alltid gjøre før du starter motoren?",
     "choices": [
-      "Lufte/vifte motorrommet og lukte etter bensindamp eller gass",
-      "Fylle drivstoff med motoren i gang",
+      "Helle vann i kjølen for sikkerhets skyld",
       "Åpne gassflasken",
-      "Helle vann i kjølen for sikkerhets skyld"
+      "Lufte/vifte motorrommet og lukte etter bensindamp eller gass",
+      "Fylle drivstoff med motoren i gang"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Bensindamp samler seg lavt i motorrommet. Ved å lufte/vifte og lukte etter damp før start reduserer du faren for eksplosjon og brann.",
     "image": null,
     "sources": [
@@ -3271,8 +3271,8 @@
     "choices": [
       "Vann",
       "Pulverapparat (ABC)",
-      "CO2-apparat",
-      "Brannteppe"
+      "Brannteppe",
+      "CO2-apparat"
     ],
     "correct": 0,
     "explanation": "Vann sprer brennende væske og leder strøm, og skal ikke brukes på bensin-/væskebrann eller elektrisk brann. Pulver (ABC), CO2 eller brannteppe er egnet.",
@@ -3295,12 +3295,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvilken vekt har de bærbare brannslukkerne som pensum nevner for fritidsbåt?",
     "choices": [
-      "1–6 kg",
       "10–20 kg",
+      "Det finnes ingen anbefalt størrelse",
       "0,1–0,5 kg",
-      "Det finnes ingen anbefalt størrelse"
+      "1–6 kg"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Pensum nevner bærbare brannslukkingsapparat på 1–6 kg (pulver, skum, vann eller CO2), i tillegg til eventuelle fastmonterte anlegg i motorrommet.",
     "image": null,
     "sources": [
@@ -3342,12 +3342,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvorfor bør et fastmontert slukkeanlegg i motorrommet kunne utløses uten å åpne motorromsluken?",
     "choices": [
-      "Å åpne luken slipper inn oksygen, som kan få brannen til å blusse opp",
+      "For å spare slukkemiddel",
       "Det er bare for å slippe å bli skitten",
-      "Luken er for tung å åpne",
-      "For å spare slukkemiddel"
+      "Å åpne luken slipper inn oksygen, som kan få brannen til å blusse opp",
+      "Luken er for tung å åpne"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "En brann trenger oksygen. Åpner du luken, tilfører du friskt oksygen og brannen kan blusse kraftig opp. Derfor utløses fastmonterte anlegg uten å åpne rommet.",
     "image": null,
     "sources": [
@@ -3368,12 +3368,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvilken VHF-kanal er nød- og anropskanal til sjøs?",
     "choices": [
-      "Kanal 16",
       "Kanal 6",
-      "Kanal 12",
-      "Kanal 72"
+      "Kanal 72",
+      "Kanal 16",
+      "Kanal 12"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "VHF kanal 16 er den internasjonale nød-, il- og sikkerhetskanalen og brukes for anrop og nødtrafikk.",
     "image": null,
     "sources": [
@@ -3394,12 +3394,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvilket telefonnummer når du Kystradioen på?",
     "choices": [
-      "120",
-      "110",
+      "113",
       "112",
-      "113"
+      "110",
+      "120"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Kystradiostasjonene nås på telefonnummer 120. 110/112/113 er nødnumrene for brann, politi og helse.",
     "image": null,
     "sources": [
@@ -3420,12 +3420,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvordan innledes et nødanrop på VHF?",
     "choices": [
+      "Med «Pan-Pan» én gang",
       "Med «Mayday» gjentatt tre ganger",
       "Med «Over and out»",
-      "Med «Pan-Pan» én gang",
       "Med båtens navn alene"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Et nødanrop innledes med «Mayday» gjentatt tre ganger på kanal 16, etterfulgt av båtens navn, posisjon, hva som har skjedd og antall personer om bord.",
     "image": null,
     "sources": [
@@ -3446,12 +3446,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva er DSC på en VHF-radio?",
     "choices": [
-      "Digital Selective Calling – sender et digitalt nødvarsel med båtens identitet og posisjon",
-      "En ekstra høyttaler",
       "Et navigasjonssystem som erstatter GPS",
-      "En kanal kun for værmelding"
+      "En kanal kun for værmelding",
+      "Digital Selective Calling – sender et digitalt nødvarsel med båtens identitet og posisjon",
+      "En ekstra høyttaler"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "DSC (Digital Selective Calling) sender med ett knappetrykk et digitalt nødvarsel med båtens identitet (MMSI) og, hvis koblet til GPS, posisjon automatisk.",
     "image": null,
     "sources": [
@@ -3472,12 +3472,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvilken fordel har VHF framfor mobiltelefon i en nødsituasjon til sjøs?",
     "choices": [
-      "Anropet høres av alle nærliggende fartøy som kan komme til unnsetning",
-      "VHF når alltid lenger enn alt annet samband uansett",
       "VHF virker uten antenne",
+      "VHF når alltid lenger enn alt annet samband uansett",
+      "Anropet høres av alle nærliggende fartøy som kan komme til unnsetning",
       "Mobil kan ikke ringe Kystradioen"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Et VHF-nødanrop høres samtidig av alle fartøy innen rekkevidde og av Kystradioen, slik at nærliggende båter kan bistå. Et mobilanrop når bare én mottaker.",
     "image": null,
     "sources": [
@@ -3498,12 +3498,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Motoren har stoppet og dere driver mot et skjær med stigende sjø. Hva er riktig prioritering?",
     "choices": [
-      "Få på flyteutstyr, send nødanrop (VHF 16 / DSC eller Kystradio 120) med posisjon og antall personer",
+      "Hoppe i sjøen for å svømme til land",
       "Vente til dere treffer skjæret før dere varsler",
-      "Ringe en kompis på land for å spørre om råd",
-      "Hoppe i sjøen for å svømme til land"
+      "Få på flyteutstyr, send nødanrop (VHF 16 / DSC eller Kystradio 120) med posisjon og antall personer",
+      "Ringe en kompis på land for å spørre om råd"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Sikre personene med flyteutstyr og varsle tidlig via VHF 16/DSC eller Kystradio 120. Oppgi posisjon, hva som har skjedd og antall personer. Tidlig varsling gir best mulighet for hjelp.",
     "image": null,
     "sources": [
@@ -3545,12 +3545,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva er riktig om fart ved sleping av en annen båt?",
     "choices": [
-      "Hold lav og jevn fart for å unngå for stort drag på fester og slepeline",
       "Kjør så fort som mulig for å bli ferdig raskt",
       "Farten har ingen betydning",
-      "Øk farten i bølger for å holde linen stram"
+      "Øk farten i bølger for å holde linen stram",
+      "Hold lav og jevn fart for å unngå for stort drag på fester og slepeline"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Lav og jevn fart reduserer belastningen på fester og slepeline, og hindrer at baugen på den slepte båten dras ned. For høy fart kan rive løs fester eller dra båten under.",
     "image": null,
     "sources": [
@@ -3571,12 +3571,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvorfor skal man holde folk unna en stram slepeline?",
     "choices": [
-      "Ryker linen, slår den tilbake med stor kraft og kan skade alvorlig",
-      "Linen kan bli skitten",
       "Den kan ruste",
-      "Det er ingen grunn til det"
+      "Ryker linen, slår den tilbake med stor kraft og kan skade alvorlig",
+      "Det er ingen grunn til det",
+      "Linen kan bli skitten"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "En stram slepeline lagrer mye energi. Hvis den ryker eller et feste løsner, slår linen tilbake med stor kraft og kan forårsake alvorlig personskade.",
     "image": null,
     "sources": [
@@ -3597,12 +3597,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Du ser en båt i drift med motorstopp i rolig vær. Hva er god sjømannskap?",
     "choices": [
-      "Tilby hjelp så langt det er trygt, og bistå eller varsle hjelp ved behov",
       "Kjøre forbi uten å bry deg",
       "Filme situasjonen og dra videre",
+      "Tilby hjelp så langt det er trygt, og bistå eller varsle hjelp ved behov",
       "Kreve betaling før du nærmer deg"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Til sjøs hjelper man andre i nød så langt det kan skje uten alvorlig fare for egen båt og mannskap. Du kan bistå direkte eller varsle Kystradio/Redningsselskapet.",
     "image": null,
     "sources": [
@@ -3623,12 +3623,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva er viktig når du skal feste en slepeline om bord i båten din?",
     "choices": [
-      "Bruk et solidt festepunkt (pullert/slepebøyle) som tåler belastningen",
-      "Fest den til rekka med en løs knute",
       "Hold den i hånden hele tiden",
+      "Fest den til rekka med en løs knute",
+      "Bruk et solidt festepunkt (pullert/slepebøyle) som tåler belastningen",
       "Fest den til redningsvesten"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Slepelinen skal festes til et solid punkt som tåler kreftene. Svake fester kan rives løs og bli farlige prosjektiler.",
     "image": null,
     "sources": [
@@ -3671,8 +3671,8 @@
     "prompt": "Når bør du la være å gå inn i en assistanseoppgave selv?",
     "choices": [
       "Når det vil sette ditt eget mannskap eller din båt i alvorlig fare",
-      "Alltid – man skal aldri hjelpe andre",
       "Bare hvis det er mørkt",
+      "Alltid – man skal aldri hjelpe andre",
       "Kun hvis du ikke kjenner de andre"
     ],
     "correct": 0,
@@ -3696,12 +3696,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvilken CE-konstruksjonskategori er bygget for de tøffeste forholdene (åpent hav)?",
     "choices": [
-      "Kategori A",
       "Kategori B",
-      "Kategori C",
-      "Kategori D"
+      "Kategori A",
+      "Kategori D",
+      "Kategori C"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Kategori A (havgående) er konstruert for åpent hav og kan tåle de hardeste forholdene. D er for beskyttet farvann og tåler minst.",
     "image": null,
     "sources": [
@@ -3749,9 +3749,9 @@
     "prompt": "Hva er en CIN-kode?",
     "choices": [
       "Skrognummeret – en unik 14-tegns identifikasjon av skroget",
-      "Båtførerbevisets nummer",
+      "Forsikringspolisens nummer",
       "Motorens serienummer",
-      "Forsikringspolisens nummer"
+      "Båtførerbevisets nummer"
     ],
     "correct": 0,
     "explanation": "CIN (Craft Identification Number) er skrognummeret på 14 tegn som unikt identifiserer det enkelte skroget.",
@@ -3774,12 +3774,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvilken kategori (C) er typisk ment for kystfarvann og fjorder?",
     "choices": [
-      "Kategori C",
-      "Kategori A",
       "Kategori D",
+      "Kategori A",
+      "Kategori C",
       "Kategori B"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Kategori C (kystfarvann/inshore) er konstruert for kystnære farvann, fjorder og store innsjøer med moderat vind og bølger.",
     "image": null,
     "sources": [
@@ -3800,12 +3800,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Du har en båt med CE-kategori D og vurderer en lengre tur i åpen kyst med kulingvarsel. Hva er riktig?",
     "choices": [
-      "Båten er bare bygget for beskyttet farvann; ikke dra ut i åpen kyst i kuling",
       "Kategori D tåler åpent hav fint",
-      "CE-kategori har ingen betydning for hvor du kan kjøre",
-      "Du kan kjøre uansett siden du har båtførerbevis"
+      "Du kan kjøre uansett siden du har båtførerbevis",
+      "Båten er bare bygget for beskyttet farvann; ikke dra ut i åpen kyst i kuling",
+      "CE-kategori har ingen betydning for hvor du kan kjøre"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Kategori D er for beskyttet farvann og små bølger. Å dra ut i åpen kyst i kuling med en D-båt er uforsvarlig – velg farvann etter kategori og vær.",
     "image": null,
     "sources": [
@@ -3868,12 +3868,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva er fribord?",
     "choices": [
-      "Høyden fra vannlinjen opp til dekk/rekka",
       "Avstanden fra baug til akter",
+      "Høyden fra vannlinjen opp til dekk/rekka",
       "Dybden under kjølen",
       "Bredden på båten"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Fribord er høyden fra vannlinjen opp til dekk eller rekka. Lavt fribord gjør at båten lettere tar inn vann over rekka.",
     "image": null,
     "sources": [
@@ -3894,12 +3894,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva skjer når du overbelaster båten?",
     "choices": [
-      "Båten synker dypere, fribordet reduseres og faren for å ta inn vann og kantre øker",
-      "Båten blir mer stabil",
+      "Ingenting, så lenge motoren er sterk nok",
       "Båten planer lettere",
-      "Ingenting, så lenge motoren er sterk nok"
+      "Båten synker dypere, fribordet reduseres og faren for å ta inn vann og kantre øker",
+      "Båten blir mer stabil"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Overlast senker båten dypere i vannet og reduserer fribordet, slik at den lettere tar inn vann over rekka og blir vanskeligere å manøvrere – økt fare for kantring.",
     "image": null,
     "sources": [
@@ -3920,12 +3920,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvordan bør tung last plasseres for best stabilitet?",
     "choices": [
-      "Lavt og jevnt fordelt for å holde tyngdepunktet lavt",
       "Høyt oppe slik at dekket er fritt",
       "Helt akterut",
+      "Lavt og jevnt fordelt for å holde tyngdepunktet lavt",
       "Det spiller ingen rolle"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Tung last skal stues lavt og fordeles jevnt. Vekt høyt oppe hever tyngdepunktet og reduserer stabiliteten, slik at båten lettere krenger og kan kantre.",
     "image": null,
     "sources": [
@@ -3946,12 +3946,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva betyr trim på en båt?",
     "choices": [
-      "Hvordan båten ligger i vannet på langs og på tvers",
-      "Båtens toppfart",
       "Mengden drivstoff om bord",
-      "Antall personer om bord"
+      "Båtens toppfart",
+      "Antall personer om bord",
+      "Hvordan båten ligger i vannet på langs og på tvers"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Trim beskriver hvordan båten ligger i vannet – vinkelen på langs (baug/akter) og krenging på tvers. Riktig trim gir god planing, sikt og kontroll.",
     "image": null,
     "sources": [
@@ -3998,12 +3998,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvor finner du grensene for maks antall personer og maks last for båten din?",
     "choices": [
+      "På redningsvesten",
       "På produsentskiltet",
-      "På båtførerbeviset",
       "I sjøkartet",
-      "På redningsvesten"
+      "På båtførerbeviset"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Produsentskiltet oppgir maks antall personer, maks last og største anbefalte motorstyrke. Disse grensene skal ikke overskrides.",
     "image": null,
     "sources": [
@@ -4024,12 +4024,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvilke tre motorsystemer trekker pensum særlig frem for vedlikehold?",
     "choices": [
-      "Drivstoffsystem, kjølesystem og smøreolje",
+      "Anker, fortøyning og fender",
       "Radio, GPS og ekkolodd",
       "Vinduspusser, lys og horn",
-      "Anker, fortøyning og fender"
+      "Drivstoffsystem, kjølesystem og smøreolje"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Pensum nevner drivstoffsystem, kjølesystem og smøreolje som sentrale punkter i vedlikehold av motoren.",
     "image": null,
     "sources": [
@@ -4050,12 +4050,12 @@
     "exam_area": "sjomannskap",
     "prompt": "På en utenbordsmotor – hva indikerer en synlig vannstråle («tiss») under gange?",
     "choices": [
-      "At kjølevannet sirkulerer som det skal",
       "At motoren har for mye olje",
       "At drivstoffet lekker",
-      "At batteriet er fulladet"
+      "At batteriet er fulladet",
+      "At kjølevannet sirkulerer som det skal"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Vannstrålen viser at kjølevannspumpen sirkulerer vann gjennom motoren. Uteblir strålen, kan motoren overopphetes – stopp og undersøk.",
     "image": null,
     "sources": [
@@ -4076,12 +4076,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvorfor er det viktig å sjekke smøreolje regelmessig?",
     "choices": [
-      "For lite eller dårlig olje kan føre til motorhavari",
-      "Olje påvirker farten",
+      "Olje erstatter kjølevann",
       "Olje hindrer brann",
-      "Olje erstatter kjølevann"
+      "For lite eller dårlig olje kan føre til motorhavari",
+      "Olje påvirker farten"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Smøreolje hindrer slitasje og overoppheting i motoren. For lite eller dårlig olje gir økt friksjon og kan ødelegge motoren.",
     "image": null,
     "sources": [
@@ -4123,12 +4123,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva bør du særlig kontrollere på en seilbåt i tillegg til motoren?",
     "choices": [
+      "Ingenting ekstra",
       "Stående og løpende rigg, vant, fester, tau og blokker",
       "Bare drivstoffet",
-      "Kun fenderne",
-      "Ingenting ekstra"
+      "Kun fenderne"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "På seilbåt må riggen kontrolleres: stående og løpende rigg, vant, fester og slitasje i tau og blokker. Riggsvikt kan være farlig.",
     "image": null,
     "sources": [
@@ -4150,9 +4150,9 @@
     "prompt": "Du merker at motoren begynner å bli unormalt varm under gange. Hva er en sannsynlig årsak knyttet til vedlikehold?",
     "choices": [
       "Svikt i kjølesystemet, f.eks. tett kjølevannssil eller slitt impeller",
-      "For mye drivstoff på tanken",
       "At redningsvestene er for gamle",
-      "At ankeret ikke er festet"
+      "At ankeret ikke er festet",
+      "For mye drivstoff på tanken"
     ],
     "correct": 0,
     "explanation": "Overoppheting skyldes ofte sviktende kjøling – tett sil, slitt impeller eller manglende kjølevannssirkulasjon. Stopp og undersøk for å unngå motorhavari.",
@@ -4175,12 +4175,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvorfor er det vanlig å ha kjetting nærmest ankeret?",
     "choices": [
+      "Kjetting gjør ankeret lettere å heve",
       "Kjettingen legger seg langs bunnen og trekker ankeret horisontalt så det graver seg ned",
-      "Kjetting flyter bedre enn tau",
       "Kjetting er billigere enn tau",
-      "Kjetting gjør ankeret lettere å heve"
+      "Kjetting flyter bedre enn tau"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Vekten av kjettingen nærmest ankeret holder draget horisontalt langs bunnen, slik at ankeret graver seg ned og holder bedre.",
     "image": null,
     "sources": [
@@ -4201,12 +4201,12 @@
     "exam_area": "sjomannskap",
     "prompt": "En vanlig tommelfingerregel for hvor mye ankerline/kjetting du bør stikke ut er:",
     "choices": [
-      "Minst 3–5 ganger vanndybden",
-      "Akkurat like mye som vanndybden",
       "Halvparten av vanndybden",
+      "Akkurat like mye som vanndybden",
+      "Minst 3–5 ganger vanndybden",
       "Maks én meter uansett dybde"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "En vanlig regel er å stikke ut minst 3–5 ganger vanndybden (mer ved dårlig vær eller bare line). For kort utstukket lengde gjør at ankeret løsner.",
     "image": null,
     "sources": [
@@ -4227,12 +4227,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva er hensikten med fjærende fortøyning (strekkavlaster/fjær)?",
     "choices": [
-      "Å dempe rykk fra bølger og vind så tau og fester ikke ryker",
-      "Å gjøre båten raskere",
       "Å hindre at båten flyter",
-      "Å erstatte fendere"
+      "Å dempe rykk fra bølger og vind så tau og fester ikke ryker",
+      "Å erstatte fendere",
+      "Å gjøre båten raskere"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Fjærende fortøyning demper de harde rykkene fra bølger og vind, slik at belastningen på tau og fester reduseres og fortøyningen varer lenger.",
     "image": null,
     "sources": [
@@ -4253,12 +4253,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Du ankrer for natten på et sted med stort tidevann. Hva må du passe på med fortøyningen til land?",
     "choices": [
-      "Tilpasse lengden så fortøyningen ikke blir for stram ved høyvann eller henger båten opp ved lavvann",
-      "Stramme alt maksimalt",
+      "Tidevann har ingen betydning",
       "Bruke kortest mulig tau",
-      "Tidevann har ingen betydning"
+      "Tilpasse lengden så fortøyningen ikke blir for stram ved høyvann eller henger båten opp ved lavvann",
+      "Stramme alt maksimalt"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Ved stort tidevann endres vannstanden mye. Fortøyningen må gi nok slakk slik at den ikke blir for stram ved høyvann eller henger båten opp ved lavvann.",
     "image": null,
     "sources": [
@@ -4281,8 +4281,8 @@
     "choices": [
       "Legg båten litt akterover for å sette ankeret, og peil mot land for å se om båten ligger i ro",
       "Trekk ankeret opp igjen med en gang",
-      "Kjør i sirkel rundt ankeret",
-      "Det er ikke mulig å kontrollere"
+      "Det er ikke mulig å kontrollere",
+      "Kjør i sirkel rundt ankeret"
     ],
     "correct": 0,
     "explanation": "Du setter ankeret ved å legge båten forsiktig akterover, og kontrollerer holdet ved å peile mot faste landemerker for å se om båten driver.",
@@ -4352,12 +4352,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Du nærmer deg et fuglefredningsområde i hekketiden. Hva er riktig?",
     "choices": [
-      "Hold god avstand, respekter ferdsels-/ilandstigningsforbud og ikke forstyrr fuglelivet",
       "Kjøre tett innpå for å se fuglene",
+      "Hold god avstand, respekter ferdsels-/ilandstigningsforbud og ikke forstyrr fuglelivet",
       "Gå i land og plukke egg",
       "Tute for å skremme fuglene opp"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Naturreservater og fuglefredningsområder har ofte ferdsels- og ilandstigningsforbud i hekketiden. Hold avstand og vis hensyn til dyrelivet.",
     "image": null,
     "sources": [
@@ -4404,12 +4404,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva er riktig om unødvendig støy og bølgeslag nær land?",
     "choices": [
-      "Det skal begrenses; bølgeslag kan skade andre båter, brygger og dyreliv",
-      "Det er alltid greit så lenge du holder fartsgrensen",
+      "Støy er kun et problem om natten",
       "Bølgeslag er aldri et problem",
-      "Støy er kun et problem om natten"
+      "Det er alltid greit så lenge du holder fartsgrensen",
+      "Det skal begrenses; bølgeslag kan skade andre båter, brygger og dyreliv"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Unødvendig støy og bølgeslag skal begrenses av hensyn til både miljø og andre. Bølgeslag kan skade fortøyde båter, brygger og dyreliv, og er regulert i reglene for norske farvann.",
     "image": null,
     "sources": [
@@ -4451,12 +4451,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvor skal toalettavfall (septik) helst tømmes?",
     "choices": [
+      "Det spiller ingen rolle hvor",
       "I mottaksanlegg i land der det finnes; mange områder har forbud mot tømming nær land",
       "Rett i sjøen uansett hvor du er",
-      "På land i naturen",
-      "Det spiller ingen rolle hvor"
+      "På land i naturen"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Kloakk/septik skal tømmes i mottaksanlegg i land der det finnes. Mange områder har forbud mot tømming av kloakk nær land og i sårbare områder.",
     "image": null,
     "sources": [
@@ -4477,12 +4477,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Er det lovpålagt å ha forsikring på fritidsbåt i Norge?",
     "choices": [
-      "Nei, men det er sterkt anbefalt",
       "Ja, på lik linje med bil",
       "Ja, men bare for båter over 15 meter",
+      "Nei, men det er sterkt anbefalt",
       "Nei, og det er heller ikke mulig å forsikre båt"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Båtforsikring er ikke lovpålagt i Norge (i motsetning til bil), men sterkt anbefalt – særlig ansvarsdekning, da skader på tredjepart kan bli svært kostbare.",
     "image": null,
     "sources": [
@@ -4503,12 +4503,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva dekker en ansvarsforsikring på båt?",
     "choices": [
-      "Skade du påfører andre personer, båter eller eiendom",
       "Bare skade på din egen båt",
-      "Drivstoffutgifter",
-      "Kun tyveri av båten"
+      "Skade du påfører andre personer, båter eller eiendom",
+      "Kun tyveri av båten",
+      "Drivstoffutgifter"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Ansvarsforsikring dekker skade du påfører tredjepart. Skade på egen båt dekkes av kasko/delkasko.",
     "image": null,
     "sources": [
@@ -4529,12 +4529,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvem har ansvaret for at ferdselen skjer trygt og lovlig om bord?",
     "choices": [
+      "Forsikringsselskapet",
       "Føreren av båten",
       "Passasjerene",
-      "Forsikringsselskapet",
       "Den som eier bryggen"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Føreren har ansvaret for fartøyet, alle om bord og at ferdselen skjer i samsvar med lover og regler – inkludert edruskap, fart, vikeplikt og flyteutstyr.",
     "image": null,
     "sources": [
@@ -4555,12 +4555,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Du forårsaker en kollisjon mens du er beruset over promillegrensen. Hvilken konsekvens kan dette få for forsikringen?",
     "choices": [
+      "Du får høyere erstatning",
       "Erstatningen kan avkortes eller falle bort fordi sikkerhetsforskrifter er brutt",
       "Forsikringen dekker alltid uansett",
-      "Det påvirker ikke forsikringen",
-      "Du får høyere erstatning"
+      "Det påvirker ikke forsikringen"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Brudd på sikkerhetsforskrifter (som promillegrensen) kan føre til at forsikringsselskapet avkorter eller nekter erstatning. Føreren kan også bli straffe- og erstatningsansvarlig.",
     "image": null,
     "sources": [
@@ -4602,12 +4602,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva krever mange forsikringsselskaper for at båtforsikringen skal gjelde fullt ut?",
     "choices": [
-      "At fører har gyldig båtførerbevis der det kreves, og at sikkerhetsforskrifter følges",
       "At båten er rød",
       "At føreren er over 40 år",
+      "At fører har gyldig båtførerbevis der det kreves, og at sikkerhetsforskrifter følges",
       "At båten alltid ligger på land"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Vilkårene krever typisk at fører har gyldig båtførerbevis der det er påkrevd, at båten brukes i avtalt fartsområde, og at sikkerhetsforskrifter (flyteutstyr, edruskap) følges. Brudd kan gi avkortning eller bortfall.",
     "image": null,
     "sources": [
@@ -4628,12 +4628,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva står huskeregelen BLÅS for i førstehjelp?",
     "choices": [
-      "Bevissthet, Luftveier, Åndedrett, Sirkulasjon",
-      "Blod, Luft, Åre, Skade",
+      "Båt, Land, Ankring, Slep",
       "Bandasje, Liggestilling, Åre, Stabilt",
-      "Båt, Land, Ankring, Slep"
+      "Blod, Luft, Åre, Skade",
+      "Bevissthet, Luftveier, Åndedrett, Sirkulasjon"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "BLÅS = Bevissthet, Luftveier, Åndedrett, Sirkulasjon. Det gir rekkefølgen du sjekker en bevisstløs/skadd person i.",
     "image": null,
     "sources": [
@@ -4654,12 +4654,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva er forholdet mellom brystkompresjoner og innblåsninger ved HLR på voksen?",
     "choices": [
+      "10 : 10",
       "30 kompresjoner : 2 innblåsninger",
       "15 : 2",
-      "5 : 1",
-      "10 : 10"
+      "5 : 1"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Hjerte-lunge-redning på voksen utføres med 30 brystkompresjoner etterfulgt av 2 innblåsninger (30:2), gjentatt til personen viser tegn til liv eller hjelp overtar.",
     "image": null,
     "sources": [
@@ -4680,12 +4680,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvordan skal en sterkt nedkjølt (hypoterm) person behandles?",
     "choices": [
+      "Gis sterk alkohol for å varmes opp",
       "Håndteres varsomt, isoleres mot kulde og varmes gradvis",
-      "Gnis kraftig og legges i varmt bad straks",
       "Settes til å løpe for å bli varm",
-      "Gis sterk alkohol for å varmes opp"
+      "Gnis kraftig og legges i varmt bad straks"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "En nedkjølt person skal håndteres varsomt (brå bevegelser kan utløse hjertestans), tas ut av vinden, isoleres mot kulde og varmes gradvis. Ikke gni eller varm for raskt.",
     "image": null,
     "sources": [
@@ -4706,12 +4706,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvordan stanser du en stor ytre blødning?",
     "choices": [
+      "Gni såret",
       "Direkte trykk mot såret og høyt leie",
       "Helle kaldt vann på",
-      "La det blø ut",
-      "Gni såret"
+      "La det blø ut"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "En stor ytre blødning stanses med direkte trykk mot såret og ved å heve den skadde kroppsdelen (høyt leie). Tilkall hjelp ved alvorlig blødning.",
     "image": null,
     "sources": [
@@ -4732,12 +4732,12 @@
     "exam_area": "sjomannskap",
     "prompt": "En person reddes om bord etter lengre tid i kaldt vann og er svært nedkjølt. Hva er IKKE riktig å gjøre?",
     "choices": [
-      "Gni kroppen hardt og dyppe personen i varmt vann med en gang",
       "Ta personen ut av vinden",
-      "Isolere mot kulde, også under personen",
-      "Håndtere personen forsiktig"
+      "Håndtere personen forsiktig",
+      "Gni kroppen hardt og dyppe personen i varmt vann med en gang",
+      "Isolere mot kulde, også under personen"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Hard gniing og brå oppvarming er feil – det kan presse kaldt blod mot hjertet og utløse hjertestans. Håndter varsomt, isoler og varm gradvis.",
     "image": null,
     "sources": [
@@ -4779,12 +4779,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvilken sjøvettregel handler om å respektere vær og farvann?",
     "choices": [
-      "Regel 3 – Respekter vær og farvann",
+      "Regel 7 – Vis hensyn",
       "Regel 1 – Tenk sikkerhet",
-      "Regel 5 – Bruk redningsvest",
-      "Regel 7 – Vis hensyn"
+      "Regel 3 – Respekter vær og farvann",
+      "Regel 5 – Bruk redningsvest"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Sjøvettregel 3 sier at båten bare må benyttes under egnede forhold – respekter vær og farvann.",
     "image": null,
     "sources": [
@@ -4806,8 +4806,8 @@
     "prompt": "Hva skjer typisk med bølgene når vinden blåser mot strømmen/tidevannet?",
     "choices": [
       "Bølgene blir kortere, brattere og farligere",
-      "Bølgene forsvinner helt",
       "Sjøen blir flat og rolig",
+      "Bølgene forsvinner helt",
       "Bølgene blir lavere og lange"
     ],
     "correct": 0,
@@ -4831,12 +4831,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva bestemmer hvor høye bølgene blir?",
     "choices": [
-      "Vindstyrke, hvor lenge vinden har blåst og strøklengden",
+      "Antall båter i området",
       "Bare lufttemperaturen",
       "Bare månefasen",
-      "Antall båter i området"
+      "Vindstyrke, hvor lenge vinden har blåst og strøklengden"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Bølgehøyden øker med vindstyrken, hvor lenge vinden har blåst og strøklengden (hvor langt vinden har virket over åpent vann).",
     "image": null,
     "sources": [
@@ -4857,12 +4857,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Det legger seg tåke og sikten faller raskt mens du er ute. Hva gjør du?",
     "choices": [
-      "Setter ned farten, holder skjerpet utkikk, bruker lanterner og gir tåkesignal",
-      "Øker farten for å komme fortere hjem",
+      "Stoler kun på øynene og fortsetter som før",
       "Slår av alle lys for å spare strøm",
-      "Stoler kun på øynene og fortsetter som før"
+      "Øker farten for å komme fortere hjem",
+      "Setter ned farten, holder skjerpet utkikk, bruker lanterner og gir tåkesignal"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Ved nedsatt sikt skal du redusere farten, holde ekstra god utkikk, vise lanterner og gi tåkesignal (sjøveisregel 35), og navigere etter kart, kompass og GPS.",
     "image": null,
     "sources": [
@@ -4883,12 +4883,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvorfor kan fralandsvind være lumsk for en båtfører?",
     "choices": [
+      "Den merkes ikke i det hele tatt",
       "Det kan være rolig nær land, men hardt og krevende lenger ut",
-      "Den blåser alltid båten mot land",
       "Den gir alltid flat sjø overalt",
-      "Den merkes ikke i det hele tatt"
+      "Den blåser alltid båten mot land"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Ved fralandsvind kan det virke lunt og rolig nær land, mens vinden og sjøen er mye hardere lenger ute. Det kan lure deg langt ut før forholdene blir krevende.",
     "image": null,
     "sources": [
@@ -4930,12 +4930,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvilke regler gjelder for vannscooter i dag?",
     "choices": [
-      "Samme regler som for fritidsbåt (særreglene ble opphevet i 2017)",
-      "Egne strenge vannscooterregler med forbudssoner",
       "Ingen regler i det hele tatt",
-      "Bare regler om hjelm"
+      "Samme regler som for fritidsbåt (særreglene ble opphevet i 2017)",
+      "Bare regler om hjelm",
+      "Egne strenge vannscooterregler med forbudssoner"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "De egne vannscooterreglene ble opphevet i 2017. Nå gjelder samme regler som for fritidsbåt: vikeplikt, fartsgrenser, flyteutstyr og promille. Minstealder er 16 år.",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
@@ -4961,12 +4961,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva bør du ha i tillegg til føreren når du sleper en person på vannski/tube?",
     "choices": [
-      "En egen observatør som følger med på personen i sleip",
-      "Ingen ekstra – føreren ser alt selv",
+      "En politibåt i nærheten",
       "To ekstra motorer",
-      "En politibåt i nærheten"
+      "En egen observatør som følger med på personen i sleip",
+      "Ingen ekstra – føreren ser alt selv"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Det anbefales å ha en egen observatør i tillegg til føreren, som holder øye med personen som slepes og gir tegn til føreren. Føreren må konsentrere seg om kjøringen.",
     "image": null,
     "sources": [
@@ -4987,12 +4987,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva må du gjøre når noen er i vannet helt nær båten?",
     "choices": [
-      "Sette motoren i fri/stoppe den på grunn av propellfaren",
-      "Holde full gass for å være klar",
+      "Tute tre ganger",
       "Sette på autopilot",
-      "Tute tre ganger"
+      "Sette motoren i fri/stoppe den på grunn av propellfaren",
+      "Holde full gass for å være klar"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "En roterende propell er svært farlig. Stopp motoren (eller sett i fri) når noen er i vannet helt nær båten, for eksempel ved opptak av en faller eller bading.",
     "image": null,
     "sources": [
@@ -5013,12 +5013,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvilken minstealder gjelder for å føre vannscooter?",
     "choices": [
-      "16 år",
       "12 år",
+      "16 år",
       "15 år",
       "18 år"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Vannscooter følger båtreglene, og minstealderen er 16 år (siden motoren er over 10 hk). En vannscooter som kan gå 50 knop eller mer krever i tillegg høyhastighetsbevis (18 år).",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
@@ -5044,12 +5044,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Du kjører vannscooter som kan gå 60 knop. Hvilke bevis må du ha?",
     "choices": [
+      "Bare høyhastighetsbevis",
       "Både båtførerbevis og høyhastighetsbevis (minst 18 år)",
-      "Bare båtførerbevis",
       "Ingen bevis kreves for vannscooter",
-      "Bare høyhastighetsbevis"
+      "Bare båtførerbevis"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Et fartøy som kan gå 50 knop eller mer krever høyhastighetsbevis (fra våren 2023, minstealder 18 år) i tillegg til båtførerbevis. 60 knop ligger over grensen.",
     "image": null,
     "sources": [
@@ -5070,12 +5070,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvor nær badende er det forbudt å passere?",
     "choices": [
-      "Nærmere enn 50 meter",
-      "Nærmere enn 5 meter",
       "Nærmere enn 200 meter",
-      "Det finnes ingen grense"
+      "Det finnes ingen grense",
+      "Nærmere enn 5 meter",
+      "Nærmere enn 50 meter"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Det er forbudt å passere badende nærmere enn 50 meter. Mange steder gjelder også maks 5 knop nær land og badeplasser – sjekk lokale fartsforskrifter.",
     "image": null,
     "sources": [
@@ -5117,12 +5117,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hva er en typisk fare ved å føre båt i høy fart?",
     "choices": [
-      "Kortere reaksjonstid og innsnevret syn (tunnelsyn)",
       "Bedre oversikt og lengre reaksjonstid",
-      "Lavere drivstofforbruk og mindre risiko",
-      "At sjøen blir flatere"
+      "At sjøen blir flatere",
+      "Kortere reaksjonstid og innsnevret syn (tunnelsyn)",
+      "Lavere drivstofforbruk og mindre risiko"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Høy fart gir kortere tid til å oppdage og reagere på farer, og synsfeltet snevres inn (tunnelsyn) slik at du lettere overser farer i ytterkanten.",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
@@ -5148,12 +5148,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvorfor er det ekstra risikabelt å se ned på kartplotteren i høy fart?",
     "choices": [
-      "Båten flytter seg langt på kort tid mens du ikke ser fremover",
       "Skjermen blir vanskelig å lese",
-      "GPS-en mister signal i fart",
-      "Det er ingen ekstra risiko"
+      "Båten flytter seg langt på kort tid mens du ikke ser fremover",
+      "Det er ingen ekstra risiko",
+      "GPS-en mister signal i fart"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "I høy fart tilbakelegges stor avstand på kort tid. Når du ser ned på elektronikk, har båten flyttet seg langt før du ser opp igjen, med stor fare for å overse hindringer.",
     "image": null,
     "sources": [
@@ -5176,8 +5176,8 @@
     "choices": [
       "Regel 6",
       "Regel 13",
-      "Regel 18",
-      "Regel 35"
+      "Regel 35",
+      "Regel 18"
     ],
     "correct": 0,
     "explanation": "Sjøveisregel 6 krever at ethvert fartøy til enhver tid skal gå med sikker fart, tilpasset sikt, trafikk, farvann og forhold.",
@@ -5200,12 +5200,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Fra hvilken fart kreves høyhastighetsbevis i tillegg til båtførerbevis?",
     "choices": [
+      "Når fartøyet kan gå 10 knop eller mer",
       "Når fartøyet kan gå 50 knop eller mer",
       "Når fartøyet kan gå 25 knop eller mer",
-      "Når fartøyet kan gå 10 knop eller mer",
       "Når fartøyet kan gå 100 knop eller mer"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Høyhastighetsbevis (innført våren 2023, minstealder 18 år) kreves i tillegg til båtførerbevis for fritidsbåt under 24 m som kan gå 50 knop eller mer.",
     "image": null,
     "sources": [
@@ -5226,12 +5226,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Du kjører fort langs en kyst med holmer, skjær og noen fortøyde båter. Hva er godt sjømannskap?",
     "choices": [
-      "Senke farten i god tid og holde forsvarlig avstand til land og fortøyde båter",
       "Holde høy fart helt inntil land for spenningens skyld",
-      "Kjøre tett forbi de fortøyde båtene",
-      "Stole på at andre viker for deg"
+      "Senke farten i god tid og holde forsvarlig avstand til land og fortøyde båter",
+      "Stole på at andre viker for deg",
+      "Kjøre tett forbi de fortøyde båtene"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Hold forsvarlig avstand til land, holmer, skjær og fortøyde båter, og senk farten i god tid. Da har du tid og rom til å reagere, og du unngår farlig bølgeslag.",
     "image": null,
     "sources": [
@@ -5252,12 +5252,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvorfor blir konsekvensene av et sammenstøt mye verre i høy fart?",
     "choices": [
-      "Energien i sammenstøtet øker kraftig med farten",
       "Båtene blir lettere i høy fart",
       "Vann demper alltid støtet uansett fart",
-      "Farten påvirker ikke skadeomfanget"
+      "Farten påvirker ikke skadeomfanget",
+      "Energien i sammenstøtet øker kraftig med farten"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Bevegelsesenergien øker med kvadratet av farten. Et sammenstøt i høy fart frigjør derfor mye mer energi og gir langt alvorligere (høyenergi-) skader.",
     "image": null,
     "sources": [
@@ -5299,12 +5299,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvor mange sjøvettregler er det?",
     "choices": [
-      "7",
+      "3",
       "5",
       "10",
-      "3"
+      "7"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Det er 7 sjøvettregler, fra «Tenk sikkerhet» til «Vis hensyn». De oppsummerer kjernen i godt sjømannskap.",
     "image": null,
     "sources": [
@@ -5351,12 +5351,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvilken sjøvettregel handler om å bruke redningsvest eller flyteplagg?",
     "choices": [
-      "Regel 5",
+      "Regel 7",
       "Regel 1",
-      "Regel 4",
-      "Regel 7"
+      "Regel 5",
+      "Regel 4"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Sjøvettregel 5 sier «Bruk redningsvest eller flyteplagg». Det er påbudt å ha på seg flyteutstyr i båter under 8 m, og båter f.o.m. 8 m skal ha egnet flyteutstyr til alle om bord.",
     "image": null,
     "sources": [
@@ -5377,12 +5377,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva handler sjøvettregel 1 «Tenk sikkerhet» om?",
     "choices": [
-      "At kunnskap og planlegging reduserer risikoen og øker trivselen",
-      "At man alltid skal kjøre fortest mulig",
       "At man bare trenger flyteutstyr",
+      "At man alltid skal kjøre fortest mulig",
+      "At kunnskap og planlegging reduserer risikoen og øker trivselen",
       "At man skal stole på flaks"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Sjøvettregel 1 «Tenk sikkerhet» minner om at kunnskap og planlegging reduserer risikoen og øker trivselen på sjøen.",
     "image": null,
     "sources": [
@@ -5403,12 +5403,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Du planlegger en dagstur i ukjent farvann. Hvilke valg er i tråd med godt sjømannskap?",
     "choices": [
-      "Sjekk vær og utstyr, fortell noen hvor du skal og når du er tilbake, og planlegg ruten",
+      "Stol på at andre passer på deg",
       "Dra ut uten å si fra til noen og uten å sjekke været",
-      "Ta med så mange folk som mulig uansett båtstørrelse",
-      "Stol på at andre passer på deg"
+      "Sjekk vær og utstyr, fortell noen hvor du skal og når du er tilbake, og planlegg ruten",
+      "Ta med så mange folk som mulig uansett båtstørrelse"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Godt sjømannskap innebærer planlegging: sjekk vær og utstyr, fortell noen om planene og forventet retur, og legg en gjennomtenkt rute med alternativer.",
     "image": null,
     "sources": [
@@ -5429,12 +5429,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hvilken sjøvettregel handler om å følge vikeplikt, hastighet og lanterneføring?",
     "choices": [
-      "Regel 4 – Følg sjøveisreglene",
-      "Regel 2 – Ta med nødvendig utstyr",
+      "Regel 3 – Respekter vær og farvann",
       "Regel 6 – Vær uthvilt og edru",
-      "Regel 3 – Respekter vær og farvann"
+      "Regel 4 – Følg sjøveisreglene",
+      "Regel 2 – Ta med nødvendig utstyr"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Sjøvettregel 4 «Følg sjøveisreglene» peker på at bestemmelsene om vikeplikt, hastighet og lanterneføring må overholdes.",
     "image": null,
     "sources": [
@@ -5476,12 +5476,12 @@
     "exam_area": "sjomannskap",
     "prompt": "Hva er kjernen i sjøvettregel 7 «Vis hensyn»?",
     "choices": [
-      "At sikkerhet, miljø og trivsel er et felles ansvar",
       "At man alltid har forkjørsrett",
-      "At man bare skal tenke på seg selv",
-      "At man kan kjøre som man vil utenfor havner"
+      "At sikkerhet, miljø og trivsel er et felles ansvar",
+      "At man kan kjøre som man vil utenfor havner",
+      "At man bare skal tenke på seg selv"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Sjøvettregel 7 understreker at sikkerhet, miljø og trivsel er et felles ansvar, og at egen adferd påvirker andres sikkerhet og trivsel.",
     "image": null,
     "sources": [
@@ -5502,12 +5502,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hva slags sjømerke viser bildet (rød stake)?",
     "choices": [
-      "Babordmerke (lateralmerke)",
       "Styrbordmerke (lateralmerke)",
+      "Babordmerke (lateralmerke)",
       "Spesialmerke",
       "Nordmerke (kardinalmerke)"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "En helrød stake er et babordmerke. I IALA region A skal røde merker holdes på babord side når du følger leias hovedretning – «rødt om babord inn».",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2016-01-sideavmerking_rod.jpg",
@@ -5534,9 +5534,9 @@
     "prompt": "Hva slags sjømerke viser bildet (grønt, konisk merke med spiss topp)?",
     "choices": [
       "Styrbordmerke (lateralmerke)",
+      "Østmerke (kardinalmerke)",
       "Babordmerke (lateralmerke)",
-      "Senterledsmerke",
-      "Østmerke (kardinalmerke)"
+      "Senterledsmerke"
     ],
     "correct": 0,
     "explanation": "Et helgrønt merke med spiss/konisk topp er et styrbordmerke. Grønne merker holdes på styrbord side når du følger leias hovedretning.",
@@ -5564,12 +5564,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hva betyr huskeregelen «rødt om babord inn»?",
     "choices": [
-      "Når du følger leias hovedretning (inn mot havn), skal røde merker holdes på babord side",
       "Røde merker skal alltid holdes på styrbord side",
-      "Røde merker betyr at det er forbudt å passere",
-      "Røde merker markerer en frittliggende fare"
+      "Når du følger leias hovedretning (inn mot havn), skal røde merker holdes på babord side",
+      "Røde merker markerer en frittliggende fare",
+      "Røde merker betyr at det er forbudt å passere"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "I IALA region A holder du de røde babordmerkene på din venstre (babord) side når du følger leias hovedretning innover.",
     "image": null,
     "sources": [
@@ -5590,12 +5590,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Du følger leias hovedretning innover en fjord. På hvilken side skal du ha de grønne merkene?",
     "choices": [
-      "Styrbord (høyre)",
       "Babord (venstre)",
       "Det spiller ingen rolle",
-      "Rett forut"
+      "Rett forut",
+      "Styrbord (høyre)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Grønne merker er styrbordmerker og holdes på styrbord (høyre) side når du følger leias hovedretning.",
     "image": null,
     "sources": [
@@ -5616,12 +5616,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvordan finner du ut hva som er leias hovedretning?",
     "choices": [
-      "Ved å lese av pilen med en rød og en grønn prikk i sjøkartet",
-      "Hovedretningen er alltid mot nord uansett farvann",
       "Den vises på selve staken med en pil",
-      "Hovedretningen følger alltid strømmen"
+      "Hovedretningen følger alltid strømmen",
+      "Hovedretningen er alltid mot nord uansett farvann",
+      "Ved å lese av pilen med en rød og en grønn prikk i sjøkartet"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Leias hovedretning leses av i sjøkartet, der en pil med en rød og en grønn prikk viser retningen. Hovedretningen går normalt inn mot havner, men må alltid sjekkes i kartet.",
     "image": null,
     "sources": [
@@ -5644,8 +5644,8 @@
     "choices": [
       "Babord side",
       "Styrbord side",
-      "Begge sider",
-      "Midt i leia"
+      "Midt i leia",
+      "Begge sider"
     ],
     "correct": 0,
     "explanation": "I IALA region A er røde merker babordmerker; de grønne er styrbordmerker. «Rødt om babord inn.»",
@@ -5673,12 +5673,12 @@
     "exam_area": "navigasjon",
     "prompt": "Diagrammet viser et babordmerke og et styrbordmerke. Hvilken farge og topptegn har styrbordmerket?",
     "choices": [
-      "Grønt med konisk/spisst toppmerke",
       "Rødt med butt toppmerke",
-      "Gult med X-topptegn",
-      "Sort-gult med to kjegler"
+      "Grønt med konisk/spisst toppmerke",
+      "Sort-gult med to kjegler",
+      "Gult med X-topptegn"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Styrbordmerket er grønt med konisk toppmerke (spiss topp). Babordmerket er rødt med butt/flat topp.",
     "image": {
       "src": "data/img/bukt__images__quiz-static-img-articles-lateralmerker.svg",
@@ -5704,12 +5704,12 @@
     "exam_area": "navigasjon",
     "prompt": "På sjøkartet, hvordan tegnes vanligvis det grønne styrbordmerket?",
     "choices": [
+      "Gult med kryss",
       "Sort og spisst",
-      "Hvitt og butt",
       "Rødt og rundt",
-      "Gult med kryss"
+      "Hvitt og butt"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "I kartet tegnes grønne styrbordmerker sorte og spisse, mens røde babordmerker tegnes hvite og butte.",
     "image": null,
     "sources": [
@@ -5751,12 +5751,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du går UT fra havna, altså MOT leias hovedretning. Hvilken side har de røde merkene nå?",
     "choices": [
+      "De røde merkene forsvinner",
       "Styrbord side (de røde merkene har byttet side i forhold til deg)",
       "Fortsatt babord side",
-      "De røde merkene forsvinner",
       "Midt i leia"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Hovedregelen «rødt om babord» gjelder når du følger hovedretningen. Går du motsatt vei, vil de røde merkene være på din styrbord side. Selve merkets fysiske side i leia endres ikke; det er din retning som er motsatt.",
     "image": null,
     "sources": [
@@ -5805,8 +5805,8 @@
     "choices": [
       "Nord for merket",
       "Sør for merket",
-      "Øst for merket",
-      "Vest for merket"
+      "Vest for merket",
+      "Øst for merket"
     ],
     "correct": 0,
     "explanation": "Du skal passere på den kompasskanten merkets navn angir. Nordmerket passeres nord for merket.",
@@ -5834,12 +5834,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Bildet viser en stake som er sort øverst og gul nederst (sort over gul). Hvilket kardinalmerke er dette?",
     "choices": [
-      "Nordmerke",
       "Sørmerke",
-      "Østmerke",
-      "Vestmerke"
+      "Vestmerke",
+      "Nordmerke",
+      "Østmerke"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Sort over gul (BY) er nordmerket. Topptegnet er to sorte kjegler som peker opp, og lyset er kontinuerlig hurtigblink (Q).",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2025-08-nordmerk_m_bakgrunn.png",
@@ -5865,12 +5865,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Bildet viser en sort stake med ett gult belte i midten (sort-gul-sort). Hvilket kardinalmerke er dette?",
     "choices": [
-      "Østmerke",
       "Vestmerke",
-      "Nordmerke",
-      "Sørmerke"
+      "Sørmerke",
+      "Østmerke",
+      "Nordmerke"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Sort-gul-sort (BYB) er østmerket. Topptegnet er to kjegler med basene mot hverandre, og lyset er Q(3).",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2025-08-ostmerke_m_bakgrunn.png",
@@ -5896,12 +5896,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Bildet viser en stake gul-sort-gul (gul med ett sort belte i midten). Hvilket kardinalmerke er dette?",
     "choices": [
+      "Nordmerke",
       "Vestmerke",
       "Østmerke",
-      "Nordmerke",
       "Sørmerke"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Gul-sort-gul (YBY) er vestmerket. Topptegnet er to kjegler med spissene mot hverandre (timeglass, ligner en «V»), og lyset er Q(9).",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2025-08-vestmerke_m_bakgrunn.png",
@@ -5927,12 +5927,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvilket topptegn har et SØRMERKE?",
     "choices": [
+      "To kjegler med basene mot hverandre",
       "To sorte kjegler som begge peker ned",
       "To sorte kjegler som begge peker opp",
-      "To kjegler med basene mot hverandre",
       "To kjegler med spissene mot hverandre"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Sørmerkets to kjegler peker begge ned – som «sør» peker ned på kartet. Fargen er gul over sort (YB), og lyset er Q(6)+LFl.",
     "image": null,
     "sources": [
@@ -5953,12 +5953,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvilke to farger har alle kardinalmerker?",
     "choices": [
-      "Sort og gul",
       "Rød og grønn",
-      "Rød og hvit",
-      "Sort og rød"
+      "Sort og gul",
+      "Sort og rød",
+      "Rød og hvit"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Kardinalmerker er alltid sorte og gule. Rekkefølgen på fargene (BY/BYB/YB/YBY) sammen med kjeglene angir retningen.",
     "image": null,
     "sources": [
@@ -5979,12 +5979,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvilken lyskarakteristikk har et vestmerke?",
     "choices": [
-      "Q(9) – ni hvite hurtigblink i gruppe",
-      "Q(3) – tre hvite hurtigblink",
       "Q(6) + langt blink",
-      "Q – kontinuerlig hurtigblink"
+      "Q(3) – tre hvite hurtigblink",
+      "Q – kontinuerlig hurtigblink",
+      "Q(9) – ni hvite hurtigblink i gruppe"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Vestmerket lyser med ni hurtigblink i gruppe, Q(9). Klokke-huskeregelen: vest ligger ved kl. 9.",
     "image": null,
     "sources": [
@@ -6005,12 +6005,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvilken lyskarakteristikk skiller sørmerket fra de andre kardinalmerkene?",
     "choices": [
-      "Q(6) + ett langt blink (LFl)",
-      "Q(3)",
       "Q(9)",
-      "Q kontinuerlig"
+      "Q(3)",
+      "Q kontinuerlig",
+      "Q(6) + ett langt blink (LFl)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Sørmerket har seks hurtigblink etterfulgt av ett langt blink, Q(6)+LFl. De andre har Q (nord), Q(3) (øst) og Q(9) (vest).",
     "image": null,
     "sources": [
@@ -6031,12 +6031,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Bildet viser de fire kardinalmerkene. Hva er hovedfunksjonen til disse merkene?",
     "choices": [
-      "Å vise hvilken kompasskant av en fare det er trygt å passere",
       "Å vise leias hovedretning inn mot havn",
+      "Å vise hvilken kompasskant av en fare det er trygt å passere",
       "Å markere fartsgrenser",
       "Å markere et badeområde"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Kardinalmerker angir hvilken kompassretning (nord/øst/sør/vest) som er trygt farvann i forhold til en fare.",
     "image": {
       "src": "data/img/bukt__images__quiz-static-img-articles-kardinalmerker.svg",
@@ -6062,12 +6062,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Du ser en sort/gul stake med sort over gul og to kjegler som peker opp. Hvor skal du passere?",
     "choices": [
-      "Nord for merket",
-      "Sør for merket",
       "Øst for merket",
-      "Vest for merket"
+      "Nord for merket",
+      "Vest for merket",
+      "Sør for merket"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Sort over gul med kjegler opp er et nordmerke – du passerer nord for det.",
     "image": null,
     "sources": [
@@ -6109,12 +6109,12 @@
     "exam_area": "navigasjon",
     "prompt": "Et kardinalmerke har gul over sort farge (YB). Hvilket merke er det, og hvor passerer du?",
     "choices": [
+      "Østmerke – passer øst for merket",
       "Sørmerke – passer sør for merket",
       "Nordmerke – passer nord for merket",
-      "Vestmerke – passer vest for merket",
-      "Østmerke – passer øst for merket"
+      "Vestmerke – passer vest for merket"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Gul over sort (YB) er sørmerket; kjeglene peker ned. Du skal passere sør for det.",
     "image": null,
     "sources": [
@@ -6135,12 +6135,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvorfor bør du alltid kontrollere kardinalmerker mot sjøkartet?",
     "choices": [
-      "Staker kan ha blitt skadet eller vridd og peke/stå feil",
       "Fargene endres med årstiden",
-      "Kardinalmerker fjernes om natten",
-      "Topptegnet snur seg etter strømmen med vilje"
+      "Staker kan ha blitt skadet eller vridd og peke/stå feil",
+      "Topptegnet snur seg etter strømmen med vilje",
+      "Kardinalmerker fjernes om natten"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Merker langs kysten kan bli skadet av sjø, vær og sammenstøt, så viser/topptegn kan stå feil. Bruk derfor alltid sjøkartet i tillegg.",
     "image": null,
     "sources": [
@@ -6163,8 +6163,8 @@
     "choices": [
       "Spesialmerke",
       "Styrbordmerke",
-      "Senterledsmerke",
-      "Sørmerke"
+      "Sørmerke",
+      "Senterledsmerke"
     ],
     "correct": 0,
     "explanation": "Helgult merke med gult X-topptegn er et spesialmerke. Det markerer spesielle områder som badeplasser, kabler, oppdrett eller militære felt.",
@@ -6193,9 +6193,9 @@
     "prompt": "Bildet viser gule merker med gult X-topptegn ved et badeområde. Hvilken regel gjelder typisk innenfor slike badebøyer?",
     "choices": [
       "Maks 5 knop nærmere enn 50 m, og normalt forbud mot motorbåt innenfor bøyene",
+      "Det er kun tillatt å seile",
       "Fri fart, men hold god utkikk",
-      "Ankring er påbudt",
-      "Det er kun tillatt å seile"
+      "Ankring er påbudt"
     ],
     "correct": 0,
     "explanation": "Spesialmerker brukes blant annet som badebøyer. Innenfor er det normalt forbudt å kjøre motorbåt, og nærmere enn 50 m er det maks 5 knop. Vær oppmerksom på svømmere også utenfor bøyene.",
@@ -6223,12 +6223,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Bildet viser et merke som er sort med rødt belte. Hva markerer dette merket?",
     "choices": [
+      "Et badeområde",
       "En frittliggende fare (isolert fare) – du kan passere på alle sider med god klaring",
       "Babord side av leia",
-      "At det er forbudt å passere",
-      "Et badeområde"
+      "At det er forbudt å passere"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Sort med røde belter (BRB) og to sorte kuler som topptegn markerer en frittliggende/isolert fare. Det er farbart rundt på alle sider, men hold god klaring.",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2016-01-frittliggende_grunne.jpg",
@@ -6254,12 +6254,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvilket topptegn og lys har merket for frittliggende fare (isolert fare)?",
     "choices": [
-      "To sorte kuler over hverandre; lys Fl(2) hvitt",
+      "To kjegler som peker opp; Q hvitt",
       "Ett gult kryss; gult lys",
-      "Én rød kule; hvitt langblink",
-      "To kjegler som peker opp; Q hvitt"
+      "To sorte kuler over hverandre; lys Fl(2) hvitt",
+      "Én rød kule; hvitt langblink"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Frittliggende fare har to sorte kuler som topptegn og lyser hvitt med to glimt i gruppe, Fl(2).",
     "image": null,
     "sources": [
@@ -6280,12 +6280,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Bildet viser et merke med røde og hvite vertikale striper. Hva er dette?",
     "choices": [
-      "Senterledsmerke (trygt vann / midtfarvann)",
-      "Babordmerke",
       "Frittliggende fare",
+      "Babordmerke",
+      "Senterledsmerke (trygt vann / midtfarvann)",
       "Spesialmerke"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Røde og hvite vertikale striper med én rød kule som topptegn er et senterledsmerke. Det markerer midten av leia / trygt vann, og du kan passere på alle sider.",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2026-04-senterledsmerke-1024x731.png",
@@ -6311,12 +6311,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvilket topptegn har et senterledsmerke?",
     "choices": [
-      "Én rød kule",
-      "To sorte kuler",
       "Gult kryss",
-      "To kjegler"
+      "To kjegler",
+      "To sorte kuler",
+      "Én rød kule"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Senterledsmerket har én rød kule som topptegn og rød-hvite vertikale striper.",
     "image": null,
     "sources": [
@@ -6337,12 +6337,12 @@
     "exam_area": "navigasjon",
     "prompt": "Bildet viser en sort-hvit-sort malt varde med en horisontal arm (viser). Hva betyr armen?",
     "choices": [
-      "Armen peker mot trygt farvann – du passerer på den siden armen peker",
+      "Armen angir fartsgrense",
       "Armen peker mot fare – hold deg unna den siden",
       "Armen viser nord",
-      "Armen angir fartsgrense"
+      "Armen peker mot trygt farvann – du passerer på den siden armen peker"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "En varde/stake med arm peker alltid mot trygt farvann; du passerer på den siden armen peker. Kontroller likevel mot kartet, for armen kan ha vridd seg i dårlig vær.",
     "image": {
       "src": "data/img/redningsselskapet__images__content-uploads-2016-01-sjomerke_blindleia.jpg",
@@ -6368,12 +6368,12 @@
     "exam_area": "navigasjon",
     "prompt": "Et fast merke har viser til begge sider, eller hvit refleks på toppmerket. Hva betyr det?",
     "choices": [
-      "Det er farbar led på begge sider av merket",
       "Merket er ødelagt og skal ignoreres",
+      "Det er farbar led på begge sider av merket",
       "Du må alltid passere på styrbord side",
       "Det markerer en frittliggende fare"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Visere til begge sider eller hvit refleks på toppmerket/kreksen betyr at det er farbar led på begge sider av merket.",
     "image": null,
     "sources": [
@@ -6394,12 +6394,12 @@
     "exam_area": "navigasjon",
     "prompt": "Bildet viser et merke som er sort med to røde belter (bøye/stake). Hva slags merke er dette?",
     "choices": [
-      "Merke for frittliggende fare (isolert fare)",
       "Nordmerke",
       "Senterledsmerke",
-      "Styrbordmerke"
+      "Styrbordmerke",
+      "Merke for frittliggende fare (isolert fare)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Sort med røde belter (BRB) er merke for frittliggende/isolert fare. Topptegnet er to sorte kuler.",
     "image": {
       "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-9db6004e.png",
@@ -6425,12 +6425,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvilken farge og lys har et spesialmerke?",
     "choices": [
-      "Helgult merke med gult lys",
       "Sort/gult merke med hvitt lys",
       "Rødt merke med rødt lys",
+      "Helgult merke med gult lys",
       "Rød-hvitt merke med hvitt lys"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Spesialmerket er helgult, har gult X-topptegn og gult lys med valgfri karakteristikk.",
     "image": null,
     "sources": [
@@ -6498,12 +6498,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Bildet viser et kartutsnitt med en sektorlykt som har grønne, røde og hvite sektorer. Hvilken sektor viser det trygge løpet?",
     "choices": [
-      "Den hvite sektoren",
       "Den røde sektoren",
-      "Den grønne sektoren",
-      "Både rød og grønn sektor"
+      "Den hvite sektoren",
+      "Både rød og grønn sektor",
+      "Den grønne sektoren"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Hvit sektor viser det farbare, trygge løpet. Rød og grønn sektor advarer mot fare/grunne.",
     "image": {
       "src": "data/img/kystverket__images__contentassets-0cdf44808b804bcfbe32912ae78e972c-eksempel-pa-s-d80e5d08.jpg",
@@ -6529,12 +6529,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Du ser hvitt lys fra en sektorlykt. Hva betyr det?",
     "choices": [
-      "Du er i trygt, farbart løp",
-      "Du er på vei mot en grunne på styrbord side",
+      "Lykten er ute av drift",
       "Du er på vei mot en grunne på babord side",
-      "Lykten er ute av drift"
+      "Du er i trygt, farbart løp",
+      "Du er på vei mot en grunne på styrbord side"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Hvitt lys (W) betyr at du er i klar/trygg sektor og kan holde kursen inn mot lykten.",
     "image": null,
     "sources": [
@@ -6555,12 +6555,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Du ser plutselig rødt lys fra en sektorlykt mens du seiler inn. Hva bør du gjøre?",
     "choices": [
-      "Korrigere kursen tilbake mot hvit sektor",
-      "Fortsette rett frem mot lykten",
       "Øke farten",
-      "Ankre umiddelbart"
+      "Ankre umiddelbart",
+      "Fortsette rett frem mot lykten",
+      "Korrigere kursen tilbake mot hvit sektor"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Rødt (eller grønt) lys betyr at du er utenfor det trygge løpet, mot fare/grunne. Du må orientere deg tilbake mot hvit sektor.",
     "image": null,
     "sources": [
@@ -6582,8 +6582,8 @@
     "prompt": "På hvilken side av leia ligger normalt den grønne sektoren i en sektorlykt (innseilingsretning)?",
     "choices": [
       "På styrbord side av leia",
-      "På babord side av leia",
       "Midt i leia",
+      "På babord side av leia",
       "Det varierer tilfeldig"
     ],
     "correct": 0,
@@ -6607,12 +6607,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva er en sektorlykt?",
     "choices": [
-      "En fast lykt som lyser med ulik farge i ulike retninger og deler farvannet i sektorer",
-      "En flytende bøye som markerer en grunne",
       "Et farvannsskilt for fartsgrense",
-      "En lanterne på en båt"
+      "En lanterne på en båt",
+      "En flytende bøye som markerer en grunne",
+      "En fast lykt som lyser med ulik farge i ulike retninger og deler farvannet i sektorer"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "En sektorlykt er en fast lyskilde som lyser med ulik farge (hvit/rød/grønn) i ulike retninger, slik at fargen forteller hvor du er i forhold til leia.",
     "image": null,
     "sources": [
@@ -6633,12 +6633,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvordan tegnes ofte den hvite sektoren til en sektorlykt på sjøkartet?",
     "choices": [
-      "Som gul sektor",
-      "Som hvit sektor",
       "Som grå sektor",
-      "Den vises ikke i kartet"
+      "Som gul sektor",
+      "Den vises ikke i kartet",
+      "Som hvit sektor"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Den hvite sektoren tegnes vanligvis gul i sjøkartet, mens rød og grønn sektor tegnes i sine egne farger.",
     "image": null,
     "sources": [
@@ -6660,9 +6660,9 @@
     "prompt": "Bildet viser Halten fyr som et hvitt tårn med to sorte belter. Hva er hovedfunksjonen til et slikt kystfyr?",
     "choices": [
       "Å være et fast lysmerke som hjelper båtfolk å navigere og kjenne seg igjen",
+      "Å vise leias hovedretning med en pil",
       "Å markere en fartsgrense",
-      "Å markere et badeområde",
-      "Å vise leias hovedretning med en pil"
+      "Å markere et badeområde"
     ],
     "correct": 0,
     "explanation": "Et kystfyr er et fast lysmerke (med karakteristisk lys og dagmerke-utseende) som hjelper sjøfarende å navigere og orientere seg, særlig i mørke.",
@@ -6690,12 +6690,12 @@
     "exam_area": "navigasjon",
     "prompt": "Du seiler inn mot en havn i mørke og ser grønt lys fra innseilingslykten. Hva forteller dette deg, og hva gjør du?",
     "choices": [
+      "Lykten er en kardinalmerke-lykt",
       "Du er kommet ut på styrbord side av leia og bør korrigere mot hvit sektor",
-      "Du er midt i trygt løp og kan fortsette",
       "Du er på babord side og bør gå mer mot styrbord",
-      "Lykten er en kardinalmerke-lykt"
+      "Du er midt i trygt løp og kan fortsette"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Grønt lys betyr at du er utenfor leia på styrbord side. Du må korrigere kursen tilbake mot hvit (trygg) sektor.",
     "image": null,
     "sources": [
@@ -6737,12 +6737,12 @@
     "exam_area": "navigasjon",
     "prompt": "Diagrammet viser ulike lyskarakteristikker. Hva betyr karakteristikken «Iso» (isofase)?",
     "choices": [
-      "Like lange perioder med lys og mørke",
       "Lyset varer lengre enn mørket",
-      "Mørket varer lengre enn lyset",
-      "Konstant, fast lys"
+      "Like lange perioder med lys og mørke",
+      "Konstant, fast lys",
+      "Mørket varer lengre enn lyset"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Isofase (Iso) betyr like lang lys- og mørketid, for eksempel 2 sekunder lys og 2 sekunder mørke.",
     "image": {
       "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg",
@@ -6769,8 +6769,8 @@
     "prompt": "Hva kjennetegner et formørkende lys (Oc)?",
     "choices": [
       "Mest lys, med korte mørke avbrudd (lys varer lengre enn mørke)",
-      "Korte lysglimt i lengre mørke",
       "Like lange lys- og mørkeperioder",
+      "Korte lysglimt i lengre mørke",
       "Konstant lys uten avbrudd"
     ],
     "correct": 0,
@@ -6794,12 +6794,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva kjennetegner et blink-/glimtlys (Fl)?",
     "choices": [
-      "Korte lysglimt med lengre mørke mellom",
-      "Lengre lys enn mørke",
       "Like lange lys- og mørkeperioder",
+      "Lengre lys enn mørke",
+      "Korte lysglimt med lengre mørke mellom",
       "Fast, konstant lys"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Blink/glimt (Fl, flashing) har korte lysglimt der mørket varer lengre enn lyset.",
     "image": null,
     "sources": [
@@ -6821,8 +6821,8 @@
     "prompt": "Hva betyr forkortelsen «F» i en lyskarakteristikk?",
     "choices": [
       "Fast (konstant) lys",
-      "Blink",
       "Formørkende",
+      "Blink",
       "Hurtigblink"
     ],
     "correct": 0,
@@ -6846,12 +6846,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva betyr tallet i parentes i en karakteristikk, for eksempel Fl(2)?",
     "choices": [
-      "Antall blink i hver gruppe",
+      "Periodens lengde i sekunder",
       "Antall sekunder lyset er på",
       "Hvor mange meter lyset rekker",
-      "Periodens lengde i sekunder"
+      "Antall blink i hver gruppe"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Tallet i parentes angir antall blink i en gruppe. Fl(2) = to glimt per syklus.",
     "image": null,
     "sources": [
@@ -6872,12 +6872,12 @@
     "exam_area": "navigasjon",
     "prompt": "I karakteristikken «Fl(2) 5s», hva betyr «5s»?",
     "choices": [
-      "Hele mønsteret (de to glimtene) gjentas hvert 5. sekund",
-      "Lyset er på i 5 sekunder",
+      "Lykten rekker 5 nautiske mil",
       "Det er 5 blink i gruppen",
-      "Lykten rekker 5 nautiske mil"
+      "Hele mønsteret (de to glimtene) gjentas hvert 5. sekund",
+      "Lyset er på i 5 sekunder"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Tallet med «s» angir periodens lengde: mønsteret med to glimt gjentas hvert 5. sekund.",
     "image": null,
     "sources": [
@@ -6898,12 +6898,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva betyr karakteristikken «Oc(2) WRG 8s»?",
     "choices": [
-      "Formørkende lys i grupper på to, med hvit, rød og grønn sektor, gjentatt hvert 8. sekund",
       "To blink hvert 8. sekund, kun hvitt lys",
-      "Fast hvitt lys i 8 sekunder",
-      "Ni hurtigblink med hvit, rød og grønn sektor"
+      "Formørkende lys i grupper på to, med hvit, rød og grønn sektor, gjentatt hvert 8. sekund",
+      "Ni hurtigblink med hvit, rød og grønn sektor",
+      "Fast hvitt lys i 8 sekunder"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Oc = formørkende, (2) = to i gruppe, WRG = hvit/rød/grønn sektor, 8s = periode 8 sekunder.",
     "image": null,
     "sources": [
@@ -6924,12 +6924,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva betyr «Q» i en lyskarakteristikk?",
     "choices": [
-      "Hurtigblink (quick)",
+      "Langt blink",
       "Fast lys",
       "Formørkende lys",
-      "Langt blink"
+      "Hurtigblink (quick)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Q står for «Quick» = hurtigblink. VQ er veldig hurtige (very quick) og UQ ultraraske blink.",
     "image": null,
     "sources": [
@@ -6971,12 +6971,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva betyr bokstavene W, R og G i en lyskarakteristikk?",
     "choices": [
+      "Antall sekunder i perioden",
       "Fargen på lyset: hvit, rød og grønn",
-      "Hvor lykten står: vest, rett og grunn",
       "Tre ulike blinketyper",
-      "Antall sekunder i perioden"
+      "Hvor lykten står: vest, rett og grunn"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "W = white (hvit), R = red (rød), G = green (grønn). De angir sektorfargene til lykten.",
     "image": null,
     "sources": [
@@ -6997,12 +6997,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvorfor har hver fyrlykt sin egen lyskarakteristikk?",
     "choices": [
+      "For å markere leias hovedretning",
       "For at man skal kunne skille lyktene fra hverandre og kjenne dem igjen i kartet",
-      "For å spare strøm",
       "For å vise fartsgrensen i området",
-      "For å markere leias hovedretning"
+      "For å spare strøm"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Den unike «pulsen» (karakteristikken) gjør at man kan identifisere riktig lykt og koble den til navnet i sjøkartet, og dermed bekrefte posisjonen.",
     "image": null,
     "sources": [
@@ -7024,9 +7024,9 @@
     "prompt": "Bildet viser et firkantet skilt med rød kant, hvitt felt og sort tall «5». Hva betyr skiltet?",
     "choices": [
       "Fartsgrense: høyeste tillatte fart er 5 knop",
-      "Det er 5 nautiske mil til neste havn",
+      "Maks 5 båter om gangen",
       "Det er 5 meter dypt",
-      "Maks 5 båter om gangen"
+      "Det er 5 nautiske mil til neste havn"
     ],
     "correct": 0,
     "explanation": "Et firkantet skilt med rød kant, hvitt felt og sort tall er et fartsgrenseskilt; tallet angir høyeste tillatte fart i knop.",
@@ -7054,12 +7054,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva er hovedformålet med farvannsskilt?",
     "choices": [
-      "Å gi veiledning til dem som ferdes på sjøen",
+      "Å reklamere for havner",
       "Å markere kommunegrenser",
-      "Å vise dybden i meter",
-      "Å reklamere for havner"
+      "Å gi veiledning til dem som ferdes på sjøen",
+      "Å vise dybden i meter"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Farvannsskilt gir veiledning til sjøfarende og er harmonisert med tilsvarende skilt i andre europeiske land.",
     "image": null,
     "sources": [
@@ -7080,12 +7080,12 @@
     "exam_area": "navigasjon",
     "prompt": "Bildet viser et fartsgrenseskilt «5» med et underskilt «50 m fra land, 15. jun–15. aug». Hva betyr underskiltet?",
     "choices": [
-      "Det presiserer hvor og når fartsgrensen gjelder (virkeområde og periode)",
-      "Det angir at fartsgrensen er 50 knop",
       "Det viser dybden 50 meter",
+      "Det angir at fartsgrensen er 50 knop",
+      "Det presiserer hvor og når fartsgrensen gjelder (virkeområde og periode)",
       "Det angir avstand til neste skilt"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Et underskilt presiserer hovedskiltets virkeområde og/eller tidsperiode – her 50 m fra land i sommersesongen.",
     "image": {
       "src": "data/img/lanternenkurs__images__wp-content-uploads-2023-09-sjomerke_blindleia-1-1024x900.jpg",
@@ -7111,12 +7111,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hvilken kategori farvannsskilt hører fartsgrenseskiltet til?",
     "choices": [
-      "Forbudsskilt",
-      "Varselskilt",
       "Opplysningsskilt",
-      "Markeringsskilt"
+      "Forbudsskilt",
+      "Markeringsskilt",
+      "Varselskilt"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Fartsgrense er et forbudsskilt (sammen med blant annet ankring forbudt, dykking forbudt og sjøtrafikk forbudt).",
     "image": null,
     "sources": [
@@ -7137,12 +7137,12 @@
     "exam_area": "navigasjon",
     "prompt": "Hva betyr skiltet «Sakte fart»?",
     "choices": [
-      "Fartøy skal utvise forsiktighet og avpasse farten",
-      "Det er forbudt å kjøre motorbåt",
+      "Det er en fartsgrense som opphører",
       "Maks 3 knop",
-      "Det er en fartsgrense som opphører"
+      "Fartøy skal utvise forsiktighet og avpasse farten",
+      "Det er forbudt å kjøre motorbåt"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "«Sakte fart» er et opplysningsskilt som angir at fartøy skal utvise forsiktighet og avpasse farten.",
     "image": null,
     "sources": [
@@ -7164,9 +7164,9 @@
     "prompt": "Et skilt viser «Vertikal klaring». Hva angir det?",
     "choices": [
       "Klaringshøyde under en bru eller et luftspenn",
-      "Vanndybden under båten",
       "Avstanden til land",
-      "Bredden i et trangt løp"
+      "Bredden i et trangt løp",
+      "Vanndybden under båten"
     ],
     "correct": 0,
     "explanation": "Skiltet for vertikal klaring angir høyden under bru, eller sikker vertikal klaring under luftspenn med elektrisk energi/kommunikasjon. Horisontal klaring angir bredde i en innsnevring.",
@@ -7190,9 +7190,9 @@
     "prompt": "Du passerer et fartsgrenseskilt med «5» og et underskilt med dato. Like etter ser du intet nytt skilt. Hva bør du tenke om fartsgrensen?",
     "choices": [
       "Den kan fortsatt gjelde; fartsgrenser er ofte fastsatt i lokal forskrift, så jeg holder lav fart og sjekker lokale regler",
+      "Jeg kan øke til full fart straks skiltet er ute av syne",
       "Fartsgrensen sluttet å gjelde med en gang jeg passerte skiltet",
-      "Underskiltet betyr at fartsgrensen er frivillig",
-      "Jeg kan øke til full fart straks skiltet er ute av syne"
+      "Underskiltet betyr at fartsgrensen er frivillig"
     ],
     "correct": 0,
     "explanation": "Fartsgrenser gjelder ofte over et område fastsatt i lokal forskrift, ikke bare ved selve skiltet. Et eget skilt viser når en fartsgrense opphører. Sjekk alltid lokale fartsforskrifter.",
@@ -7237,9 +7237,9 @@
     "prompt": "Du fører en motorbåt. En annen motorbåt nærmer seg på kryssende kurs og du ser den på din styrbord (høyre) side. Hva skal du gjøre?",
     "choices": [
       "Du har vikeplikt og skal vike, helst bak den andre båten",
-      "Du har retten til veien og skal holde stø kurs",
+      "Den raskeste båten viker",
       "Begge skal dreie til babord",
-      "Den raskeste båten viker"
+      "Du har retten til veien og skal holde stø kurs"
     ],
     "correct": 0,
     "explanation": "Etter regel 15 viker den som har det andre fartøyet på sin styrbord side. Den vikepliktige skal om mulig unngå å gå foran og heller passere akten om den andre.",
@@ -7262,12 +7262,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "To motorbåter møtes tilnærmet rett forfra (motgående kurser). Hva er korrekt?",
     "choices": [
-      "Begge dreier til styrbord og passerer babord mot babord",
       "Begge dreier til babord",
+      "Begge dreier til styrbord og passerer babord mot babord",
       "Den ene holder kurs, den andre viker til styrbord",
       "Den minste båten viker alltid"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Regel 14: når to maskindrevne fartøy møtes tilnærmet rett forfra, skal begge dreie til styrbord slik at de passerer babord mot babord (som høyrekjøring).",
     "image": null,
     "sources": [
@@ -7289,9 +7289,9 @@
     "prompt": "Du tar igjen og skal kjøre forbi en annen båt som ligger foran deg i samme retning. Hvem har vikeplikt?",
     "choices": [
       "Du som innhentende båt har alltid vikeplikt",
-      "Båten foran må vike for deg",
       "Den som har motor viker for seil",
-      "Ingen av dem har vikeplikt"
+      "Ingen av dem har vikeplikt",
+      "Båten foran må vike for deg"
     ],
     "correct": 0,
     "explanation": "Regel 13: et fartøy som tar igjen et annet (innhenter bakfra) har alltid vikeplikt, uansett fartøytype, og skal holde klar til det er helt forbi.",
@@ -7314,12 +7314,12 @@
     "exam_area": "lover",
     "prompt": "Du fører en motorbåt og møter en seilbåt som seiler for seil (ikke motor) i åpent farvann. Hva gjelder?",
     "choices": [
-      "Motorbåten skal vike for seilbåten",
-      "Seilbåten skal alltid vike for motorbåten",
       "Den som kommer fra babord viker uansett type",
-      "Begge holder kurs"
+      "Seilbåten skal alltid vike for motorbåten",
+      "Begge holder kurs",
+      "Motorbåten skal vike for seilbåten"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Regel 18: et maskindrevet fartøy skal vike for seilfartøy. (Unntak: i et trangt løp gjelder regel 9, der også en seilbåt må holde unna et stort fartøy som er bundet til løpet.)",
     "image": null,
     "sources": [
@@ -7342,8 +7342,8 @@
     "choices": [
       "Du må holde unna – regel 9 går foran, fordi skipet er bundet til løpet",
       "Lasteskipet må vike for seilbåten etter regel 18",
-      "Begge dreier til babord",
-      "Den minste båten har alltid retten til veien"
+      "Den minste båten har alltid retten til veien",
+      "Begge dreier til babord"
     ],
     "correct": 0,
     "explanation": "I trangt farvann gjelder regel 9: fartøy under 20 m og seilfartøy skal ikke hindre et fartøy som bare kan navigere trygt i løpet. Her går regel 9 foran regel 18.",
@@ -7366,12 +7366,12 @@
     "exam_area": "lover",
     "prompt": "To seilbåter har vinden inn fra hver sin side. Den ene har vinden inn fra babord, den andre fra styrbord. Hvem viker?",
     "choices": [
-      "Den som har vinden inn fra babord viker",
+      "Den som ligger i le viker",
       "Den som har vinden inn fra styrbord viker",
-      "Den største seilbåten viker",
-      "Den som ligger i le viker"
+      "Den som har vinden inn fra babord viker",
+      "Den største seilbåten viker"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Regel 12: når seilbåtene har vinden inn fra hver sin side, viker den med vinden inn fra babord (babord halse) for den med styrbord halse.",
     "image": null,
     "sources": [
@@ -7392,12 +7392,12 @@
     "exam_area": "lover",
     "prompt": "To seilbåter har vinden inn fra samme side og er på kollisjonskurs. Hvem skal vike?",
     "choices": [
-      "Fartøyet i lo (nærmest vinden) viker for fartøyet i le",
       "Fartøyet i le viker for fartøyet i lo",
-      "Den minste viker",
-      "Begge dreier til styrbord"
+      "Begge dreier til styrbord",
+      "Fartøyet i lo (nærmest vinden) viker for fartøyet i le",
+      "Den minste viker"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Regel 12: når begge har vinden inn fra samme side, viker fartøyet i lo (nærmest vinden) for fartøyet i le (lengst fra vinden).",
     "image": null,
     "sources": [
@@ -7419,8 +7419,8 @@
     "prompt": "Diagrammet viser to motorbåter A og B på kryssende kurs sett ovenfra. Båt A kommer fra babord (venstre), båt B fra styrbord (høyre). Hvem har retten til veien?",
     "choices": [
       "Båt B, fordi den kommer fra styrbord – båt A må vike og gå bak B",
-      "Båt A, fordi den kommer fra babord",
       "Begge må stoppe",
+      "Båt A, fordi den kommer fra babord",
       "Den som er størst"
     ],
     "correct": 0,
@@ -7444,12 +7444,12 @@
     "exam_area": "lover",
     "prompt": "Diagrammet viser to seilbåter A og B på konvergerende kurs, med vindretningen markert. Hva er nøkkelspørsmålet du må stille for å avgjøre vikeplikten?",
     "choices": [
-      "Kommer vinden inn fra samme eller ulik side for de to seilbåtene?",
       "Hvilken båt er størst?",
       "Hvilken båt har motor på?",
+      "Kommer vinden inn fra samme eller ulik side for de to seilbåtene?",
       "Hvilken båt er nærmest land?"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "For seilbåter avgjøres vikeplikten av vinden (regel 12). Ved vind fra ulik side viker babord halse; ved vind fra samme side viker lo-båten for le-båten.",
     "image": {
       "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-vikeplikt-seilbat-styrbord-babord-c68f4be2.png",
@@ -7477,8 +7477,8 @@
     "choices": [
       "Tidlig og tydelig, slik at den andre tydelig ser hva du gjør",
       "Vente til siste øyeblikk for å være sikker",
-      "Med små, gradvise kursendringer",
-      "Først når den andre båten tuter"
+      "Først når den andre båten tuter",
+      "Med små, gradvise kursendringer"
     ],
     "correct": 0,
     "explanation": "Regel 16 (og regel 8): den vikepliktige skal handle tidlig og tydelig (stor nok kurs-/fartsendring til at den sees) for å holde godt klar.",
@@ -7501,12 +7501,12 @@
     "exam_area": "lover",
     "prompt": "Hvordan vet du at det er fare for sammenstøt med et annet fartøy (regel 7)?",
     "choices": [
-      "Hvis fartøyet holder seg på omtrent samme peiling og kommer stadig nærmere",
       "Bare hvis fartøyet tuter mot deg",
       "Hvis fartøyet er større enn din båt",
-      "Det er aldri fare hvis du har retten til veien"
+      "Det er aldri fare hvis du har retten til veien",
+      "Hvis fartøyet holder seg på omtrent samme peiling og kommer stadig nærmere"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Regel 7: vedvarende konstant peiling med minkende avstand betyr fare for sammenstøt. Er du i tvil, skal du anta at faren er til stede.",
     "image": null,
     "sources": [
@@ -7574,12 +7574,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Om natten ser du et fartøy som viser sidelys (grønt/rødt) og akterlys, men INGEN topplys. Hva slags fartøy er det?",
     "choices": [
-      "Et seilfartøy for seil",
+      "En båt under slep",
       "En stor motorbåt",
       "Et fartøy til ankers",
-      "En båt under slep"
+      "Et seilfartøy for seil"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Et seilfartøy fører sidelys og akterlys, men ikke topplys. Mangelen på topplys skiller seilbåten fra motorbåten om natten.",
     "image": null,
     "sources": [
@@ -7600,12 +7600,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hvilke lanterner fører et maskindrevet fartøy under 50 m som er i fart?",
     "choices": [
-      "Topplys (hvitt) forut, sidelys (grønt/rødt) og akterlys (hvitt)",
       "Bare sidelys og akterlys",
-      "To topplys og sidelys",
-      "Ett rundtlysende rødt lys"
+      "Topplys (hvitt) forut, sidelys (grønt/rødt) og akterlys (hvitt)",
+      "Ett rundtlysende rødt lys",
+      "To topplys og sidelys"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Et maskindrevet fartøy under 50 m i fart viser ett topplys forut, sidelys og akterlys. Fartøy ≥ 50 m fører to topplys.",
     "image": null,
     "sources": [
@@ -7626,12 +7626,12 @@
     "exam_area": "lover",
     "prompt": "Om natten ser du ett enkelt rundtlysende hvitt lys uten andre lanterner og uten bevegelse. Hva betyr det mest sannsynlig?",
     "choices": [
-      "Et fartøy under 50 m som ligger til ankers",
       "En motorbåt i fart mot deg",
+      "Et fartøy under 50 m som ligger til ankers",
       "Et seilfartøy for seil",
       "En båt under slep"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Et fartøy til ankers (under 50 m) viser ett rundtlysende hvitt lys der det best kan sees, normalt forut. Dagsignalet er én sort kule.",
     "image": null,
     "sources": [
@@ -7652,12 +7652,12 @@
     "exam_area": "lover",
     "prompt": "Hva er minimumskravet til lanterneføring for en robåt / et fartøy under årer?",
     "choices": [
-      "Den kan nøye seg med en elektrisk lykt/lommelykt klar til å vises i tide for å unngå sammenstøt",
-      "Den må alltid føre topplys og sidelys",
       "Den trenger ingen form for lys",
-      "Den må føre to rundtlysende hvite lys"
+      "Den kan nøye seg med en elektrisk lykt/lommelykt klar til å vises i tide for å unngå sammenstøt",
+      "Den må føre to rundtlysende hvite lys",
+      "Den må alltid føre topplys og sidelys"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "En robåt kan føre sidelys og akterlys som et seilfartøy, men det er nok å ha en elektrisk lykt eller lommelykt klar til å vises i tide for å unngå sammenstøt.",
     "image": null,
     "sources": [
@@ -7704,12 +7704,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "En båt flagger med signalflagg A (Alpha) – hvit og blå todelt. Hva betyr det?",
     "choices": [
-      "«Jeg har dykker nede – hold godt klar og gå med sakte fart»",
       "«Jeg er i nød og trenger hjelp»",
+      "«Jeg ber om los»",
       "«Jeg har vikeplikt»",
-      "«Jeg ber om los»"
+      "«Jeg har dykker nede – hold godt klar og gå med sakte fart»"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Signalflagg A (Alpha) betyr at fartøyet har dykker i vannet. Andre skal holde godt klar og passere sakte. Fartøyet regnes som manøvreringshemmet.",
     "image": null,
     "sources": [
@@ -7730,12 +7730,12 @@
     "exam_area": "lover",
     "prompt": "En seilbåt starter motoren mens seilene fortsatt er oppe. Hvilke lanterner skal den nå føre?",
     "choices": [
-      "Som et maskindrevet fartøy – altså med topplys i tillegg til sidelys og akterlys",
-      "Fortsatt bare sidelys og akterlys uten topplys",
+      "Ingen lanterner mens motoren går",
       "Bare et rundtlysende hvitt lys",
-      "Ingen lanterner mens motoren går"
+      "Som et maskindrevet fartøy – altså med topplys i tillegg til sidelys og akterlys",
+      "Fortsatt bare sidelys og akterlys uten topplys"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "En seilbåt som bruker motor regnes som maskindrevet, selv med seil oppe, og skal da føre topplys i tillegg til sidelys og akterlys.",
     "image": null,
     "sources": [
@@ -7756,12 +7756,12 @@
     "exam_area": "lover",
     "prompt": "Over hvor stor sektor lyser et sidelys?",
     "choices": [
-      "112,5° – fra rett forut til 22,5° aktenfor tvers",
-      "135° bakover",
+      "360° rundt hele horisonten",
       "225° forover",
-      "360° rundt hele horisonten"
+      "112,5° – fra rett forut til 22,5° aktenfor tvers",
+      "135° bakover"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Et sidelys lyser 112,5°, fra rett forut til 22,5° aktenfor tvers. Akterlyset lyser 135° bakover, og topplyset 225° forover.",
     "image": null,
     "sources": [
@@ -7782,12 +7782,12 @@
     "exam_area": "lover",
     "prompt": "Du møter en motorbåt om natten og ser kun dens RØDE sidelys mot deg. Hva forteller det deg?",
     "choices": [
-      "Du ser båtens babord side – den vil krysse foran deg fra din styrbord mot babord",
-      "Du ser den rett forfra",
       "Du ser den rett bakfra (akterlys)",
+      "Du ser den rett forfra",
+      "Du ser båtens babord side – den vil krysse foran deg fra din styrbord mot babord",
       "Den ligger til ankers"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Rødt sidelys er på babord side. Ser du bare det røde lyset, ser du båtens venstre side; den beveger seg fra din høyre mot venstre. Minneord: «rødt om babord».",
     "image": null,
     "sources": [
@@ -7829,12 +7829,12 @@
     "exam_area": "lover",
     "prompt": "Hvilket fartøy er pålagt å ha en fløyte (signalhorn) om bord etter regel 33?",
     "choices": [
+      "Alle fartøy uansett størrelse",
       "Fartøy på 12 meter eller mer",
       "Bare fartøy over 100 meter",
-      "Alle fartøy uansett størrelse",
       "Bare seilfartøy"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Regel 33: fartøy på 12 m eller mer skal ha fløyte; fartøy på 100 m eller mer skal i tillegg ha klokke. Mindre fartøy skal kunne gi et effektivt lydsignal.",
     "image": null,
     "sources": [
@@ -7855,12 +7855,12 @@
     "exam_area": "lover",
     "prompt": "Hvilket utstyr skal et fartøy under 12 meter ha for å gi lydsignaler?",
     "choices": [
-      "Et middel til å gi et effektivt lydsignal, for eksempel et signalhorn eller en tåkelur",
-      "Både fløyte, klokke og gongong",
       "Ingenting – kravet gjelder ikke små båter",
+      "Både fløyte, klokke og gongong",
+      "Et middel til å gi et effektivt lydsignal, for eksempel et signalhorn eller en tåkelur",
       "Bare en ringeklokke"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Fartøy under 12 m er ikke pålagt fløyte og klokke, men skal kunne gi et effektivt lydsignal. Et signalhorn eller en tåkelur om bord oppfyller dette.",
     "image": null,
     "sources": [
@@ -7881,12 +7881,12 @@
     "exam_area": "lover",
     "prompt": "Hvilket fartøy skal ha klokke i tillegg til fløyte?",
     "choices": [
-      "Fartøy på 100 meter eller mer",
-      "Fartøy på 12 meter eller mer",
       "Alle motorbåter",
-      "Bare ankerliggende fartøy"
+      "Bare ankerliggende fartøy",
+      "Fartøy på 12 meter eller mer",
+      "Fartøy på 100 meter eller mer"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Regel 33: fartøy på 100 m eller mer skal ha klokke i tillegg til fløyte (og de aller største også gongong). Klokken brukes blant annet av ankerliggere i nedsatt sikt.",
     "image": null,
     "sources": [
@@ -7929,9 +7929,9 @@
     "prompt": "Manøversignalene etter regel 34 kan suppleres med lyssignaler. Hvilket lys brukes til dette?",
     "choices": [
       "Blink fra et hvitt rundtlysende lys (ett, to eller tre blink)",
+      "Blå blink fra mastetoppen",
       "Røde blink fra babord sidelys",
-      "Grønne blink fra styrbord sidelys",
-      "Blå blink fra mastetoppen"
+      "Grønne blink fra styrbord sidelys"
     ],
     "correct": 0,
     "explanation": "Manøversignalene kan understøttes med blink fra et hvitt rundtlysende lys: ett blink for styrbord, to for babord og tre for akterover – i takt med fløytesignalene.",
@@ -7954,12 +7954,12 @@
     "exam_area": "lover",
     "prompt": "Hva betyr ETT kort støt i fløyta (regel 34)?",
     "choices": [
+      "«Jeg er i nød»",
       "«Jeg endrer min kurs til styrbord»",
       "«Jeg endrer min kurs til babord»",
-      "«Jeg bruker maskinen akterover»",
-      "«Jeg er i nød»"
+      "«Jeg bruker maskinen akterover»"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Ett kort støt betyr «jeg dreier til styrbord» (høyre). To korte = babord, tre korte = maskin akterover.",
     "image": null,
     "sources": [
@@ -7980,12 +7980,12 @@
     "exam_area": "lover",
     "prompt": "Hva betyr TO korte støt?",
     "choices": [
-      "«Jeg endrer min kurs til babord»",
       "«Jeg endrer min kurs til styrbord»",
       "«Jeg bruker maskinen akterover»",
+      "«Jeg endrer min kurs til babord»",
       "«Hold klar, dykker nede»"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "To korte støt betyr «jeg dreier til babord» (venstre).",
     "image": null,
     "sources": [
@@ -8006,12 +8006,12 @@
     "exam_area": "lover",
     "prompt": "En ferge gir tre korte støt i fløyta. Hva betyr dette signalet?",
     "choices": [
-      "«Jeg bruker maskinen akterover» (kjører motoren bakover / stopper)",
       "«Jeg dreier til styrbord»",
-      "«Jeg dreier til babord»",
-      "«Jeg er i nød»"
+      "«Jeg bruker maskinen akterover» (kjører motoren bakover / stopper)",
+      "«Jeg er i nød»",
+      "«Jeg dreier til babord»"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Tre korte støt betyr at fartøyet bruker maskinen akterover. Pass på: dette betyr ikke at fergen snur, men at den kjører motoren bakover.",
     "image": null,
     "sources": [
@@ -8032,12 +8032,12 @@
     "exam_area": "lover",
     "prompt": "En båt nærmer seg deg og det er uklart om den vil overholde vikeplikten. Du er i tvil om dens hensikter. Hvilket signal gir du?",
     "choices": [
+      "Ett langt støt",
       "Minst fem korte og raske støt (varsel-/tvilssignalet)",
       "Tre korte støt",
-      "Ett langt støt",
       "To korte støt"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Minst fem korte og raske støt er varsel-/tvilssignalet: «jeg forstår ikke dine hensikter / er i tvil om du gjør nok for å unngå sammenstøt».",
     "image": null,
     "sources": [
@@ -8058,12 +8058,12 @@
     "exam_area": "lover",
     "prompt": "Du nærmer deg en uoversiktlig sving i et trangt løp der du ikke kan se rundt hjørnet. Hvilket signal bør du gi?",
     "choices": [
-      "Ett langt støt",
+      "To lange støt",
       "Tre korte støt",
-      "Fem korte støt",
-      "To lange støt"
+      "Ett langt støt",
+      "Fem korte støt"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Ved en sving med sperret utsikt gis ett langt støt. Et fartøy på den andre siden svarer med ett langt støt.",
     "image": null,
     "sources": [
@@ -8105,12 +8105,12 @@
     "exam_area": "lover",
     "prompt": "Du hører en båt gi to korte støt. Hva forteller den deg, og hvilken vei svinger den?",
     "choices": [
-      "Den dreier til babord (venstre)",
-      "Den dreier til styrbord (høyre)",
+      "Den varsler om fare",
       "Den kjører maskinen akterover",
-      "Den varsler om fare"
+      "Den dreier til styrbord (høyre)",
+      "Den dreier til babord (venstre)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "To korte støt betyr at fartøyet endrer kurs til babord (venstre). Husk: ett støt = styrbord, to støt = babord.",
     "image": null,
     "sources": [
@@ -8131,12 +8131,12 @@
     "exam_area": "lover",
     "prompt": "Det er tett tåke. Du kjører motorbåt med fart gjennom vannet. Hvilket lydsignal skal du gi, og hvor ofte?",
     "choices": [
-      "Ett langt støt minst hvert annet minutt",
       "To lange støt hvert annet minutt",
+      "Ett langt støt minst hvert annet minutt",
       "Ett langt og to korte støt",
       "Tre korte støt"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Regel 35: maskindrevet fartøy med fart gjennom vannet gir ett langt støt minst hvert ≤ 2 min i nedsatt sikt.",
     "image": null,
     "sources": [
@@ -8158,9 +8158,9 @@
     "prompt": "I tåke ligger en motorbåt stoppet i vannet (har stans, men er ikke til ankers). Hvilket lydsignal skal den gi?",
     "choices": [
       "To lange støt etter hverandre hvert ≤ 2 min",
-      "Ett langt støt",
       "Ett langt og to korte støt",
-      "Rask klokkeringing"
+      "Rask klokkeringing",
+      "Ett langt støt"
     ],
     "correct": 0,
     "explanation": "Regel 35: et maskindrevet fartøy som ligger stoppet (uten fart gjennom vannet) gir to lange støt etter hverandre, med høyst 2 minutters mellomrom.",
@@ -8183,12 +8183,12 @@
     "exam_area": "lover",
     "prompt": "Et seilfartøy seiler i tett tåke. Hvilket lydsignal skal det gi?",
     "choices": [
-      "Ett langt støt etterfulgt av to korte støt",
-      "Ett langt støt",
       "To lange støt",
-      "Fem korte støt"
+      "Fem korte støt",
+      "Ett langt støt etterfulgt av to korte støt",
+      "Ett langt støt"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Regel 35: seilfartøy, fiskefartøy, manøvreringshemmet fartøy og fartøy ikke under kommando gir ett langt + to korte støt hvert ≤ 2 min.",
     "image": null,
     "sources": [
@@ -8209,12 +8209,12 @@
     "exam_area": "lover",
     "prompt": "Hvor ofte skal lydsignalene ved nedsatt sikt gjentas?",
     "choices": [
-      "Minst hvert annet minutt (≤ 2 min)",
-      "Hvert tiende minutt",
+      "Hvert sekund",
       "Bare når du hører en annen båt",
-      "Hvert sekund"
+      "Hvert tiende minutt",
+      "Minst hvert annet minutt (≤ 2 min)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Tåkesignalene etter regel 35 skal gjentas med mellomrom på høyst 2 minutter.",
     "image": null,
     "sources": [
@@ -8235,12 +8235,12 @@
     "exam_area": "lover",
     "prompt": "I tett tåke – hva er det viktigste tiltaket i tillegg til å gi lydsignaler?",
     "choices": [
+      "Slutte å gi lydsignaler for å høre bedre",
       "Sette ned farten til sikker fart slik at du kan stanse i tide, og holde skjerpet utkikk",
-      "Øke farten for å komme raskt ut av tåken",
       "Slå av alle lys",
-      "Slutte å gi lydsignaler for å høre bedre"
+      "Øke farten for å komme raskt ut av tåken"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Regel 6 om sikker fart gjelder ekstra strengt i nedsatt sikt: du skal kunne stanse innenfor sikten. Hold skjerpet utkikk med syn og hørsel, og bruk eventuelt radar.",
     "image": null,
     "sources": [
@@ -8303,12 +8303,12 @@
     "exam_area": "lover",
     "prompt": "Hvilken VHF-kanal er den internasjonale nød- og anropskanalen?",
     "choices": [
-      "Kanal 16",
-      "Kanal 6",
       "Kanal 9",
-      "Kanal 72"
+      "Kanal 6",
+      "Kanal 72",
+      "Kanal 16"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "VHF kanal 16 er den internasjonale nød-, sikkerhets- og anropskanalen. Nødanrop sendes som «Mayday, Mayday, Mayday».",
     "image": null,
     "sources": [
@@ -8329,12 +8329,12 @@
     "exam_area": "lover",
     "prompt": "Hvilket av disse er et anerkjent nødsignal etter sjøveisreglenes vedlegg IV?",
     "choices": [
-      "Langsom og gjentatt heving og senking av begge utstrakte armer",
       "Å vinke vennlig med én hånd",
-      "Å blinke med grønt lys",
-      "Å tute to korte støt"
+      "Å tute to korte støt",
+      "Langsom og gjentatt heving og senking av begge utstrakte armer",
+      "Å blinke med grønt lys"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Langsom, gjentatt heving og senking av begge utstrakte armer er et anerkjent nødsignal. Andre er bl.a. rødt bluss, oransje røyk og kontinuerlig tåkesignal.",
     "image": null,
     "sources": [
@@ -8355,12 +8355,12 @@
     "exam_area": "lover",
     "prompt": "Hvilken farge har et håndbluss / fallskjermlys som brukes som nødsignal?",
     "choices": [
+      "Blått",
       "Rødt",
       "Grønt",
-      "Hvitt",
-      "Blått"
+      "Hvitt"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Nødbluss er røde – både rødt fallskjermlys og rødt håndbluss. Oransje brukes på røyksignaler. Grønt og hvitt er ikke nødsignaler.",
     "image": null,
     "sources": [
@@ -8382,8 +8382,8 @@
     "prompt": "På hvilket telefonnummer kan du nå Kystradioen ved nød?",
     "choices": [
       "120",
-      "110",
       "113",
+      "110",
       "1412"
     ],
     "correct": 0,
@@ -8407,12 +8407,12 @@
     "exam_area": "lover",
     "prompt": "Hvilket kodeord innleder et nødanrop på VHF?",
     "choices": [
+      "Over and out",
       "Mayday, gjentatt tre ganger",
-      "Pan-Pan",
       "Securité",
-      "Over and out"
+      "Pan-Pan"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Et nødanrop innledes med «Mayday, Mayday, Mayday», etterfulgt av båtens navn, posisjon og hva som er galt. («Pan-Pan» brukes ved hastemelding uten umiddelbar livsfare.)",
     "image": null,
     "sources": [
@@ -8433,12 +8433,12 @@
     "exam_area": "lover",
     "prompt": "Det er dag, og du vil signalisere nød slik at det sees best mulig på avstand. Hvilket signal er mest hensiktsmessig?",
     "choices": [
-      "Oransje røyksignal",
       "Rødt håndbluss om natten",
       "Morse-blink med lommelykt",
+      "Oransje røyksignal",
       "Å heise et grønt flagg"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Oransje røyk er godt synlig på dagtid og er et anerkjent nødsignal. Røde bluss sees best i mørke/skumring. Begge er gyldige nødsignaler.",
     "image": null,
     "sources": [
@@ -8481,9 +8481,9 @@
     "prompt": "Hva er en moderne, enkel måte å sende et fullstendig digitalt nødanrop med posisjon fra VHF?",
     "choices": [
       "Trykke på DSC-nødknappen (den røde knappen) på VHF-en",
-      "Skru opp volumet på kanal 6",
+      "Vri kanalvelgeren raskt fram og tilbake",
       "Sende et tekstsignal på mobilen",
-      "Vri kanalvelgeren raskt fram og tilbake"
+      "Skru opp volumet på kanal 6"
     ],
     "correct": 0,
     "explanation": "En VHF med DSC (Digital Selective Calling) kan sende et digitalt nødanrop med posisjon automatisk når du holder inne den røde nødknappen.",
@@ -8506,12 +8506,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Du passerer i høy fart nær fortøyde båter og en brygge, og bølgene fra din båt skader en fortøyd båt. Hva gjelder etter de norske tilleggsreglene?",
     "choices": [
-      "Du er ansvarlig for skade som skyldes bølgeslag (hekkbølger) fra din båt (regel 44)",
       "Du er aldri ansvarlig for bølger fra egen båt",
       "Bare hvis du kjørte over fartsgrensen",
-      "Ansvaret ligger hos den fortøyde båtens eier"
+      "Ansvaret ligger hos den fortøyde båtens eier",
+      "Du er ansvarlig for skade som skyldes bølgeslag (hekkbølger) fra din båt (regel 44)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Regel 44 i de norske tilleggsreglene gjør fører ansvarlig for fare og skade som skyldes bølgeslag (hekkbølger) fra eget fartøy. Sett ned farten nær småbåter, brygger og badende.",
     "image": null,
     "sources": [
@@ -8532,12 +8532,12 @@
     "exam_area": "spesielt_viktige",
     "prompt": "Hva er hovedinnholdet i den norske tilleggsregelen om forsvarlig fart og oppførsel (regel 43)?",
     "choices": [
-      "Du skal ferdes hensynsfullt og ikke volde fare eller skade ved fart eller oppførsel",
       "Du har alltid rett til full fart i åpent farvann",
       "Bare store skip har aktsomhetsplikt",
-      "Regelen gjelder kun om natten"
+      "Regelen gjelder kun om natten",
+      "Du skal ferdes hensynsfullt og ikke volde fare eller skade ved fart eller oppførsel"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Regel 43 er en generell aktsomhetsplikt i norske farvann: fartøyet skal ikke ved fart eller oppførsel volde fare eller skade for andre, badende, strandlinje, dyreliv osv.",
     "image": null,
     "sources": [
@@ -8558,12 +8558,12 @@
     "exam_area": "lover",
     "prompt": "Reglene 43, 44, 45 og 54 i sjøveisreglene er...",
     "choices": [
-      "Norske tilleggsregler som gjelder i tillegg til de internasjonale reglene i norske farvann",
-      "Internasjonale regler som gjelder over hele verden",
       "Opphevede regler som ikke lenger gjelder",
-      "Regler bare for store handelsskip"
+      "Regler bare for store handelsskip",
+      "Internasjonale regler som gjelder over hele verden",
+      "Norske tilleggsregler som gjelder i tillegg til de internasjonale reglene i norske farvann"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Reglene 43 og utover er Norges egne nasjonale tilleggsregler for norske farvann, i tillegg til de internasjonale reglene (regel 1–42).",
     "image": null,
     "sources": [
@@ -8584,12 +8584,12 @@
     "exam_area": "lover",
     "prompt": "Du nærmer deg et område med badende. Hva er en grunnleggende regel du må huske på?",
     "choices": [
-      "Det er forbudt å passere badende nærmere enn 50 meter, og du må sette ned farten",
-      "Du kan kjøre i full fart så lenge du holder deg utenfor svømmebøyene",
       "Badende har alltid vikeplikt for båter",
-      "Regelen gjelder bare i innsjøer"
+      "Du kan kjøre i full fart så lenge du holder deg utenfor svømmebøyene",
+      "Regelen gjelder bare i innsjøer",
+      "Det er forbudt å passere badende nærmere enn 50 meter, og du må sette ned farten"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Det er forbudt å passere badende nærmere enn 50 m, og mange steder gjelder maks 5 knop nær land/badeområder. Dette følger av aktsomhetsplikten og lokale fartsforskrifter.",
     "image": null,
     "sources": [
@@ -8657,12 +8657,12 @@
     "exam_area": "lover",
     "prompt": "Du nærmer deg en fergeled / dypvannsrenne der store fartøy ferdes. Hva er fornuftig opptreden?",
     "choices": [
-      "Holde god avstand og ikke hindre de store fartøyene som er bundet til leden",
+      "Stoppe midt i leden og vente",
       "Krysse rett foran fergen for å spare tid",
       "Forvente at fergen alltid viker for deg som fritidsbåt",
-      "Stoppe midt i leden og vente"
+      "Holde god avstand og ikke hindre de store fartøyene som er bundet til leden"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Som fritidsbåt skal du holde deg unna fergeleder og dypvannsrenner og ikke hindre store fartøy som bare kan navigere trygt der. Dette følger av regel 9 og de norske tilleggsreglene om hensynsfull ferdsel.",
     "image": null,
     "sources": [

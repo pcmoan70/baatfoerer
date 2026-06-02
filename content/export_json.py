@@ -7,7 +7,7 @@ statiske siden (GitHub Pages-rot = docs/) kan laste dem. Opphavsrettsbeskyttede
 bilder ekskluderes fra visning (de ble bare analysert for å lage egen grafikk).
 """
 from __future__ import annotations
-import json, shutil, sqlite3, sys
+import hashlib, json, random, shutil, sqlite3, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -65,14 +65,23 @@ def main() -> int:
     # --- questions (med choices) ---
     questions = []
     for q in con.execute("SELECT * FROM questions"):
-        choices = [r["text"] for r in con.execute("SELECT text FROM choices WHERE question_id=? ORDER BY ord", (q["id"],))]
-        correct = con.execute("SELECT ord FROM choices WHERE question_id=? AND is_correct=1", (q["id"],)).fetchone()
+        rows = con.execute("SELECT text, is_correct FROM choices WHERE question_id=? ORDER BY ord", (q["id"],)).fetchall()
+        # Forfatterne la fasiten på index 0; stokk om deterministisk (seedet på
+        # spørsmåls-id) så riktig svar fordeles, men er stabilt mellom bygg.
+        if rows:
+            order = list(range(len(rows)))
+            random.Random(int(hashlib.md5(q["id"].encode()).hexdigest()[:8], 16)).shuffle(order)
+            srows = [rows[i] for i in order]
+            choices = [r["text"] for r in srows]
+            correct = next((i for i, r in enumerate(srows) if r["is_correct"]), None)
+        else:
+            choices, correct = [], None
         srcs = [dict(s) for s in con.execute("SELECT source_id,url,section,quote FROM question_sources WHERE question_id=?", (q["id"],))]
         questions.append({
             "id": q["id"], "concept_id": q["concept_id"], "type": q["type"],
             "difficulty": q["difficulty"], "importance": q["importance"], "exam_area": q["exam_area"],
             "prompt": q["prompt"], "choices": choices,
-            "correct": correct["ord"] if correct else None,
+            "correct": correct,
             "explanation": q["explanation"],
             "image": web_img.get(q["image_id"]),   # None hvis ikke-gjenbrukbart/utelatt
             "sources": srcs,

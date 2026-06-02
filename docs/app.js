@@ -124,9 +124,10 @@ function pickQuestion() {
 // ---- Render: quiz ----
 let current = null, answered = false;
 
-function showView(view) {
-  $("#taskCard").hidden = view !== "quiz";
-  $("#errPanel").hidden = view !== "feillogg";
+const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel" };
+function showView(which) {
+  for (const sel of Object.values(MAIN_SECTIONS)) { const el = $(sel); if (el) el.hidden = true; }
+  const el = $(MAIN_SECTIONS[which]); if (el) el.hidden = false;
 }
 
 function renderQuestion(q) {
@@ -281,7 +282,9 @@ function nextQuestion() {
 function setView(view, area = null) {
   filter = { view, area };
   if ($("#sidebar").classList.contains("open")) $("#sidebar").classList.remove("open");
+  if (exam.timerId && view !== "eksamen") stopExamTimer();
   if (view === "feillogg") renderErrors();
+  else if (view === "eksamen") showView("examStart");
   else nextQuestion();
   renderSidebar();
 }
@@ -305,6 +308,114 @@ function commitName() {
   if (filter.view === "feillogg") renderErrors(); else if (!current) nextQuestion();
 }
 
+// ---- Eksamensmodus (50 spm / 60 min / ≥80 % + ≥80 % spesielt) ----
+let exam = { questions: [], answers: {}, idx: 0, endAt: 0, timerId: null, submitted: false };
+
+function shuffle(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+
+function pickExamSet() {
+  const target = { sjomannskap: 16, lover: 17, navigasjon: 17 }; // ~50
+  const out = [];
+  for (const a of Object.keys(target)) {
+    const pool = DATA.questions.filter(q => conceptById[q.concept_id]?.area === a);
+    const spes = shuffle(pool.filter(q => q.exam_area === "spesielt_viktige"));
+    const rest = shuffle(pool.filter(q => q.exam_area !== "spesielt_viktige"));
+    const t = target[a];
+    const nspes = Math.min(spes.length, Math.round(t * 0.45));
+    let sel = [...spes.slice(0, nspes), ...rest.slice(0, t - nspes)];
+    for (let k = nspes; sel.length < t && k < spes.length; k++) sel.push(spes[k]); // fyll om for få rest
+    out.push(...sel.slice(0, t));
+  }
+  return shuffle(out).slice(0, 50);
+}
+
+function startExam() {
+  exam = { questions: pickExamSet(), answers: {}, idx: 0, endAt: Date.now() + 60 * 60 * 1000, timerId: null, submitted: false };
+  showView("exam");
+  exam.timerId = setInterval(tickExam, 1000);
+  renderExamQuestion();
+}
+function stopExamTimer() { if (exam.timerId) { clearInterval(exam.timerId); exam.timerId = null; } }
+function tickExam() {
+  const left = Math.max(0, exam.endAt - Date.now());
+  const m = Math.floor(left / 60000), s = Math.floor((left % 60000) / 1000);
+  const t = $("#examTimer"); t.textContent = `${m}:${String(s).padStart(2, "0")}`;
+  t.classList.toggle("warn", left < 5 * 60000);
+  if (left <= 0) submitExam();
+}
+function renderPalette() {
+  $("#examPalette").innerHTML = exam.questions.map((q, i) =>
+    `<button class="pal-dot ${exam.answers[i] != null ? "done" : ""} ${i === exam.idx ? "current" : ""}" data-i="${i}">${i + 1}</button>`).join("");
+}
+function renderExamQuestion() {
+  const q = exam.questions[exam.idx]; const c = conceptById[q.concept_id] || {};
+  renderPalette();
+  $("#examCounter").textContent = `Spørsmål ${exam.idx + 1} av ${exam.questions.length}`;
+  const badge = $("#examBadge");
+  if (q.exam_area === "spesielt_viktige") { badge.hidden = false; badge.textContent = "★ Spesielt viktig"; badge.className = "badge crit"; } else badge.hidden = true;
+  const fig = $("#examScene");
+  fig.innerHTML = (q.image && q.image.src) ? `<img class="photo" src="${q.image.src}" alt="${q.image.alt || ""}">` : sceneFor(c.area);
+  $("#examQuestion").textContent = q.prompt;
+  const chosen = exam.answers[exam.idx];
+  $("#examChoices").innerHTML = (q.choices || []).map((ch, i) =>
+    `<li><button class="choice ${chosen === i ? "chosen" : ""}" data-i="${i}"><span class="key">${KEYS[i]}</span><span>${esc(ch)}</span></button></li>`).join("");
+  $("#examPrev").disabled = exam.idx === 0;
+  $("#examNext").disabled = exam.idx === exam.questions.length - 1;
+}
+function examChoose(i) {
+  exam.answers[exam.idx] = i;
+  renderExamQuestion();
+}
+function examGo(d) { exam.idx = Math.max(0, Math.min(exam.questions.length - 1, exam.idx + d)); renderExamQuestion(); }
+
+function submitExam() {
+  if (exam.submitted) return;
+  exam.submitted = true; stopExamTimer();
+  let correct = 0, spesTot = 0, spesCorr = 0;
+  const perArea = {}; const wrong = [];
+  exam.questions.forEach((q, i) => {
+    const ok = exam.answers[i] === q.correct;
+    const area = conceptById[q.concept_id]?.area || "?";
+    perArea[area] = perArea[area] || { n: 0, c: 0 };
+    perArea[area].n++; if (ok) perArea[area].c++;
+    if (ok) correct++; else wrong.push({ q, chosen: exam.answers[i] });
+    if (q.exam_area === "spesielt_viktige") { spesTot++; if (ok) spesCorr++; }
+    // oppdater mestring + feillogg
+    updateMastery(q.concept_id, ok);
+    if (!ok) logError(q, exam.answers[i] ?? -1);
+  });
+  saveProfile();
+  const pct = correct / exam.questions.length;
+  const spesPct = spesTot ? spesCorr / spesTot : 1;
+  const pass = pct >= 0.8 && spesPct >= 0.8;
+  renderResult({ correct, total: exam.questions.length, pct, spesTot, spesCorr, spesPct, pass, perArea, wrong });
+  renderSidebar(); renderClarity();
+}
+
+function renderResult(r) {
+  showView("result");
+  $("#resultTitle").textContent = r.pass ? "Bestått 🎉" : "Ikke bestått";
+  const sc = $("#resultScore"); sc.className = "result-score " + (r.pass ? "pass" : "fail");
+  sc.innerHTML = `<div class="verdict">${r.correct} / ${r.total} riktige (${Math.round(r.pct * 100)} %)</div>
+    <div class="pct">Spesielt viktige emner: ${r.spesCorr}/${r.spesTot} (${Math.round(r.spesPct * 100)} %) · krav ≥ 80 % på begge</div>`;
+  const areas = $("#resultAreas");
+  areas.innerHTML = DATA.areas.filter(a => r.perArea[a.id]).map(a => {
+    const p = r.perArea[a.id];
+    return `<div class="result-area"><div class="ra-title">${esc(a.title)}</div><div class="ra-val">${Math.round(p.c / p.n * 100)} %</div><div class="ra-title">${p.c}/${p.n}</div></div>`;
+  }).join("") + `<div class="result-area crit"><div class="ra-title">★ Spesielt viktige</div><div class="ra-val">${Math.round(r.spesPct * 100)} %</div><div class="ra-title">${r.spesCorr}/${r.spesTot}</div></div>`;
+  $("#resultReviewHead").style.display = r.wrong.length ? "" : "none";
+  $("#resultReview").innerHTML = r.wrong.map(({ q, chosen }) => {
+    const src = (q.sources || [])[0];
+    const right = q.choices ? q.choices[q.correct] : "";
+    const your = (chosen != null && chosen >= 0 && q.choices) ? q.choices[chosen] : "(ubesvart)";
+    return `<li class="result-review-item"><div class="rq">${esc(q.prompt)}</div>
+      <div class="ra wrong">Ditt svar: ${esc(your)}</div>
+      <div class="ra right">Riktig: ${esc(right)}</div>
+      <div class="rexpl">${esc(q.explanation || "")}</div>
+      ${src && src.url ? `<a href="${src.url}" target="_blank" rel="noopener">${esc(src.section || "Kilde")} →</a>` : ""}</li>`;
+  }).join("");
+}
+
 // ---- Init ----
 function bindEvents() {
   $("#choices").addEventListener("click", e => {
@@ -313,6 +424,12 @@ function bindEvents() {
   $("#nextBtn").addEventListener("click", () => { if (filter.view === "feillogg") return; nextQuestion(); });
   document.addEventListener("keydown", e => {
     if (!$("#nameModal").hidden) { if (e.key === "Enter") commitName(); return; }
+    if (filter.view === "eksamen" && !$("#examCard").hidden) {
+      if (e.key === "ArrowRight") examGo(1);
+      else if (e.key === "ArrowLeft") examGo(-1);
+      else { const k = KEYS.indexOf(e.key.toUpperCase()); if (k >= 0) examChoose(k); }
+      return;
+    }
     if (filter.view !== "adaptive" && filter.view !== "quiz") return;
     if (e.key === "Enter" || e.key === "ArrowRight") $("#nextBtn").click();
     const k = KEYS.indexOf(e.key.toUpperCase());
@@ -336,6 +453,19 @@ function bindEvents() {
     if (q) { filter = { view: "adaptive", area: conceptById[q.concept_id]?.area || null }; renderQuestion(q); renderSidebar(); }
   });
   $("#clearErr").addEventListener("click", () => { if (confirm("Tømme feilloggen?")) { P.errors = []; saveProfile(); renderErrors(); renderSidebar(); } });
+
+  // eksamen
+  $("#startExam").addEventListener("click", startExam);
+  $("#examChoices").addEventListener("click", e => { const b = e.target.closest(".choice"); if (b) examChoose(Number(b.dataset.i)); });
+  $("#examPalette").addEventListener("click", e => { const b = e.target.closest(".pal-dot"); if (b) { exam.idx = Number(b.dataset.i); renderExamQuestion(); } });
+  $("#examPrev").addEventListener("click", () => examGo(-1));
+  $("#examNext").addEventListener("click", () => examGo(1));
+  $("#examSubmit").addEventListener("click", () => {
+    const n = Object.keys(exam.answers).length;
+    if (n < exam.questions.length && !confirm(`Du har svart på ${n} av ${exam.questions.length}. Levere likevel?`)) return;
+    submitExam();
+  });
+  $("#resultClose").addEventListener("click", () => setView("adaptive", null));
 }
 
 function renderResources() {
