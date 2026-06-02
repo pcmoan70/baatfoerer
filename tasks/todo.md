@@ -19,6 +19,17 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
 - [ ] Definer konseptmodell `concepts.json`
 - [ ] `scraper/diff.py` — kildeendringsvarsling (checksum-diff)
 
+## Kildelenking-prinsipp (gjelder alt innhold) 🔗
+
+**Hvert quizspørsmål, konsept og forklaring skal ha dyp lenke direkte til den
+relevante offentlige nettsiden — ned til avsnitt/linje, ikke bare forsiden.**
+
+- [ ] Scraper fanger overskrifts-`id`/ankere per side → `anchors` i meta-json
+- [ ] `source_refs` som objekter (`{source_id, url#anker, section, quote}`)
+- [ ] PDF-lenker med `#page=N`
+- [ ] Validator krever minst én oppløsbar dyp lenke per spørsmål
+- [ ] Frontend viser «Kilde»-lenke ved hver forklaring (åpner riktig seksjon)
+
 ## Fase 2 — Innhold (egne spørsmål)
 
 - [ ] Lag 50–100 første spørsmål manuelt (`content/questions/`)

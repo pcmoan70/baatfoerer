@@ -284,6 +284,37 @@ Eksempel:
 }
 ```
 
+### Kildelenking ned til linjenivå
+
+Hvert spørsmål (og hvert konsept/forklaring) skal lenke **direkte til den
+relevante offentlige nettsiden**, så presist som mulig — ned til avsnitt/linje,
+ikke bare til forsiden av kilden.
+
+- Bruk dype lenker med ankerfragment der kilden støtter det, f.eks.
+  `https://lovdata.no/.../forskrift/2009-03-03-259/§3` eller
+  `https://www.kystverket.no/.../fyr-lykter-og-sjomerker/#lateralmerker`.
+- For PDF-er: lenk til side (`...skolekart.pdf#page=4`) når mulig.
+- Lagre i tillegg et kort sitat/ledetekst og hvilken seksjon/linje det gjelder,
+  slik at lenken kan repareres hvis kilden endrer ankernavn.
+- `source_refs` utvides fra ren ID til objekter med dyp lenke (se modell under).
+
+Utvidet `source_refs`-form på et spørsmål:
+
+```json
+"source_refs": [
+  {
+    "source_id": "kystverket_sjomerker",
+    "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/#lateralmerker",
+    "section": "Lateralmerker",
+    "quote": "Rødt lateralmerke holdes på babord side ved innseiling.",
+    "retrieved_at": "2026-06-02"
+  }
+]
+```
+
+Scraperen bør derfor også fange opp **overskrifts-ankere/`id`-attributter** på
+sidene (allerede lagret i rå HTML), slik at vi kan bygge presise dyplenker.
+
 ### Spørsmålstyper
 
 | Type | Eksempel |
@@ -673,6 +704,15 @@ type Source = {
   allowedUse: "metadata" | "summary_links" | "links_only";
   lastChecked?: string;
   checksum?: string;
+};
+
+// Dyp kildelenke brukt i source_refs på spørsmål/konsept/forklaring.
+type SourceRef = {
+  sourceId: string;       // peker til Source.id
+  url: string;            // dyp lenke, helst med #anker eller #page=N
+  section?: string;       // overskrift/paragraf lenken peker til
+  quote?: string;         // kort sitat for å gjenfinne/reparere lenken
+  retrievedAt?: string;
 };
 ```
 

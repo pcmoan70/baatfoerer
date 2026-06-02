@@ -178,6 +178,30 @@ def save_pdf(client: httpx.Client, url: str, pdf_dir: Path) -> dict | None:
     }
 
 
+def collect_anchors(soup: BeautifulSoup) -> list[dict]:
+    """Hent overskrifts-ankere (id på h1–h6 eller nærmeste forelder med id).
+
+    Brukes til å bygge dype kildelenker ned til seksjon, f.eks. url#lateralmerker.
+    """
+    out: list[dict] = []
+    seen: set[str] = set()
+    for h in soup.find_all(["h1", "h2", "h3", "h4", "h5", "h6"]):
+        text = h.get_text(" ", strip=True)
+        if not text:
+            continue
+        anchor_id = h.get("id")
+        if not anchor_id:
+            node = h.find_parent(attrs={"id": True})
+            anchor_id = node.get("id") if node else None
+            inner = h.find(attrs={"id": True})
+            anchor_id = anchor_id or (inner.get("id") if inner else None)
+        if not anchor_id or anchor_id in seen:
+            continue
+        seen.add(anchor_id)
+        out.append({"level": int(h.name[1]), "text": text[:120], "id": anchor_id})
+    return out
+
+
 def collect_images(soup: BeautifulSoup, page_url: str) -> list[dict]:
     """Hent ut <img>-kandidater med alt-tekst og evt. figcaption."""
     out: list[dict] = []
@@ -363,6 +387,7 @@ def crawl_source(src: dict, client: httpx.Client, depth: int, max_pages: int,
             "n_pdf_links": len(pdf_links),
             "n_images": len(page_imgs),
             "images": page_imgs,
+            "anchors": collect_anchors(soup),
             "files": {"html": f"pages/{slug}.html", "text": f"pages/{slug}.txt"},
         }
         (pages_dir / f"{slug}.meta.json").write_text(
