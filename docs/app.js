@@ -265,7 +265,8 @@ function renderErrors() {
     return `<li class="err-item" data-q="${e.qid}">
       <span class="err-x">✗</span>
       <div><div class="err-text">${esc(q.prompt)}</div>
-        <div class="err-meta">${esc(area ? area.title : "")}${c.title ? " · " + esc(c.title) : ""} — trykk for å øve på dette temaet</div></div></li>`;
+        <div class="err-meta">${esc(area ? area.title : "")}${c.title ? " · " + esc(c.title) : ""} — trykk for å øve på dette temaet ·
+          <button class="report-link" data-report="${e.qid}" type="button">⚑ Meld feil</button></div></div></li>`;
   }).join("");
 }
 
@@ -303,6 +304,35 @@ function renderClarity() {
 }
 
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+
+// ---- Meld feil / tilbakemelding (åpner e-post via mailto) ----
+const FEEDBACK_EMAIL = "vesmir09@gmail.com";
+let feedbackQ = null;
+function findQ(id) { return DATA.questions.find(x => x.id === id) || null; }
+function openFeedback(q) {
+  feedbackQ = q || null;
+  $("#fbContext").textContent = q ? `Oppgave ${q.id}: ${q.prompt}` : "Generell tilbakemelding om siden.";
+  $("#fbText").value = "";
+  $("#feedbackModal").hidden = false;
+  setTimeout(() => $("#fbText").focus(), 50);
+}
+function buildFeedbackMailto(q, note) {
+  const subject = "Båtføreprøven – tilbakemelding" + (q ? ` (oppgave ${q.id})` : "");
+  const body = [
+    "Tilbakemelding fra treningssiden Båtføreprøven:", "",
+    q ? `Oppgave-ID: ${q.id}` : null,
+    q ? `Spørsmål: ${q.prompt}` : null,
+    (q && q.choices && q.choices.length && q.correct != null) ? `Oppgitt riktig svar: ${q.choices[q.correct]}` : null,
+    (q && (q.sources || [])[0] && q.sources[0].url) ? `Kilde: ${q.sources[0].url}` : null,
+    P ? `Elev: ${P.name}` : null,
+    "", "Kommentar:", note || "(ingen kommentar)",
+  ].filter(x => x !== null).join("\n");
+  return `mailto:${FEEDBACK_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+}
+function sendFeedback() {
+  window.location.href = buildFeedbackMailto(feedbackQ, ($("#fbText").value || "").trim());
+  $("#feedbackModal").hidden = true;
+}
 
 // ---- Flyt ----
 function nextQuestion() {
@@ -466,7 +496,10 @@ function renderResult(r) {
       <div class="ra wrong">Ditt svar: ${esc(your)}</div>
       <div class="ra right">Riktig: ${esc(right)}</div>
       <div class="rexpl">${esc(q.explanation || "")}</div>
-      ${src && src.url ? `<a href="${src.url}" target="_blank" rel="noopener">${esc(src.section || "Kilde")} →</a>` : ""}</li>`;
+      <div class="feedback-actions">
+        ${src && src.url ? `<a class="source-link" href="${src.url}" target="_blank" rel="noopener">${esc(src.section || "Kilde")} →</a>` : ""}
+        <button class="report-link" data-report="${q.id}" type="button">⚑ Meld feil</button>
+      </div></li>`;
   }).join("");
 }
 
@@ -497,7 +530,11 @@ function bindEvents() {
     const btn = e.target.closest(".choice"); if (btn) answer(Number(btn.dataset.i));
   });
   $("#nextBtn").addEventListener("click", () => { if (filter.view === "feillogg") return; nextQuestion(); });
+  $("#reportBtn").addEventListener("click", () => openFeedback(current));
+  $("#fbSend").addEventListener("click", sendFeedback);
+  $("#fbCancel").addEventListener("click", () => { $("#feedbackModal").hidden = true; });
   document.addEventListener("keydown", e => {
+    if (!$("#feedbackModal").hidden) { if (e.key === "Escape") $("#feedbackModal").hidden = true; return; }
     if (!$("#nameModal").hidden) { if (e.key === "Enter") addStudentFromInput(); else if (e.key === "Escape" && P) $("#nameModal").hidden = true; return; }
     if (filter.view === "eksamen" && !$("#examCard").hidden) {
       if (e.key === "ArrowRight") examGo(1);
@@ -543,9 +580,14 @@ function bindEvents() {
     const li = e.target.closest("li"); if (li) setView("adaptive", li.dataset.area);
   });
   $("#errList").addEventListener("click", e => {
+    const rep = e.target.closest(".report-link");
+    if (rep) { e.stopPropagation(); openFeedback(findQ(rep.dataset.report)); return; }
     const li = e.target.closest(".err-item"); if (!li) return;
     const q = DATA.questions.find(x => x.id === li.dataset.q);
     if (q) { filter = { view: "adaptive", area: conceptById[q.concept_id]?.area || null }; renderQuestion(q); renderSidebar(); }
+  });
+  $("#resultReview").addEventListener("click", e => {
+    const rep = e.target.closest(".report-link"); if (rep) openFeedback(findQ(rep.dataset.report));
   });
   $("#clearErr").addEventListener("click", () => { if (confirm("Tømme feilloggen?")) { P.errors = []; saveProfile(); renderErrors(); renderSidebar(); } });
 

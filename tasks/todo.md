@@ -50,6 +50,8 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
 - [x] **Sammenlign elever**: tabell med klarhetsindeks, mestring per område,
       riktig-%, beste eksamen (lagrer eksamenshistorikk per elev)
 - [x] «Hopp over» merker oppgaven som sett (velgeren gjentar den ikke lenger)
+- [x] **«Meld feil»**: tilbakemelding på oppgave via mailto → vesmir09@gmail.com
+      (i quiz-feedback, feillogg og eksamensgjennomgang; ingen backend nødvendig)
 - [x] Mestring per emne/område + Klarhetsindeks (maritimt dashbord)
 - [x] **Adaptiv utvelgelse**: flere spørsmål på svake/viktige emner
 - [x] **Feillogg** for feil-besvarte oppgaver (klikkbar for repetisjon)

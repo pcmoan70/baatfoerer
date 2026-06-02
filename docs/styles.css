@@ -257,6 +257,12 @@ body {
 .feedback-text { margin: 0 0 8px; font-size: .92rem; color: var(--ink-soft); line-height: 1.5; }
 .source-link { font-size: .85rem; font-weight: 600; color: var(--sea); text-decoration: none; }
 .source-link:hover { text-decoration: underline; }
+.feedback-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 16px; }
+.report-link { background: none; border: 0; padding: 0; cursor: pointer; font: inherit; font-size: .82rem; color: var(--ink-soft); }
+.report-link:hover { color: var(--wrong); text-decoration: underline; }
+.fb-context { background: var(--sand-100); border-left: 3px solid var(--sea); border-radius: 0 8px 8px 0; padding: 9px 12px; font-size: .85rem; color: var(--ink-soft); text-align: left; margin: 0 0 12px; }
+.modal textarea { width: 100%; padding: 12px 14px; font-family: var(--font-body); font-size: .95rem; border: 1.5px solid rgba(12,42,64,.25); border-radius: var(--radius-sm); resize: vertical; margin-bottom: 16px; }
+.modal textarea:focus { outline: none; border-color: var(--sea); }
 
 /* Forrige / neste */
 .task-nav {

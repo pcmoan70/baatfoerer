@@ -68,7 +68,10 @@
             <ul class="choices" id="choices"></ul>
             <div class="feedback" id="feedback" hidden>
               <p class="feedback-text" id="feedbackText"></p>
-              <a class="source-link" id="sourceLink" target="_blank" rel="noopener" hidden>Les mer hos kilden →</a>
+              <div class="feedback-actions">
+                <a class="source-link" id="sourceLink" target="_blank" rel="noopener" hidden>Les mer hos kilden →</a>
+                <button class="report-link" id="reportBtn" type="button">⚑ Meld feil med oppgaven</button>
+              </div>
             </div>
           </div>
         </div>
@@ -168,6 +171,21 @@
         <button class="ghost-btn" id="resetBtn">Nullstill fremgang</button>
         <button class="ghost-btn" id="compareBtn">Sammenlign</button>
         <button class="nav-btn" id="closeModal">Lukk</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Meld feil / tilbakemelding ===== -->
+  <div class="modal-overlay" id="feedbackModal" hidden>
+    <div class="modal">
+      <svg class="modal-mark" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="21" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16 14 L16 34 M16 15 L33 15 L29 21 L33 27 L16 27" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round"/></svg>
+      <h2>Meld feil</h2>
+      <p>Fant du noe feil eller uklart? Skriv en kort kommentar, så åpnes e-posten din ferdig utfylt.</p>
+      <p class="fb-context" id="fbContext"></p>
+      <textarea id="fbText" rows="4" maxlength="1500" placeholder="Hva er feil eller uklart med denne oppgaven?"></textarea>
+      <div class="modal-actions">
+        <button class="ghost-btn" id="fbCancel">Avbryt</button>
+        <button class="nav-btn next" id="fbSend">Send e-post</button>
       </div>
     </div>
   </div>
