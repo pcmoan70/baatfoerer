@@ -1,0 +1,156 @@
+[
+  {
+    "id": "batforerproven",
+    "name": "Båtførerprøven.no – gratistest",
+    "url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+    "authority": "private",
+    "allowed_use": null
+  },
+  {
+    "id": "batforerregisteret",
+    "name": "Båtførerregisteret",
+    "url": "https://xn--btfrerregisteret-dob85a.no/",
+    "authority": "official",
+    "allowed_use": null
+  },
+  {
+    "id": "bliskipper",
+    "name": "BliSkipper – gratis test",
+    "url": "https://bliskipper.no/gratis-test-batforerproven",
+    "authority": "private",
+    "allowed_use": null
+  },
+  {
+    "id": "bukt",
+    "name": "bUkt.no",
+    "url": "https://bukt.no/",
+    "authority": "private",
+    "allowed_use": null
+  },
+  {
+    "id": "goypasjoen",
+    "name": "Gøy på sjøen",
+    "url": "https://xn--gypsjen-gxa2of.no/batforerproven",
+    "authority": "private",
+    "allowed_use": null
+  },
+  {
+    "id": "kartverket_brukkart",
+    "name": "kartverket_brukkart",
+    "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+    "authority": "unknown",
+    "allowed_use": "links_only"
+  },
+  {
+    "id": "kartverket_enc",
+    "name": "kartverket_enc",
+    "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc",
+    "authority": "unknown",
+    "allowed_use": "links_only"
+  },
+  {
+    "id": "kartverket_sjokart",
+    "name": "kartverket_sjokart",
+    "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+    "authority": "unknown",
+    "allowed_use": "links_only"
+  },
+  {
+    "id": "kartverket_skolekart",
+    "name": "Kartverket – skolekart",
+    "url": "https://www.kartverket.no/til-sjos/kart/skolekart",
+    "authority": "official",
+    "allowed_use": null
+  },
+  {
+    "id": "kartverket_symboler",
+    "name": "kartverket_symboler",
+    "url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart",
+    "authority": "unknown",
+    "allowed_use": "links_only"
+  },
+  {
+    "id": "kystverket_batfart",
+    "name": "Kystverket – BåtFart / fartsgrenser",
+    "url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/batfart/",
+    "authority": "official",
+    "allowed_use": null
+  },
+  {
+    "id": "kystverket_sjomerker",
+    "name": "Kystverket – fyr, lykter og sjømerker",
+    "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+    "authority": "official",
+    "allowed_use": null
+  },
+  {
+    "id": "lanternenkurs",
+    "name": "Lanternen kurs – quiz",
+    "url": "https://www.lanternenkurs.no/quiz/",
+    "authority": "private",
+    "allowed_use": null
+  },
+  {
+    "id": "lovdata_fartsforskrift",
+    "name": "Forskrift om fartsbegrensninger (FOR-2009-12-15-1546)",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2009-12-15-1546",
+    "authority": "official_law",
+    "allowed_use": "citations_links"
+  },
+  {
+    "id": "lovdata_flyteutstyr",
+    "name": "Forskrift om flyteutstyr om bord på fritidsfartøy (FOR-1995-05-08-409)",
+    "url": "https://lovdata.no/dokument/SF/forskrift/1995-05-08-409",
+    "authority": "official_law",
+    "allowed_use": "citations_links"
+  },
+  {
+    "id": "lovdata_forskrift",
+    "name": "Forskrift om minstealder og båtførerbevis (2009-03-03-259)",
+    "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259",
+    "authority": "official_law",
+    "allowed_use": null
+  },
+  {
+    "id": "lovdata_sjoveisreglene",
+    "name": "Sjøveisreglene (FOR-1975-12-01-5)",
+    "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+    "authority": "official_law",
+    "allowed_use": "citations_links"
+  },
+  {
+    "id": "lovdata_smabatloven",
+    "name": "Lov om fritids- og småbåter (småbåtloven)",
+    "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47",
+    "authority": "official_law",
+    "allowed_use": "citations_links"
+  },
+  {
+    "id": "redningsselskapet_sjovett",
+    "name": "Redningsselskapet – sjøvettreglene",
+    "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+    "authority": "ngo",
+    "allowed_use": null
+  },
+  {
+    "id": "sdir_batforerbevis",
+    "name": "Sjøfartsdirektoratet – båtførerbevis",
+    "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/batforerbevis/",
+    "authority": "official",
+    "allowed_use": null
+  },
+  {
+    "id": "sdir_pensum",
+    "name": "Sjøfartsdirektoratet – pensum til båtførerprøven",
+    "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+    "authority": "official",
+    "allowed_use": null
+  },
+  {
+    "id": "sdir_skolekart",
+    "name": "Sjøfartsdirektoratet – skolekart",
+    "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/skolekart-til-batforerproven/",
+    "authority": "official",
+    "allowed_use": null
+  }
+]

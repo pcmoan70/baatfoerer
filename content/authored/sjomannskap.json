@@ -1,0 +1,1959 @@
+{
+  "concepts": [
+    {
+      "id": "sm-sikkerhetsutstyr",
+      "area": "sjomannskap",
+      "topic": "Sikkerhetsutrustning og riktig bruk",
+      "title": "Sikkerhetsutstyr om bord og riktig bruk",
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "summary": "En fritidsbåt skal ha egnet sikkerhetsutstyr tilpasset båt og bruk, og føreren må vite hvordan utstyret brukes. Flyteutstyr til alle om bord er kjernekravet.",
+      "body": "Riktig sikkerhetsutrustning handler både om å ha utstyret om bord OG om å kunne bruke det når det trengs. Det viktigste er flyteutstyr: det skal være **egnet flyteutstyr til alle om bord**, og i båter **under 8 meter skal alle om bord ha det på seg når båten er i fart** (unntak når man oppholder seg helt eller delvis under dekk eller i lukket styrehus). Flyteutstyr deles i flyteplagg (som holder deg flytende) og redningsvest (som i tillegg vender en bevisstløs person med ansiktet opp). Velg vest som passer kroppsvekten, og kontroller at oppblåsbare vester har patron og utløser i orden.\n\nAndre sentrale sikkerhetsdeler:\n- **Dødmannsknapp/sikkerhetsline**: stopper motoren hvis føreren faller over bord eller bort fra roret. Bruk den alltid.\n- **Ombordstigningsanordning** (stige): gjør det mulig å komme seg opp i båten igjen etter fall i sjøen.\n- **Drivanker**: bremser avdriften og holder baugen mot sjøen i dårlig vær.\n- **Lydsignalapparat** (fløyte/tåkelur) for å gi manøver- og varselsignaler.\n- **Brannslukkingsutstyr**: bærbare apparat på 1–6 kg (pulver, skum, vann eller CO2) og eventuelt fastmontert slukkeanlegg i motorrommet.\n- **Nødsignalutstyr**: nødraketter, fallskjermbluss, håndbluss og oransje røyk for å varsle og vise posisjon.\n\nUtstyret skal holdes vedlike, være lett tilgjengelig og kontrolleres jevnlig. Sjekk holdbarhetsdato på bluss og at brannslukkere har trykk. Sjøvettregel 2 minner om nettopp dette: ta med nødvendig utstyr, hold det i orden og lett tilgjengelig.",
+      "learning_goals": [
+        "Vite at det skal være egnet flyteutstyr til alle om bord, og at alle skal ha det på seg i fart i båt under 8 m",
+        "Kjenne funksjonen til dødmannsknapp, ombordstigningsstige, drivanker og lydsignalapparat",
+        "Vite hvilke brannslukkere og nødsignalmidler som hører til standard sikkerhetsutrustning",
+        "Forstå at utstyr må vedlikeholdes, kontrolleres og være lett tilgjengelig"
+      ],
+      "image_files": ["redningsselskapet/images/content-uploads-2021-07-medlem_rs_sommer2025.jpg"],
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§23a", "section": "§23a Flyteutstyr", "quote": "Det skal være egnet flyteutstyr til alle om bord."},
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 a Sikkerhetsutrustning", "quote": "flyteutstyr, dødmannsknapp, ombordstigningsanordning, drivanker, lydsignalapparat"}
+      ]
+    },
+    {
+      "id": "sm-brann",
+      "area": "sjomannskap",
+      "topic": "Brannfare og brannslukking",
+      "title": "Brannfare, brannårsaker og slukking om bord",
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "summary": "De vanligste brannkildene i fritidsbåt er bensindamp og propan, som begge er tyngre enn luft og samler seg lavt. Riktig lufting før start og egnet slukkeutstyr er avgjørende.",
+      "body": "Brann om bord utvikler seg raskt og kan være livstruende fordi rømningsveiene er begrenset. De viktigste farekildene er **bensindamp** og **gass (propan)**. Begge er **tyngre enn luft** og synker derfor ned i bunnen av båten, kjølrommet og motorrommet, der de kan danne en eksplosiv blanding. Derfor skal du alltid **lufte/ventilere motorrommet (vifte) før du starter motoren**, og lukte etter bensin eller gass før start.\n\nForebygging:\n- Sjekk drivstoffsystem og slanger for lekkasje, og fyll drivstoff med motoren av.\n- Steng gassflasken etter bruk og kontroller gasslanger og koblinger jevnlig.\n- Hold motorrom og bunn rene for olje og drivstoffsøl.\n- For å brenne trengs **oksygen, varme og brennbart materiale** (branntrekanten) – fjern én faktor for å stoppe brannen.\n\nSlukking:\n- Ha bærbare brannslukkere (**1–6 kg**) lett tilgjengelig; **pulverapparat (ABC)** dekker de fleste branntyper.\n- Mange båter har **fastmontert slukkeanlegg i motorrommet** som utløses uten å åpne luken (åpning slipper inn oksygen og kan blusse opp brannen).\n- **Bruk aldri vann på bensin-/væskebrann eller elektrisk brann** – vann sprer brennende væske og leder strøm. Kvel brannen, kutt drivstoff- og strømtilførsel.\n\nKjenn til at CO2- og skumapparat finnes i tillegg til pulver, og at apparatene må kontrolleres og være innen holdbarhetsdato.",
+      "learning_goals": [
+        "Vite at bensindamp og propan er tyngre enn luft og samler seg lavt i båten",
+        "Kunne forklare hvorfor motorrommet skal luftes/viftes før motorstart",
+        "Kjenne branntrekanten og hvordan man fjerner en faktor for å slukke",
+        "Vite at man ikke bruker vann på bensin- eller elektrisk brann, og at pulverapparat (ABC) er allsidig"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 b Brannfare", "quote": "brannfare, brannårsaker, brannslukking ... bensindamp, propansystemer, betydning av oksygen"}
+      ]
+    },
+    {
+      "id": "sm-vhf-nod",
+      "area": "sjomannskap",
+      "topic": "VHF/mobil, nødsituasjoner og varsling",
+      "title": "VHF, mobiltelefon og varsling i nødsituasjoner",
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "summary": "VHF kanal 16 er nød- og anropskanalen til sjøs, og Kystradioen nås på telefon 120. Riktig og rask varsling er avgjørende i en nødsituasjon.",
+      "body": "Når noe alvorlig skjer på sjøen er rask varsling livsviktig. To hovedveier finnes:\n\n**SR-radio (VHF):** Maritim VHF er det primære sambandet til sjøs. **Kanal 16 er den internasjonale nød-, il- og sikkerhetskanalen** og brukes for anrop og nødtrafikk. Et nødanrop sendes som **\"Mayday\" gjentatt tre ganger** på kanal 16, etterfulgt av båtens navn, posisjon, hva som har skjedd og antall personer om bord. Moderne VHF har **DSC (Digital Selective Calling)** – en rød knapp som sender et digitalt nødvarsel med båtens identitet (MMSI) og, hvis koblet til GPS, posisjon automatisk. VHF rekker normalt lenger enn mobil til sjøs og kan høres av nærliggende fartøy som kan komme til unnsetning, men rekkevidden er begrenset av antennehøyde og terreng.\n\n**Mobiltelefon:** Kan brukes, men har begrenset dekning utaskjærs, og et anrop når bare én mottaker. **Kystradioen nås på telefonnummer 120.** Mobil bør være et supplement til VHF, ikke en erstatning.\n\nNødsituasjoner og forholdsregler:\n- Varsle tidlig – ikke vent til situasjonen er kritisk.\n- Oppgi alltid posisjon, antall personer og art av nøden.\n- Kjenn forskjellen på **Mayday** (overhengende fare for liv/fartøy), **Pan-Pan** (hastemelding uten umiddelbar livsfare) og **Sécurité** (sikkerhetsmelding).\n- Redningstjenesten koordineres av Hovedredningssentralen; nødnummer 112/113 kan også brukes fra land/mobil.\n\nKombinasjonen VHF kanal 16 og Kystradio på 120 er pensumets kjernefakta for nødvarsling.",
+      "learning_goals": [
+        "Vite at VHF kanal 16 er nød- og anropskanal, og at Kystradioen nås på telefon 120",
+        "Kunne sende et enkelt nødanrop (Mayday x3, navn, posisjon, hva, antall personer)",
+        "Forstå hva DSC er og hvilken fordel VHF har over mobil til sjøs",
+        "Kjenne forskjellen på Mayday, Pan-Pan og Sécurité"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 c-d VHF og nød", "quote": "SR-radio (VHF) kanal 16 og DSC ... kystradiostasjonenes telefonnummer: 120"},
+        {"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Vedlegg IV Nødsignaler", "quote": "Mayday og nødsignaler"}
+      ]
+    },
+    {
+      "id": "sm-assistanse",
+      "area": "sjomannskap",
+      "topic": "Assistanse og slep",
+      "title": "Assistanse, sleping og hjelp til andre",
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "summary": "God sjømannskap innebærer å yte hjelp til andre i nød så langt det er trygt. Sleping krer riktig festepunkt, passe fart og oppmerksomhet på slepelinen.",
+      "body": "Til sjøs har man en sterk tradisjon og plikt til å hjelpe andre i nød så langt det kan skje uten alvorlig fare for egen båt og besetning. Mindre assistanse, som å bistå en motorhavarist eller slepe en båt inn, er en vanlig del av godt sjømannskap.\n\nVed **sleping**:\n- Bruk et solid festepunkt (slepebøyle, pullert eller fordel kreftene rundt flere faste punkter). Svake fester kan rives løs og bli farlige prosjektiler.\n- Bruk en slepeline med litt elastisitet og passe lengde, slik at rykk dempes. I bølger kan lengden tilpasses slik at båtene følger bølgene i takt.\n- **Hold lav og jevn fart** – for høy fart legger stort drag på fester og kan dra baugen på den slepte båten ned.\n- Hold folk unna en stram slepeline; ryker den, slår den tilbake med stor kraft.\n- Avtal signaler og hold gjerne VHF-kontakt mellom båtene.\n\nVed grunnstøting eller motorstopp: vurder situasjonen, sikre personer med flyteutstyr, og tilkall hjelp (Kystradio 120 / VHF 16 / Redningsselskapet) hvis du ikke trygt kan ordne det selv. Husk at det å hjelpe ikke skal sette eget mannskap i fare – vurder vær, sjø og egen kompetanse før du går inn i en assistanseoppgave.",
+      "learning_goals": [
+        "Forstå plikten og tradisjonen for å hjelpe andre i nød så langt det er trygt",
+        "Vite hvordan man velger festepunkt og lengde på slepeline",
+        "Forstå at man skal holde lav, jevn fart og holde folk unna en stram slepeline"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 e Assistanse og slep", "quote": "assistanse og slep"}
+      ]
+    },
+    {
+      "id": "sm-battyper-ce",
+      "area": "sjomannskap",
+      "topic": "Båttyper og CE-konstruksjonskategorier",
+      "title": "Båttyper og CE-konstruksjonskategorier A–D",
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "summary": "Ulike båttyper passer til ulike farvann. CE-merkingens konstruksjonskategorier A, B, C og D forteller hvilke vind- og bølgeforhold båten er bygget for.",
+      "body": "Forskjellige båttyper har forskjellig bruksområde – en liten åpen jolle, en kabinbåt, en RIB, en seilbåt og en vannscooter er konstruert for ulike forhold. Det er føreren sitt ansvar å bruke båten innenfor det den er bygget for.\n\nCE-merking kreves for fritidsfartøy som omsettes i EØS, og **konstruksjonskategorien** angir hvilke forhold båten er konstruert for:\n- **A – Havgående («Ocean»):** bygget for åpent hav, kan tåle vind over kuling og høy sjø.\n- **B – Utenskjærs («Offshore»):** for åpent hav under moderate forhold, opp til omkring liten kuling og betydelig sjø.\n- **C – Kystfarvann («Inshore»):** for kystnære farvann, fjorder, store innsjøer – moderat vind og bølger.\n- **D – Beskyttet farvann («Sheltered»):** for skjermede farvann, små innsjøer og elver med små bølger.\n\nFra kategori A til D synker altså båtens evne til å tåle vind og sjø. Velg båt og farvann i forhold til kategorien og dagens vær.\n\nTilhørende dokumentasjon og merking:\n- **Produsentskilt** med blant annet kategori, største anbefalte motorstyrke og maks antall personer/last.\n- **CIN-kode (skrognummer)** – 14 tegn som unikt identifiserer skroget.\n- **Brukerhåndbok** og **samsvarserklæring** som dokumenterer at båten oppfyller kravene.\n\nMerk: avpasset motorstyrke og maks personantall fra produsentskiltet skal ikke overskrides.",
+      "learning_goals": [
+        "Kunne CE-kategoriene A, B, C, D og hvilke farvann/forhold de gjelder",
+        "Forstå at kategori A tåler mest og D minst vind/sjø",
+        "Vite hva produsentskilt, CIN (skrognummer), brukerhåndbok og samsvarserklæring er",
+        "Forstå at båt og farvann skal velges etter kategori og vær"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f Båttyper / CE", "quote": "konstruksjonskategorier (CE) – for fritidsfartøy A, B, C, D"}
+      ]
+    },
+    {
+      "id": "sm-trim-stabilitet",
+      "area": "sjomannskap",
+      "topic": "Trim, stabilitet, last og fribord",
+      "title": "Trim, stabilitet, last og fribord",
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "summary": "Riktig trim, tilstrekkelig stabilitet og passe last gir en trygg og sjødyktig båt. Overlast senker fribordet og øker faren for å ta inn vann og kantre.",
+      "body": "**Trim** er hvordan båten ligger i vannet på langs (baug/akter) og på tvers (krenging). En godt trimmet planende båt ligger med riktig vinkel slik at den planer effektivt og styrer kontrollert; for mye vekt akterut gir høy baug og dårlig sikt, for mye forut kan gi «pløying» og vannsprut. Vekten bør fordeles jevnt, og passasjerer bør sitte lavt og fordelt.\n\n**Stabilitet** er båtens evne til å rette seg opp igjen etter krenging. Tung last høyt oppe (og personer som flytter seg ut til siden eller står) hever tyngdepunktet og reduserer stabiliteten. Hold tyngdepunktet lavt: stuv tungt utstyr lavt og fordel vekten.\n\n**Fribord** er høyden fra vannlinjen opp til dekk/rekka. **Overbelastning senker båten dypere i vannet og reduserer fribordet**, slik at båten lettere tar inn vann over rekka i bølger og blir vanskeligere å manøvrere. Følg produsentskiltets grenser for **maks antall personer og last**, og overskrid aldri største anbefalte motorstyrke.\n\nViktige sammenhenger å huske:\n- Ikke overlast – respekter maks personer/last på produsentskiltet.\n- Fordel last jevnt og hold tyngdepunktet lavt.\n- Plutselige vektforflytninger (folk som reiser seg eller flytter seg) kan få en liten båt til å krenge kraftig eller kantre.\n- Lavt fribord + bølger = økt risiko for å ta inn vann.\n\nGod trim og stabilitet gir bedre sikt, mindre drivstofforbruk og vesentlig høyere sikkerhet.",
+      "learning_goals": [
+        "Forklare hva trim, stabilitet og fribord er",
+        "Forstå at overlast senker fribordet og øker faren for å ta inn vann og kantre",
+        "Vite at tyngdepunktet bør holdes lavt og lasten fordeles jevnt",
+        "Forstå at produsentskiltets grenser for personer, last og motorstyrke skal følges"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 g-h Trim, stabilitet, last", "quote": "riktig trim, tilstrekkelig stabilitet ... ikke å overbelaste båten – fribord, dypgående, stabilitet og lasteevne"}
+      ]
+    },
+    {
+      "id": "sm-vedlikehold",
+      "area": "sjomannskap",
+      "topic": "Vedlikehold av båt, motor og utstyr",
+      "title": "Vedlikehold av båt, motor, rigg og utstyr",
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "summary": "Godt vedlikehold av skrog, motor, rigg og utstyr forebygger motorstopp, havari og brann. Drivstoff-, kjøle- og smøresystem krever særlig oppmerksomhet.",
+      "body": "En velholdt båt er en tryggere båt. De fleste motorhavarier og mange branner kan forebygges med jevnlig kontroll og vedlikehold.\n\n**Motor og systemer:**\n- **Drivstoffsystem:** kontroller slanger, klemmer og filter for lekkasje og slitasje; vannutskilling i drivstoffilter; lekk bensin er både brann- og driftsfare.\n- **Kjølesystem:** sjekk at kjølevannet sirkulerer (vannstråle/«tiss» ut av utenbordsmotor), rens silen, og bytt impeller etter anbefalt intervall. Overoppheting kan ødelegge motoren.\n- **Smøreolje:** kontroller oljenivå og -kvalitet, bytt olje og filter etter intervall; for lite eller dårlig olje gir motorhavari.\n- Lade- og batterisystem, propell og tennplugger inngår også i rutinekontrollen.\n\n**Skrog, rigg og utstyr:**\n- Sjekk skrog for skader, gjennomføringer og bunnventiler.\n- På seilbåt: kontroller stående og løpende rigg, vant, fester og slitasje i tau og blokker.\n- Kontroller at sikkerhetsutstyr (vester, bluss, slukkeapparat, lanterner, dødmannsknapp) virker og er innen holdbarhet.\n\nFør hver tur bør du gjøre en kort sjekk: drivstoff, olje, kjøling, batteri, vær, og at sikkerhetsutstyret er om bord og i orden. Sjøvettregel 2 understreker at utstyret skal holdes i orden og være lett tilgjengelig.",
+      "learning_goals": [
+        "Vite at godt vedlikehold forebygger motorstopp, havari og brann",
+        "Kjenne hovedpunktene ved drivstoff-, kjøle- og smøresystem",
+        "Forstå viktigheten av å kontrollere skrog, rigg og sikkerhetsutstyr jevnlig",
+        "Kunne gjøre en enkel sjekk før avgang"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 i Vedlikehold", "quote": "godt vedlikehold av båt, motor, rigg og utstyr – drivstoffsystem, kjølesystem, smøreolje"}
+      ]
+    },
+    {
+      "id": "sm-fortoyning-anker",
+      "area": "sjomannskap",
+      "topic": "Fortøyning og ankring",
+      "title": "Sikker fortøyning og ankring",
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "summary": "Forsvarlig fortøyning og riktig ankring holder båten trygt. Anker krever passe type, nok kjetting/line og tilstrekkelig utstukket lengde i forhold til dybden.",
+      "body": "**Fortøyning:** Båten skal fortøyes forsvarlig slik at den ligger trygt uansett vær, vind og bølger fra forbipasserende båter. Bruk tilstrekkelig dimensjonerte tau, fest til solide punkter (pullert, fortøyningsringer, knaper) og bruk fjærende fortøyning (strekkavlastere/fjærer) for å dempe rykk. Tilpass fortøyningen til tidevann der det er stort, slik at båten ikke henger seg opp eller blir for stram ved lav-/høyvann. Bruk fendere mot brygge og naboBåt.\n\n**Ankring (dregg/anker):**\n- Velg ankertype etter bunnforhold (f.eks. plog, Bruce eller dregg). En kombinasjon av **kjetting nærmest ankeret** og line gir best hold; kjettingen legger seg langs bunnen og trekker ankeret horisontalt slik at det graver seg ned.\n- **Stikk ut tilstrekkelig lengde**: en vanlig tommelfingerregel er minst **3–5 ganger vanndybden** (mer ved dårlig vær eller bare line). For kort utstukket lengde gjør at ankeret løsner.\n- Senk ankeret rolig (ikke kast hele haugen oppå seg selv), legg båten litt akterover for å sette ankeret, og sjekk at det holder ved å peile mot land.\n- Velg ankerplass med god bunn og ly, og hold avstand til andre båter slik at dere ikke svaier oppi hverandre.\n\nKontroller fortøyning og anker jevnlig, særlig når været endrer seg.",
+      "learning_goals": [
+        "Vite hva som kjennetegner forsvarlig fortøyning (solide fester, fjæring, fendere, tidevann)",
+        "Forstå at kjetting nærmest ankeret bedrer holdet",
+        "Kunne tommelfingerregelen om utstukket lengde (ca. 3–5 x dybden)",
+        "Vite hvordan man setter og kontrollerer et anker"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 j Fortøyning og ankring", "quote": "regler for sikker og forsvarlig fortøyning, samt arrangement av dregg/anker"}
+      ]
+    },
+    {
+      "id": "sm-miljo",
+      "area": "sjomannskap",
+      "topic": "Miljøhensyn",
+      "title": "Miljøhensyn til sjøs",
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "summary": "God båtbruk tar hensyn til miljøet: unngå utslipp og forsøpling, vis hensyn i reservater og nasjonalparker, og begrens støy og bølgeslag.",
+      "body": "Som båtfører deler du farvannet med natur, dyreliv og andre mennesker. Miljøhensyn er en del av godt sjømannskap (sjøvettregel 7 – vis hensyn).\n\n**Utslipp:**\n- Tøm aldri olje, drivstoff, kloakk eller kjemikalier i sjøen. Fyll drivstoff forsiktig for å unngå søl, og ha absorbenter for hånden.\n- Septik/toalettavfall skal tømmes i mottaksanlegg i land der det finnes; mange områder har **forbud mot tømming av kloakk** nær land og i sårbare områder.\n- Lever spillolje, brukte batterier og annet farlig avfall på godkjent mottak.\n\n**Reservater og nasjonalparker:**\n- Respekter **naturreservater, fuglefredningsområder og nasjonalparker**. Mange har ferdsels- og ilandstigningsforbud i hekketiden. Hold avstand til fugl, sel og annet dyreliv.\n\n**Forsøpling og støy:**\n- Ta med alt avskaffet om bord til land; plast og avfall i havet skader dyreliv i lang tid.\n- Begrens unødvendig **støy og bølgeslag** – kjør pent nær land, fortøyde båter og badeplasser. Bølgeslag kan skade andre båter, brygger og dyreliv (og er regulert i sjøveisreglene for norske farvann).\n\nKjør gjerne miljøvennlig: rolig fart sparer drivstoff og reduserer både utslipp og forstyrrelse.",
+      "learning_goals": [
+        "Vite at olje, drivstoff, kloakk og avfall ikke skal slippes ut i sjøen",
+        "Kjenne til hensyn i reservater, fuglefredningsområder og nasjonalparker",
+        "Forstå at unødvendig støy og bølgeslag skal begrenses",
+        "Forstå at miljøhensyn er en del av godt sjømannskap (sjøvettregel 7)"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 k Miljøhensyn", "quote": "viktige miljøhensyn slik som utslipp, reservater, nasjonalparker, forsøpling og støy"},
+        {"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Regel 7 Vis hensyn", "quote": "Sikkerhet, miljø og trivsel er et felles ansvar."}
+      ]
+    },
+    {
+      "id": "sm-ansvar-forsikring",
+      "area": "sjomannskap",
+      "topic": "Ansvar og forsikring",
+      "title": "Ansvar og forsikring for båtfører",
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "summary": "Båtføreren har ansvaret for båt, mannskap og at ferdselen skjer trygt og lovlig. Forsikring er frivillig men sterkt anbefalt; ansvarsforsikring dekker skade på andre.",
+      "body": "**Ansvar:** Den som fører båten har ansvaret for fartøyet, for alle om bord og for at ferdselen skjer i samsvar med lover og regler. Det innebærer blant annet å være edru og uthvilt, holde sikker fart, overholde vikeplikt, sørge for at flyteutstyr er om bord (og på i fart i båt under 8 m), og ikke overlaste båten. Fører kan holdes erstatningsansvarlig og straffeansvarlig for skade og uforsvarlig ferdsel. Du er også ansvarlig for **bølgeslag** og skade du påfører andre.\n\n**Forsikring:** Det er **ikke lovpålagt** å ha forsikring på fritidsbåt i Norge (i motsetning til bil), men det er sterkt anbefalt. Vanlige dekninger:\n- **Ansvarsforsikring:** dekker skade du påfører andre personer, båter eller eiendom – den viktigste dekningen, fordi skader på tredjepart kan bli svært kostbare.\n- **Kasko/delkasko:** dekker også skade på egen båt (kollisjon, brann, tyveri, grunnstøting m.m.) i ulik grad.\n\nSjekk forsikringsvilkårene: mange selskaper krever at fører har **gyldig båtførerbevis** der det er påkrevd, at båten brukes i avtalt fartsområde, og at sikkerhetsforskrifter følges (f.eks. bruk av flyteutstyr og edruskap). Brudd kan gi avkortning eller bortfall av erstatning.",
+      "learning_goals": [
+        "Forstå at føreren har ansvar for båt, mannskap og lovlig/trygg ferdsel",
+        "Vite at båtforsikring er frivillig, men sterkt anbefalt",
+        "Kjenne forskjellen på ansvarsforsikring og kasko",
+        "Forstå at brudd på sikkerhetsforskrifter/manglende båtførerbevis kan gi avkortning"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 l Ansvar og forsikring", "quote": "ansvarsforhold og forsikringsmuligheter"},
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47", "section": "Småbåtloven", "quote": "føreren har ansvar for trygg og aktsom ferdsel"}
+      ]
+    },
+    {
+      "id": "sm-forstehjelp",
+      "area": "sjomannskap",
+      "topic": "Førstehjelp (BLÅS, HLR, hypotermi)",
+      "title": "Førstehjelp til sjøs: BLÅS, HLR og hypotermi",
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "summary": "Førstehjelpsprinsippet BLÅS (Bevissthet, Luftveier, Åndedrett, Sirkulasjon) gir rekkefølgen i en akuttsituasjon. HLR utføres 30:2, og nedkjøling (hypotermi) krever varsom håndtering.",
+      "body": "Til sjøs kan hjelp være langt unna, så grunnleggende førstehjelp er viktig. Bruk huskeregelen **BLÅS** for rekkefølgen:\n- **B – Bevissthet:** Sjekk om personen reagerer (snakk, rist forsiktig). Tilkall hjelp tidlig (VHF 16 / Kystradio 120 / 113).\n- **L – Luftveier:** Åpne luftveiene ved å bøye hodet forsiktig bakover og løfte haken; fjern synlige hindringer.\n- **Å – Åndedrett:** Se, lytt og føl etter normal pust i inntil 10 sekunder.\n- **S – Sirkulasjon:** Vurder tegn til liv/blodsirkulasjon; stans store ytre blødninger med trykk.\n\n**HLR (hjerte-lunge-redning):** Hvis personen ikke puster normalt: start HLR med **30 brystkompresjoner etterfulgt av 2 innblåsninger (30:2)**, og fortsett til personen viser tegn til liv eller hjelp overtar. Komprimer i takt ca. 100–120 per minutt, midt på brystet.\n\n**Blødninger:** Stans ytre blødning med direkte trykk og høyt leie. Indre blødninger er alvorlige – tilkall hjelp raskt.\n\n**Hypotermi (nedkjøling):** Vanlig etter fall i kaldt vann. Den nedkjølte skal **håndteres varsomt** (brå bevegelser kan utløse hjertestans), tas ut av vinden, isoleres mot kulde (tørt og vindtett, også under), og **varmes gradvis** – ikke gni eller varm for raskt. Gi varm, søt drikke kun til våken person. Hold personen i ro og overvåk pusten.\n\n**Høyenergiskader:** Ved kollisjon eller fall i høy fart kan det være indre skader (nakke/rygg) selv uten ytre tegn – håndter varsomt og tilkall profesjonell hjelp.",
+      "learning_goals": [
+        "Kunne BLÅS-rekkefølgen (Bevissthet, Luftveier, Åndedrett, Sirkulasjon)",
+        "Vite at HLR utføres med forholdet 30:2",
+        "Kjenne riktig behandling av hypotermi: varsom håndtering, isolering, gradvis oppvarming",
+        "Forstå at høyenergiskader kan gi alvorlige indre skader uten ytre tegn"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 m Førstehjelp", "quote": "BLÅS (bevissthet, luftveier, åndedrett, sirkulasjon), HLR, ... nedkjøling (hypotermi)"}
+      ]
+    },
+    {
+      "id": "sm-meteorologi",
+      "area": "sjomannskap",
+      "topic": "Meteorologi: vær, vind, sjø og sikt",
+      "title": "Meteorologi: vær, vind, sjøforhold og sikt",
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "summary": "Å lese værmelding og forstå hvordan vind, sjø og sikt utvikler seg er avgjørende. Sjekk alltid melding før tur og respekter vær og farvann (sjøvettregel 3).",
+      "body": "Været er kanskje den enkeltfaktoren som påvirker sikkerheten mest. **Respekter vær og farvann** – båten skal bare brukes under forhold den og mannskapet tåler (sjøvettregel 3). Sjekk værmeldingen (yr.no, kystvær, varsel fra Meteorologisk institutt) før og under turen.\n\n**Vind** måles ofte i m/s eller i kulingsuttrykk. Nyttige holdepunkter:\n- Liten kuling fra ca. 11 m/s, stiv kuling fra ca. 14 m/s, sterk kuling fra ca. 17 m/s, **liten storm fra ca. 21 m/s**.\n- Vinden bygger bølger; bølgehøyden øker med vindstyrke, hvor lenge vinden har blåst og **strøklengden** (hvor langt vinden har virket over åpent vann).\n\n**Sjøforhold:**\n- Vind mot strøm/tidevann gir kortere og brattere, farligere bølger.\n- Grunner og trange sund kan gi opphopning og brytende sjø.\n- Lokal vind (sjøbris, fralandsvind) kan øke raskt; fralandsvind kan lure fordi det er rolig ved land men hardt lenger ut.\n\n**Sikt:**\n- Tåke, regn og mørke reduserer sikten dramatisk. Ved **nedsatt sikt** skal du sette ned farten, holde skjerpet utkikk, bruke lanterner, og gi tåkesignal (sjøveisregel 35).\n- Bruk kart, kompass og GPS når landemerker ikke er synlige.\n\nGenerelt: planlegg ruten etter været, ha en alternativ plan/havn, og snu i tide hvis forholdene forverres. Skydekke som bygger seg opp, fallende lufttrykk og økende vind er varsler om dårligere vær.",
+      "learning_goals": [
+        "Vite at man skal sjekke værmelding før og under tur og respektere vær og farvann",
+        "Forstå at bølgehøyde øker med vindstyrke, varighet og strøklengde",
+        "Vite at vind mot strøm gir brattere, farligere sjø",
+        "Kjenne forholdsreglene ved nedsatt sikt (redusert fart, utkikk, lanterner, tåkesignal)"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 n Meteorologi", "quote": "meteorologiske forhold – vær og vind, sjøforhold, siktforhold"},
+        {"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Regel 3 Respekter vær og farvann", "quote": "Båten må bare benyttes under egnede forhold."}
+      ]
+    },
+    {
+      "id": "sm-vannsport",
+      "area": "sjomannskap",
+      "topic": "Sikkerhet ved vannsport",
+      "title": "Sikkerhet ved vannsport og vannscooter",
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "summary": "Vannski, wakeboard, tubing og vannscooter krever ekstra forsiktighet, godt oppsyn og avstand til badende og andre. Vannscooter følger samme regler som båt.",
+      "body": "Vannsportaktiviteter som vannski, wakeboard, tube og vannscooterkjøring foregår ofte i høy fart og i nærheten av badende og andre båter, og krever derfor ekstra aktsomhet.\n\n**Vannski/wakeboard/tube:**\n- Den som blir slept skal ha på **flyteutstyr** (helst godkjent for fart/vannsport).\n- Ha gjerne en **egen observatør** i tillegg til føreren, som følger med på personen i sleip og gir tegn til føreren.\n- Hold god avstand til badende, land, andre båter og merker; sleng aldri en faller eller line nær andre.\n- Stopp motoren når noen er i vannet helt nær båten (propellfare).\n- Avtal håndsignaler på forhånd (raskere, saktere, stopp, ok).\n\n**Vannscooter:**\n- Vannscooter regnes som båt, og **de tidligere særreglene for vannscooter ble opphevet i 2017** – nå gjelder **samme regler som for fritidsbåt**: vikeplikt, fartsgrenser, flyteutstyr og promille.\n- **Minstealder er 16 år** for å føre vannscooter (motor over 10 hk).\n- En vannscooter som kan gå **50 knop eller mer** krever **høyhastighetsbevis** (fra våren 2023, 18-årsgrense) i tillegg til båtførerbevis.\n- Bruk alltid **dødmannsknapp/sikkerhetsline** og flyteutstyr.\n\nGenerelt: vis hensyn, hold deg unna badeområder, og husk at høy fart nær land og folk er både farlig og ofte ulovlig (maks 5 knop nær land/badende mange steder, og forbudt å passere badende nærmere enn 50 m).",
+      "learning_goals": [
+        "Vite at den som slepes skal ha flyteutstyr, og at det bør være egen observatør",
+        "Forstå propellfaren og at man skal stoppe motoren når noen er i vannet nær båten",
+        "Vite at vannscooter følger samme regler som båt (særregler opphevet 2017), 16-årsgrense",
+        "Kjenne kravet om høyhastighetsbevis for fartøy som kan gå 50 knop eller mer"
+      ],
+      "image_files": ["redningsselskapet/images/content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg"],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 o Vannsport", "quote": "sikkerhet i forbindelse med vannsportsaktiviteter"},
+        {"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "Minstealder/høyhastighetsbevis", "quote": "høyhastighetsbevis for fritidsbåt som kan gå 50 knop eller mer"}
+      ]
+    },
+    {
+      "id": "sm-hoy-fart",
+      "area": "sjomannskap",
+      "topic": "Farer ved høy fart",
+      "title": "Farer ved høy fart og høyhastighetsnavigasjon",
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "summary": "Høy fart gir kortere reaksjonstid, innsnevret syn (tunnelsyn) og store konsekvenser ved sammenstøt. Hold forsvarlig avstand til land og avpasset fart.",
+      "body": "Høy fart er et av de spesielt viktige emnene fordi konsekvensene ved uhell øker dramatisk med farten. Selv erfarne førere undervurderer hvor raskt situasjoner oppstår i høy hastighet.\n\n**Farene ved høy fart:**\n- **Kortere reaksjonstid:** Avstanden tilbakelegges raskt, og du får langt kortere tid til å oppdage og reagere på hindringer, andre båter, badende, merker og grunner.\n- **Innsnevret syn / tunnelsyn:** Ved høy fart trekker synsfeltet seg sammen; du fokuserer rett framover og mister oversikten til sidene. Det blir vanskeligere å oppdage farer i ytterkanten av synsfeltet.\n- **Forsinkelse ved bruk av elektronikk:** Når du ser ned på kartplotter, ekkolodd eller telefon, har båten i høy fart flyttet seg langt før du ser opp igjen. Bruk elektronikk med korte blikk, eller sett ned farten.\n- **Forsvarlig avstand til land:** Hold god avstand til land, holmer, skjær og fortøyde båter, slik at du har tid og rom til å reagere. Lokale fartsgrenser (ofte maks 5 knop nær land/i havner) skal følges.\n- **Konsekvens ved sammenstøt:** Energien i et sammenstøt øker med kvadratet av farten – små feil i høy fart kan gi alvorlige eller dødelige skader (høyenergiskader).\n\n**Regler:** Sjøveisregel 6 krever alltid **sikker, avpasset fart** tilpasset sikt, trafikk, farvann og forhold. Et fartøy som kan gå **50 knop eller mer** krever **høyhastighetsbevis** (18-årsgrense, fra våren 2023) i tillegg til båtførerbevis. Det er forbudt å passere badende nærmere enn **50 m**.\n\nGodt sjømannskap: senk farten i god tid før trange løp, ved nedsatt sikt og nær folk – fart skal alltid kunne forsvares.",
+      "learning_goals": [
+        "Forklare hvorfor høy fart gir kortere reaksjonstid og innsnevret syn (tunnelsyn)",
+        "Forstå risikoen ved å bruke elektronikk i høy fart",
+        "Vite at man skal holde forsvarlig avstand til land og avpasse farten (sjøveisregel 6)",
+        "Kjenne kravet om høyhastighetsbevis for fartøy som kan gå 50 knop eller mer"
+      ],
+      "image_files": ["redningsselskapet/images/content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg"],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 p / 1.4.7 Høy fart", "quote": "farer forbundet med høy fart – høyhastighetsnavigasjon, ... innsnevret syn, tunnelsyn, forsvarlig avstand til land"},
+        {"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5/§6", "section": "Regel 6 Sikker fart", "quote": "Ethvert fartøy skal til enhver tid gå med sikker fart."}
+      ]
+    },
+    {
+      "id": "sm-godt-sjomannskap",
+      "area": "sjomannskap",
+      "topic": "Godt sjømannskap og sjøvettreglene",
+      "title": "Godt sjømannskap og de 7 sjøvettreglene",
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "summary": "Godt sjømannskap er sunn fornuft, planlegging, hensyn og ansvar på sjøen. De 7 sjøvettreglene oppsummerer kjernen i trygg og hensynsfull ferdsel.",
+      "body": "Godt sjømannskap er summen av kunnskap, holdninger og ansvarlig adferd som gjør ferdselen trygg for deg selv og andre. Det handler om å planlegge turen, kjenne båten og farvannet, vise hensyn til andre brukere, og forstå at egen adferd påvirker andres sikkerhet og trivsel.\n\n**De 7 sjøvettreglene** (Redningsselskapet) oppsummerer dette:\n1. **Tenk sikkerhet.** Kunnskap og planlegging reduserer risiko og øker trivselen.\n2. **Ta med nødvendig utstyr.** Utstyret skal holdes i orden og være lett tilgjengelig.\n3. **Respekter vær og farvann.** Bruk båten bare under egnede forhold.\n4. **Følg sjøveisreglene.** Overhold vikeplikt, fart og lanterneføring.\n5. **Bruk redningsvest eller flyteplagg.** Påbudt å ha på seg flyteutstyr i båter under 8 m; båter f.o.m. 8 m skal ha egnet flyteutstyr til alle om bord.\n6. **Vær uthvilt og edru.** Promillegrensen er 0,8 ‰ når du fører båt under 15 m.\n7. **Vis hensyn.** Sikkerhet, miljø og trivsel er et felles ansvar.\n\nI praksis betyr godt sjømannskap blant annet: sjekk vær og utstyr før avgang, fortell noen hvor du skal og når du er tilbake, hold sikker fart og god avstand, vis hensyn ved bølgeslag og støy, hjelp andre i nød så langt det er trygt, og kjør edru og uthvilt. Gode holdninger og respekt for andre er like viktig som regelkunnskap.",
+      "learning_goals": [
+        "Kunne de 7 sjøvettreglene og hva hver av dem innebærer",
+        "Forstå at godt sjømannskap er planlegging, hensyn, ansvar og sunn fornuft",
+        "Knytte sjøvettreglene til konkrete regler (flyteutstyr, 0,8 ‰, vikeplikt, fart)",
+        "Forstå at egen adferd påvirker andres sikkerhet og trivsel"
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "De 7 sjøvettreglene", "quote": "Tenk sikkerhet ... Vis hensyn. Sikkerhet, miljø og trivsel er et felles ansvar."},
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 q Godt sjømannskap", "quote": "godt sjømannskap – sjøvettreglene, holdninger til sjøs og respekt for andre brukere av farvannet"}
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-sikkerhetsutstyr-001",
+      "concept_id": "sm-sikkerhetsutstyr",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hva er hovedkravet til flyteutstyr om bord i en fritidsbåt?",
+      "choices": [
+        "Det skal være egnet flyteutstyr til alle om bord",
+        "Det holder med én vest i båten",
+        "Bare føreren må ha flyteutstyr",
+        "Flyteutstyr kreves bare på seilbåt"
+      ],
+      "correct": 0,
+      "explanation": "Småbåtloven §23a krever at det skal være egnet flyteutstyr til alle om bord. I båt under 8 m skal alle i tillegg ha det på seg når båten er i fart.",
+      "source_refs": [{"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§23a", "section": "§23a", "quote": "egnet flyteutstyr til alle om bord"}]
+    },
+    {
+      "id": "q-sikkerhetsutstyr-002",
+      "concept_id": "sm-sikkerhetsutstyr",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "I hvilke båter må alle om bord ha PÅ SEG flyteutstyr når båten er i fart?",
+      "choices": [
+        "Båter under 8 meter",
+        "Båter under 15 meter",
+        "Bare i båter under 5 meter",
+        "Alle båter uansett lengde"
+      ],
+      "correct": 0,
+      "explanation": "I fritidsbåter under 8 meter skal alle om bord ha på seg flyteutstyr når båten er i fart, med unntak når man oppholder seg helt/delvis under dekk eller i lukket styrehus.",
+      "source_refs": [{"source_id": "lovdata_flyteutstyr", "url": "https://lovdata.no/dokument/SF/forskrift/1995-05-08-409", "section": "Flyteutstyr under 8 m", "quote": "alle om bord skal ha på seg flyteutstyr når båten er i fart"}]
+    },
+    {
+      "id": "q-sikkerhetsutstyr-003",
+      "concept_id": "sm-sikkerhetsutstyr",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er hensikten med en dødmannsknapp (sikkerhetsline)?",
+      "choices": [
+        "Å stoppe motoren hvis føreren faller over bord eller bort fra roret",
+        "Å låse rattet i rett kurs",
+        "Å starte motoren raskere",
+        "Å regulere farten automatisk"
+      ],
+      "correct": 0,
+      "explanation": "Dødmannsknappen kobles til føreren og stopper motoren umiddelbart hvis føreren faller over bord eller forlater roret, slik at båten ikke kjører videre ukontrollert.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 a", "quote": "dødmannsknapp"}]
+    },
+    {
+      "id": "q-sikkerhetsutstyr-004",
+      "concept_id": "sm-sikkerhetsutstyr",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er forskjellen mellom et flyteplagg og en redningsvest?",
+      "choices": [
+        "En redningsvest vender en bevisstløs person med ansiktet opp; et flyteplagg holder deg flytende men gir ikke nødvendigvis dette",
+        "Et flyteplagg er kun for barn",
+        "En redningsvest kan bare brukes på seilbåt",
+        "Det er ingen forskjell"
+      ],
+      "correct": 0,
+      "explanation": "En redningsvest har større oppdrift og er konstruert for å snu en bevisstløs person slik at ansiktet kommer over vann. Et flyteplagg holder deg flytende, men forutsetter at du selv kan holde hodet over vann.",
+      "source_refs": [{"source_id": "lovdata_flyteutstyr", "url": "https://lovdata.no/dokument/SF/forskrift/1995-05-08-409", "section": "Flyteutstyr", "quote": "egnet flyteutstyr"}]
+    },
+    {
+      "id": "q-sikkerhetsutstyr-005",
+      "concept_id": "sm-sikkerhetsutstyr",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er hensikten med et drivanker?",
+      "choices": [
+        "Å bremse avdriften og holde baugen mot sjøen i dårlig vær",
+        "Å holde båten fortøyd til brygge",
+        "Å øke farten i medvind",
+        "Å erstatte dødmannsknappen"
+      ],
+      "correct": 0,
+      "explanation": "Et drivanker er en duk/sekk som slepes i sjøen og bremser avdriften, samtidig som det hjelper å holde baugen opp mot bølgene i dårlig vær eller ved motorstopp.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 a", "quote": "drivanker"}]
+    },
+    {
+      "id": "q-sikkerhetsutstyr-006",
+      "concept_id": "sm-sikkerhetsutstyr",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Du skal ut i en åpen båt på 6,5 meter med tre passasjerer og planlegger å kjøre i plan. Hva må du sørge for?",
+      "choices": [
+        "At alle om bord har på seg egnet flyteutstyr mens båten er i fart",
+        "At kun føreren har vest på",
+        "At vestene ligger lett tilgjengelig, men ingen trenger å ha dem på",
+        "At du har én vest per to personer"
+      ],
+      "correct": 0,
+      "explanation": "Båten er under 8 meter, så alle om bord skal ha på seg egnet flyteutstyr når båten er i fart.",
+      "source_refs": [{"source_id": "lovdata_flyteutstyr", "url": "https://lovdata.no/dokument/SF/forskrift/1995-05-08-409", "section": "Påbud under 8 m", "quote": "ha på seg flyteutstyr når båten er i fart"}]
+    },
+    {
+      "id": "q-sikkerhetsutstyr-007",
+      "concept_id": "sm-sikkerhetsutstyr",
+      "type": "flashcard",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Nevn fem typiske deler av sikkerhetsutrustningen i en fritidsbåt.",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Flyteutstyr til alle, dødmannsknapp, ombordstigningsanordning (stige), drivanker, lydsignalapparat, brannslukker (1–6 kg) og nødsignalutstyr (bluss/raketter).",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 a", "quote": "flyteutstyr, dødmannsknapp, ombordstigningsanordning, drivanker, lydsignalapparat, brannslukkingsapparat, nødraketter"}]
+    },
+    {
+      "id": "q-sikkerhetsutstyr-008",
+      "concept_id": "sm-sikkerhetsutstyr",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvorfor er en ombordstigningsanordning (stige) viktig sikkerhetsutstyr?",
+      "choices": [
+        "Den gjør det mulig å komme seg opp i båten igjen etter fall i sjøen",
+        "Den brukes til å feste fortøyningen",
+        "Den øker stabiliteten i fart",
+        "Den erstatter redningsvesten"
+      ],
+      "correct": 0,
+      "explanation": "Det er ofte svært vanskelig å komme seg opp i en båt fra vannet uten hjelpemiddel. En stige eller annen ombordstigningsanordning kan være forskjellen på liv og død, spesielt i kaldt vann.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 a", "quote": "ombordstigningsanordning"}]
+    },
+
+    {
+      "id": "q-brann-001",
+      "concept_id": "sm-brann",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvorfor er bensindamp og propan spesielt farlig i en båt?",
+      "choices": [
+        "De er tyngre enn luft og samler seg lavt i båten, der de kan danne eksplosiv blanding",
+        "De er lettere enn luft og forsvinner raskt",
+        "De luktes ikke og er ufarlige",
+        "De stiger til topps og lufter seg selv ut"
+      ],
+      "correct": 0,
+      "explanation": "Både bensindamp og propan er tyngre enn luft og synker ned i bunnen og motorrommet, der de kan danne en eksplosiv blanding. Derfor må man lufte før start.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 b", "quote": "bensindamp, propansystemer, betydning av oksygen"}]
+    },
+    {
+      "id": "q-brann-002",
+      "concept_id": "sm-brann",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Du har en innenbordsmotor med bensin. Hva bør du alltid gjøre før du starter motoren?",
+      "choices": [
+        "Lufte/vifte motorrommet og lukte etter bensindamp eller gass",
+        "Fylle drivstoff med motoren i gang",
+        "Åpne gassflasken",
+        "Helle vann i kjølen for sikkerhets skyld"
+      ],
+      "correct": 0,
+      "explanation": "Bensindamp samler seg lavt i motorrommet. Ved å lufte/vifte og lukte etter damp før start reduserer du faren for eksplosjon og brann.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 b", "quote": "forholdsregler for å forhindre brann – bensindamp"}]
+    },
+    {
+      "id": "q-brann-003",
+      "concept_id": "sm-brann",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilket slukkemiddel skal du IKKE bruke på en bensin- eller elektrisk brann?",
+      "choices": [
+        "Vann",
+        "Pulverapparat (ABC)",
+        "CO2-apparat",
+        "Brannteppe"
+      ],
+      "correct": 0,
+      "explanation": "Vann sprer brennende væske og leder strøm, og skal ikke brukes på bensin-/væskebrann eller elektrisk brann. Pulver (ABC), CO2 eller brannteppe er egnet.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 b", "quote": "brannslukking"}]
+    },
+    {
+      "id": "q-brann-004",
+      "concept_id": "sm-brann",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilken vekt har de bærbare brannslukkerne som pensum nevner for fritidsbåt?",
+      "choices": [
+        "1–6 kg",
+        "10–20 kg",
+        "0,1–0,5 kg",
+        "Det finnes ingen anbefalt størrelse"
+      ],
+      "correct": 0,
+      "explanation": "Pensum nevner bærbare brannslukkingsapparat på 1–6 kg (pulver, skum, vann eller CO2), i tillegg til eventuelle fastmonterte anlegg i motorrommet.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 a", "quote": "bærbare brannslukkingsapparat (1 – 6 kg)"}]
+    },
+    {
+      "id": "q-brann-005",
+      "concept_id": "sm-brann",
+      "type": "flashcard",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er branntrekanten, og hvordan slukker du en brann ut fra den?",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Branntrekanten er oksygen, varme og brennbart materiale. Fjerner du én av faktorene slukner brannen – f.eks. kvele (oksygen), kjøle (varme) eller kutte drivstoff/strøm (brennbart materiale).",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 b", "quote": "betydning av oksygen"}]
+    },
+    {
+      "id": "q-brann-006",
+      "concept_id": "sm-brann",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvorfor bør et fastmontert slukkeanlegg i motorrommet kunne utløses uten å åpne motorromsluken?",
+      "choices": [
+        "Å åpne luken slipper inn oksygen, som kan få brannen til å blusse opp",
+        "Det er bare for å slippe å bli skitten",
+        "Luken er for tung å åpne",
+        "For å spare slukkemiddel"
+      ],
+      "correct": 0,
+      "explanation": "En brann trenger oksygen. Åpner du luken, tilfører du friskt oksygen og brannen kan blusse kraftig opp. Derfor utløses fastmonterte anlegg uten å åpne rommet.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 a/b", "quote": "fastmonterte slukkeanlegg (motorrom) ... betydning av oksygen"}]
+    },
+
+    {
+      "id": "q-vhf-001",
+      "concept_id": "sm-vhf-nod",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvilken VHF-kanal er nød- og anropskanal til sjøs?",
+      "choices": ["Kanal 16", "Kanal 6", "Kanal 12", "Kanal 72"],
+      "correct": 0,
+      "explanation": "VHF kanal 16 er den internasjonale nød-, il- og sikkerhetskanalen og brukes for anrop og nødtrafikk.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 c / 1.4.6", "quote": "SR-radio (VHF) kanal 16"}]
+    },
+    {
+      "id": "q-vhf-002",
+      "concept_id": "sm-vhf-nod",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvilket telefonnummer når du Kystradioen på?",
+      "choices": ["120", "110", "112", "113"],
+      "correct": 0,
+      "explanation": "Kystradiostasjonene nås på telefonnummer 120. 110/112/113 er nødnumrene for brann, politi og helse.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 c / 1.4.6", "quote": "kystradiostasjonenes telefonnummer: 120"}]
+    },
+    {
+      "id": "q-vhf-003",
+      "concept_id": "sm-vhf-nod",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvordan innledes et nødanrop på VHF?",
+      "choices": [
+        "Med «Mayday» gjentatt tre ganger",
+        "Med «Over and out»",
+        "Med «Pan-Pan» én gang",
+        "Med båtens navn alene"
+      ],
+      "correct": 0,
+      "explanation": "Et nødanrop innledes med «Mayday» gjentatt tre ganger på kanal 16, etterfulgt av båtens navn, posisjon, hva som har skjedd og antall personer om bord.",
+      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Vedlegg IV", "quote": "Mayday"}]
+    },
+    {
+      "id": "q-vhf-004",
+      "concept_id": "sm-vhf-nod",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er DSC på en VHF-radio?",
+      "choices": [
+        "Digital Selective Calling – sender et digitalt nødvarsel med båtens identitet og posisjon",
+        "En ekstra høyttaler",
+        "Et navigasjonssystem som erstatter GPS",
+        "En kanal kun for værmelding"
+      ],
+      "correct": 0,
+      "explanation": "DSC (Digital Selective Calling) sender med ett knappetrykk et digitalt nødvarsel med båtens identitet (MMSI) og, hvis koblet til GPS, posisjon automatisk.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 c", "quote": "DSC (Digital Selective Calling)"}]
+    },
+    {
+      "id": "q-vhf-005",
+      "concept_id": "sm-vhf-nod",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilken fordel har VHF framfor mobiltelefon i en nødsituasjon til sjøs?",
+      "choices": [
+        "Anropet høres av alle nærliggende fartøy som kan komme til unnsetning",
+        "VHF når alltid lenger enn alt annet samband uansett",
+        "VHF virker uten antenne",
+        "Mobil kan ikke ringe Kystradioen"
+      ],
+      "correct": 0,
+      "explanation": "Et VHF-nødanrop høres samtidig av alle fartøy innen rekkevidde og av Kystradioen, slik at nærliggende båter kan bistå. Et mobilanrop når bare én mottaker.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 c", "quote": "rekkevidde, muligheter og begrensninger ved SR-radio (VHF) og mobiltelefon"}]
+    },
+    {
+      "id": "q-vhf-006",
+      "concept_id": "sm-vhf-nod",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Motoren har stoppet og dere driver mot et skjær med stigende sjø. Hva er riktig prioritering?",
+      "choices": [
+        "Få på flyteutstyr, send nødanrop (VHF 16 / DSC eller Kystradio 120) med posisjon og antall personer",
+        "Vente til dere treffer skjæret før dere varsler",
+        "Ringe en kompis på land for å spørre om råd",
+        "Hoppe i sjøen for å svømme til land"
+      ],
+      "correct": 0,
+      "explanation": "Sikre personene med flyteutstyr og varsle tidlig via VHF 16/DSC eller Kystradio 120. Oppgi posisjon, hva som har skjedd og antall personer. Tidlig varsling gir best mulighet for hjelp.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 d", "quote": "nødvendige forholdsregler på sjøen, nødsituasjoner, varsling og redningstjenesten"}]
+    },
+    {
+      "id": "q-vhf-007",
+      "concept_id": "sm-vhf-nod",
+      "type": "flashcard",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er forskjellen på Mayday, Pan-Pan og Sécurité?",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Mayday = overhengende fare for liv eller fartøy (nød). Pan-Pan = hastemelding uten umiddelbar livsfare. Sécurité = sikkerhetsmelding (f.eks. navigasjons- eller værvarsel).",
+      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5", "section": "Vedlegg IV", "quote": "nødsignaler"}]
+    },
+
+    {
+      "id": "q-assistanse-001",
+      "concept_id": "sm-assistanse",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er riktig om fart ved sleping av en annen båt?",
+      "choices": [
+        "Hold lav og jevn fart for å unngå for stort drag på fester og slepeline",
+        "Kjør så fort som mulig for å bli ferdig raskt",
+        "Farten har ingen betydning",
+        "Øk farten i bølger for å holde linen stram"
+      ],
+      "correct": 0,
+      "explanation": "Lav og jevn fart reduserer belastningen på fester og slepeline, og hindrer at baugen på den slepte båten dras ned. For høy fart kan rive løs fester eller dra båten under.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 e", "quote": "assistanse og slep"}]
+    },
+    {
+      "id": "q-assistanse-002",
+      "concept_id": "sm-assistanse",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvorfor skal man holde folk unna en stram slepeline?",
+      "choices": [
+        "Ryker linen, slår den tilbake med stor kraft og kan skade alvorlig",
+        "Linen kan bli skitten",
+        "Den kan ruste",
+        "Det er ingen grunn til det"
+      ],
+      "correct": 0,
+      "explanation": "En stram slepeline lagrer mye energi. Hvis den ryker eller et feste løsner, slår linen tilbake med stor kraft og kan forårsake alvorlig personskade.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 e", "quote": "assistanse og slep"}]
+    },
+    {
+      "id": "q-assistanse-003",
+      "concept_id": "sm-assistanse",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Du ser en båt i drift med motorstopp i rolig vær. Hva er god sjømannskap?",
+      "choices": [
+        "Tilby hjelp så langt det er trygt, og bistå eller varsle hjelp ved behov",
+        "Kjøre forbi uten å bry deg",
+        "Filme situasjonen og dra videre",
+        "Kreve betaling før du nærmer deg"
+      ],
+      "correct": 0,
+      "explanation": "Til sjøs hjelper man andre i nød så langt det kan skje uten alvorlig fare for egen båt og mannskap. Du kan bistå direkte eller varsle Kystradio/Redningsselskapet.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 e", "quote": "assistanse og slep"}]
+    },
+    {
+      "id": "q-assistanse-004",
+      "concept_id": "sm-assistanse",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er viktig når du skal feste en slepeline om bord i båten din?",
+      "choices": [
+        "Bruk et solidt festepunkt (pullert/slepebøyle) som tåler belastningen",
+        "Fest den til rekka med en løs knute",
+        "Hold den i hånden hele tiden",
+        "Fest den til redningsvesten"
+      ],
+      "correct": 0,
+      "explanation": "Slepelinen skal festes til et solid punkt som tåler kreftene. Svake fester kan rives løs og bli farlige prosjektiler.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 e", "quote": "assistanse og slep"}]
+    },
+    {
+      "id": "q-assistanse-005",
+      "concept_id": "sm-assistanse",
+      "type": "flashcard",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Nevn tre forholdsregler ved sleping av en annen båt.",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Bruk solide festepunkter, hold lav og jevn fart, hold folk unna stram line, bruk passe lengde med litt elastisitet, og hold kontakt/avtal signaler mellom båtene.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 e", "quote": "assistanse og slep"}]
+    },
+    {
+      "id": "q-assistanse-006",
+      "concept_id": "sm-assistanse",
+      "type": "mcq",
+      "difficulty": 3,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Når bør du la være å gå inn i en assistanseoppgave selv?",
+      "choices": [
+        "Når det vil sette ditt eget mannskap eller din båt i alvorlig fare",
+        "Alltid – man skal aldri hjelpe andre",
+        "Bare hvis det er mørkt",
+        "Kun hvis du ikke kjenner de andre"
+      ],
+      "correct": 0,
+      "explanation": "Plikten til å hjelpe gjelder så langt det er trygt. Hvis vær, sjø eller egen kompetanse gjør at du selv kommer i alvorlig fare, skal du heller varsle profesjonell redning (Kystradio 120 / VHF 16).",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 d-e", "quote": "nødsituasjoner, varsling og redningstjenesten ... assistanse og slep"}]
+    },
+
+    {
+      "id": "q-ce-001",
+      "concept_id": "sm-battyper-ce",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilken CE-konstruksjonskategori er bygget for de tøffeste forholdene (åpent hav)?",
+      "choices": ["Kategori A", "Kategori B", "Kategori C", "Kategori D"],
+      "correct": 0,
+      "explanation": "Kategori A (havgående) er konstruert for åpent hav og kan tåle de hardeste forholdene. D er for beskyttet farvann og tåler minst.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f", "quote": "konstruksjonskategorier (CE) – for fritidsfartøy A, B, C, D"}]
+    },
+    {
+      "id": "q-ce-002",
+      "concept_id": "sm-battyper-ce",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilken CE-kategori er ment for beskyttet farvann som små innsjøer og elver?",
+      "choices": ["Kategori D", "Kategori A", "Kategori B", "Kategori C"],
+      "correct": 0,
+      "explanation": "Kategori D (beskyttet farvann) er for skjermede farvann, små innsjøer og elver med små bølger. Den tåler minst vind og sjø av de fire.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f", "quote": "konstruksjonskategorier (CE) – for fritidsfartøy A, B, C, D"}]
+    },
+    {
+      "id": "q-ce-003",
+      "concept_id": "sm-battyper-ce",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er en CIN-kode?",
+      "choices": [
+        "Skrognummeret – en unik 14-tegns identifikasjon av skroget",
+        "Båtførerbevisets nummer",
+        "Motorens serienummer",
+        "Forsikringspolisens nummer"
+      ],
+      "correct": 0,
+      "explanation": "CIN (Craft Identification Number) er skrognummeret på 14 tegn som unikt identifiserer det enkelte skroget.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h", "quote": "CIN kode (skrognummer)"}]
+    },
+    {
+      "id": "q-ce-004",
+      "concept_id": "sm-battyper-ce",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilken kategori (C) er typisk ment for kystfarvann og fjorder?",
+      "choices": ["Kategori C", "Kategori A", "Kategori D", "Kategori B"],
+      "correct": 0,
+      "explanation": "Kategori C (kystfarvann/inshore) er konstruert for kystnære farvann, fjorder og store innsjøer med moderat vind og bølger.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f", "quote": "A, B, C, D"}]
+    },
+    {
+      "id": "q-ce-005",
+      "concept_id": "sm-battyper-ce",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Du har en båt med CE-kategori D og vurderer en lengre tur i åpen kyst med kulingvarsel. Hva er riktig?",
+      "choices": [
+        "Båten er bare bygget for beskyttet farvann; ikke dra ut i åpen kyst i kuling",
+        "Kategori D tåler åpent hav fint",
+        "CE-kategori har ingen betydning for hvor du kan kjøre",
+        "Du kan kjøre uansett siden du har båtførerbevis"
+      ],
+      "correct": 0,
+      "explanation": "Kategori D er for beskyttet farvann og små bølger. Å dra ut i åpen kyst i kuling med en D-båt er uforsvarlig – velg farvann etter kategori og vær.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f", "quote": "forskjellige båttyper kan ha forskjellig bruksområde"}]
+    },
+    {
+      "id": "q-ce-006",
+      "concept_id": "sm-battyper-ce",
+      "type": "flashcard",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva forteller produsentskiltet på en fritidsbåt deg?",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Produsentskiltet viser blant annet CE-konstruksjonskategori, største anbefalte motorstyrke og maks antall personer/last. Disse grensene skal ikke overskrides.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h", "quote": "produsentskilt"}]
+    },
+    {
+      "id": "q-ce-007",
+      "concept_id": "sm-battyper-ce",
+      "type": "flashcard",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Ranger CE-kategoriene A, B, C, D etter hvilke forhold de tåler, fra mest til minst.",
+      "choices": [],
+      "correct": 0,
+      "explanation": "A (havgående) tåler mest, så B (utenskjærs), så C (kystfarvann/fjord), og D (beskyttet farvann) tåler minst vind og sjø.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f", "quote": "A, B, C, D"}]
+    },
+
+    {
+      "id": "q-trim-001",
+      "concept_id": "sm-trim-stabilitet",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er fribord?",
+      "choices": [
+        "Høyden fra vannlinjen opp til dekk/rekka",
+        "Avstanden fra baug til akter",
+        "Dybden under kjølen",
+        "Bredden på båten"
+      ],
+      "correct": 0,
+      "explanation": "Fribord er høyden fra vannlinjen opp til dekk eller rekka. Lavt fribord gjør at båten lettere tar inn vann over rekka.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 h", "quote": "fribord, dypgående, stabilitet og lasteevne"}]
+    },
+    {
+      "id": "q-trim-002",
+      "concept_id": "sm-trim-stabilitet",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva skjer når du overbelaster båten?",
+      "choices": [
+        "Båten synker dypere, fribordet reduseres og faren for å ta inn vann og kantre øker",
+        "Båten blir mer stabil",
+        "Båten planer lettere",
+        "Ingenting, så lenge motoren er sterk nok"
+      ],
+      "correct": 0,
+      "explanation": "Overlast senker båten dypere i vannet og reduserer fribordet, slik at den lettere tar inn vann over rekka og blir vanskeligere å manøvrere – økt fare for kantring.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 h", "quote": "betydningen av ikke å overbelaste båten"}]
+    },
+    {
+      "id": "q-trim-003",
+      "concept_id": "sm-trim-stabilitet",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvordan bør tung last plasseres for best stabilitet?",
+      "choices": [
+        "Lavt og jevnt fordelt for å holde tyngdepunktet lavt",
+        "Høyt oppe slik at dekket er fritt",
+        "Helt akterut",
+        "Det spiller ingen rolle"
+      ],
+      "correct": 0,
+      "explanation": "Tung last skal stues lavt og fordeles jevnt. Vekt høyt oppe hever tyngdepunktet og reduserer stabiliteten, slik at båten lettere krenger og kan kantre.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 g-h", "quote": "tilstrekkelig stabilitet"}]
+    },
+    {
+      "id": "q-trim-004",
+      "concept_id": "sm-trim-stabilitet",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva betyr trim på en båt?",
+      "choices": [
+        "Hvordan båten ligger i vannet på langs og på tvers",
+        "Båtens toppfart",
+        "Mengden drivstoff om bord",
+        "Antall personer om bord"
+      ],
+      "correct": 0,
+      "explanation": "Trim beskriver hvordan båten ligger i vannet – vinkelen på langs (baug/akter) og krenging på tvers. Riktig trim gir god planing, sikt og kontroll.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 g", "quote": "riktig trim"}]
+    },
+    {
+      "id": "q-trim-005",
+      "concept_id": "sm-trim-stabilitet",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "I en liten åpen båt reiser flere passasjerer seg samtidig og flytter seg ut til samme side. Hva er faren?",
+      "choices": [
+        "Tyngdepunktet heves og flyttes til siden – båten kan krenge kraftig og kantre",
+        "Båten blir mer stabil",
+        "Farten øker",
+        "Ingen fare så lenge alle har vest"
+      ],
+      "correct": 0,
+      "explanation": "Plutselige vektforflytninger i en liten båt hever og forskyver tyngdepunktet og kan få båten til å krenge kraftig eller kantre. Sitt lavt og fordelt.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 g-h", "quote": "tilstrekkelig stabilitet"}]
+    },
+    {
+      "id": "q-trim-006",
+      "concept_id": "sm-trim-stabilitet",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvor finner du grensene for maks antall personer og maks last for båten din?",
+      "choices": [
+        "På produsentskiltet",
+        "På båtførerbeviset",
+        "I sjøkartet",
+        "På redningsvesten"
+      ],
+      "correct": 0,
+      "explanation": "Produsentskiltet oppgir maks antall personer, maks last og største anbefalte motorstyrke. Disse grensene skal ikke overskrides.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 h", "quote": "lasteevne"}]
+    },
+
+    {
+      "id": "q-vedlikehold-001",
+      "concept_id": "sm-vedlikehold",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilke tre motorsystemer trekker pensum særlig frem for vedlikehold?",
+      "choices": [
+        "Drivstoffsystem, kjølesystem og smøreolje",
+        "Radio, GPS og ekkolodd",
+        "Vinduspusser, lys og horn",
+        "Anker, fortøyning og fender"
+      ],
+      "correct": 0,
+      "explanation": "Pensum nevner drivstoffsystem, kjølesystem og smøreolje som sentrale punkter i vedlikehold av motoren.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 i", "quote": "drivstoffsystem, kjølesystem, smøreolje"}]
+    },
+    {
+      "id": "q-vedlikehold-002",
+      "concept_id": "sm-vedlikehold",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "På en utenbordsmotor – hva indikerer en synlig vannstråle («tiss») under gange?",
+      "choices": [
+        "At kjølevannet sirkulerer som det skal",
+        "At motoren har for mye olje",
+        "At drivstoffet lekker",
+        "At batteriet er fulladet"
+      ],
+      "correct": 0,
+      "explanation": "Vannstrålen viser at kjølevannspumpen sirkulerer vann gjennom motoren. Uteblir strålen, kan motoren overopphetes – stopp og undersøk.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 i", "quote": "kjølesystem"}]
+    },
+    {
+      "id": "q-vedlikehold-003",
+      "concept_id": "sm-vedlikehold",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvorfor er det viktig å sjekke smøreolje regelmessig?",
+      "choices": [
+        "For lite eller dårlig olje kan føre til motorhavari",
+        "Olje påvirker farten",
+        "Olje hindrer brann",
+        "Olje erstatter kjølevann"
+      ],
+      "correct": 0,
+      "explanation": "Smøreolje hindrer slitasje og overoppheting i motoren. For lite eller dårlig olje gir økt friksjon og kan ødelegge motoren.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 i", "quote": "smøreolje"}]
+    },
+    {
+      "id": "q-vedlikehold-004",
+      "concept_id": "sm-vedlikehold",
+      "type": "flashcard",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Nevn fire ting du bør sjekke før hver tur.",
+      "choices": [],
+      "correct": 0,
+      "explanation": "F.eks. drivstoffnivå/lekkasje, oljenivå, kjøling/kjølevann, batteri, været, og at sikkerhetsutstyret (vester, bluss, slukker, lanterner) er om bord og i orden.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 i", "quote": "godt vedlikehold av båt, motor, rigg og utstyr"}]
+    },
+    {
+      "id": "q-vedlikehold-005",
+      "concept_id": "sm-vedlikehold",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva bør du særlig kontrollere på en seilbåt i tillegg til motoren?",
+      "choices": [
+        "Stående og løpende rigg, vant, fester, tau og blokker",
+        "Bare drivstoffet",
+        "Kun fenderne",
+        "Ingenting ekstra"
+      ],
+      "correct": 0,
+      "explanation": "På seilbåt må riggen kontrolleres: stående og løpende rigg, vant, fester og slitasje i tau og blokker. Riggsvikt kan være farlig.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 i", "quote": "godt vedlikehold av båt, motor, rigg og utstyr"}]
+    },
+    {
+      "id": "q-vedlikehold-006",
+      "concept_id": "sm-vedlikehold",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Du merker at motoren begynner å bli unormalt varm under gange. Hva er en sannsynlig årsak knyttet til vedlikehold?",
+      "choices": [
+        "Svikt i kjølesystemet, f.eks. tett kjølevannssil eller slitt impeller",
+        "For mye drivstoff på tanken",
+        "At redningsvestene er for gamle",
+        "At ankeret ikke er festet"
+      ],
+      "correct": 0,
+      "explanation": "Overoppheting skyldes ofte sviktende kjøling – tett sil, slitt impeller eller manglende kjølevannssirkulasjon. Stopp og undersøk for å unngå motorhavari.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 i", "quote": "kjølesystem"}]
+    },
+
+    {
+      "id": "q-fortoyning-001",
+      "concept_id": "sm-fortoyning-anker",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvorfor er det vanlig å ha kjetting nærmest ankeret?",
+      "choices": [
+        "Kjettingen legger seg langs bunnen og trekker ankeret horisontalt så det graver seg ned",
+        "Kjetting flyter bedre enn tau",
+        "Kjetting er billigere enn tau",
+        "Kjetting gjør ankeret lettere å heve"
+      ],
+      "correct": 0,
+      "explanation": "Vekten av kjettingen nærmest ankeret holder draget horisontalt langs bunnen, slik at ankeret graver seg ned og holder bedre.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 j", "quote": "arrangement av dregg/anker"}]
+    },
+    {
+      "id": "q-fortoyning-002",
+      "concept_id": "sm-fortoyning-anker",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "En vanlig tommelfingerregel for hvor mye ankerline/kjetting du bør stikke ut er:",
+      "choices": [
+        "Minst 3–5 ganger vanndybden",
+        "Akkurat like mye som vanndybden",
+        "Halvparten av vanndybden",
+        "Maks én meter uansett dybde"
+      ],
+      "correct": 0,
+      "explanation": "En vanlig regel er å stikke ut minst 3–5 ganger vanndybden (mer ved dårlig vær eller bare line). For kort utstukket lengde gjør at ankeret løsner.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 j", "quote": "arrangement av dregg/anker"}]
+    },
+    {
+      "id": "q-fortoyning-003",
+      "concept_id": "sm-fortoyning-anker",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er hensikten med fjærende fortøyning (strekkavlaster/fjær)?",
+      "choices": [
+        "Å dempe rykk fra bølger og vind så tau og fester ikke ryker",
+        "Å gjøre båten raskere",
+        "Å hindre at båten flyter",
+        "Å erstatte fendere"
+      ],
+      "correct": 0,
+      "explanation": "Fjærende fortøyning demper de harde rykkene fra bølger og vind, slik at belastningen på tau og fester reduseres og fortøyningen varer lenger.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 j", "quote": "sikker og forsvarlig fortøyning"}]
+    },
+    {
+      "id": "q-fortoyning-004",
+      "concept_id": "sm-fortoyning-anker",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Du ankrer for natten på et sted med stort tidevann. Hva må du passe på med fortøyningen til land?",
+      "choices": [
+        "Tilpasse lengden så fortøyningen ikke blir for stram ved høyvann eller henger båten opp ved lavvann",
+        "Stramme alt maksimalt",
+        "Bruke kortest mulig tau",
+        "Tidevann har ingen betydning"
+      ],
+      "correct": 0,
+      "explanation": "Ved stort tidevann endres vannstanden mye. Fortøyningen må gi nok slakk slik at den ikke blir for stram ved høyvann eller henger båten opp ved lavvann.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 j", "quote": "sikker og forsvarlig fortøyning"}]
+    },
+    {
+      "id": "q-fortoyning-005",
+      "concept_id": "sm-fortoyning-anker",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvordan kontrollerer du at ankeret faktisk holder etter at du har satt det?",
+      "choices": [
+        "Legg båten litt akterover for å sette ankeret, og peil mot land for å se om båten ligger i ro",
+        "Trekk ankeret opp igjen med en gang",
+        "Kjør i sirkel rundt ankeret",
+        "Det er ikke mulig å kontrollere"
+      ],
+      "correct": 0,
+      "explanation": "Du setter ankeret ved å legge båten forsiktig akterover, og kontrollerer holdet ved å peile mot faste landemerker for å se om båten driver.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 j", "quote": "arrangement av dregg/anker"}]
+    },
+    {
+      "id": "q-fortoyning-006",
+      "concept_id": "sm-fortoyning-anker",
+      "type": "flashcard",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er forskjellen på en dregg og et vanlig anker?",
+      "choices": [],
+      "correct": 0,
+      "explanation": "En dregg har flere armer/klør og er enkel og lett, egnet for små båter og hard/steinete bunn. Et anker (plog, Bruce o.l.) graver seg ned og gir bedre hold på sand/leirbunn.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 j", "quote": "arrangement av dregg/anker"}]
+    },
+
+    {
+      "id": "q-miljo-001",
+      "concept_id": "sm-miljo",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva skal du gjøre med spillolje og brukte batterier fra båten?",
+      "choices": [
+        "Levere det på godkjent mottak for farlig avfall",
+        "Kaste det i sjøen langt fra land",
+        "Brenne det om bord",
+        "Grave det ned på en holme"
+      ],
+      "correct": 0,
+      "explanation": "Spillolje, batterier og annet farlig avfall skal leveres på godkjent mottak i land. Utslipp i sjøen er forbudt og skader miljøet.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 k", "quote": "viktige miljøhensyn slik som utslipp"}]
+    },
+    {
+      "id": "q-miljo-002",
+      "concept_id": "sm-miljo",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Du nærmer deg et fuglefredningsområde i hekketiden. Hva er riktig?",
+      "choices": [
+        "Hold god avstand, respekter ferdsels-/ilandstigningsforbud og ikke forstyrr fuglelivet",
+        "Kjøre tett innpå for å se fuglene",
+        "Gå i land og plukke egg",
+        "Tute for å skremme fuglene opp"
+      ],
+      "correct": 0,
+      "explanation": "Naturreservater og fuglefredningsområder har ofte ferdsels- og ilandstigningsforbud i hekketiden. Hold avstand og vis hensyn til dyrelivet.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 k", "quote": "reservater, nasjonalparker"}]
+    },
+    {
+      "id": "q-miljo-003",
+      "concept_id": "sm-miljo",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilken sjøvettregel handler om å vise hensyn, også til miljøet?",
+      "choices": [
+        "Regel 7 – Vis hensyn",
+        "Regel 1 – Tenk sikkerhet",
+        "Regel 4 – Følg sjøveisreglene",
+        "Regel 6 – Vær uthvilt og edru"
+      ],
+      "correct": 0,
+      "explanation": "Sjøvettregel 7 «Vis hensyn» understreker at sikkerhet, miljø og trivsel er et felles ansvar.",
+      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Regel 7", "quote": "Sikkerhet, miljø og trivsel er et felles ansvar."}]
+    },
+    {
+      "id": "q-miljo-004",
+      "concept_id": "sm-miljo",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er riktig om unødvendig støy og bølgeslag nær land?",
+      "choices": [
+        "Det skal begrenses; bølgeslag kan skade andre båter, brygger og dyreliv",
+        "Det er alltid greit så lenge du holder fartsgrensen",
+        "Bølgeslag er aldri et problem",
+        "Støy er kun et problem om natten"
+      ],
+      "correct": 0,
+      "explanation": "Unødvendig støy og bølgeslag skal begrenses av hensyn til både miljø og andre. Bølgeslag kan skade fortøyde båter, brygger og dyreliv, og er regulert i reglene for norske farvann.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 k", "quote": "forsøpling og støy"}]
+    },
+    {
+      "id": "q-miljo-005",
+      "concept_id": "sm-miljo",
+      "type": "flashcard",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Nevn tre miljøhensyn en båtfører skal ta.",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Unngå utslipp av olje/drivstoff/kloakk, respekter reservater og nasjonalparker, ta med alt avfall til land (ikke forsøple), og begrens unødvendig støy og bølgeslag.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 k", "quote": "utslipp, reservater, nasjonalparker, forsøpling og støy"}]
+    },
+    {
+      "id": "q-miljo-006",
+      "concept_id": "sm-miljo",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvor skal toalettavfall (septik) helst tømmes?",
+      "choices": [
+        "I mottaksanlegg i land der det finnes; mange områder har forbud mot tømming nær land",
+        "Rett i sjøen uansett hvor du er",
+        "På land i naturen",
+        "Det spiller ingen rolle hvor"
+      ],
+      "correct": 0,
+      "explanation": "Kloakk/septik skal tømmes i mottaksanlegg i land der det finnes. Mange områder har forbud mot tømming av kloakk nær land og i sårbare områder.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 k", "quote": "viktige miljøhensyn slik som utslipp"}]
+    },
+
+    {
+      "id": "q-ansvar-001",
+      "concept_id": "sm-ansvar-forsikring",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Er det lovpålagt å ha forsikring på fritidsbåt i Norge?",
+      "choices": [
+        "Nei, men det er sterkt anbefalt",
+        "Ja, på lik linje med bil",
+        "Ja, men bare for båter over 15 meter",
+        "Nei, og det er heller ikke mulig å forsikre båt"
+      ],
+      "correct": 0,
+      "explanation": "Båtforsikring er ikke lovpålagt i Norge (i motsetning til bil), men sterkt anbefalt – særlig ansvarsdekning, da skader på tredjepart kan bli svært kostbare.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 l", "quote": "ansvarsforhold og forsikringsmuligheter"}]
+    },
+    {
+      "id": "q-ansvar-002",
+      "concept_id": "sm-ansvar-forsikring",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva dekker en ansvarsforsikring på båt?",
+      "choices": [
+        "Skade du påfører andre personer, båter eller eiendom",
+        "Bare skade på din egen båt",
+        "Drivstoffutgifter",
+        "Kun tyveri av båten"
+      ],
+      "correct": 0,
+      "explanation": "Ansvarsforsikring dekker skade du påfører tredjepart. Skade på egen båt dekkes av kasko/delkasko.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 l", "quote": "forsikringsmuligheter"}]
+    },
+    {
+      "id": "q-ansvar-003",
+      "concept_id": "sm-ansvar-forsikring",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvem har ansvaret for at ferdselen skjer trygt og lovlig om bord?",
+      "choices": [
+        "Føreren av båten",
+        "Passasjerene",
+        "Forsikringsselskapet",
+        "Den som eier bryggen"
+      ],
+      "correct": 0,
+      "explanation": "Føreren har ansvaret for fartøyet, alle om bord og at ferdselen skjer i samsvar med lover og regler – inkludert edruskap, fart, vikeplikt og flyteutstyr.",
+      "source_refs": [{"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47", "section": "Småbåtloven", "quote": "føreren har ansvar"}]
+    },
+    {
+      "id": "q-ansvar-004",
+      "concept_id": "sm-ansvar-forsikring",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Du forårsaker en kollisjon mens du er beruset over promillegrensen. Hvilken konsekvens kan dette få for forsikringen?",
+      "choices": [
+        "Erstatningen kan avkortes eller falle bort fordi sikkerhetsforskrifter er brutt",
+        "Forsikringen dekker alltid uansett",
+        "Det påvirker ikke forsikringen",
+        "Du får høyere erstatning"
+      ],
+      "correct": 0,
+      "explanation": "Brudd på sikkerhetsforskrifter (som promillegrensen) kan føre til at forsikringsselskapet avkorter eller nekter erstatning. Føreren kan også bli straffe- og erstatningsansvarlig.",
+      "source_refs": [{"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§33", "section": "§33 Promille", "quote": "påvirket av alkohol"}]
+    },
+    {
+      "id": "q-ansvar-005",
+      "concept_id": "sm-ansvar-forsikring",
+      "type": "flashcard",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er forskjellen på ansvarsforsikring og kaskoforsikring?",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Ansvarsforsikring dekker skade du påfører andre. Kasko (eller delkasko) dekker i tillegg skade på din egen båt, f.eks. kollisjon, brann, tyveri og grunnstøting.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 l", "quote": "forsikringsmuligheter"}]
+    },
+    {
+      "id": "q-ansvar-006",
+      "concept_id": "sm-ansvar-forsikring",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva krever mange forsikringsselskaper for at båtforsikringen skal gjelde fullt ut?",
+      "choices": [
+        "At fører har gyldig båtførerbevis der det kreves, og at sikkerhetsforskrifter følges",
+        "At båten er rød",
+        "At føreren er over 40 år",
+        "At båten alltid ligger på land"
+      ],
+      "correct": 0,
+      "explanation": "Vilkårene krever typisk at fører har gyldig båtførerbevis der det er påkrevd, at båten brukes i avtalt fartsområde, og at sikkerhetsforskrifter (flyteutstyr, edruskap) følges. Brudd kan gi avkortning eller bortfall.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 l", "quote": "ansvarsforhold og forsikringsmuligheter"}]
+    },
+
+    {
+      "id": "q-forstehjelp-001",
+      "concept_id": "sm-forstehjelp",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva står huskeregelen BLÅS for i førstehjelp?",
+      "choices": [
+        "Bevissthet, Luftveier, Åndedrett, Sirkulasjon",
+        "Blod, Luft, Åre, Skade",
+        "Bandasje, Liggestilling, Åre, Stabilt",
+        "Båt, Land, Ankring, Slep"
+      ],
+      "correct": 0,
+      "explanation": "BLÅS = Bevissthet, Luftveier, Åndedrett, Sirkulasjon. Det gir rekkefølgen du sjekker en bevisstløs/skadd person i.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 m", "quote": "BLÅS (bevissthet, luftveier, åndedrett, sirkulasjon)"}]
+    },
+    {
+      "id": "q-forstehjelp-002",
+      "concept_id": "sm-forstehjelp",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er forholdet mellom brystkompresjoner og innblåsninger ved HLR på voksen?",
+      "choices": ["30 kompresjoner : 2 innblåsninger", "15 : 2", "5 : 1", "10 : 10"],
+      "correct": 0,
+      "explanation": "Hjerte-lunge-redning på voksen utføres med 30 brystkompresjoner etterfulgt av 2 innblåsninger (30:2), gjentatt til personen viser tegn til liv eller hjelp overtar.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 m", "quote": "HLR (hjerte- lungeredning)"}]
+    },
+    {
+      "id": "q-forstehjelp-003",
+      "concept_id": "sm-forstehjelp",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvordan skal en sterkt nedkjølt (hypoterm) person behandles?",
+      "choices": [
+        "Håndteres varsomt, isoleres mot kulde og varmes gradvis",
+        "Gnis kraftig og legges i varmt bad straks",
+        "Settes til å løpe for å bli varm",
+        "Gis sterk alkohol for å varmes opp"
+      ],
+      "correct": 0,
+      "explanation": "En nedkjølt person skal håndteres varsomt (brå bevegelser kan utløse hjertestans), tas ut av vinden, isoleres mot kulde og varmes gradvis. Ikke gni eller varm for raskt.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 m", "quote": "nedkjøling (hypotermi)"}]
+    },
+    {
+      "id": "q-forstehjelp-004",
+      "concept_id": "sm-forstehjelp",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvordan stanser du en stor ytre blødning?",
+      "choices": [
+        "Direkte trykk mot såret og høyt leie",
+        "Helle kaldt vann på",
+        "La det blø ut",
+        "Gni såret"
+      ],
+      "correct": 0,
+      "explanation": "En stor ytre blødning stanses med direkte trykk mot såret og ved å heve den skadde kroppsdelen (høyt leie). Tilkall hjelp ved alvorlig blødning.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 m", "quote": "behandling av indre/ytre blødninger"}]
+    },
+    {
+      "id": "q-forstehjelp-005",
+      "concept_id": "sm-forstehjelp",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "En person reddes om bord etter lengre tid i kaldt vann og er svært nedkjølt. Hva er IKKE riktig å gjøre?",
+      "choices": [
+        "Gni kroppen hardt og dyppe personen i varmt vann med en gang",
+        "Ta personen ut av vinden",
+        "Isolere mot kulde, også under personen",
+        "Håndtere personen forsiktig"
+      ],
+      "correct": 0,
+      "explanation": "Hard gniing og brå oppvarming er feil – det kan presse kaldt blod mot hjertet og utløse hjertestans. Håndter varsomt, isoler og varm gradvis.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 m", "quote": "nedkjøling (hypotermi)"}]
+    },
+    {
+      "id": "q-forstehjelp-006",
+      "concept_id": "sm-forstehjelp",
+      "type": "flashcard",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er en høyenergiskade, og hvorfor er den spesielt farlig?",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Høyenergiskade oppstår ved kollisjon eller fall i høy fart. Det kan være alvorlige indre skader (nakke/rygg/organer) selv uten synlige ytre tegn – håndter personen varsomt og tilkall profesjonell hjelp.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 m", "quote": "skader ... som følge av kollisjon eller fall i høy hastighet (høyenergiskader)"}]
+    },
+
+    {
+      "id": "q-meteo-001",
+      "concept_id": "sm-meteorologi",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilken sjøvettregel handler om å respektere vær og farvann?",
+      "choices": [
+        "Regel 3 – Respekter vær og farvann",
+        "Regel 1 – Tenk sikkerhet",
+        "Regel 5 – Bruk redningsvest",
+        "Regel 7 – Vis hensyn"
+      ],
+      "correct": 0,
+      "explanation": "Sjøvettregel 3 sier at båten bare må benyttes under egnede forhold – respekter vær og farvann.",
+      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Regel 3", "quote": "Båten må bare benyttes under egnede forhold."}]
+    },
+    {
+      "id": "q-meteo-002",
+      "concept_id": "sm-meteorologi",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva skjer typisk med bølgene når vinden blåser mot strømmen/tidevannet?",
+      "choices": [
+        "Bølgene blir kortere, brattere og farligere",
+        "Bølgene forsvinner helt",
+        "Sjøen blir flat og rolig",
+        "Bølgene blir lavere og lange"
+      ],
+      "correct": 0,
+      "explanation": "Vind mot strøm gir kortere, brattere og mer brytende sjø som er farligere for en liten båt enn lange bølger i samme retning som strømmen.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 n", "quote": "sjøforhold"}]
+    },
+    {
+      "id": "q-meteo-003",
+      "concept_id": "sm-meteorologi",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva bestemmer hvor høye bølgene blir?",
+      "choices": [
+        "Vindstyrke, hvor lenge vinden har blåst og strøklengden",
+        "Bare lufttemperaturen",
+        "Bare månefasen",
+        "Antall båter i området"
+      ],
+      "correct": 0,
+      "explanation": "Bølgehøyden øker med vindstyrken, hvor lenge vinden har blåst og strøklengden (hvor langt vinden har virket over åpent vann).",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 n", "quote": "vær og vind, sjøforhold"}]
+    },
+    {
+      "id": "q-meteo-004",
+      "concept_id": "sm-meteorologi",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Det legger seg tåke og sikten faller raskt mens du er ute. Hva gjør du?",
+      "choices": [
+        "Setter ned farten, holder skjerpet utkikk, bruker lanterner og gir tåkesignal",
+        "Øker farten for å komme fortere hjem",
+        "Slår av alle lys for å spare strøm",
+        "Stoler kun på øynene og fortsetter som før"
+      ],
+      "correct": 0,
+      "explanation": "Ved nedsatt sikt skal du redusere farten, holde ekstra god utkikk, vise lanterner og gi tåkesignal (sjøveisregel 35), og navigere etter kart, kompass og GPS.",
+      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5/§35", "section": "Regel 35", "quote": "lydsignaler under nedsatt sikt"}]
+    },
+    {
+      "id": "q-meteo-005",
+      "concept_id": "sm-meteorologi",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvorfor kan fralandsvind være lumsk for en båtfører?",
+      "choices": [
+        "Det kan være rolig nær land, men hardt og krevende lenger ut",
+        "Den blåser alltid båten mot land",
+        "Den gir alltid flat sjø overalt",
+        "Den merkes ikke i det hele tatt"
+      ],
+      "correct": 0,
+      "explanation": "Ved fralandsvind kan det virke lunt og rolig nær land, mens vinden og sjøen er mye hardere lenger ute. Det kan lure deg langt ut før forholdene blir krevende.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 n", "quote": "vær og vind"}]
+    },
+    {
+      "id": "q-meteo-006",
+      "concept_id": "sm-meteorologi",
+      "type": "flashcard",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva bør du sjekke om været før du legger ut på tur?",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Sjekk værmelding (vind, vindretning, bølger, sikt, nedbør) for området og turperioden, ha en alternativ plan/havn, og følg med på endringer underveis.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 n", "quote": "meteorologiske forhold – vær og vind, sjøforhold, siktforhold"}]
+    },
+
+    {
+      "id": "q-vannsport-001",
+      "concept_id": "sm-vannsport",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilke regler gjelder for vannscooter i dag?",
+      "choices": [
+        "Samme regler som for fritidsbåt (særreglene ble opphevet i 2017)",
+        "Egne strenge vannscooterregler med forbudssoner",
+        "Ingen regler i det hele tatt",
+        "Bare regler om hjelm"
+      ],
+      "correct": 0,
+      "explanation": "De egne vannscooterreglene ble opphevet i 2017. Nå gjelder samme regler som for fritidsbåt: vikeplikt, fartsgrenser, flyteutstyr og promille. Minstealder er 16 år.",
+      "image_file": "redningsselskapet/images/content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
+      "source_refs": [{"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "Vannscooter", "quote": "samme regler som båt"}]
+    },
+    {
+      "id": "q-vannsport-002",
+      "concept_id": "sm-vannsport",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva bør du ha i tillegg til føreren når du sleper en person på vannski/tube?",
+      "choices": [
+        "En egen observatør som følger med på personen i sleip",
+        "Ingen ekstra – føreren ser alt selv",
+        "To ekstra motorer",
+        "En politibåt i nærheten"
+      ],
+      "correct": 0,
+      "explanation": "Det anbefales å ha en egen observatør i tillegg til føreren, som holder øye med personen som slepes og gir tegn til føreren. Føreren må konsentrere seg om kjøringen.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 o", "quote": "sikkerhet i forbindelse med vannsportsaktiviteter"}]
+    },
+    {
+      "id": "q-vannsport-003",
+      "concept_id": "sm-vannsport",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva må du gjøre når noen er i vannet helt nær båten?",
+      "choices": [
+        "Sette motoren i fri/stoppe den på grunn av propellfaren",
+        "Holde full gass for å være klar",
+        "Sette på autopilot",
+        "Tute tre ganger"
+      ],
+      "correct": 0,
+      "explanation": "En roterende propell er svært farlig. Stopp motoren (eller sett i fri) når noen er i vannet helt nær båten, for eksempel ved opptak av en faller eller bading.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 o", "quote": "sikkerhet i forbindelse med vannsportsaktiviteter"}]
+    },
+    {
+      "id": "q-vannsport-004",
+      "concept_id": "sm-vannsport",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvilken minstealder gjelder for å føre vannscooter?",
+      "choices": ["16 år", "12 år", "15 år", "18 år"],
+      "correct": 0,
+      "explanation": "Vannscooter følger båtreglene, og minstealderen er 16 år (siden motoren er over 10 hk). En vannscooter som kan gå 50 knop eller mer krever i tillegg høyhastighetsbevis (18 år).",
+      "image_file": "redningsselskapet/images/content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
+      "source_refs": [{"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "Minstealder", "quote": "minstealder 16 år for motor over 10 hk"}]
+    },
+    {
+      "id": "q-vannsport-005",
+      "concept_id": "sm-vannsport",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Du kjører vannscooter som kan gå 60 knop. Hvilke bevis må du ha?",
+      "choices": [
+        "Både båtførerbevis og høyhastighetsbevis (minst 18 år)",
+        "Bare båtførerbevis",
+        "Ingen bevis kreves for vannscooter",
+        "Bare høyhastighetsbevis"
+      ],
+      "correct": 0,
+      "explanation": "Et fartøy som kan gå 50 knop eller mer krever høyhastighetsbevis (fra våren 2023, minstealder 18 år) i tillegg til båtførerbevis. 60 knop ligger over grensen.",
+      "source_refs": [{"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "Høyhastighetsbevis", "quote": "50 knop eller mer ... minstealder 18 år"}]
+    },
+    {
+      "id": "q-vannsport-006",
+      "concept_id": "sm-vannsport",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvor nær badende er det forbudt å passere?",
+      "choices": ["Nærmere enn 50 meter", "Nærmere enn 5 meter", "Nærmere enn 200 meter", "Det finnes ingen grense"],
+      "correct": 0,
+      "explanation": "Det er forbudt å passere badende nærmere enn 50 meter. Mange steder gjelder også maks 5 knop nær land og badeplasser – sjekk lokale fartsforskrifter.",
+      "source_refs": [{"source_id": "lovdata_fartsforskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-12-15-1546", "section": "Passering av badende", "quote": "forbudt å passere badende nærmere enn 50 m"}]
+    },
+    {
+      "id": "q-vannsport-007",
+      "concept_id": "sm-vannsport",
+      "type": "flashcard",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Nevn tre sikkerhetstiltak ved vannsport/sleping av personer.",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Den slepte skal ha flyteutstyr, ha en egen observatør, hold god avstand til badende/land/andre båter, stopp motoren når noen er i vannet nær båten, og avtal håndsignaler.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 o", "quote": "sikkerhet i forbindelse med vannsportsaktiviteter"}]
+    },
+
+    {
+      "id": "q-hoyfart-001",
+      "concept_id": "sm-hoy-fart",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hva er en typisk fare ved å føre båt i høy fart?",
+      "choices": [
+        "Kortere reaksjonstid og innsnevret syn (tunnelsyn)",
+        "Bedre oversikt og lengre reaksjonstid",
+        "Lavere drivstofforbruk og mindre risiko",
+        "At sjøen blir flatere"
+      ],
+      "correct": 0,
+      "explanation": "Høy fart gir kortere tid til å oppdage og reagere på farer, og synsfeltet snevres inn (tunnelsyn) slik at du lettere overser farer i ytterkanten.",
+      "image_file": "redningsselskapet/images/content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 p", "quote": "innsnevret syn, tunnelsyn"}]
+    },
+    {
+      "id": "q-hoyfart-002",
+      "concept_id": "sm-hoy-fart",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvorfor er det ekstra risikabelt å se ned på kartplotteren i høy fart?",
+      "choices": [
+        "Båten flytter seg langt på kort tid mens du ikke ser fremover",
+        "Skjermen blir vanskelig å lese",
+        "GPS-en mister signal i fart",
+        "Det er ingen ekstra risiko"
+      ],
+      "correct": 0,
+      "explanation": "I høy fart tilbakelegges stor avstand på kort tid. Når du ser ned på elektronikk, har båten flyttet seg langt før du ser opp igjen, med stor fare for å overse hindringer.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 p", "quote": "forsinkelse ved bruk av elektronisk utstyr"}]
+    },
+    {
+      "id": "q-hoyfart-003",
+      "concept_id": "sm-hoy-fart",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvilken sjøveisregel krever at du alltid holder sikker og avpasset fart?",
+      "choices": ["Regel 6", "Regel 13", "Regel 18", "Regel 35"],
+      "correct": 0,
+      "explanation": "Sjøveisregel 6 krever at ethvert fartøy til enhver tid skal gå med sikker fart, tilpasset sikt, trafikk, farvann og forhold.",
+      "source_refs": [{"source_id": "lovdata_sjoveisreglene", "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5/§6", "section": "Regel 6", "quote": "Ethvert fartøy skal til enhver tid gå med sikker fart."}]
+    },
+    {
+      "id": "q-hoyfart-004",
+      "concept_id": "sm-hoy-fart",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Fra hvilken fart kreves høyhastighetsbevis i tillegg til båtførerbevis?",
+      "choices": [
+        "Når fartøyet kan gå 50 knop eller mer",
+        "Når fartøyet kan gå 25 knop eller mer",
+        "Når fartøyet kan gå 10 knop eller mer",
+        "Når fartøyet kan gå 100 knop eller mer"
+      ],
+      "correct": 0,
+      "explanation": "Høyhastighetsbevis (innført våren 2023, minstealder 18 år) kreves i tillegg til båtførerbevis for fritidsbåt under 24 m som kan gå 50 knop eller mer.",
+      "source_refs": [{"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "Høyhastighetsbevis", "quote": "50 knop eller mer"}]
+    },
+    {
+      "id": "q-hoyfart-005",
+      "concept_id": "sm-hoy-fart",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Du kjører fort langs en kyst med holmer, skjær og noen fortøyde båter. Hva er godt sjømannskap?",
+      "choices": [
+        "Senke farten i god tid og holde forsvarlig avstand til land og fortøyde båter",
+        "Holde høy fart helt inntil land for spenningens skyld",
+        "Kjøre tett forbi de fortøyde båtene",
+        "Stole på at andre viker for deg"
+      ],
+      "correct": 0,
+      "explanation": "Hold forsvarlig avstand til land, holmer, skjær og fortøyde båter, og senk farten i god tid. Da har du tid og rom til å reagere, og du unngår farlig bølgeslag.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 p", "quote": "forsvarlig avstand til land"}]
+    },
+    {
+      "id": "q-hoyfart-006",
+      "concept_id": "sm-hoy-fart",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvorfor blir konsekvensene av et sammenstøt mye verre i høy fart?",
+      "choices": [
+        "Energien i sammenstøtet øker kraftig med farten",
+        "Båtene blir lettere i høy fart",
+        "Vann demper alltid støtet uansett fart",
+        "Farten påvirker ikke skadeomfanget"
+      ],
+      "correct": 0,
+      "explanation": "Bevegelsesenergien øker med kvadratet av farten. Et sammenstøt i høy fart frigjør derfor mye mer energi og gir langt alvorligere (høyenergi-) skader.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 p", "quote": "risiko og konsekvenser"}]
+    },
+    {
+      "id": "q-hoyfart-007",
+      "concept_id": "sm-hoy-fart",
+      "type": "flashcard",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "List opp de viktigste farene ved høy fart til sjøs.",
+      "choices": [],
+      "correct": 0,
+      "explanation": "Kortere reaksjonstid, innsnevret syn/tunnelsyn, forsinkelse ved bruk av elektronikk, behov for forsvarlig avstand til land, og mye større konsekvenser (høyenergiskader) ved sammenstøt.",
+      "source_refs": [{"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 p / 1.4.7", "quote": "farer forbundet med høy fart"}]
+    },
+
+    {
+      "id": "q-godtsjo-001",
+      "concept_id": "sm-godt-sjomannskap",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvor mange sjøvettregler er det?",
+      "choices": ["7", "5", "10", "3"],
+      "correct": 0,
+      "explanation": "Det er 7 sjøvettregler, fra «Tenk sikkerhet» til «Vis hensyn». De oppsummerer kjernen i godt sjømannskap.",
+      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "De 7 sjøvettreglene", "quote": "De 7 sjøvettreglene"}]
+    },
+    {
+      "id": "q-godtsjo-002",
+      "concept_id": "sm-godt-sjomannskap",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hva er promillegrensen for fører av fritidsbåt under 15 meter?",
+      "choices": ["0,8 ‰", "0,2 ‰", "0,5 ‰", "1,0 ‰"],
+      "correct": 0,
+      "explanation": "Promillegrensen er 0,8 ‰ for fritidsbåt under 15 meter. For båt på 15 meter eller mer er grensen 0,2 ‰. Sjøvettregel 6: vær uthvilt og edru.",
+      "source_refs": [{"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§33", "section": "§33", "quote": "promillegrense 0,8 for fritidsbåt under 15 m"}]
+    },
+    {
+      "id": "q-godtsjo-003",
+      "concept_id": "sm-godt-sjomannskap",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvilken sjøvettregel handler om å bruke redningsvest eller flyteplagg?",
+      "choices": ["Regel 5", "Regel 1", "Regel 4", "Regel 7"],
+      "correct": 0,
+      "explanation": "Sjøvettregel 5 sier «Bruk redningsvest eller flyteplagg». Det er påbudt å ha på seg flyteutstyr i båter under 8 m, og båter f.o.m. 8 m skal ha egnet flyteutstyr til alle om bord.",
+      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Regel 5", "quote": "Bruk redningsvest eller flyteplagg."}]
+    },
+    {
+      "id": "q-godtsjo-004",
+      "concept_id": "sm-godt-sjomannskap",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva handler sjøvettregel 1 «Tenk sikkerhet» om?",
+      "choices": [
+        "At kunnskap og planlegging reduserer risikoen og øker trivselen",
+        "At man alltid skal kjøre fortest mulig",
+        "At man bare trenger flyteutstyr",
+        "At man skal stole på flaks"
+      ],
+      "correct": 0,
+      "explanation": "Sjøvettregel 1 «Tenk sikkerhet» minner om at kunnskap og planlegging reduserer risikoen og øker trivselen på sjøen.",
+      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Regel 1", "quote": "Kunnskap og planlegging reduserer risikoen og øker trivselen."}]
+    },
+    {
+      "id": "q-godtsjo-005",
+      "concept_id": "sm-godt-sjomannskap",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Du planlegger en dagstur i ukjent farvann. Hvilke valg er i tråd med godt sjømannskap?",
+      "choices": [
+        "Sjekk vær og utstyr, fortell noen hvor du skal og når du er tilbake, og planlegg ruten",
+        "Dra ut uten å si fra til noen og uten å sjekke været",
+        "Ta med så mange folk som mulig uansett båtstørrelse",
+        "Stol på at andre passer på deg"
+      ],
+      "correct": 0,
+      "explanation": "Godt sjømannskap innebærer planlegging: sjekk vær og utstyr, fortell noen om planene og forventet retur, og legg en gjennomtenkt rute med alternativer.",
+      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Regel 1", "quote": "Kunnskap og planlegging reduserer risikoen."}]
+    },
+    {
+      "id": "q-godtsjo-006",
+      "concept_id": "sm-godt-sjomannskap",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "sjomannskap",
+      "prompt": "Hvilken sjøvettregel handler om å følge vikeplikt, hastighet og lanterneføring?",
+      "choices": [
+        "Regel 4 – Følg sjøveisreglene",
+        "Regel 2 – Ta med nødvendig utstyr",
+        "Regel 6 – Vær uthvilt og edru",
+        "Regel 3 – Respekter vær og farvann"
+      ],
+      "correct": 0,
+      "explanation": "Sjøvettregel 4 «Følg sjøveisreglene» peker på at bestemmelsene om vikeplikt, hastighet og lanterneføring må overholdes.",
+      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Regel 4", "quote": "Bestemmelsene om vikeplikt, hastighet og lanterneføring må overholdes."}]
+    },
+    {
+      "id": "q-godtsjo-007",
+      "concept_id": "sm-godt-sjomannskap",
+      "type": "flashcard",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Ramse opp de 7 sjøvettreglene.",
+      "choices": [],
+      "correct": 0,
+      "explanation": "1) Tenk sikkerhet. 2) Ta med nødvendig utstyr. 3) Respekter vær og farvann. 4) Følg sjøveisreglene. 5) Bruk redningsvest eller flyteplagg. 6) Vær uthvilt og edru. 7) Vis hensyn.",
+      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "De 7 sjøvettreglene", "quote": "Tenk sikkerhet ... Vis hensyn."}]
+    },
+    {
+      "id": "q-godtsjo-008",
+      "concept_id": "sm-godt-sjomannskap",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "sjomannskap",
+      "prompt": "Hva er kjernen i sjøvettregel 7 «Vis hensyn»?",
+      "choices": [
+        "At sikkerhet, miljø og trivsel er et felles ansvar",
+        "At man alltid har forkjørsrett",
+        "At man bare skal tenke på seg selv",
+        "At man kan kjøre som man vil utenfor havner"
+      ],
+      "correct": 0,
+      "explanation": "Sjøvettregel 7 understreker at sikkerhet, miljø og trivsel er et felles ansvar, og at egen adferd påvirker andres sikkerhet og trivsel.",
+      "source_refs": [{"source_id": "redningsselskapet_sjovett", "url": "https://rs.no/sikker-til-sjos/sjovettreglene/", "section": "Regel 7", "quote": "Sikkerhet, miljø og trivsel er et felles ansvar."}]
+    }
+  ]
+}

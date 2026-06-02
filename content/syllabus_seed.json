@@ -1,0 +1,49 @@
+{
+  "_note": "Offisiell pensumstruktur til båtførerprøven (Sjøfartsdirektoratet, revidert 2014). Fire deler; del 4 (spesielt viktige emner) vektes tyngre på prøven og krever egen ≥80% bestått.",
+  "areas": [
+    {"id": "sjomannskap", "title": "Sjømannskap", "ord": 1, "note": "Sikkerhet, utstyr, nød, vær, godt sjømannskap (pensum 1.1)."},
+    {"id": "lover", "title": "Lover og regler", "ord": 2, "note": "Sjøveisreglene, lanterner, lydsignaler og lover/forskrifter for fritidsbåt (pensum 1.2)."},
+    {"id": "navigasjon", "title": "Navigasjon og kartlesing", "ord": 3, "note": "Sjømerker, fyr, kart, kompass, elektronikk, fart/distanse (pensum 1.3)."},
+    {"id": "spesielt", "title": "Spesielt viktige emner", "ord": 4, "note": "Høyt vektede emner (pensum 1.4). Egen beståttgrense ≥80%. Hentes på tvers av del 1–3."}
+  ],
+  "topics": [
+    {"id": "sm_sikkerhetsutstyr", "area_id": "sjomannskap", "pensum_ref": "1.1 a", "title": "Sikkerhetsutrustning og riktig bruk", "ord": 1},
+    {"id": "sm_brann", "area_id": "sjomannskap", "pensum_ref": "1.1 b", "title": "Brannfare og brannslukking", "ord": 2},
+    {"id": "sm_vhf_nod", "area_id": "sjomannskap", "pensum_ref": "1.1 c-d", "title": "VHF/mobil, nødsituasjoner og varsling", "ord": 3},
+    {"id": "sm_assistanse", "area_id": "sjomannskap", "pensum_ref": "1.1 e", "title": "Assistanse og slep", "ord": 4},
+    {"id": "sm_battyper_ce", "area_id": "sjomannskap", "pensum_ref": "1.1 f", "title": "Båttyper og CE-konstruksjonskategorier", "ord": 5},
+    {"id": "sm_trim_stabilitet", "area_id": "sjomannskap", "pensum_ref": "1.1 g-h", "title": "Trim, stabilitet, last og fribord", "ord": 6},
+    {"id": "sm_vedlikehold", "area_id": "sjomannskap", "pensum_ref": "1.1 i", "title": "Vedlikehold av båt, motor og utstyr", "ord": 7},
+    {"id": "sm_fortoyning_anker", "area_id": "sjomannskap", "pensum_ref": "1.1 j", "title": "Fortøyning og ankring", "ord": 8},
+    {"id": "sm_miljo", "area_id": "sjomannskap", "pensum_ref": "1.1 k", "title": "Miljøhensyn", "ord": 9},
+    {"id": "sm_ansvar_forsikring", "area_id": "sjomannskap", "pensum_ref": "1.1 l", "title": "Ansvar og forsikring", "ord": 10},
+    {"id": "sm_forstehjelp", "area_id": "sjomannskap", "pensum_ref": "1.1 m", "title": "Førstehjelp (BLÅS, HLR, hypotermi)", "ord": 11},
+    {"id": "sm_meteorologi", "area_id": "sjomannskap", "pensum_ref": "1.1 n", "title": "Meteorologi: vær, vind, sjø og sikt", "ord": 12},
+    {"id": "sm_vannsport", "area_id": "sjomannskap", "pensum_ref": "1.1 o", "title": "Sikkerhet ved vannsport", "ord": 13},
+    {"id": "sm_hoy_fart", "area_id": "sjomannskap", "pensum_ref": "1.1 p", "title": "Farer ved høy fart", "ord": 14},
+    {"id": "sm_godt_sjomannskap", "area_id": "sjomannskap", "pensum_ref": "1.1 q", "title": "Godt sjømannskap og sjøvettreglene", "ord": 15},
+
+    {"id": "lr_styring_seilas", "area_id": "lover", "pensum_ref": "1.2 a", "title": "Sjøveisreglene: styring og seilas (vikeplikt)", "ord": 1},
+    {"id": "lr_lanterner", "area_id": "lover", "pensum_ref": "1.2 b", "title": "Lanterner og signalfigurer", "ord": 2},
+    {"id": "lr_lydsignaler_utstyr", "area_id": "lover", "pensum_ref": "1.2 c", "title": "Utstyr for lydsignaler (regel 33)", "ord": 3},
+    {"id": "lr_manoversignaler", "area_id": "lover", "pensum_ref": "1.2 d", "title": "Manøversignaler (regel 34)", "ord": 4},
+    {"id": "lr_nedsatt_sikt", "area_id": "lover", "pensum_ref": "1.2 e", "title": "Lydsignaler ved nedsatt sikt (regel 35)", "ord": 5},
+    {"id": "lr_nodsignaler", "area_id": "lover", "pensum_ref": "1.2 f", "title": "Nødsignaler (vedlegg IV)", "ord": 6},
+    {"id": "lr_norske_farvann", "area_id": "lover", "pensum_ref": "1.2 g", "title": "Regler for norske farvann (regel 43, 44, 45, 54)", "ord": 7},
+    {"id": "lr_smabatloven", "area_id": "lover", "pensum_ref": "1.2 h", "title": "Småbåtloven og sentrale forskrifter", "ord": 8},
+    {"id": "lr_promille", "area_id": "lover", "pensum_ref": "1.2 h / 1.4.5", "title": "Promillegrense for båtfører", "ord": 9},
+    {"id": "lr_flyteutstyr_regler", "area_id": "lover", "pensum_ref": "1.2 h / 1.4.5", "title": "Regler for bruk av flyteutstyr", "ord": 10},
+    {"id": "lr_fartsregler", "area_id": "lover", "pensum_ref": "1.2 h", "title": "Fartsregler og fartsbegrensninger", "ord": 11},
+    {"id": "lr_batforerbevis", "area_id": "lover", "pensum_ref": "1.2 h", "title": "Båtførerbevis og minstealder", "ord": 12},
+    {"id": "lr_ce_registrering", "area_id": "lover", "pensum_ref": "1.2 h", "title": "CE-merking, CIN, produsentskilt", "ord": 13},
+
+    {"id": "nv_sjomerker_iala", "area_id": "navigasjon", "pensum_ref": "1.3 a / 1.4.1", "title": "Sjømerker og IALA A-systemet", "ord": 1},
+    {"id": "nv_fyr_lykter_sektor", "area_id": "navigasjon", "pensum_ref": "1.3 a / 1.4.2", "title": "Fyr, lykter, sektorer og lyskarakteristikker", "ord": 2},
+    {"id": "nv_kart_symboler", "area_id": "navigasjon", "pensum_ref": "1.3 b / 1.4.2", "title": "Kartets oppbygging, symboler og datum", "ord": 3},
+    {"id": "nv_kompass", "area_id": "navigasjon", "pensum_ref": "1.3 c-d", "title": "Kompass, deviasjon og misvisning", "ord": 4},
+    {"id": "nv_elektronisk", "area_id": "navigasjon", "pensum_ref": "1.3 e", "title": "Elektroniske navigasjonshjelpemidler (GPS/plotter)", "ord": 5},
+    {"id": "nv_strom_tidevann", "area_id": "navigasjon", "pensum_ref": "1.3 f", "title": "Strøm og tidevann", "ord": 6},
+    {"id": "nv_fart_distanse", "area_id": "navigasjon", "pensum_ref": "1.3 i", "title": "Fart, tid og distanse (beregninger)", "ord": 7},
+    {"id": "nv_orientering", "area_id": "navigasjon", "pensum_ref": "1.3 g-h", "title": "Orientering i kartet (kompass, GPS, landemerker)", "ord": 8}
+  ]
+}

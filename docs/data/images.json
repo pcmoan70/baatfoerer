@@ -1,0 +1,224 @@
+[
+  {
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3ace3ec8.png",
+    "alt": "kardinalmerker",
+    "term": "kardinalmerker",
+    "category": "sjomerke_kardinal"
+  },
+  {
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-e495ce75.png",
+    "alt": "nordmerke",
+    "term": "nordmerke",
+    "category": "sjomerke_kardinal"
+  },
+  {
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-9db6004e.png",
+    "alt": "frittliggende grunne (HFB-merke)",
+    "term": "frittliggende grunne (HFB-merke)",
+    "category": "sjomerke_frittliggende_grunne"
+  },
+  {
+    "src": "data/img/kystverket__images__contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
+    "alt": "fartsgrense (farvannsskilt)",
+    "term": "fartsgrense (farvannsskilt)",
+    "category": "farvannsskilt"
+  },
+  {
+    "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-sjomaling-illustrasjon.jpg-37269907.jpg",
+    "alt": "sjømåling / dybdemåling",
+    "term": "sjømåling / dybdemåling",
+    "category": "annet"
+  },
+  {
+    "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-bil-fc4ec090.jpg",
+    "alt": "navigasjon med sjøkart",
+    "term": "navigasjon med sjøkart",
+    "category": "navigasjon_foto"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2016-01-sjomerke_blindleia.jpg",
+    "alt": "fastmerke med visarm (peker mot trygt farvann)",
+    "term": "fastmerke med visarm (peker mot trygt farvann)",
+    "category": "sjomerke_frittliggende_grunne"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2025-08-nordmerk_m_bakgrunn.png",
+    "alt": "nordmerke",
+    "term": "nordmerke",
+    "category": "sjomerke_kardinal"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2016-01-sideavmerking_rod.jpg",
+    "alt": "babord lateralmerke (rød stake)",
+    "term": "babord lateralmerke (rød stake)",
+    "category": "sjomerke_lateral"
+  },
+  {
+    "src": "data/img/lanternenkurs__images__wp-content-uploads-2023-09-sjomerke_blindleia-1.jpg",
+    "alt": "fastmerke med visarm",
+    "term": "fastmerke med visarm",
+    "category": "sjomerke_frittliggende_grunne"
+  },
+  {
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3531b831.png",
+    "alt": "flytende merke (gul/sort)",
+    "term": "flytende merke (gul/sort)",
+    "category": "sjomerke_lateral"
+  },
+  {
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-fc2c9bd2.png",
+    "alt": "rød lateralstake / babordmerke",
+    "term": "rød lateralstake / babordmerke",
+    "category": "sjomerke_lateral"
+  },
+  {
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-ab0cc6eb.png",
+    "alt": "midtleds-/senterledsmerke (rød-hvit)",
+    "term": "midtleds-/senterledsmerke (rød-hvit)",
+    "category": "sjomerke_senterleds"
+  },
+  {
+    "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg",
+    "alt": "fyr (Halten fyr)",
+    "term": "fyr (Halten fyr)",
+    "category": "fyr_lykt"
+  },
+  {
+    "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg",
+    "alt": "seilasplanlegging / kartlesing",
+    "term": "seilasplanlegging / kartlesing",
+    "category": "navigasjon_foto"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2016-01-frittliggende_grunne.jpg",
+    "alt": "merke for frittliggende grunne (isolert fare)",
+    "term": "merke for frittliggende grunne (isolert fare)",
+    "category": "sjomerke_frittliggende_grunne"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2016-01-gront_merke.jpg",
+    "alt": "grønn stake / styrbord lateralmerke",
+    "term": "grønn stake / styrbord lateralmerke",
+    "category": "sjomerke_lateral"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2025-08-ostmerke_m_bakgrunn.png",
+    "alt": "østmerke (øst-kardinalmerke)",
+    "term": "østmerke (øst-kardinalmerke)",
+    "category": "sjomerke_kardinal"
+  },
+  {
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-2ab44bb4.png",
+    "alt": "flytende merke (gul-sort variant)",
+    "term": "flytende merke (gul-sort variant)",
+    "category": "sjomerke_lateral"
+  },
+  {
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a4eee04b.png",
+    "alt": "styrbord lateralmerke (grønt)",
+    "term": "styrbord lateralmerke (grønt)",
+    "category": "sjomerke_lateral"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2026-04-senterledsmerke-1024x731.png",
+    "alt": "senterledsmerke (midtfarvann / trygt-vann)",
+    "term": "senterledsmerke (midtfarvann / trygt-vann)",
+    "category": "sjomerke_senterleds"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2025-08-sormerker_m_bakgrunn.png",
+    "alt": "kardinalmerke (sørmerke)",
+    "term": "kardinalmerke (sørmerke)",
+    "category": "sjomerke_kardinal"
+  },
+  {
+    "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-iala-system-for-sjomerker-boyer-o-c9789993.png",
+    "alt": "laterale sjømerker (IALA-systemet)",
+    "term": "laterale sjømerker (IALA-systemet)",
+    "category": "sjomerke_lateral"
+  },
+  {
+    "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg",
+    "alt": "lyskarakteristikker",
+    "term": "lyskarakteristikker",
+    "category": "lyskarakteristikk"
+  },
+  {
+    "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-vikeplikt-seilbat-styrbord-babord-c68f4be2.png",
+    "alt": "vikeplikt mellom seilbåter (styrbord/babord halser)",
+    "term": "vikeplikt mellom seilbåter (styrbord/babord halser)",
+    "category": "vikeplikt_diagram"
+  },
+  {
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a67ae32f.png",
+    "alt": "spesialmerke / hinder-/varselsmerke (gul-svart)",
+    "term": "spesialmerke / hinder-/varselsmerke (gul-svart)",
+    "category": "sjomerke_spesial"
+  },
+  {
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-1436d7ea.png",
+    "alt": "gult kryss-merke (X-topptegn) / spesialmerke",
+    "term": "gult kryss-merke (X-topptegn) / spesialmerke",
+    "category": "sjomerke_spesial"
+  },
+  {
+    "src": "data/img/kystverket__images__contentassets-0cdf44808b804bcfbe32912ae78e972c-eksempel-pa-s-d80e5d08.jpg",
+    "alt": "fyrlykt med sektorer / sektorinndeling",
+    "term": "fyrlykt med sektorer / sektorinndeling",
+    "category": "fyr_lykt"
+  },
+  {
+    "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg",
+    "alt": "kartarbeid / kursplotting",
+    "term": "kartarbeid / kursplotting",
+    "category": "navigasjon_foto"
+  },
+  {
+    "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-hero.jpg-3b9cbf77.jpg",
+    "alt": "bruk av sjøkart / redningsvest om bord",
+    "term": "bruk av sjøkart / redningsvest om bord",
+    "category": "navigasjon_foto"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2026-04-badeboye_spesialmerke-1024x731.png",
+    "alt": "spesialmerke (gult, X-topptegn) – f.eks. badebøye",
+    "term": "spesialmerke (gult, X-topptegn) – f.eks. badebøye",
+    "category": "sjomerke_spesial"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
+    "alt": "vannscooter (høyhastighetsfartøy)",
+    "term": "vannscooter (høyhastighetsfartøy)",
+    "category": "annet"
+  },
+  {
+    "src": "data/img/redningsselskapet__images__content-uploads-2025-08-vestmerke_m_bakgrunn.png",
+    "alt": "vestmerke (vest kardinalmerke)",
+    "term": "vestmerke (vest kardinalmerke)",
+    "category": "sjomerke_kardinal"
+  },
+  {
+    "src": "data/img/lanternenkurs__images__wp-content-uploads-2023-09-sjomerke_blindleia-1-1024x900.jpg",
+    "alt": "fartsgrenseskilt (5 knop) / farvannsskilt",
+    "term": "fartsgrenseskilt (5 knop) / farvannsskilt",
+    "category": "farvannsskilt"
+  },
+  {
+    "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-ferge-nevlunghavn-atlantic-lanternen-batforerkurs.png",
+    "alt": "passasjerskip / ferge",
+    "term": "passasjerskip / ferge",
+    "category": "annet"
+  },
+  {
+    "src": "data/img/bukt__images__quiz-static-img-articles-kardinalmerker.svg",
+    "alt": "kardinalmerker (nord, øst, sør, vest)",
+    "term": "kardinalmerker (nord, øst, sør, vest)",
+    "category": "sjomerke_kardinal"
+  },
+  {
+    "src": "data/img/bukt__images__quiz-static-img-articles-lateralmerker.svg",
+    "alt": "lateralmerker (babordmerke og styrbordmerke)",
+    "term": "lateralmerker (babordmerke og styrbordmerke)",
+    "category": "sjomerke_lateral"
+  }
+]

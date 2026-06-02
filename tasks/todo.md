@@ -20,13 +20,25 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
 - Note: lovdata blokkert av robots (lenke-only per plan); goypasjoen/bliskipper
   er JS-tunge private sider (1 side hver) — lav prioritet, inspirasjon-only
 
-## Fase 1 — Normalisering og innholdsmodell
+## Fase 1 — Database + innholdsmodell ← PÅGÅR
 
-- [ ] `scraper/parse_sources.py` — strukturer rådata
-- [ ] `scraper/normalize.py` — bygg `data_processed/sources.json`
-- [ ] Definer pensumstruktur `syllabus.json` (4 hovedområder)
-- [ ] Definer konseptmodell `concepts.json`
+- [ ] **God database**: SQLite kilde-database `content/batforer.db` (normalisert)
+- [ ] `content/schema.sql` — sources, areas, topics, concepts, learning_goals,
+      questions, choices, *_sources, images, concept_images
+- [ ] `content/syllabus_seed.json` — offisiell pensumstruktur (4 deler, revidert 2014)
+- [ ] `content/build_db.py` — last seed + forfattet innhold + bilder → DB
+- [ ] `content/validate.py` — fasit, forklaring, source_refs, dubletter, dekning
+- [ ] `content/export_json.py` — DB → `docs/data/*.json` (frontend-bundles)
 - [ ] `scraper/diff.py` — kildeendringsvarsling (checksum-diff)
+
+## Fase 2 — Innhold (egne spørsmål, dekker hele pensum)
+
+- [ ] Konsepter + forklaringer for ALLE pensumpunkter (1.1–1.4), egne ord
+- [ ] Skriv om privat-skrapet innhold; korrekt mot lov/forskrift/sjøveisregler
+- [ ] Knytt analyserte fagbilder til konsepter (sjømerker, lanterner, fyr)
+- [ ] Dype regelreferanser (lovdata, sjøveisregler, sdir-pensum) per spørsmål
+- [ ] Stor spørsmålsbank; ekstra vekt på «spesielt viktige emner» (1.4)
+- [ ] Validator + faglig kontroll av lovfakta (promille, flyteutstyr, vikeplikt)
 
 ## Kildelenking-prinsipp (gjelder alt innhold) 🔗
 

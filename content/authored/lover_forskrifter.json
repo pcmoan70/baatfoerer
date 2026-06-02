@@ -1,0 +1,1037 @@
+{
+  "concepts": [
+    {
+      "id": "lr-smabatloven-sentrale-bestemmelser",
+      "area": "lover",
+      "topic": "Småbåtloven og sentrale forskrifter",
+      "title": "Småbåtloven – sentrale bestemmelser for fritidsbåtfører",
+      "importance": "high",
+      "exam_area": "lover",
+      "summary": "Småbåtloven (lov om fritids- og småbåter, LOV-1998-06-26-47) er rammeloven for fritidsbåtbruk i Norge og regulerer blant annet aktsomhet, fart, promille, flyteutstyr, registrering og førerkompetanse.",
+      "body": "Småbåtloven, formelt «lov om fritids- og småbåter» (LOV-1998-06-26-47), er den sentrale loven som regulerer bruk av fritidsbåter i Norge. Loven gir både direkte regler og hjemmel til en rekke forskrifter som utdyper kravene.\n\nNoen av de viktigste bestemmelsene en båtfører må kjenne:\n\n- **Aktsomhetsplikt (§ 24):** Båten skal brukes hensynsfullt og slik at det ikke oppstår fare eller skade, og slik at andre ikke unødig blir forstyrret eller hindret. Føreren har ansvar for sikker ferdsel.\n- **Fartsplikt (§§ 24–26):** Det skal alltid holdes en avpasset og forsvarlig fart etter forholdene. Loven og forskrifter gir hjemmel til lokale fartsgrenser.\n- **Krav til flyteutstyr (§ 23a):** Det skal være egnet flyteutstyr til alle om bord, og i mindre båter er det krav om at flyteutstyret faktisk brukes når båten er i fart.\n- **Promillegrense (§ 33):** Forbud mot å føre båt i påvirket tilstand, med konkrete promillegrenser avhengig av båtens lengde.\n- **Krav til kompetanse (båtførerbevis):** Hjemmel for forskrift om at visse førere må ha båtførerbevis.\n- **Registrering:** Hjemmel for registrering av fritidsbåter. Obligatorisk registrering har vært utredet, men er ikke innført som generell plikt.\n\nLoven håndheves av politiet, og brudd kan medføre bøter, beslag og i alvorlige tilfeller fengsel. Som båtfører er du juridisk ansvarlig for at båten brukes i samsvar med loven og lokale forskrifter for området du ferdes i.",
+      "learning_goals": [
+        "Vite at småbåtloven (LOV-1998-06-26-47) er rammeloven for fritidsbåtbruk i Norge.",
+        "Kjenne til at loven regulerer aktsomhet, fart, promille, flyteutstyr og førerkompetanse.",
+        "Forstå at båtføreren er juridisk ansvarlig for sikker og hensynsfull ferdsel.",
+        "Vite at loven gir hjemmel til en rekke utdypende forskrifter og lokale regler."
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47", "section": "LOV-1998-06-26-47 – lov om fritids- og småbåter", "quote": "Lov om fritids- og småbåter regulerer bruk av fritidsbåter, herunder aktsomhet, fart, flyteutstyr og promille."},
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h – Lover og forskrifter for fritidsbåt", "quote": "Pensum dekker sentrale bestemmelser i småbåtloven og tilhørende forskrifter."}
+      ]
+    },
+    {
+      "id": "lr-promille-baatforer",
+      "area": "lover",
+      "topic": "Promillegrense for båtfører",
+      "title": "Promillegrense og ruspåvirkning ved føring av båt",
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "summary": "Det er forbudt å føre fritidsbåt i ruspåvirket tilstand. For fritidsbåt under 15 m gjelder promillegrense 0,8 ‰; for båt 15 m eller lengre gjelder 0,2 ‰.",
+      "body": "Promillereglene for båtfører står i småbåtloven § 33. Den som fører en fritidsbåt skal ikke være påvirket av alkohol eller andre berusende eller bedøvende midler.\n\nDe konkrete grensene avhenger av båtens lengde:\n\n- **Fritidsbåt under 15 meter:** Promillegrensen er **0,8 ‰**. En fører anses som påvirket (og dermed ulovlig) ved alkoholkonsentrasjon i blodet på 0,8 promille eller mer.\n- **Båt 15 meter eller lengre:** Her gjelder den strengere grensen på **0,2 ‰**, på linje med yrkesfartøy.\n\nI tillegg er det forbud mot å føre båt under påvirkning av andre berusende eller bedøvende midler (for eksempel narkotika eller visse medisiner) uavhengig av båtlengde.\n\nDet er viktig å merke seg at 0,8-grensen for de minste fritidsbåtene er høyere enn promillegrensen for bilkjøring (0,2 ‰ på vei). Dette betyr likevel ikke at det er trygt å drikke før man fører båt: alkohol svekker dømmekraft, reaksjonstid og balanse, og kombinert med sol, vind, bølger og kulde øker ulykkesrisikoen kraftig. Godt sjømannskap tilsier at føreren holder seg edru.\n\nPolitiet kan kreve utåndingsprøve, blodprøve og gjennomføre kontroll. Brudd på promillebestemmelsen kan straffes med bøter eller fengsel.",
+      "learning_goals": [
+        "Kunne promillegrensen 0,8 ‰ for fritidsbåt under 15 m og 0,2 ‰ for båt 15 m eller lengre.",
+        "Vite at det også er forbudt å føre båt påvirket av andre berusende/bedøvende midler.",
+        "Forstå at alkohol svekker dømmekraft og reaksjonstid, og at godt sjømannskap tilsier edru fører.",
+        "Vite at brudd kan medføre bøter eller fengsel og at politiet kan kreve prøve."
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§33", "section": "Småbåtloven § 33 – påvirkning av alkohol mv.", "quote": "Fritidsbåt under 15 meter: promillegrense 0,8. Båt 15 meter eller lengre: 0,2."},
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.4.5 – Promille og ruspåvirkning", "quote": "Promillegrensen er et spesielt viktig emne i pensum."}
+      ]
+    },
+    {
+      "id": "lr-flyteutstyr-bruk-regler",
+      "area": "lover",
+      "topic": "Regler for bruk av flyteutstyr",
+      "title": "Påbud om flyteutstyr – under 8 m, i fart, utendørs, CE-merket",
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "summary": "Det skal være egnet flyteutstyr til alle om bord. I båt under 8 m skal alle som oppholder seg utendørs ha flyteutstyret på seg når båten er i fart. Utstyret skal være CE-/rattmerket.",
+      "body": "Reglene om flyteutstyr følger av småbåtloven § 23a og forskrift om flyte- og redningsutstyr på fritidsbåter (FOR-1995-05-08-409).\n\n**Krav om tilstrekkelig antall:** Det skal alltid være egnet flyteutstyr (redningsvest eller flyteplagg) til **alle om bord**. Antallet og størrelsene må passe til personene i båten – også barn må ha eget, riktig tilpasset utstyr.\n\n**Påbud om å ha utstyret på seg (under 8 m):** I fritidsbåt **under 8 meter** skal alle som oppholder seg **utendørs (på dekk/i det fri)** ha **flyteutstyr på seg når båten er i fart**. Påbudet om å bruke utstyret gjelder altså de minste båtene, der risikoen for å havne i sjøen er størst.\n\n**Unntak:** Påbudet om å ha utstyret på seg gjelder ikke når man oppholder seg helt eller delvis under dekk eller i et lukket styrehus/lugar, der man er beskyttet mot å falle over bord.\n\n**Krav til selve utstyret (CE/rattmerket):** Flyte- og redningsutstyr skal være **CE-merket / rattmerket** (godkjent etter gjeldende standarder). Utstyret må være i god stand, riktig størrelse for brukeren, og oppblåsbare vester må vedlikeholdes (kontroll av patron og automatutløser).\n\nSelv der loven kun krever at utstyret finnes om bord (større båter), tilsier godt sjømannskap at alle bruker flyteutstyr – de fleste som drukner fra fritidsbåt brukte ikke vest. Å ha vesten på seg før uhellet er nøkkelen, for det kan være umulig å få den på etter at man har havnet i vannet.",
+      "learning_goals": [
+        "Vite at det skal være egnet flyteutstyr til alle om bord, tilpasset hver person.",
+        "Kjenne påbudet: i båt under 8 m skal alle utendørs ha flyteutstyr PÅ SEG når båten er i fart.",
+        "Kjenne unntaket for opphold under dekk / i lukket styrehus.",
+        "Vite at flyteutstyret skal være CE-/rattmerket og i god stand."
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§23a", "section": "Småbåtloven § 23a – flyteutstyr", "quote": "I båt under 8 meter skal alle om bord ha på seg flyteutstyr når båten er i fart."},
+        {"source_id": "lovdata_flyteutstyr", "url": "https://lovdata.no/dokument/SF/forskrift/1995-05-08-409", "section": "FOR-1995-05-08-409 – forskrift om flyte- og redningsutstyr", "quote": "Det skal finnes egnet, godkjent flyteutstyr til alle om bord."},
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.4.5 – Bruk av flyteutstyr", "quote": "Bruk av flyteutstyr er et spesielt viktig emne i pensum."}
+      ]
+    },
+    {
+      "id": "lr-fartsregler-fartsbegrensninger",
+      "area": "lover",
+      "topic": "Fartsregler og fartsbegrensninger",
+      "title": "Fartsregler – 50 m fra badende, 5 knop nær land, lokale grenser",
+      "importance": "high",
+      "exam_area": "lover",
+      "summary": "Det er alltid plikt til avpasset fart. Det er forbudt å passere badende nærmere enn 50 m, mange steder gjelder maks 5 knop nær land og i havner, og kommunene kan fastsette lokale fartsgrenser for fartøy opp til 24 m.",
+      "body": "Fartsreglene følger av sjøveisreglenes krav om sikker fart, småbåtloven og fartsforskrifter (bl.a. FOR-2009-12-15-1546) samt havne- og farvannsloven med lokale forskrifter.\n\n**Avpasset fart (alltid):** Etter sjøveisreglene (regel 6) skal du alltid holde sikker og avpasset fart slik at du kan stoppe eller manøvrere trygt etter forholdene – sikt, trafikk, bølger og farvann.\n\n**Badende – 50 meter:** Det er forbudt å passere **nærmere enn 50 meter fra badende**. Hold god avstand og lav fart der folk bader.\n\n**5 knop nær land og i havner:** Mange steder gjelder en fartsgrense på **maks 5 knop** nærmere enn 50 eller 100 meter fra land, holmer, fortøyde båter, badeplasser og i havneområder. Dette varierer fra sted til sted – du må alltid sjekke den **lokale fartsforskriften** for området. Fartsgrenser skiltes ofte med firkantet farvannsskilt (rød kant, hvitt felt, sort tall) som viser tillatt antall knop.\n\n**Lokale/kommunale fartsgrenser:** **Kommunene** kan etter havne- og farvannsloven fastsette lokale fartsgrenser for fritidsfartøy med lengde **opp til 24 meter**, for hele eller deler av året. Ordningen ble endret fra 2022, slik at kommunene har myndighet til å regulere fart i sine sjøområder. Du som fører er ansvarlig for å kjenne og følge de lokale grensene der du ferdes.\n\n**Ansvar ved bølgeslag:** Selv om du holder fartsgrensen, kan du bli ansvarlig hvis bølgeslag (hekkbølger) fra båten din volder skade eller fare for andre. Senk farten ved passering av små båter, badeplasser, brygger og trange løp.",
+      "learning_goals": [
+        "Vite at det alltid skal holdes avpasset og sikker fart etter forholdene.",
+        "Kunne regelen om forbud mot å passere badende nærmere enn 50 m.",
+        "Kjenne at det mange steder gjelder maks 5 knop nær land, fortøyde båter og i havner.",
+        "Vite at kommunene kan fastsette lokale fartsgrenser for fartøy opp til 24 m, og at du må sjekke lokal forskrift."
+      ],
+      "image_files": ["kystverket/images/contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg"],
+      "source_refs": [
+        {"source_id": "lovdata_fartsforskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-12-15-1546", "section": "FOR-2009-12-15-1546 – fartsbegrensninger", "quote": "Forbud mot å passere badende nærmere enn 50 meter; lokale fartsgrenser kan fastsettes."},
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§24", "section": "Småbåtloven § 24 – aktsomhet og fart", "quote": "Fartøy skal føres med avpasset fart slik at det ikke oppstår fare eller skade."},
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h – Fartsregler", "quote": "Kommunene kan fastsette lokale fartsgrenser for fritidsfartøy opp til 24 meter."}
+      ]
+    },
+    {
+      "id": "lr-batforerbevis-minstealder",
+      "area": "lover",
+      "topic": "Båtførerbevis og minstealder",
+      "title": "Båtførerbevis, minstealder og høyhastighetsbevis",
+      "importance": "high",
+      "exam_area": "lover",
+      "summary": "Båtførerbevis kreves for personer født 1.1.1980 eller senere som skal føre fritidsbåt over 8 m eller med motor over 25 hk. Minstealder er 16 år for motor over 10 hk. Fra 2023 kreves høyhastighetsbevis (18 år) for båt som kan gå 50 knop eller mer.",
+      "body": "Krav til førerkompetanse for fritidsbåt følger av forskrift om båtførerbevis mv. (FOR-2009-03-03-259) med hjemmel i småbåtloven.\n\n**Båtførerbevis:** Personer **født 1. januar 1980 eller senere** må ha **båtførerbevis** for å føre fritidsbåt som er **over 8 meter lang** eller har motor på **mer enn 25 hk**. Med båtførerbevis kan man føre fritidsbåt opp til 15 meter innenfor Norge. Personer født før 1.1.1980 er unntatt fra beviskravet, men må selvsagt følge alle andre regler.\n\n**Minstealder:** Minstealderen for å føre fritidsbåt med motor på **mer enn 10 hk** er **16 år**. Personer under 16 år kan føre båt med motor på inntil 10 hk.\n\n**VIKTIG ENDRING – 10-knopsgrensen fjernet:** Tidligere fantes en regel om at førere under 16 år kunne kjøre båt over 10 hk dersom farten var under 10 knop. Denne **10-knopsgrensen ble fjernet 1. juli 2021**. Nå er det **kun motorstyrken (hk), ikke farten**, som avgjør aldersgrensen. Det er altså feil å si at en under 16 år kan føre en kraftig motor så lenge man holder under 10 knop.\n\n**Høyhastighetsbevis (nytt fra 2023):** I tillegg til båtførerbevis kreves det **høyhastighetsbevis** for å føre fritidsbåt under 24 meter som kan gå **50 knop eller mer**. Minstealderen for høyhastighetsbevis er **18 år**. Dette beviset ble innført våren 2023 og krever ekstra opplæring i å håndtere svært hurtiggående båter.\n\n**Vannscooter:** Vannscooter regnes som fritidsbåt og følger samme regler (de egne vannscooterreglene ble opphevet i 2017). Det betyr blant annet 16-årsgrense og krav om båtførerbevis på samme vilkår som annen båt.\n\n**Registrering:** Obligatorisk registrering av fritidsbåt har vært foreslått og utredet, men er ikke innført som generell plikt – omtales som mulig kommende ordning, ikke gjeldende krav.",
+      "learning_goals": [
+        "Vite at båtførerbevis kreves for født ≥1.1.1980 ved båt over 8 m eller motor over 25 hk.",
+        "Kunne minstealder 16 år for motor over 10 hk.",
+        "Vite at 10-knopsgrensen for under 16 år ble fjernet 1.7.2021 – kun hk avgjør nå.",
+        "Kjenne høyhastighetsbeviset (fra 2023) for båt som kan gå ≥50 knop, minstealder 18 år.",
+        "Vite at vannscooter følger samme regler som båt."
+      ],
+      "image_files": ["redningsselskapet/images/content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg"],
+      "source_refs": [
+        {"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "FOR-2009-03-03-259 – båtførerbevis og minstealder", "quote": "Båtførerbevis kreves for født 1.1.1980 eller senere ved båt over 8 m eller motor over 25 hk; minstealder 16 år for motor over 10 hk."},
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h – Båtførerbevis og høyhastighetsbevis", "quote": "Høyhastighetsbevis kreves fra 2023 for fritidsbåt som kan gå 50 knop eller mer, minstealder 18 år."}
+      ]
+    },
+    {
+      "id": "lr-ce-merking-cin-registrering",
+      "area": "lover",
+      "topic": "CE-merking, CIN og produsentdokumentasjon",
+      "title": "CE-konstruksjonskategorier, CIN-skrognummer og produsentskilt",
+      "importance": "high",
+      "exam_area": "lover",
+      "summary": "Fritidsbåter skal være CE-merket med konstruksjonskategori A, B, C eller D etter hvilket farvann de er bygget for. Båten har et unikt CIN-skrognummer, et produsentskilt og skal følges av samsvarserklæring og brukerhåndbok.",
+      "body": "Fritidsbåter som er bygget eller satt på markedet i EØS skal være **CE-merket** etter fritidsbåtdirektivet. CE-merkingen viser at båten oppfyller krav til sikkerhet og konstruksjon.\n\n**CE-konstruksjonskategorier (A–D):** Kategorien forteller hvilke farvanns- og værforhold båten er konstruert for:\n\n- **Kategori A – havgående:** Bygget for åpent hav og krevende forhold (kraftig vind og høy sjø).\n- **Kategori B – utenskjærs / åpent hav:** For seilas i åpent farvann med moderat til frisk vind og betydelig sjø.\n- **Kategori C – kystfarvann/fjord:** For kystnært farvann, fjorder, store innsjøer og elver med moderate forhold.\n- **Kategori D – beskyttet farvann:** For skjermet farvann med små bølger og svak vind (innsjøer, elver, kanaler, beskyttede havner).\n\nKategorien er et minstekrav til hvor båten kan brukes forsvarlig – velg båt etter farvannet du skal ferdes i.\n\n**CIN – skrognummer:** Hver båt har et unikt **skrog-/identifikasjonsnummer (CIN – Craft Identification Number)** på 14 tegn, som er preget eller festet på skroget (vanligvis akter på styrbord side). CIN identifiserer produsent, byggeland, serienummer og byggeår, og brukes ved registrering, omsetning og forsikring.\n\n**Produsentskilt:** Båten skal ha et **produsentskilt** som blant annet oppgir produsent, CE-merke, konstruksjonskategori, største anbefalte antall personer og største last/motorytelse.\n\n**Samsvarserklæring og brukerhåndbok:** Med båten skal følge en **samsvarserklæring** (produsentens bekreftelse på at båten oppfyller kravene) og en **brukerhåndbok** på norsk med informasjon om sikker bruk, vedlikehold og begrensninger.\n\n**Registrering:** Fritidsbåter kan registreres frivillig (f.eks. i Småbåtregisteret). Obligatorisk registrering har vært utredet, men er ikke innført som generell plikt.",
+      "learning_goals": [
+        "Kunne CE-konstruksjonskategoriene A (havgående), B (utenskjærs), C (kystfarvann/fjord) og D (beskyttet farvann).",
+        "Vite at CIN er båtens unike 14-tegns skrognummer som identifiserer produsent og byggeår.",
+        "Kjenne hva produsentskiltet viser (kategori, maks antall personer, maks last/motor).",
+        "Vite at båten skal følges av samsvarserklæring og brukerhåndbok."
+      ],
+      "image_files": [],
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f – Båttyper og CE-konstruksjonskategorier", "quote": "CE-kategori A havgående, B utenskjærs, C kystfarvann/fjord, D beskyttet farvann; CIN-skrognummer, produsentskilt og samsvarserklæring."},
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47", "section": "Småbåtloven – krav til båt og utstyr", "quote": "Fritidsbåter skal oppfylle krav til konstruksjon og merking."}
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_lover_smabatloven_001",
+      "concept_id": "lr-smabatloven-sentrale-bestemmelser",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "lover",
+      "prompt": "Hva er småbåtloven (LOV-1998-06-26-47)?",
+      "choices": [
+        "Rammeloven som regulerer bruk av fritids- og småbåter i Norge",
+        "En forskrift kun om sjømerker og fyrlykter",
+        "En internasjonal konvensjon om handelsfartøy",
+        "EUs direktiv om fiskekvoter"
+      ],
+      "correct": 0,
+      "explanation": "Småbåtloven er den sentrale norske loven for fritidsbåtbruk og regulerer blant annet aktsomhet, fart, promille og flyteutstyr.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47", "section": "LOV-1998-06-26-47", "quote": "Lov om fritids- og småbåter."}
+      ]
+    },
+    {
+      "id": "q_lover_smabatloven_002",
+      "concept_id": "lr-smabatloven-sentrale-bestemmelser",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "normal",
+      "exam_area": "lover",
+      "prompt": "Hvem har hovedansvaret for at en fritidsbåt brukes i samsvar med loven?",
+      "choices": [
+        "Båtføreren",
+        "Passasjerene",
+        "Forsikringsselskapet",
+        "Kommunen"
+      ],
+      "correct": 0,
+      "explanation": "Føreren er juridisk ansvarlig for sikker og hensynsfull ferdsel etter småbåtlovens aktsomhetsplikt.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§24", "section": "Småbåtloven § 24", "quote": "Føreren skal bruke båten hensynsfullt og forsvarlig."}
+      ]
+    },
+    {
+      "id": "q_lover_smabatloven_003",
+      "concept_id": "lr-smabatloven-sentrale-bestemmelser",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "lover",
+      "prompt": "Hvilken av disse reguleres IKKE direkte av småbåtloven og dens forskrifter?",
+      "choices": [
+        "Skatteregler for båtprodusenter",
+        "Promillegrense for båtfører",
+        "Krav om flyteutstyr om bord",
+        "Krav til avpasset fart"
+      ],
+      "correct": 0,
+      "explanation": "Småbåtloven regulerer promille, flyteutstyr, fart og aktsomhet. Skatteregler hører ikke under denne loven.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47", "section": "LOV-1998-06-26-47", "quote": "Loven regulerer aktsomhet, fart, flyteutstyr og promille."}
+      ]
+    },
+    {
+      "id": "q_lover_smabatloven_004",
+      "concept_id": "lr-smabatloven-sentrale-bestemmelser",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "lover",
+      "prompt": "Hva innebærer aktsomhetsplikten i småbåtloven?",
+      "choices": [
+        "Båten skal brukes hensynsfullt slik at det ikke oppstår fare eller skade, og andre ikke unødig hindres",
+        "Føreren kan kjøre fritt så lenge han har båtførerbevis",
+        "Det er kun krav om aktsomhet i havneområder",
+        "Plikten gjelder bare for båter over 15 meter"
+      ],
+      "correct": 0,
+      "explanation": "Aktsomhetsplikten innebærer hensynsfull og forsvarlig bruk slik at fare, skade og unødig forstyrrelse av andre unngås.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§24", "section": "Småbåtloven § 24", "quote": "Båten skal brukes slik at det ikke oppstår fare eller skade."}
+      ]
+    },
+    {
+      "id": "q_lover_smabatloven_005",
+      "concept_id": "lr-smabatloven-sentrale-bestemmelser",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "normal",
+      "exam_area": "lover",
+      "prompt": "Du er usikker på hvilke fartsgrenser som gjelder i et nytt område du skal seile i. Hva tilsier loven?",
+      "choices": [
+        "Du må selv sette deg inn i og følge lokale forskrifter for området",
+        "Du kan se bort fra lokale regler hvis du har båtførerbevis",
+        "Fartsgrenser gjelder bare der det er skiltet med bøyer",
+        "Det finnes aldri lokale fartsgrenser i Norge"
+      ],
+      "correct": 0,
+      "explanation": "Føreren er ansvarlig for å kjenne og følge lokale forskrifter, inkludert lokale fartsgrenser, i området det ferdes i.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47", "section": "Småbåtloven – ansvar", "quote": "Føreren skal følge gjeldende regler og lokale forskrifter."}
+      ]
+    },
+    {
+      "id": "q_lover_smabatloven_006",
+      "concept_id": "lr-smabatloven-sentrale-bestemmelser",
+      "type": "mcq",
+      "difficulty": 3,
+      "importance": "normal",
+      "exam_area": "lover",
+      "prompt": "Hva er riktig om obligatorisk registrering av fritidsbåt i Norge i dag?",
+      "choices": [
+        "Det er utredet/foreslått, men ikke innført som generell plikt",
+        "Alle fritidsbåter må være registrert siden 1998",
+        "Bare seilbåter må registreres",
+        "Registrering er forbudt for fritidsbåter"
+      ],
+      "correct": 0,
+      "explanation": "Obligatorisk registrering har vært utredet, men er ikke gjeldende generell plikt. Frivillig registrering finnes (f.eks. Småbåtregisteret).",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47", "section": "Småbåtloven – registrering", "quote": "Hjemmel for registrering finnes; obligatorisk registrering er ikke innført som generell plikt."}
+      ]
+    },
+    {
+      "id": "q_lover_promille_001",
+      "concept_id": "lr-promille-baatforer",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hva er promillegrensen for å føre en fritidsbåt under 15 meter?",
+      "choices": [
+        "0,8 ‰",
+        "0,2 ‰",
+        "0,5 ‰",
+        "1,0 ‰"
+      ],
+      "correct": 0,
+      "explanation": "For fritidsbåt under 15 meter er promillegrensen 0,8 ‰ etter småbåtloven § 33.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§33", "section": "Småbåtloven § 33", "quote": "Fritidsbåt under 15 meter: promillegrense 0,8."}
+      ]
+    },
+    {
+      "id": "q_lover_promille_002",
+      "concept_id": "lr-promille-baatforer",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hva er promillegrensen for å føre en båt som er 15 meter eller lengre?",
+      "choices": [
+        "0,2 ‰",
+        "0,8 ‰",
+        "0,4 ‰",
+        "Ingen grense"
+      ],
+      "correct": 0,
+      "explanation": "For båt på 15 meter eller mer gjelder den strengere grensen 0,2 ‰, på linje med yrkesfartøy.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§33", "section": "Småbåtloven § 33", "quote": "Båt 15 meter eller lengre: promillegrense 0,2."}
+      ]
+    },
+    {
+      "id": "q_lover_promille_003",
+      "concept_id": "lr-promille-baatforer",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Gjelder promillereglene også andre rusmidler enn alkohol?",
+      "choices": [
+        "Ja, det er forbudt å føre båt påvirket av andre berusende eller bedøvende midler",
+        "Nei, bare alkohol er regulert",
+        "Bare narkotika, ikke medisiner",
+        "Bare for båter over 15 meter"
+      ],
+      "correct": 0,
+      "explanation": "Det er forbudt å føre båt påvirket av alkohol OG andre berusende eller bedøvende midler, uavhengig av båtlengde.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§33", "section": "Småbåtloven § 33", "quote": "Forbud mot å føre båt påvirket av berusende eller bedøvende midler."}
+      ]
+    },
+    {
+      "id": "q_lover_promille_004",
+      "concept_id": "lr-promille-baatforer",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Du fører en 17 fots motorbåt (under 15 m) og har drukket noe alkohol. Hvilken grense gjelder for deg?",
+      "choices": [
+        "0,8 ‰",
+        "0,2 ‰",
+        "0,0 ‰ – fullt forbud",
+        "1,2 ‰"
+      ],
+      "correct": 0,
+      "explanation": "En 17 fots båt er under 15 meter, så grensen er 0,8 ‰. Godt sjømannskap tilsier likevel at føreren holder seg edru.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§33", "section": "Småbåtloven § 33", "quote": "Fritidsbåt under 15 meter: promillegrense 0,8."}
+      ]
+    },
+    {
+      "id": "q_lover_promille_005",
+      "concept_id": "lr-promille-baatforer",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvilken paragraf i småbåtloven regulerer promille?",
+      "choices": [
+        "§ 33",
+        "§ 23a",
+        "§ 9",
+        "§ 50"
+      ],
+      "correct": 0,
+      "explanation": "Promillebestemmelsen står i småbåtloven § 33.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§33", "section": "Småbåtloven § 33", "quote": "§ 33 regulerer påvirkning av alkohol mv."}
+      ]
+    },
+    {
+      "id": "q_lover_promille_006",
+      "concept_id": "lr-promille-baatforer",
+      "type": "mcq",
+      "difficulty": 3,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvorfor er det likevel anbefalt å være helt edru selv om grensen er 0,8 ‰ for små båter?",
+      "choices": [
+        "Alkohol svekker dømmekraft, balanse og reaksjonstid, og forsterkes av sol, vind og bølger",
+        "Fordi politiet aldri kontrollerer fart",
+        "Fordi 0,8 ‰ egentlig betyr full edruelighet",
+        "Fordi alkohol gjør deg en bedre navigatør"
+      ],
+      "correct": 0,
+      "explanation": "Selv lave promillenivåer svekker viktige ferdigheter, og miljøet til sjøs øker risikoen. Godt sjømannskap tilsier edru fører.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.4.5 – Promille", "quote": "Alkohol svekker dømmekraft og reaksjonstid; edru fører anbefales."}
+      ]
+    },
+    {
+      "id": "q_lover_promille_007",
+      "concept_id": "lr-promille-baatforer",
+      "type": "mcq",
+      "difficulty": 3,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "En båt på nøyaktig 15,0 meter – hvilken promillegrense gjelder?",
+      "choices": [
+        "0,2 ‰, fordi grensen gjelder båt 15 meter eller lengre",
+        "0,8 ‰, fordi 15 m fortsatt regnes som liten båt",
+        "Ingen grense ved akkurat 15 m",
+        "0,5 ‰"
+      ],
+      "correct": 0,
+      "explanation": "Grensen 0,2 ‰ gjelder båt som er 15 meter eller lengre. Ved 15,0 m gjelder derfor 0,2 ‰.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§33", "section": "Småbåtloven § 33", "quote": "Båt 15 meter eller lengre: 0,2 promille."}
+      ]
+    },
+    {
+      "id": "q_lover_flyteutstyr_001",
+      "concept_id": "lr-flyteutstyr-bruk-regler",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "I hvilke båter er det påbudt at alle som er utendørs har flyteutstyr PÅ SEG når båten er i fart?",
+      "choices": [
+        "Båter under 8 meter",
+        "Bare båter over 15 meter",
+        "Alle båter uansett lengde, til enhver tid",
+        "Bare seilbåter"
+      ],
+      "correct": 0,
+      "explanation": "I båt under 8 meter skal alle som oppholder seg utendørs ha flyteutstyr på seg når båten er i fart.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§23a", "section": "Småbåtloven § 23a", "quote": "I båt under 8 meter skal alle om bord ha på seg flyteutstyr når båten er i fart."}
+      ]
+    },
+    {
+      "id": "q_lover_flyteutstyr_002",
+      "concept_id": "lr-flyteutstyr-bruk-regler",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvor mye flyteutstyr skal finnes om bord i en fritidsbåt?",
+      "choices": [
+        "Egnet flyteutstyr til alle om bord",
+        "Minst to vester uansett antall personer",
+        "Bare til føreren",
+        "Det er ikke krav om flyteutstyr"
+      ],
+      "correct": 0,
+      "explanation": "Det skal alltid være egnet flyteutstyr til alle om bord, tilpasset hver enkelt person.",
+      "source_refs": [
+        {"source_id": "lovdata_flyteutstyr", "url": "https://lovdata.no/dokument/SF/forskrift/1995-05-08-409", "section": "FOR-1995-05-08-409", "quote": "Det skal finnes egnet flyteutstyr til alle om bord."}
+      ]
+    },
+    {
+      "id": "q_lover_flyteutstyr_003",
+      "concept_id": "lr-flyteutstyr-bruk-regler",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Du kjører en 19 fots åpen båt (under 8 m) med to gjester på dekk. Hva er riktig?",
+      "choices": [
+        "Alle som er utendørs skal ha flyteutstyr på seg når båten er i fart",
+        "Det holder at vestene ligger i et skap om bord",
+        "Bare føreren trenger vest",
+        "Påbudet gjelder ikke hvis det er fint vær"
+      ],
+      "correct": 0,
+      "explanation": "Båten er under 8 m, så alle utendørs skal ha flyteutstyret på seg når den er i fart – ikke bare ha det liggende om bord.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§23a", "section": "Småbåtloven § 23a", "quote": "Under 8 meter: flyteutstyr på seg når båten er i fart."}
+      ]
+    },
+    {
+      "id": "q_lover_flyteutstyr_004",
+      "concept_id": "lr-flyteutstyr-bruk-regler",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Når gjelder IKKE påbudet om å ha flyteutstyret på seg i en båt under 8 m i fart?",
+      "choices": [
+        "Når man oppholder seg helt eller delvis under dekk eller i lukket styrehus",
+        "Når sjøen er rolig",
+        "Når man har båtførerbevis",
+        "Når man er en erfaren svømmer"
+      ],
+      "correct": 0,
+      "explanation": "Unntaket gjelder opphold helt/delvis under dekk eller i lukket styrehus, der man er beskyttet mot å falle over bord.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§23a", "section": "Småbåtloven § 23a", "quote": "Unntak når man er helt/delvis under dekk eller i lukket styrehus."}
+      ]
+    },
+    {
+      "id": "q_lover_flyteutstyr_005",
+      "concept_id": "lr-flyteutstyr-bruk-regler",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvilket krav gjelder til selve flyteutstyret?",
+      "choices": [
+        "Det skal være CE-/rattmerket og i god stand",
+        "Det må være rødt",
+        "Det må være kjøpt samme år som båten",
+        "Det er ingen krav til godkjenning"
+      ],
+      "correct": 0,
+      "explanation": "Flyte- og redningsutstyr skal være CE-/rattmerket (godkjent etter gjeldende standarder) og holdes i god stand.",
+      "source_refs": [
+        {"source_id": "lovdata_flyteutstyr", "url": "https://lovdata.no/dokument/SF/forskrift/1995-05-08-409", "section": "FOR-1995-05-08-409", "quote": "Flyteutstyr skal være godkjent (CE-/rattmerket)."}
+      ]
+    },
+    {
+      "id": "q_lover_flyteutstyr_006",
+      "concept_id": "lr-flyteutstyr-bruk-regler",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Hvorfor er det viktig å ha vesten på seg FØR et uhell, og ikke bare ha den tilgjengelig?",
+      "choices": [
+        "Det kan være umulig å få vesten på etter at man har havnet i vannet",
+        "Vesten veier mindre når den er på",
+        "Loven krever bare at vesten finnes om bord",
+        "Det har ingen praktisk betydning"
+      ],
+      "correct": 0,
+      "explanation": "Ved et plutselig fall i sjøen, kaldt vann og panikk kan det være umulig å få på seg vesten. Derfor skal den være på i fart i små båter.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.4.5 – Bruk av flyteutstyr", "quote": "De fleste som drukner fra fritidsbåt brukte ikke vest."}
+      ]
+    },
+    {
+      "id": "q_lover_flyteutstyr_007",
+      "concept_id": "lr-flyteutstyr-bruk-regler",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "critical",
+      "exam_area": "spesielt_viktige",
+      "prompt": "Et lite barn er med i båten. Hva gjelder for barnets flyteutstyr?",
+      "choices": [
+        "Barnet skal ha eget, riktig tilpasset flyteutstyr",
+        "Barn trenger ikke flyteutstyr",
+        "En voksenvest kan brukes på barnet",
+        "Barn under 5 år er unntatt alle krav"
+      ],
+      "correct": 0,
+      "explanation": "Flyteutstyret skal være egnet for hver person. Barn må ha eget utstyr i riktig størrelse for at det skal fungere.",
+      "source_refs": [
+        {"source_id": "lovdata_flyteutstyr", "url": "https://lovdata.no/dokument/SF/forskrift/1995-05-08-409", "section": "FOR-1995-05-08-409", "quote": "Flyteutstyret skal være egnet og tilpasset hver enkelt om bord."}
+      ]
+    },
+    {
+      "id": "q_lover_fart_001",
+      "concept_id": "lr-fartsregler-fartsbegrensninger",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hvor nær badende er det forbudt å passere med båt?",
+      "choices": [
+        "Nærmere enn 50 meter",
+        "Nærmere enn 10 meter",
+        "Nærmere enn 200 meter",
+        "Det finnes ingen slik regel"
+      ],
+      "correct": 0,
+      "explanation": "Det er forbudt å passere badende nærmere enn 50 meter.",
+      "source_refs": [
+        {"source_id": "lovdata_fartsforskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-12-15-1546", "section": "FOR-2009-12-15-1546", "quote": "Forbudt å passere badende nærmere enn 50 meter."}
+      ]
+    },
+    {
+      "id": "q_lover_fart_002",
+      "concept_id": "lr-fartsregler-fartsbegrensninger",
+      "type": "bilde_symbol",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hva betyr dette farvannsskiltet (firkantet, rød kant, hvitt felt med tallet 5)?",
+      "choices": [
+        "Fartsgrense 5 knop",
+        "5 meters dybde",
+        "5 nautiske mil til havn",
+        "Maks 5 personer om bord"
+      ],
+      "correct": 0,
+      "explanation": "Et firkantet skilt med rød kant og sort tall angir tillatt fart i knop – her 5 knop.",
+      "image_file": "kystverket/images/contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
+      "source_refs": [
+        {"source_id": "lovdata_fartsforskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-12-15-1546", "section": "FOR-2009-12-15-1546 – fartsskilt", "quote": "Fartsgrenseskilt angir tillatt fart i knop."}
+      ]
+    },
+    {
+      "id": "q_lover_fart_003",
+      "concept_id": "lr-fartsregler-fartsbegrensninger",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hvilken fartsgrense gjelder mange steder nær land, fortøyde båter og i havner?",
+      "choices": [
+        "Maks 5 knop",
+        "Maks 25 knop",
+        "Ingen grense",
+        "Maks 50 knop"
+      ],
+      "correct": 0,
+      "explanation": "Mange steder gjelder maks 5 knop nærmere enn 50/100 m fra land, holmer, fortøyde båter og i havner – sjekk lokal forskrift.",
+      "source_refs": [
+        {"source_id": "lovdata_fartsforskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-12-15-1546", "section": "FOR-2009-12-15-1546", "quote": "Maks 5 knop nær land og i havner mange steder."}
+      ]
+    },
+    {
+      "id": "q_lover_fart_004",
+      "concept_id": "lr-fartsregler-fartsbegrensninger",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hvem kan fastsette lokale fartsgrenser for fritidsfartøy?",
+      "choices": [
+        "Kommunene (for fartøy opp til 24 m), etter havne- og farvannsloven",
+        "Bare Sjøfartsdirektoratet sentralt",
+        "Hver enkelt båtfører",
+        "Ingen – fart er aldri lokalt regulert"
+      ],
+      "correct": 0,
+      "explanation": "Kommunene kan fastsette lokale fartsgrenser for fritidsfartøy med lengde opp til 24 meter, for hele eller deler av året.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h – Fartsregler", "quote": "Kommunene kan fastsette lokale fartsgrenser for fritidsfartøy opp til 24 meter."}
+      ]
+    },
+    {
+      "id": "q_lover_fart_005",
+      "concept_id": "lr-fartsregler-fartsbegrensninger",
+      "type": "scenario",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Du nærmer deg en badeplass med mange svømmere. Hva gjør du?",
+      "choices": [
+        "Holder minst 50 m avstand til de badende og senker farten",
+        "Kjører tett forbi i full fart for å spare tid",
+        "Øker farten for å lage mindre bølger",
+        "Ignorerer svømmerne hvis de er utenfor merket badeområde"
+      ],
+      "correct": 0,
+      "explanation": "Du må ikke passere badende nærmere enn 50 m, og skal holde lav fart slik at du ikke skaper fare eller skadelig bølgeslag.",
+      "source_refs": [
+        {"source_id": "lovdata_fartsforskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-12-15-1546", "section": "FOR-2009-12-15-1546", "quote": "Forbudt å passere badende nærmere enn 50 meter."}
+      ]
+    },
+    {
+      "id": "q_lover_fart_006",
+      "concept_id": "lr-fartsregler-fartsbegrensninger",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hva sier sjøveisreglene om fart generelt?",
+      "choices": [
+        "Det skal alltid holdes sikker og avpasset fart etter forholdene",
+        "Maksfart er alltid 5 knop overalt",
+        "Fart er bare regulert om natten",
+        "Det er ingen krav til fart utenfor havner"
+      ],
+      "correct": 0,
+      "explanation": "Sjøveisreglene (regel 6) krever alltid sikker fart slik at du kan stoppe eller manøvrere trygt etter sikt, trafikk og farvann.",
+      "source_refs": [
+        {"source_id": "lovdata_fartsforskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-12-15-1546", "section": "Sikker fart", "quote": "Det skal alltid holdes avpasset og sikker fart."}
+      ]
+    },
+    {
+      "id": "q_lover_fart_007",
+      "concept_id": "lr-fartsregler-fartsbegrensninger",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Du holder lovlig fart, men hekkbølgene dine velter ut av en liten robåt. Hva gjelder?",
+      "choices": [
+        "Du kan bli ansvarlig for skade/fare forårsaket av eget bølgeslag",
+        "Du har ikke noe ansvar så lenge du holder fartsgrensen",
+        "Ansvaret ligger alltid hos robåten",
+        "Bølgeslag er aldri regulert"
+      ],
+      "correct": 0,
+      "explanation": "Selv innenfor fartsgrensen kan du bli ansvarlig hvis bølgeslag fra båten din volder fare eller skade. Senk farten ved passering.",
+      "source_refs": [
+        {"source_id": "lovdata_smabatloven", "url": "https://lovdata.no/dokument/NL/lov/1998-06-26-47/§24", "section": "Småbåtloven § 24", "quote": "Båten skal brukes slik at det ikke oppstår fare eller skade for andre."}
+      ]
+    },
+    {
+      "id": "q_lover_fart_008",
+      "concept_id": "lr-fartsregler-fartsbegrensninger",
+      "type": "mcq",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hva er den største fartøylengden kommunene kan regulere fartsgrenser for?",
+      "choices": [
+        "24 meter",
+        "15 meter",
+        "8 meter",
+        "50 meter"
+      ],
+      "correct": 0,
+      "explanation": "Kommunenes myndighet til å fastsette lokale fartsgrenser for fritidsfartøy gjelder fartøy med lengde opp til 24 meter.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h – Lokale fartsgrenser", "quote": "Kommunene kan regulere fart for fritidsfartøy opp til 24 m."}
+      ]
+    },
+    {
+      "id": "q_lover_bevis_001",
+      "concept_id": "lr-batforerbevis-minstealder",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hvem må ha båtførerbevis for å føre en fritidsbåt over 8 m eller med motor over 25 hk?",
+      "choices": [
+        "Personer født 1.1.1980 eller senere",
+        "Alle uansett fødselsår",
+        "Bare personer født før 1980",
+        "Bare personer over 25 år"
+      ],
+      "correct": 0,
+      "explanation": "Båtførerbevis kreves for personer født 1.1.1980 eller senere som skal føre båt over 8 m eller med motor over 25 hk.",
+      "source_refs": [
+        {"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "FOR-2009-03-03-259", "quote": "Båtførerbevis kreves for født 1.1.1980 eller senere ved båt over 8 m eller motor over 25 hk."}
+      ]
+    },
+    {
+      "id": "q_lover_bevis_002",
+      "concept_id": "lr-batforerbevis-minstealder",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hva er minstealderen for å føre en fritidsbåt med motor over 10 hk?",
+      "choices": [
+        "16 år",
+        "12 år",
+        "18 år",
+        "15 år"
+      ],
+      "correct": 0,
+      "explanation": "Minstealderen for å føre fritidsbåt med motor over 10 hk er 16 år.",
+      "source_refs": [
+        {"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "FOR-2009-03-03-259 – minstealder", "quote": "Minstealder 16 år for motor over 10 hk."}
+      ]
+    },
+    {
+      "id": "q_lover_bevis_003",
+      "concept_id": "lr-batforerbevis-minstealder",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hva avgjør aldersgrensen for å føre fritidsbåt etter regelendringen 1. juli 2021?",
+      "choices": [
+        "Kun motorstyrken (hk) – ikke farten",
+        "Kun farten – båten må holde under 10 knop",
+        "Både fart og hk samtidig",
+        "Båtens farge"
+      ],
+      "correct": 0,
+      "explanation": "10-knopsgrensen ble fjernet 1.7.2021. Nå er det kun motorstyrken (hk), ikke farten, som bestemmer aldersgrensen.",
+      "source_refs": [
+        {"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "FOR-2009-03-03-259 – endring 2021", "quote": "10-knopsgrensen for førere under 16 år ble fjernet 1. juli 2021."}
+      ]
+    },
+    {
+      "id": "q_lover_bevis_004",
+      "concept_id": "lr-batforerbevis-minstealder",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "En 15-åring vil føre en båt med 40 hk motor, men lover å aldri overstige 10 knop. Er det lov?",
+      "choices": [
+        "Nei – etter 1.7.2021 er det motorstyrken (40 hk > 10 hk) som gjelder, ikke farten",
+        "Ja, så lenge farten holdes under 10 knop",
+        "Ja, hvis en voksen er med",
+        "Ja, 40 hk er under grensen"
+      ],
+      "correct": 0,
+      "explanation": "Den gamle 10-knopsregelen er fjernet. Med motor over 10 hk kreves minst 16 år, uavhengig av fart.",
+      "source_refs": [
+        {"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "FOR-2009-03-03-259", "quote": "Kun motorstyrke avgjør aldersgrensen etter 1.7.2021."}
+      ]
+    },
+    {
+      "id": "q_lover_bevis_005",
+      "concept_id": "lr-batforerbevis-minstealder",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hva er høyhastighetsbevis, innført våren 2023?",
+      "choices": [
+        "Et bevis som kreves i tillegg til båtførerbevis for å føre båt under 24 m som kan gå 50 knop eller mer",
+        "Et bevis bare for yrkesfartøy",
+        "Et bevis som erstatter båtførerbeviset for raske båter",
+        "Et bevis for vannski"
+      ],
+      "correct": 0,
+      "explanation": "Høyhastighetsbeviset kreves i tillegg til båtførerbevis for fritidsbåt under 24 m som kan gå 50 knop eller mer.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h – Høyhastighetsbevis", "quote": "Høyhastighetsbevis kreves fra 2023 for fritidsbåt som kan gå 50 knop eller mer."}
+      ]
+    },
+    {
+      "id": "q_lover_bevis_006",
+      "concept_id": "lr-batforerbevis-minstealder",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hva er minstealderen for høyhastighetsbevis?",
+      "choices": [
+        "18 år",
+        "16 år",
+        "20 år",
+        "21 år"
+      ],
+      "correct": 0,
+      "explanation": "Minstealderen for høyhastighetsbevis er 18 år.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h – Høyhastighetsbevis", "quote": "Minstealder 18 år for høyhastighetsbevis."}
+      ]
+    },
+    {
+      "id": "q_lover_bevis_007",
+      "concept_id": "lr-batforerbevis-minstealder",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Du har båtførerbevis og kjøper en rask båt som kan gå 55 knop. Hva trenger du i tillegg?",
+      "choices": [
+        "Høyhastighetsbevis (og du må være minst 18 år)",
+        "Ingenting ekstra – båtførerbevis holder",
+        "Yrkessertifikat",
+        "Kun en VHF-lisens"
+      ],
+      "correct": 0,
+      "explanation": "Båter som kan gå 50 knop eller mer krever høyhastighetsbevis i tillegg til båtførerbevis, med minstealder 18 år.",
+      "image_file": "redningsselskapet/images/content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h – Høyhastighetsbevis", "quote": "Høyhastighetsbevis kreves for båt som kan gå 50 knop eller mer."}
+      ]
+    },
+    {
+      "id": "q_lover_bevis_008",
+      "concept_id": "lr-batforerbevis-minstealder",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hvilke regler gjelder for vannscooter?",
+      "choices": [
+        "Samme regler som annen fritidsbåt (de egne vannscooterreglene ble opphevet i 2017)",
+        "Vannscooter er forbudt i Norge",
+        "Vannscooter krever flysertifikat",
+        "Det finnes egne, strengere vannscooterregler i en egen lov"
+      ],
+      "correct": 0,
+      "explanation": "Vannscooter regnes som fritidsbåt og følger samme regler. De egne vannscooterreglene ble opphevet i 2017.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.2 h – Vannscooter", "quote": "Vannscooter følger samme regler som båt; egne vannscooterregler opphevet 2017."}
+      ]
+    },
+    {
+      "id": "q_lover_bevis_009",
+      "concept_id": "lr-batforerbevis-minstealder",
+      "type": "mcq",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hvor stor båt kan du føre i Norge med båtførerbevis?",
+      "choices": [
+        "Fritidsbåt opp til 15 meter",
+        "Fritidsbåt opp til 8 meter",
+        "Alle båter uansett lengde",
+        "Bare båter under 25 hk"
+      ],
+      "correct": 0,
+      "explanation": "Med båtførerbevis kan man føre fritidsbåt opp til 15 meter innenfor Norge.",
+      "source_refs": [
+        {"source_id": "lovdata_forskrift", "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-03-259", "section": "FOR-2009-03-03-259", "quote": "Med båtførerbevis kan man føre fritidsbåt opp til 15 meter."}
+      ]
+    },
+    {
+      "id": "q_lover_ce_001",
+      "concept_id": "lr-ce-merking-cin-registrering",
+      "type": "mcq",
+      "difficulty": 1,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hva angir CE-konstruksjonskategoriene A, B, C og D for en fritidsbåt?",
+      "choices": [
+        "Hvilket farvann og hvilke værforhold båten er bygget for",
+        "Båtens farge og design",
+        "Motorens hestekrefter",
+        "Antall sitteplasser"
+      ],
+      "correct": 0,
+      "explanation": "CE-kategorien viser hvilke farvanns- og værforhold båten er konstruert for, fra havgående (A) til beskyttet farvann (D).",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f – CE-kategorier", "quote": "CE-kategori A havgående, B utenskjærs, C kystfarvann/fjord, D beskyttet farvann."}
+      ]
+    },
+    {
+      "id": "q_lover_ce_002",
+      "concept_id": "lr-ce-merking-cin-registrering",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hvilken CE-kategori er bygget for havgående bruk i de mest krevende forholdene?",
+      "choices": [
+        "Kategori A",
+        "Kategori B",
+        "Kategori C",
+        "Kategori D"
+      ],
+      "correct": 0,
+      "explanation": "Kategori A er havgående og bygget for åpent hav med kraftig vind og høy sjø.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f – CE-kategori A", "quote": "Kategori A: havgående."}
+      ]
+    },
+    {
+      "id": "q_lover_ce_003",
+      "concept_id": "lr-ce-merking-cin-registrering",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hvilken CE-kategori gjelder for beskyttet farvann som innsjøer, elver og kanaler?",
+      "choices": [
+        "Kategori D",
+        "Kategori A",
+        "Kategori B",
+        "Kategori C"
+      ],
+      "correct": 0,
+      "explanation": "Kategori D er for beskyttet farvann med små bølger og svak vind.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f – CE-kategori D", "quote": "Kategori D: beskyttet farvann."}
+      ]
+    },
+    {
+      "id": "q_lover_ce_004",
+      "concept_id": "lr-ce-merking-cin-registrering",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hva er CIN på en fritidsbåt?",
+      "choices": [
+        "Båtens unike skrog-/identifikasjonsnummer (14 tegn)",
+        "Et internasjonalt fartssertifikat",
+        "Motorens serienummer",
+        "Et forsikringsnummer fra kommunen"
+      ],
+      "correct": 0,
+      "explanation": "CIN (Craft Identification Number) er båtens unike 14-tegns skrognummer som identifiserer produsent, byggeland og byggeår.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f – CIN", "quote": "CIN = skrognummer (14 tegn)."}
+      ]
+    },
+    {
+      "id": "q_lover_ce_005",
+      "concept_id": "lr-ce-merking-cin-registrering",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hva finner du typisk på produsentskiltet på en fritidsbåt?",
+      "choices": [
+        "CE-merke, konstruksjonskategori, største anbefalte antall personer og største last/motorytelse",
+        "Båtens nåværende posisjon",
+        "Eierens personnummer",
+        "Dagens promillegrense"
+      ],
+      "correct": 0,
+      "explanation": "Produsentskiltet oppgir blant annet produsent, CE-merke, kategori, maks antall personer og største anbefalte last/motor.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f – Produsentskilt", "quote": "Produsentskilt viser kategori, maks personer og maks last/motor."}
+      ]
+    },
+    {
+      "id": "q_lover_ce_006",
+      "concept_id": "lr-ce-merking-cin-registrering",
+      "type": "mcq",
+      "difficulty": 2,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Hvilke dokumenter skal følge med en CE-merket fritidsbåt?",
+      "choices": [
+        "Samsvarserklæring og brukerhåndbok",
+        "Bare en kvittering",
+        "Et politisertifikat",
+        "Ingen dokumenter kreves"
+      ],
+      "correct": 0,
+      "explanation": "Med båten skal følge en samsvarserklæring (bekreftelse på at krav er oppfylt) og en brukerhåndbok.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f – Dokumentasjon", "quote": "Båten skal følges av samsvarserklæring og brukerhåndbok."}
+      ]
+    },
+    {
+      "id": "q_lover_ce_007",
+      "concept_id": "lr-ce-merking-cin-registrering",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Du skal kjøpe en båt for å krysse åpent hav i krevende forhold. Hvilken CE-kategori bør du minst velge?",
+      "choices": [
+        "Kategori A (havgående)",
+        "Kategori D (beskyttet farvann)",
+        "Kategori C (kystfarvann/fjord)",
+        "Kategorien har ingen betydning"
+      ],
+      "correct": 0,
+      "explanation": "For åpent hav i krevende forhold bør du velge kategori A, som er bygget for havgående bruk.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f – Valg av kategori", "quote": "Velg båt etter farvannet; kategori A er havgående."}
+      ]
+    },
+    {
+      "id": "q_lover_ce_008",
+      "concept_id": "lr-ce-merking-cin-registrering",
+      "type": "scenario",
+      "difficulty": 3,
+      "importance": "high",
+      "exam_area": "lover",
+      "prompt": "Du vil hovedsakelig kjøre i fjorden og langs kysten i moderate forhold. Hvilken CE-kategori passer typisk?",
+      "choices": [
+        "Kategori C (kystfarvann/fjord)",
+        "Kategori A (havgående)",
+        "Kategori D (beskyttet farvann)",
+        "Det kreves alltid kategori A"
+      ],
+      "correct": 0,
+      "explanation": "Kategori C er konstruert for kystnært farvann, fjorder og store innsjøer med moderate forhold.",
+      "source_refs": [
+        {"source_id": "sdir_pensum", "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/", "section": "1.1 f – CE-kategori C", "quote": "Kategori C: kystfarvann/fjord."}
+      ]
+    }
+  ]
+}
