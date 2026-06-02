@@ -1793,7 +1793,10 @@
       "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg",
       "alt": "seilasplanlegging / kartlesing",
       "term": "seilasplanlegging / kartlesing",
-      "category": "navigasjon_foto"
+      "category": "navigasjon_foto",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -2391,7 +2394,10 @@
       "src": "data/img/kystverket__images__contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
       "alt": "fartsgrense (farvannsskilt)",
       "term": "fartsgrense (farvannsskilt)",
-      "category": "farvannsskilt"
+      "category": "farvannsskilt",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -2734,7 +2740,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
       "alt": "vannscooter (høyhastighetsfartøy)",
       "term": "vannscooter (høyhastighetsfartøy)",
-      "category": "annet"
+      "category": "annet",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -4941,7 +4950,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
       "alt": "vannscooter (høyhastighetsfartøy)",
       "term": "vannscooter (høyhastighetsfartøy)",
-      "category": "annet"
+      "category": "annet",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -5024,7 +5036,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
       "alt": "vannscooter (høyhastighetsfartøy)",
       "term": "vannscooter (høyhastighetsfartøy)",
-      "category": "annet"
+      "category": "annet",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -5128,7 +5143,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
       "alt": "vannscooter (høyhastighetsfartøy)",
       "term": "vannscooter (høyhastighetsfartøy)",
-      "category": "annet"
+      "category": "annet",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -5513,7 +5531,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2016-01-sideavmerking_rod.jpg",
       "alt": "babord lateralmerke (rød stake)",
       "term": "babord lateralmerke (rød stake)",
-      "category": "sjomerke_lateral"
+      "category": "sjomerke_lateral",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -5544,7 +5565,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2016-01-gront_merke.jpg",
       "alt": "grønn stake / styrbord lateralmerke",
       "term": "grønn stake / styrbord lateralmerke",
-      "category": "sjomerke_lateral"
+      "category": "sjomerke_lateral",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -5653,7 +5677,10 @@
       "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-iala-system-for-sjomerker-boyer-o-c9789993.png",
       "alt": "laterale sjømerker (IALA-systemet)",
       "term": "laterale sjømerker (IALA-systemet)",
-      "category": "sjomerke_lateral"
+      "category": "sjomerke_lateral",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -5684,7 +5711,10 @@
       "src": "data/img/bukt__images__quiz-static-img-articles-lateralmerker.svg",
       "alt": "lateralmerker (babordmerke og styrbordmerke)",
       "term": "lateralmerker (babordmerke og styrbordmerke)",
-      "category": "sjomerke_lateral"
+      "category": "sjomerke_lateral",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -5814,7 +5844,10 @@
       "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3ace3ec8.png",
       "alt": "kardinalmerker",
       "term": "kardinalmerker",
-      "category": "sjomerke_kardinal"
+      "category": "sjomerke_kardinal",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -5845,7 +5878,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2025-08-nordmerk_m_bakgrunn.png",
       "alt": "nordmerke",
       "term": "nordmerke",
-      "category": "sjomerke_kardinal"
+      "category": "sjomerke_kardinal",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -5876,7 +5912,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2025-08-ostmerke_m_bakgrunn.png",
       "alt": "østmerke (øst-kardinalmerke)",
       "term": "østmerke (øst-kardinalmerke)",
-      "category": "sjomerke_kardinal"
+      "category": "sjomerke_kardinal",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -5907,7 +5946,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2025-08-vestmerke_m_bakgrunn.png",
       "alt": "vestmerke (vest kardinalmerke)",
       "term": "vestmerke (vest kardinalmerke)",
-      "category": "sjomerke_kardinal"
+      "category": "sjomerke_kardinal",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -6042,7 +6084,10 @@
       "src": "data/img/bukt__images__quiz-static-img-articles-kardinalmerker.svg",
       "alt": "kardinalmerker (nord, øst, sør, vest)",
       "term": "kardinalmerker (nord, øst, sør, vest)",
-      "category": "sjomerke_kardinal"
+      "category": "sjomerke_kardinal",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -6172,7 +6217,10 @@
       "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-1436d7ea.png",
       "alt": "gult kryss-merke (X-topptegn) / spesialmerke",
       "term": "gult kryss-merke (X-topptegn) / spesialmerke",
-      "category": "sjomerke_spesial"
+      "category": "sjomerke_spesial",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -6203,7 +6251,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2026-04-badeboye_spesialmerke-1024x731.png",
       "alt": "spesialmerke (gult, X-topptegn) – f.eks. badebøye",
       "term": "spesialmerke (gult, X-topptegn) – f.eks. badebøye",
-      "category": "sjomerke_spesial"
+      "category": "sjomerke_spesial",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -6234,7 +6285,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2016-01-frittliggende_grunne.jpg",
       "alt": "merke for frittliggende grunne (isolert fare)",
       "term": "merke for frittliggende grunne (isolert fare)",
-      "category": "sjomerke_frittliggende_grunne"
+      "category": "sjomerke_frittliggende_grunne",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -6291,7 +6345,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2026-04-senterledsmerke-1024x731.png",
       "alt": "senterledsmerke (midtfarvann / trygt-vann)",
       "term": "senterledsmerke (midtfarvann / trygt-vann)",
-      "category": "sjomerke_senterleds"
+      "category": "sjomerke_senterleds",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -6348,7 +6405,10 @@
       "src": "data/img/redningsselskapet__images__content-uploads-2016-01-sjomerke_blindleia.jpg",
       "alt": "fastmerke med visarm (peker mot trygt farvann)",
       "term": "fastmerke med visarm (peker mot trygt farvann)",
-      "category": "sjomerke_frittliggende_grunne"
+      "category": "sjomerke_frittliggende_grunne",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -6405,7 +6465,10 @@
       "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-9db6004e.png",
       "alt": "frittliggende grunne (HFB-merke)",
       "term": "frittliggende grunne (HFB-merke)",
-      "category": "sjomerke_frittliggende_grunne"
+      "category": "sjomerke_frittliggende_grunne",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -6509,7 +6572,10 @@
       "src": "data/img/kystverket__images__contentassets-0cdf44808b804bcfbe32912ae78e972c-eksempel-pa-s-d80e5d08.jpg",
       "alt": "fyrlykt med sektorer / sektorinndeling",
       "term": "fyrlykt med sektorer / sektorinndeling",
-      "category": "fyr_lykt"
+      "category": "fyr_lykt",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -6670,7 +6736,10 @@
       "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg",
       "alt": "fyr (Halten fyr)",
       "term": "fyr (Halten fyr)",
-      "category": "fyr_lykt"
+      "category": "fyr_lykt",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -6748,7 +6817,10 @@
       "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg",
       "alt": "lyskarakteristikker",
       "term": "lyskarakteristikker",
-      "category": "lyskarakteristikk"
+      "category": "lyskarakteristikk",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -7034,7 +7106,10 @@
       "src": "data/img/kystverket__images__contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
       "alt": "fartsgrense (farvannsskilt)",
       "term": "fartsgrense (farvannsskilt)",
-      "category": "farvannsskilt"
+      "category": "farvannsskilt",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -7091,7 +7166,10 @@
       "src": "data/img/lanternenkurs__images__wp-content-uploads-2023-09-sjomerke_blindleia-1-1024x900.jpg",
       "alt": "fartsgrenseskilt (5 knop) / farvannsskilt",
       "term": "fartsgrenseskilt (5 knop) / farvannsskilt",
-      "category": "farvannsskilt"
+      "category": "farvannsskilt",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -7455,7 +7533,10 @@
       "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-vikeplikt-seilbat-styrbord-babord-c68f4be2.png",
       "alt": "vikeplikt mellom seilbåter (styrbord/babord halser)",
       "term": "vikeplikt mellom seilbåter (styrbord/babord halser)",
-      "category": "vikeplikt_diagram"
+      "category": "vikeplikt_diagram",
+      "credit": "offentlig kilde",
+      "license": null,
+      "source": null
     },
     "sources": [
       {
@@ -8671,6 +8752,508 @@
         "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
         "section": "Regel 9 + 43/45",
         "quote": "Mindre fartøy skal ikke hindre fartøy som bare kan navigere trygt i et trangt løp eller en led."
+      }
+    ]
+  },
+  {
+    "id": "q_wlant_001",
+    "concept_id": "lr-lanterner",
+    "type": "bilde_symbol",
+    "difficulty": 2,
+    "importance": "critical",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Du ser dette maskindrevne fartøyet rett forfra i mørket. Hvorfor ser du grønt lys til venstre og rødt lys til høyre?",
+    "choices": [
+      "Fordi fartøyet ligger for anker",
+      "Fordi rødt alltid er til høyre på alle fartøy",
+      "Du ser fartøyet speilvendt: dets styrbord (grønt) er på din venstre side, og dets babord (rødt) på din høyre",
+      "Fordi du ser fartøyet bakfra"
+    ],
+    "correct": 2,
+    "explanation": "Når et fartøy kommer mot deg, ser du det speilvendt. Fartøyets styrbord side (grønt lys) havner på din venstre side, og babord (rødt) på din høyre. Ser du både rødt og grønt, kommer fartøyet mot deg.",
+    "image": {
+      "src": "data/img/wikimedia__images__maschinenfahrzeug-nachts-.png",
+      "alt": "maskindrevet fartøy sett forfra om natten",
+      "term": "maskindrevet fartøy sett forfra om natten",
+      "category": "lanterne",
+      "credit": "ThoKay (CC BY-SA 1.0), via Wikimedia Commons",
+      "license": "CC BY-SA 1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Maschinenfahrzeug_(nachts).png"
+    },
+    "sources": [
+      {
+        "source_id": "lovdata_sjoveisreglene",
+        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+        "section": "Del C – Lanterner",
+        "quote": "Sidelys: grønt på styrbord, rødt på babord."
+      }
+    ]
+  },
+  {
+    "id": "q_wlant_002",
+    "concept_id": "lr-lanterner",
+    "type": "bilde_symbol",
+    "difficulty": 2,
+    "importance": "critical",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Diagrammet viser lanternenes synsvinkler. Hvor mange grader dekker hvert sidelys (rødt og grønt)?",
+    "choices": [
+      "135°",
+      "360°",
+      "225°",
+      "112,5°"
+    ],
+    "correct": 3,
+    "explanation": "Hvert sidelys lyser 112,5° – fra rett forut til 22,5° aktenfor tvers på sin side.",
+    "image": {
+      "src": "data/img/wikimedia__images__ship-position-lights-angles.png",
+      "alt": "lanternenes synsvinkler i grader",
+      "term": "lanternenes synsvinkler i grader",
+      "category": "lanterne",
+      "credit": "Claudio Elias (CC BY-SA 4.0), via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ship_position_lights_angles.svg"
+    },
+    "sources": [
+      {
+        "source_id": "lovdata_sjoveisreglene",
+        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+        "section": "Lanterners synsvinkler",
+        "quote": "Sidelys 112,5 grader."
+      }
+    ]
+  },
+  {
+    "id": "q_wlant_003",
+    "concept_id": "lr-lanterner",
+    "type": "bilde_symbol",
+    "difficulty": 2,
+    "importance": "high",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Diagrammet viser lanternenes synsvinkler. Hvor mange grader dekker akterlyset (hvitt, bak)?",
+    "choices": [
+      "225°",
+      "112,5°",
+      "135°",
+      "90°"
+    ],
+    "correct": 2,
+    "explanation": "Akterlyset er hvitt og lyser 135° akterover (67,5° til hver side fra rett akter).",
+    "image": {
+      "src": "data/img/wikimedia__images__ship-position-lights-angles.png",
+      "alt": "lanternenes synsvinkler i grader",
+      "term": "lanternenes synsvinkler i grader",
+      "category": "lanterne",
+      "credit": "Claudio Elias (CC BY-SA 4.0), via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ship_position_lights_angles.svg"
+    },
+    "sources": [
+      {
+        "source_id": "lovdata_sjoveisreglene",
+        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+        "section": "Lanterners synsvinkler",
+        "quote": "Akterlys 135 grader."
+      }
+    ]
+  },
+  {
+    "id": "q_wlant_004",
+    "concept_id": "lr-lanterner",
+    "type": "bilde_symbol",
+    "difficulty": 2,
+    "importance": "high",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Diagrammet viser lanternenes synsvinkler. Hvor mange grader dekker topplyset (hvitt, forover)?",
+    "choices": [
+      "112,5°",
+      "225°",
+      "135°",
+      "360°"
+    ],
+    "correct": 1,
+    "explanation": "Topplyset er hvitt og lyser 225° forover – samme bue som de to sidelysene til sammen (112,5° + 112,5°).",
+    "image": {
+      "src": "data/img/wikimedia__images__ship-position-lights-angles.png",
+      "alt": "lanternenes synsvinkler i grader",
+      "term": "lanternenes synsvinkler i grader",
+      "category": "lanterne",
+      "credit": "Claudio Elias (CC BY-SA 4.0), via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ship_position_lights_angles.svg"
+    },
+    "sources": [
+      {
+        "source_id": "lovdata_sjoveisreglene",
+        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+        "section": "Lanterners synsvinkler",
+        "quote": "Topplys 225 grader."
+      }
+    ]
+  },
+  {
+    "id": "q_wlant_005",
+    "concept_id": "lr-lanterner",
+    "type": "bilde_symbol",
+    "difficulty": 1,
+    "importance": "critical",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Bildet viser synssektorene sett ovenfra (baugen opp). Hvilken farge ser et fartøy som ligger rett akter for deg?",
+    "choices": [
+      "Gult",
+      "Rødt",
+      "Grønt",
+      "Hvitt (akterlyset)"
+    ],
+    "correct": 3,
+    "explanation": "Rett akterover ser man det hvite akterlyset. Rødt og grønt sidelys ses bare fra siden og forfra.",
+    "image": {
+      "src": "data/img/wikimedia__images__ship-positionlights.png",
+      "alt": "lanternenes synssektorer (ovenfra)",
+      "term": "lanternenes synssektorer (ovenfra)",
+      "category": "lanterne",
+      "credit": "Trex2001 (CC BY-SA 4.0), via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ship_positionLights.svg"
+    },
+    "sources": [
+      {
+        "source_id": "lovdata_sjoveisreglene",
+        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+        "section": "Akterlys",
+        "quote": "Hvitt akterlys synlig akterover."
+      }
+    ]
+  },
+  {
+    "id": "q_wlant_006",
+    "concept_id": "lr-lanterner",
+    "type": "bilde_symbol",
+    "difficulty": 1,
+    "importance": "critical",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Bildet viser lanternenes sektorer sett ovenfra. På hvilken side av fartøyet lyser den grønne sektoren?",
+    "choices": [
+      "Rett forut",
+      "Rett akter",
+      "Babord side",
+      "Styrbord side"
+    ],
+    "correct": 3,
+    "explanation": "Grønt sidelys sitter på styrbord (høyre) side av fartøyet. Rødt sitter på babord (venstre).",
+    "image": {
+      "src": "data/img/wikimedia__images__ship-positionlights.png",
+      "alt": "lanternenes synssektorer (ovenfra)",
+      "term": "lanternenes synssektorer (ovenfra)",
+      "category": "lanterne",
+      "credit": "Trex2001 (CC BY-SA 4.0), via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ship_positionLights.svg"
+    },
+    "sources": [
+      {
+        "source_id": "lovdata_sjoveisreglene",
+        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+        "section": "Sidelys",
+        "quote": "Grønt styrbord, rødt babord."
+      }
+    ]
+  },
+  {
+    "id": "q_wlant_007",
+    "concept_id": "lr-lanterner",
+    "type": "bilde_symbol",
+    "difficulty": 1,
+    "importance": "high",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Sett ovenfra (baugen opp): hvor sitter det røde sidelyset på fartøyet?",
+    "choices": [
+      "I masten",
+      "Styrbord side (høyre)",
+      "Akterut",
+      "Babord side (venstre)"
+    ],
+    "correct": 3,
+    "explanation": "Rødt sidelys sitter på babord (venstre) side. Husk: rødt = babord.",
+    "image": {
+      "src": "data/img/wikimedia__images__positionslichter.png",
+      "alt": "lanterneplassering sett ovenfra",
+      "term": "lanterneplassering sett ovenfra",
+      "category": "lanterne",
+      "credit": "ThoKay (CC BY-SA 1.0), via Wikimedia Commons",
+      "license": "CC BY-SA 1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Positionslichter.png"
+    },
+    "sources": [
+      {
+        "source_id": "lovdata_sjoveisreglene",
+        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+        "section": "Sidelys",
+        "quote": "Rødt babord."
+      }
+    ]
+  },
+  {
+    "id": "q_wlant_008",
+    "concept_id": "lr-lanterner",
+    "type": "scenario",
+    "difficulty": 2,
+    "importance": "critical",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Bildet viser de nummererte synssektorene. Du ser BÅDE rødt og grønt sidelys fra et fartøy samtidig. Hva betyr det?",
+    "choices": [
+      "Fartøyet kommer mot deg – du ser det forfra",
+      "Fartøyet driver uten styring",
+      "Fartøyet går fra deg",
+      "Fartøyet ligger for anker"
+    ],
+    "correct": 0,
+    "explanation": "Ser du både rødt og grønt sidelys, ser du fartøyet rett forfra – det kommer mot deg. Vær oppmerksom på vikeplikt.",
+    "image": {
+      "src": "data/img/wikimedia__images__visibilityarc.png",
+      "alt": "lanternenes synsvinkler (nummerert)",
+      "term": "lanternenes synsvinkler (nummerert)",
+      "category": "lanterne",
+      "credit": "Original: Claudio Elias Vector: ThelmOSO (CC0), via Wikimedia Commons",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:VisibilityArc.svg"
+    },
+    "sources": [
+      {
+        "source_id": "lovdata_sjoveisreglene",
+        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+        "section": "Lanterner",
+        "quote": "Sidelys synlige forfra."
+      }
+    ]
+  },
+  {
+    "id": "q_wlant_009",
+    "concept_id": "lr-lanterner",
+    "type": "bilde_symbol",
+    "difficulty": 3,
+    "importance": "high",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Dette maskindrevne fartøyet viser TO hvite topplys over hverandre. Hva forteller det deg?",
+    "choices": [
+      "Fartøyet ligger for anker",
+      "Fartøyet er en seilbåt",
+      "Fartøyet er 50 meter eller lengre",
+      "Fartøyet har dykker nede"
+    ],
+    "correct": 2,
+    "explanation": "Et maskindrevet fartøy på 50 m eller mer fører to topplys (det akterste høyere). Mindre fartøy kan nøye seg med ett topplys.",
+    "image": {
+      "src": "data/img/wikimedia__images__maschinenfahrzeug-nachts-.png",
+      "alt": "maskindrevet fartøy sett forfra om natten",
+      "term": "maskindrevet fartøy sett forfra om natten",
+      "category": "lanterne",
+      "credit": "ThoKay (CC BY-SA 1.0), via Wikimedia Commons",
+      "license": "CC BY-SA 1.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Maschinenfahrzeug_(nachts).png"
+    },
+    "sources": [
+      {
+        "source_id": "lovdata_sjoveisreglene",
+        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+        "section": "Topplys",
+        "quote": "To topplys for fartøy 50 m eller mer."
+      }
+    ]
+  },
+  {
+    "id": "q_wlant_010",
+    "concept_id": "lr-lanterner",
+    "type": "mcq",
+    "difficulty": 2,
+    "importance": "high",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Du ser kun ett hvitt lys akterut fra et fartøy i mørket, uten farger. Hva ser du mest sannsynlig?",
+    "choices": [
+      "En sektorlykt",
+      "Et ankerligger sett forfra",
+      "Babord sidelys",
+      "Akterlyset – du er bak fartøyet som går fra deg"
+    ],
+    "correct": 3,
+    "explanation": "Bare hvitt akterlys betyr at du er aktenfor fartøyet og det beveger seg bort fra deg.",
+    "image": null,
+    "sources": [
+      {
+        "source_id": "lovdata_sjoveisreglene",
+        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
+        "section": "Akterlys",
+        "quote": "Hvitt akterlys."
+      }
+    ]
+  },
+  {
+    "id": "q_wsekt_001",
+    "concept_id": "nv-sektorlykt-fyr",
+    "type": "bilde_symbol",
+    "difficulty": 1,
+    "importance": "critical",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Bildet viser en sektorlykt. Hva betyr den HVITE sektoren?",
+    "choices": [
+      "Trygt, farbart løp",
+      "Ankringsforbud",
+      "Fare på styrbord side",
+      "Fare på babord side"
+    ],
+    "correct": 0,
+    "explanation": "Hvit sektor fra en sektorlykt markerer det trygge, farbare løpet. Rød og grønn sektor peker mot fare.",
+    "image": {
+      "src": "data/img/wikimedia__images__schema-feu-directionnel.png",
+      "alt": "sektorlykt: hvit trygg sektor, rød og grønn faresektor",
+      "term": "sektorlykt: hvit trygg sektor, rød og grønn faresektor",
+      "category": "fyr_lykt",
+      "credit": "Pline (CC BY-SA 3.0), via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Schema-feu-directionnel.png"
+    },
+    "sources": [
+      {
+        "source_id": "kystverket_sjomerker",
+        "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+        "section": "Sektorlykt",
+        "quote": "Hvit sektor = farbart farvann."
+      }
+    ]
+  },
+  {
+    "id": "q_wsekt_002",
+    "concept_id": "nv-sektorlykt-fyr",
+    "type": "bilde_symbol",
+    "difficulty": 2,
+    "importance": "critical",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Bildet viser en sektorlykt med fargede sektorer. Hva betyr den RØDE sektoren?",
+    "choices": [
+      "At du er utenfor trygt løp, mot fare på babord side av leia",
+      "At det er trygt å passere",
+      "At du må øke farten",
+      "At du nærmer deg en bro"
+    ],
+    "correct": 0,
+    "explanation": "Rød sektor viser fare på babord side av leia. Ser du rødt, er du ute av det trygge (hvite) løpet og bør styre tilbake mot hvit sektor.",
+    "image": {
+      "src": "data/img/wikimedia__images__schema-feu-directionnel.png",
+      "alt": "sektorlykt: hvit trygg sektor, rød og grønn faresektor",
+      "term": "sektorlykt: hvit trygg sektor, rød og grønn faresektor",
+      "category": "fyr_lykt",
+      "credit": "Pline (CC BY-SA 3.0), via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Schema-feu-directionnel.png"
+    },
+    "sources": [
+      {
+        "source_id": "kystverket_sjomerker",
+        "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+        "section": "Sektorlykt",
+        "quote": "Rød sektor mot fare på babord side."
+      }
+    ]
+  },
+  {
+    "id": "q_wsekt_003",
+    "concept_id": "nv-sektorlykt-fyr",
+    "type": "scenario",
+    "difficulty": 2,
+    "importance": "critical",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Du følger det hvite, trygge løpet fra en sektorlykt, men ser plutselig grønt lys i stedet. Hva bør du gjøre?",
+    "choices": [
+      "Øke farten gjennom grønn sektor",
+      "Styre tilbake mot den hvite sektoren – grønt betyr fare på styrbord side",
+      "Snu og kjøre tilbake",
+      "Holde kursen, grønt betyr fritt"
+    ],
+    "correct": 1,
+    "explanation": "Grønn sektor markerer fare på styrbord side av leia. Korriger kursen til du igjen ser hvit sektor (trygt løp).",
+    "image": {
+      "src": "data/img/wikimedia__images__schema-feu-directionnel.png",
+      "alt": "sektorlykt: hvit trygg sektor, rød og grønn faresektor",
+      "term": "sektorlykt: hvit trygg sektor, rød og grønn faresektor",
+      "category": "fyr_lykt",
+      "credit": "Pline (CC BY-SA 3.0), via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Schema-feu-directionnel.png"
+    },
+    "sources": [
+      {
+        "source_id": "kystverket_sjomerker",
+        "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+        "section": "Sektorlykt",
+        "quote": "Grønn sektor mot fare på styrbord side."
+      }
+    ]
+  },
+  {
+    "id": "q_wsekt_004",
+    "concept_id": "nv-sektorlykt-fyr",
+    "type": "mcq",
+    "difficulty": 1,
+    "importance": "high",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Hva er hovedhensikten med en sektorlykt (ledefyr)?",
+    "choices": [
+      "Å markere en ankringsplass",
+      "Å vise med farger hvor det trygge løpet går",
+      "Å måle vanndybden",
+      "Å vise fartsgrensen"
+    ],
+    "correct": 1,
+    "explanation": "En sektorlykt deler horisonten i fargede sektorer slik at fargen du ser forteller om du er i trygt løp (hvit) eller mot fare (rød/grønn).",
+    "image": {
+      "src": "data/img/wikimedia__images__leitfeuer-001.png",
+      "alt": "ledefyr/sektorlys (prinsipp)",
+      "term": "ledefyr/sektorlys (prinsipp)",
+      "category": "fyr_lykt",
+      "credit": "StMH (CC BY-SA 3.0), via Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Leitfeuer_001.svg"
+    },
+    "sources": [
+      {
+        "source_id": "kystverket_sjomerker",
+        "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+        "section": "Sektorlykt",
+        "quote": "Sektorlys leder fartøy i trygt løp."
+      }
+    ]
+  },
+  {
+    "id": "q_wkart_001",
+    "concept_id": "nv_kart_symboler",
+    "type": "bilde_symbol",
+    "difficulty": 2,
+    "importance": "critical",
+    "exam_area": "spesielt_viktige",
+    "prompt": "Hva betyr dette sjøkartsymbolet (et kryss med fire prikker innenfor en stiplet kontur)?",
+    "choices": [
+      "Et fyr",
+      "En grunne / et undervannsskjær",
+      "En kabel på sjøbunnen",
+      "En ankringsplass"
+    ],
+    "correct": 1,
+    "explanation": "Krysset med prikker innenfor en stiplet farekontur markerer en grunne eller et undervannsskjær – et område du må holde klar av.",
+    "image": {
+      "src": "data/img/wikimedia__images__grund-markering-sj-kort.png",
+      "alt": "kartsymbol for grunne/undervannsskjær",
+      "term": "kartsymbol for grunne/undervannsskjær",
+      "category": "kart_symbol",
+      "credit": "Lidingo (Public domain), via Wikimedia Commons",
+      "license": "Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Grund_markering_sj%C3%B6kort.png"
+    },
+    "sources": [
+      {
+        "source_id": "sdir_pensum",
+        "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+        "section": "Symboler i kartet",
+        "quote": "Grunner og skjær i sjøkart."
       }
     ]
   }

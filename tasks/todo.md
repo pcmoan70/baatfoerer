@@ -56,6 +56,9 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
 - [x] **Adaptiv utvelgelse**: flere spørsmål på svake/viktige emner
 - [x] **Feillogg** for feil-besvarte oppgaver (klikkbar for repetisjon)
 - [x] Bilde-/symbolspørsmål med ekte fagbilder + kildelenker
+- [x] **Lanterne-/fyr-illustrasjoner fra Wikimedia Commons** (fritt lisensiert):
+      8 diagrammer + 15 nye spørsmål; lisens/attribusjon lagret og vist som
+      kreditering (`fetch_commons.py`); 350 spørsmål totalt
 - [x] **Eksamensmodus**: 50 spm / 60 min nedtelling / ≥80 % + eget ≥80 %
       spesielt-krav; spørsmålspalett, resultat med områdefordeling og
       feilgjennomgang (forklaring + kilde); oppdaterer mestring + feillogg

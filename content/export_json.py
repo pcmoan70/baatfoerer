@@ -35,6 +35,8 @@ def main() -> int:
             "src": f"data/img/{web_name}",
             "alt": r["norwegian_term"] or r["what_it_shows"] or "",
             "term": r["norwegian_term"], "category": r["category"],
+            "credit": r["attribution"] or "offentlig kilde",
+            "license": r["license"], "source": r["page_url"],
         }
 
     # --- sources ---

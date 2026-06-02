@@ -1,0 +1,62 @@
+{
+  "source": "Wikimedia Commons",
+  "n": 8,
+  "images": [
+    {
+      "file": "wikimedia/images/grund-markering-sj-kort.png",
+      "title": "File:Grund markering sjökort.png",
+      "license": "Public domain",
+      "artist": "Lidingo",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Grund_markering_sj%C3%B6kort.png"
+    },
+    {
+      "file": "wikimedia/images/leitfeuer-001.png",
+      "title": "File:Leitfeuer 001.svg",
+      "license": "CC BY-SA 3.0",
+      "artist": "StMH",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Leitfeuer_001.svg"
+    },
+    {
+      "file": "wikimedia/images/maschinenfahrzeug-nachts-.png",
+      "title": "File:Maschinenfahrzeug (nachts).png",
+      "license": "CC BY-SA 1.0",
+      "artist": "ThoKay",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Maschinenfahrzeug_(nachts).png"
+    },
+    {
+      "file": "wikimedia/images/positionslichter.png",
+      "title": "File:Positionslichter.png",
+      "license": "CC BY-SA 1.0",
+      "artist": "ThoKay",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Positionslichter.png"
+    },
+    {
+      "file": "wikimedia/images/schema-feu-directionnel.png",
+      "title": "File:Schema-feu-directionnel.png",
+      "license": "CC BY-SA 3.0",
+      "artist": "Pline",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Schema-feu-directionnel.png"
+    },
+    {
+      "file": "wikimedia/images/ship-positionlights.png",
+      "title": "File:Ship positionLights.svg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Trex2001",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ship_positionLights.svg"
+    },
+    {
+      "file": "wikimedia/images/ship-position-lights-angles.png",
+      "title": "File:Ship position lights angles.svg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Claudio Elias",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ship_position_lights_angles.svg"
+    },
+    {
+      "file": "wikimedia/images/visibilityarc.png",
+      "title": "File:VisibilityArc.svg",
+      "license": "CC0",
+      "artist": "Original: Claudio Elias Vector:  ThelmOSO",
+      "source_page": "https://commons.wikimedia.org/wiki/File:VisibilityArc.svg"
+    }
+  ]
+}

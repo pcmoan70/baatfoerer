@@ -185,7 +185,7 @@ function renderQuestion(q) {
   // scene / bilde
   const fig = $("#sceneFigure");
   if (q.image && q.image.src) {
-    fig.innerHTML = `<img class="photo" src="${q.image.src}" alt="${q.image.alt || ""}"><span class="img-credit">Foto/illustrasjon: offentlig kilde</span>`;
+    fig.innerHTML = `<img class="photo" src="${q.image.src}" alt="${q.image.alt || ""}">${imgCredit(q.image)}`;
   } else { fig.innerHTML = sceneFor(c.area); }
 
   $("#questionText").textContent = q.prompt;
@@ -304,6 +304,13 @@ function renderClarity() {
 }
 
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+
+function imgCredit(img) {
+  const txt = "Illustrasjon: " + (img.credit || "offentlig kilde");
+  return img.source
+    ? `<a class="img-credit" href="${esc(img.source)}" target="_blank" rel="noopener">${esc(txt)}</a>`
+    : `<span class="img-credit">${esc(txt)}</span>`;
+}
 
 // ---- Meld feil / tilbakemelding (åpner e-post via mailto) ----
 const FEEDBACK_EMAIL = "vesmir09@gmail.com";
@@ -437,7 +444,7 @@ function renderExamQuestion() {
   const badge = $("#examBadge");
   if (q.exam_area === "spesielt_viktige") { badge.hidden = false; badge.textContent = "★ Spesielt viktig"; badge.className = "badge crit"; } else badge.hidden = true;
   const fig = $("#examScene");
-  fig.innerHTML = (q.image && q.image.src) ? `<img class="photo" src="${q.image.src}" alt="${q.image.alt || ""}">` : sceneFor(c.area);
+  fig.innerHTML = (q.image && q.image.src) ? `<img class="photo" src="${q.image.src}" alt="${q.image.alt || ""}">${imgCredit(q.image)}` : sceneFor(c.area);
   $("#examQuestion").textContent = q.prompt;
   const chosen = exam.answers[exam.idx];
   $("#examChoices").innerHTML = (q.choices || []).map((ch, i) =>

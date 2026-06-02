@@ -138,7 +138,10 @@
         "src": "data/img/kystverket__images__contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
         "alt": "fartsgrense (farvannsskilt)",
         "term": "fartsgrense (farvannsskilt)",
-        "category": "farvannsskilt"
+        "category": "farvannsskilt",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -177,7 +180,10 @@
         "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
         "alt": "vannscooter (høyhastighetsfartøy)",
         "term": "vannscooter (høyhastighetsfartøy)",
-        "category": "annet"
+        "category": "annet",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -421,7 +427,10 @@
         "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg",
         "alt": "kartarbeid / kursplotting",
         "term": "kartarbeid / kursplotting",
-        "category": "navigasjon_foto"
+        "category": "navigasjon_foto",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -465,7 +474,10 @@
         "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg",
         "alt": "kartarbeid / kursplotting",
         "term": "kartarbeid / kursplotting",
-        "category": "navigasjon_foto"
+        "category": "navigasjon_foto",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -615,7 +627,10 @@
         "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg",
         "alt": "seilasplanlegging / kartlesing",
         "term": "seilasplanlegging / kartlesing",
-        "category": "navigasjon_foto"
+        "category": "navigasjon_foto",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -652,25 +667,37 @@
         "src": "data/img/redningsselskapet__images__content-uploads-2016-01-sideavmerking_rod.jpg",
         "alt": "babord lateralmerke (rød stake)",
         "term": "babord lateralmerke (rød stake)",
-        "category": "sjomerke_lateral"
+        "category": "sjomerke_lateral",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/redningsselskapet__images__content-uploads-2016-01-gront_merke.jpg",
         "alt": "grønn stake / styrbord lateralmerke",
         "term": "grønn stake / styrbord lateralmerke",
-        "category": "sjomerke_lateral"
+        "category": "sjomerke_lateral",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-iala-system-for-sjomerker-boyer-o-c9789993.png",
         "alt": "laterale sjømerker (IALA-systemet)",
         "term": "laterale sjømerker (IALA-systemet)",
-        "category": "sjomerke_lateral"
+        "category": "sjomerke_lateral",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/bukt__images__quiz-static-img-articles-lateralmerker.svg",
         "alt": "lateralmerker (babordmerke og styrbordmerke)",
         "term": "lateralmerker (babordmerke og styrbordmerke)",
-        "category": "sjomerke_lateral"
+        "category": "sjomerke_lateral",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -707,31 +734,46 @@
         "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3ace3ec8.png",
         "alt": "kardinalmerker",
         "term": "kardinalmerker",
-        "category": "sjomerke_kardinal"
+        "category": "sjomerke_kardinal",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/redningsselskapet__images__content-uploads-2025-08-nordmerk_m_bakgrunn.png",
         "alt": "nordmerke",
         "term": "nordmerke",
-        "category": "sjomerke_kardinal"
+        "category": "sjomerke_kardinal",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/redningsselskapet__images__content-uploads-2025-08-ostmerke_m_bakgrunn.png",
         "alt": "østmerke (øst-kardinalmerke)",
         "term": "østmerke (øst-kardinalmerke)",
-        "category": "sjomerke_kardinal"
+        "category": "sjomerke_kardinal",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/redningsselskapet__images__content-uploads-2025-08-vestmerke_m_bakgrunn.png",
         "alt": "vestmerke (vest kardinalmerke)",
         "term": "vestmerke (vest kardinalmerke)",
-        "category": "sjomerke_kardinal"
+        "category": "sjomerke_kardinal",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/bukt__images__quiz-static-img-articles-kardinalmerker.svg",
         "alt": "kardinalmerker (nord, øst, sør, vest)",
         "term": "kardinalmerker (nord, øst, sør, vest)",
-        "category": "sjomerke_kardinal"
+        "category": "sjomerke_kardinal",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -768,37 +810,55 @@
         "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-9db6004e.png",
         "alt": "frittliggende grunne (HFB-merke)",
         "term": "frittliggende grunne (HFB-merke)",
-        "category": "sjomerke_frittliggende_grunne"
+        "category": "sjomerke_frittliggende_grunne",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/redningsselskapet__images__content-uploads-2016-01-sjomerke_blindleia.jpg",
         "alt": "fastmerke med visarm (peker mot trygt farvann)",
         "term": "fastmerke med visarm (peker mot trygt farvann)",
-        "category": "sjomerke_frittliggende_grunne"
+        "category": "sjomerke_frittliggende_grunne",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/redningsselskapet__images__content-uploads-2016-01-frittliggende_grunne.jpg",
         "alt": "merke for frittliggende grunne (isolert fare)",
         "term": "merke for frittliggende grunne (isolert fare)",
-        "category": "sjomerke_frittliggende_grunne"
+        "category": "sjomerke_frittliggende_grunne",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/redningsselskapet__images__content-uploads-2026-04-senterledsmerke-1024x731.png",
         "alt": "senterledsmerke (midtfarvann / trygt-vann)",
         "term": "senterledsmerke (midtfarvann / trygt-vann)",
-        "category": "sjomerke_senterleds"
+        "category": "sjomerke_senterleds",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-1436d7ea.png",
         "alt": "gult kryss-merke (X-topptegn) / spesialmerke",
         "term": "gult kryss-merke (X-topptegn) / spesialmerke",
-        "category": "sjomerke_spesial"
+        "category": "sjomerke_spesial",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/redningsselskapet__images__content-uploads-2026-04-badeboye_spesialmerke-1024x731.png",
         "alt": "spesialmerke (gult, X-topptegn) – f.eks. badebøye",
         "term": "spesialmerke (gult, X-topptegn) – f.eks. badebøye",
-        "category": "sjomerke_spesial"
+        "category": "sjomerke_spesial",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -835,13 +895,19 @@
         "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg",
         "alt": "fyr (Halten fyr)",
         "term": "fyr (Halten fyr)",
-        "category": "fyr_lykt"
+        "category": "fyr_lykt",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/kystverket__images__contentassets-0cdf44808b804bcfbe32912ae78e972c-eksempel-pa-s-d80e5d08.jpg",
         "alt": "fyrlykt med sektorer / sektorinndeling",
         "term": "fyrlykt med sektorer / sektorinndeling",
-        "category": "fyr_lykt"
+        "category": "fyr_lykt",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -878,7 +944,10 @@
         "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg",
         "alt": "lyskarakteristikker",
         "term": "lyskarakteristikker",
-        "category": "lyskarakteristikk"
+        "category": "lyskarakteristikk",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -915,13 +984,19 @@
         "src": "data/img/kystverket__images__contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
         "alt": "fartsgrense (farvannsskilt)",
         "term": "fartsgrense (farvannsskilt)",
-        "category": "farvannsskilt"
+        "category": "farvannsskilt",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       },
       {
         "src": "data/img/lanternenkurs__images__wp-content-uploads-2023-09-sjomerke_blindleia-1-1024x900.jpg",
         "alt": "fartsgrenseskilt (5 knop) / farvannsskilt",
         "term": "fartsgrenseskilt (5 knop) / farvannsskilt",
-        "category": "farvannsskilt"
+        "category": "farvannsskilt",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -959,7 +1034,10 @@
         "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-hero.jpg-3b9cbf77.jpg",
         "alt": "bruk av sjøkart / redningsvest om bord",
         "term": "bruk av sjøkart / redningsvest om bord",
-        "category": "navigasjon_foto"
+        "category": "navigasjon_foto",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -1295,7 +1373,10 @@
         "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
         "alt": "vannscooter (høyhastighetsfartøy)",
         "term": "vannscooter (høyhastighetsfartøy)",
-        "category": "annet"
+        "category": "annet",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },
@@ -1333,7 +1414,10 @@
         "src": "data/img/redningsselskapet__images__content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
         "alt": "vannscooter (høyhastighetsfartøy)",
         "term": "vannscooter (høyhastighetsfartøy)",
-        "category": "annet"
+        "category": "annet",
+        "credit": "offentlig kilde",
+        "license": null,
+        "source": null
       }
     ]
   },

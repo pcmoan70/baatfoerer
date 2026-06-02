@@ -52,7 +52,9 @@ CREATE TABLE images (
   norwegian_term TEXT,
   what_it_shows  TEXT,
   reusable       INTEGER DEFAULT 0,      -- 0 = kun analyse (opphavsrett), 1 = ok
-  page_url       TEXT
+  page_url       TEXT,
+  license        TEXT,                   -- f.eks. "CC BY-SA 4.0", "CC0", "Public domain"
+  attribution    TEXT                    -- kreditering (forfatter + lisens + kilde)
 );
 
 -- Konsepter (læringsenheter). importance og exam_area styrer adaptiv vekting.
