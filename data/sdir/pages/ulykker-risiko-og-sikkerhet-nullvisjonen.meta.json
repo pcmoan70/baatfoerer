@@ -1,0 +1,54 @@
+{
+  "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Dette er Nullvisjonen på sjøen, og slik kan du bidra - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "077816d3dba17ef469b2a2d9f4c895e091d6e779572a443c9e3a8787248975a3",
+  "fetched_at": "2026-06-02T10:57:00.793526+00:00",
+  "depth": 2,
+  "text_chars": 723,
+  "n_links": 26,
+  "n_pdf_links": 1,
+  "n_images": 6,
+  "images": [
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-hakon-seim-2017-03.jpg-fcfe1728.jpg",
+      "alt": ""
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-nasjonal-hand-a3f38acb.png",
+      "alt": ""
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-onepager-null-d05c33ab.png",
+      "alt": ""
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-christian-bra-4a0e76de.jpg",
+      "alt": ""
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-jan-erik-nyga-ee2cc921.jpg",
+      "alt": "En fritidsbåt og et passasjerskip på sjøen"
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-cog.jpg-fcfe1728.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/ulykker-risiko-og-sikkerhet-nullvisjonen.html",
+    "text": "pages/ulykker-risiko-og-sikkerhet-nullvisjonen.txt"
+  },
+  "anchors": [
+    {
+      "level": 2,
+      "text": "Nullvisjonen",
+      "id": "main-content"
+    }
+  ]
+}

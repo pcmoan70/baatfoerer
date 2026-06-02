@@ -1,0 +1,39 @@
+{
+  "url": "https://www.kystverket.no/regelverk/horinger/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Høringer | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "22c8a892c0701d7f83e9f12212d64317f1a0924eac560b4998be9422ecbd62d1",
+  "fetched_at": "2026-06-02T11:03:48.691307+00:00",
+  "depth": 1,
+  "text_chars": 3902,
+  "n_links": 165,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/regelverk-horinger.html",
+    "text": "pages/regelverk-horinger.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Høringer",
+      "id": "content-start"
+    },
+    {
+      "level": 2,
+      "text": "Søk i høringer",
+      "id": "hearinghub-search"
+    },
+    {
+      "level": 2,
+      "text": "Filtrer søket",
+      "id": "navbar-filter"
+    }
+  ]
+}

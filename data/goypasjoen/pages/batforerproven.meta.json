@@ -1,0 +1,58 @@
+{
+  "url": "https://xn--gypsjen-gxa2of.no/batforerproven",
+  "site": "goypasjoen",
+  "source_id": "goypasjoen",
+  "title": "Båtførerprøven | Gøypåsjøen.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "6aa400688a3148052f44ed693459cec6a580e5e0d8b327b09c439f6fa2a5fa6e",
+  "fetched_at": "2026-06-02T11:17:10.202292+00:00",
+  "depth": 0,
+  "text_chars": 2668,
+  "n_links": 60,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "goypasjoen\\images\\media-r-rxjjidkjzju.webp",
+      "alt": ""
+    },
+    {
+      "file": "goypasjoen\\images\\products-salepage-blocks-ythgnb-111.webp",
+      "alt": "Båt som ligger fortøyd til en brygge."
+    }
+  ],
+  "files": {
+    "html": "pages/batforerproven.html",
+    "text": "pages/batforerproven.txt"
+  },
+  "anchors": [
+    {
+      "level": 3,
+      "text": "Fin forberedelse",
+      "id": "review-1"
+    },
+    {
+      "level": 3,
+      "text": "Fint til oppfrisking",
+      "id": "review-2"
+    },
+    {
+      "level": 3,
+      "text": "Hjelpsomme spørsmål",
+      "id": "review-3"
+    },
+    {
+      "level": 2,
+      "text": "Du er observatør og ser at vannskikjøreren gir deg dette signalet. Hva betyr det?",
+      "id": "questionview-6"
+    },
+    {
+      "level": 2,
+      "text": "{LANG_PRODUCT_WHATDOYOULEARN_HEADER}",
+      "id": "product_categories"
+    }
+  ]
+}

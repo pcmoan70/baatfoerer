@@ -1,0 +1,11 @@
+Radiosertifikat for VHF
+Du kan søke om SRC-sertifikat her. SRC (Short Range Certificate) er nødvendig for betjening av VHF med DSC (digital selective calling)
+For å ta eksamen og søke om VHF/SRC-sertifikat må kandidaten gjøre følgende:
+- Logg deg på på «mine sider sjøfolk».
+- Klikk på «Ta eksamen».
+- Når eksamen er bestått, trykker du på "mine sertifikater og påtegninger". Her oppretter du og betaler for søknad.
+Du har to forsøk på å bestå eksamen.
+Hvis du ikke består andre forsøk, må du vente syv dager før du kan ta eksamen på nytt.
+Øv deg gjerne på vår VHF-simulator og prøveeksamen før du tar eksamen.
+[VHF-Simulator](https://kystradio.e-learning.no/exam-register/maritimradio/4784)[Veiledning til VHF-Simulator (pdf)](https://www.sdir.no/contentassets/f7783e70e9fd4a3e8e71b6aaa579a910/veiledning-simulator.pdf)[Prøveeksamen SRC](https://kystradio.e-learning.no/exam-register/maritimradio/4794)
+Noen brukere kan oppleve utfordringer ved bruk av iPhone. Vi anbefaler å bruke datamaskin dersom det haster. Det arbeides med å finne en løsning.

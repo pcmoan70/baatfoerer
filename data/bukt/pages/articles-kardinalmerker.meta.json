@@ -1,0 +1,28 @@
+{
+  "url": "https://bukt.no/articles/kardinalmerker",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Kardinalmerker - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "5ef16778405f2564887d74f5c4298ef99d5b76ed1c7ad29d90d8fbd88eafdff1",
+  "fetched_at": "2026-06-02T11:16:39.386459+00:00",
+  "depth": 2,
+  "text_chars": 2687,
+  "n_links": 31,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-kardinalmerker.svg",
+      "alt": "Illustrasjon av kardinalmerker – nord, sør, øst og vest"
+    }
+  ],
+  "files": {
+    "html": "pages/articles-kardinalmerker.html",
+    "text": "pages/articles-kardinalmerker.txt"
+  },
+  "anchors": []
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.lanternenkurs.no/8-fyr-med-fargesektorer-og-lyskarakteristikker/",
+  "site": "lanternenkurs",
+  "source_id": "lanternenkurs",
+  "title": "8. Fyr med fargesektorer og lyskarakteristikker: - Lanternen",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "ae6c2316615c1ed7e30a9dfb97a283cc8c427507853d9a9ecce849d4f052b65e",
+  "fetched_at": "2026-06-02T11:18:52.606704+00:00",
+  "depth": 2,
+  "text_chars": 1242,
+  "n_links": 35,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg",
+      "alt": "Lyskarakteristikker, fast lys, okkulterende , flash, Isofase"
+    }
+  ],
+  "files": {
+    "html": "pages/8-fyr-med-fargesektorer-og-lyskarakteristikker.html",
+    "text": "pages/8-fyr-med-fargesektorer-og-lyskarakteristikker.txt"
+  },
+  "anchors": []
+}

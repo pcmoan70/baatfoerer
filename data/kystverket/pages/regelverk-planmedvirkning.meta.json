@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/regelverk/planmedvirkning/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Kystverkets rolle i planlegging etter plan- og bygningsloven | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "40cfa9f07dca76d8144e305ebaaf291df813ea4efdf66d7ee957c9ec199ff7f8",
+  "fetched_at": "2026-06-02T11:03:44.331487+00:00",
+  "depth": 1,
+  "text_chars": 351,
+  "n_links": 133,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/regelverk-planmedvirkning.html",
+    "text": "pages/regelverk-planmedvirkning.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kystverkets rolle i planlegging etter plan- og bygningsloven",
+      "id": "content-start"
+    }
+  ]
+}

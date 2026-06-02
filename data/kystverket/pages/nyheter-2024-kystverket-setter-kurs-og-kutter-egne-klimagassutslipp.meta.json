@@ -1,0 +1,42 @@
+{
+  "url": "https://www.kystverket.no/nyheter/2024/kystverket-setter-kurs-og-kutter-egne-klimagassutslipp/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Kystverket setter kurs og kutter egne klimagassutslipp | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "00aa85adb8ccb7625bcd1bfe6d21c3ffb307b4941fad1e61e776c40534ebc191",
+  "fetched_at": "2026-06-02T11:04:28.986565+00:00",
+  "depth": 1,
+  "text_chars": 2472,
+  "n_links": 132,
+  "n_pdf_links": 0,
+  "n_images": 3,
+  "images": [
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-om-kystverket-klimamal.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-skip-i-innseilingen-ti-140a2ba3.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-98d156def7ad4171b02428a4a1b9ad1e-iona-i-aalesu-e7407a2a.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/nyheter-2024-kystverket-setter-kurs-og-kutter-egne-klimagassutslipp.html",
+    "text": "pages/nyheter-2024-kystverket-setter-kurs-og-kutter-egne-klimagassutslipp.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kystverket setter kurs og kutter egne klimagassutslipp",
+      "id": "content-start"
+    }
+  ]
+}

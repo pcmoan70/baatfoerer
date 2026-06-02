@@ -1,0 +1,28 @@
+{
+  "url": "https://bukt.no/tasks/83",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oppgave 83 - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "555b9b4b0caa3db42690648d847c3fa6040aaf446a4503d851a3264fea714a3f",
+  "fetched_at": "2026-06-02T11:13:49.091969+00:00",
+  "depth": 1,
+  "text_chars": 439,
+  "n_links": 12,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-83.svg",
+      "alt": "Oppgavebilde"
+    }
+  ],
+  "files": {
+    "html": "pages/tasks-83.html",
+    "text": "pages/tasks-83.txt"
+  },
+  "anchors": []
+}

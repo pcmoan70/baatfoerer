@@ -1,0 +1,83 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Grunnleggende om strøm i båt - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "49962ea62e75a4dce618bdae85a22a28296f5f0d42fb33b77f534cda20c1b0a3",
+  "fetched_at": "2026-06-02T11:12:04.022177+00:00",
+  "depth": 2,
+  "text_chars": 9767,
+  "n_links": 130,
+  "n_pdf_links": 0,
+  "n_images": 12,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-15.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-3-1024x1024.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-7-1024x535.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-9-1024x535.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-10-1024x535.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-11-1024x1024.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-12-1024x1024.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-13-1024x1024.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-18-1024x1024.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-25-1024x535.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-27-1024x535.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-30-1024x535.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-12-volt-for-dummies.html",
+    "text": "pages/sikker-til-sjos-12-volt-for-dummies.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Grunnleggende om strøm i båt",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

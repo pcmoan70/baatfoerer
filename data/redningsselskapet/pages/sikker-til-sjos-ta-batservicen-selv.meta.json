@@ -1,0 +1,39 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/ta-batservicen-selv/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Slik tar du service på din eldre påhengsmotor selv - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "a39e56caeea20c7d04c0a3b4ae74bcb83ee169dcb1c573652d9e68b9a4afcf29",
+  "fetched_at": "2026-06-02T11:12:19.215376+00:00",
+  "depth": 2,
+  "text_chars": 7987,
+  "n_links": 129,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-ta-batservicen-selv.html",
+    "text": "pages/sikker-til-sjos-ta-batservicen-selv.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Slik tar du service på din eldre påhengsmotor selv",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    },
+    {
+      "level": 2,
+      "text": "Jeg ønsker å bli Totalmedlem for kr 1 245,–",
+      "id": "membership-registration"
+    }
+  ]
+}

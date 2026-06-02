@@ -1,0 +1,64 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kartverket Møre og Romsdal | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:30 GMT",
+  "checksum_sha256": "aea86738b6173789dee85c85245ae920d9e873c7edf4251bc18f49bd441220eb",
+  "fetched_at": "2026-06-02T11:07:32.361477+00:00",
+  "depth": 2,
+  "text_chars": 1709,
+  "n_links": 61,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-more-og-romsdal.html",
+    "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-more-og-romsdal.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kartverket Møre og Romsdal",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Fagområder Møre og Romsdal",
+      "id": "LinkListBlockProxy-6249"
+    },
+    {
+      "level": 2,
+      "text": "Geodatasamarbeid i fylket",
+      "id": "LinkListBlockProxy-6253"
+    },
+    {
+      "level": 2,
+      "text": "Geodataressurser",
+      "id": "LinkListBlockProxy-5723"
+    },
+    {
+      "level": 2,
+      "text": "Nyhende Møre og Romsdal",
+      "id": "NewsListingBlockProxy-10359"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

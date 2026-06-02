@@ -1,0 +1,38 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/tjenester/analyseenheten-i-vardo/",
+  "site": "kystverket",
+  "source_id": "kystverket_sjomerker",
+  "title": "Analyseenheten i Vardø | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c83d26d81f95068e377d32167c0797afb7fae8469a3778af12abb040d6de6def",
+  "fetched_at": "2026-06-02T11:02:19.487695+00:00",
+  "depth": 2,
+  "text_chars": 896,
+  "n_links": 132,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-78edc31e91804ae2aad9fa9decd32c1f-fiskerikrimin-77a94f86.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-25d4ed9639144157862239636fe2ee6b-img_7894.jpg-08dea819.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-tjenest-018351d3.html",
+    "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-tjenest-018351d3.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Analyseenheten i Vardø",
+      "id": "content-start"
+    }
+  ]
+}

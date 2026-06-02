@@ -1,0 +1,49 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/kontakt-oss",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kontakt oss | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 10:45:38 GMT",
+  "checksum_sha256": "97aea42f0a8c927d22c75eccb0e1b381027de0147063ea3e738a8bd5b32f321f",
+  "fetched_at": "2026-06-02T11:06:53.921968+00:00",
+  "depth": 1,
+  "text_chars": 2140,
+  "n_links": 47,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-kontakt-oss.html",
+    "text": "pages/om-kartverket-kontakt-oss.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kontakt oss",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Fylkeskartkontor",
+      "id": "LinkListBlockProxy-5430"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

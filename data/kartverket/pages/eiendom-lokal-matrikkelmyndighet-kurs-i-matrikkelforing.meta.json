@@ -1,0 +1,99 @@
+{
+  "url": "https://www.kartverket.no/eiendom/lokal-matrikkelmyndighet/kurs-i-matrikkelforing",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kurs i matrikkelføring | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:36 GMT",
+  "checksum_sha256": "6789b532ecaaecc1f4f1798103d0eed7a79e885c1da0b24f542b1f1ba83a97f9",
+  "fetched_at": "2026-06-02T11:08:37.587227+00:00",
+  "depth": 2,
+  "text_chars": 600,
+  "n_links": 43,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/eiendom-lokal-matrikkelmyndighet-kurs-i-matrikkelforing.html",
+    "text": "pages/eiendom-lokal-matrikkelmyndighet-kurs-i-matrikkelforing.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kurs i matrikkelføring",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Kurs",
+      "id": "TeaserListBlockProxy-10765"
+    },
+    {
+      "level": 3,
+      "text": "Om kurs i matrikkelføring",
+      "id": "TeaserListBlockProxy-10765-0"
+    },
+    {
+      "level": 3,
+      "text": "Del 1 e-læringskurs",
+      "id": "TeaserListBlockProxy-10765-1"
+    },
+    {
+      "level": 3,
+      "text": "Eksamen i del 1",
+      "id": "TeaserListBlockProxy-10765-2"
+    },
+    {
+      "level": 3,
+      "text": "Del 2 føringskurs",
+      "id": "TeaserListBlockProxy-10765-3"
+    },
+    {
+      "level": 3,
+      "text": "Eksamen i del 2",
+      "id": "TeaserListBlockProxy-10765-4"
+    },
+    {
+      "level": 3,
+      "text": "Matrikkel-mandag",
+      "id": "TeaserListBlockProxy-10765-5"
+    },
+    {
+      "level": 2,
+      "text": "Andre e-læringskurs",
+      "id": "TeaserListBlockProxy-13241"
+    },
+    {
+      "level": 3,
+      "text": "E-læringskurs Registrering av konsesjonsinformasjon",
+      "id": "TeaserListBlockProxy-13241-0"
+    },
+    {
+      "level": 3,
+      "text": "E-læringskurs for føring i Nasjonal inndelingsbase",
+      "id": "TeaserListBlockProxy-13241-1"
+    },
+    {
+      "level": 2,
+      "text": "Nyttig",
+      "id": "LinkListBlockProxy-13240"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

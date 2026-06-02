@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sertifikater/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Sertifikater - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "449af160442d707953852392c0139ecd1b49db01bc466e13c35058625d1cf494",
+  "fetched_at": "2026-06-02T10:55:48.966254+00:00",
+  "depth": 1,
+  "text_chars": 1303,
+  "n_links": 34,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-sertifikater.html",
+    "text": "pages/fritidsbat-sertifikater.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Sertifikater",
+      "id": "main-content"
+    }
+  ]
+}

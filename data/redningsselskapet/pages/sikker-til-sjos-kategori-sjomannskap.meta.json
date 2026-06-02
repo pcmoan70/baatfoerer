@@ -1,0 +1,56 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Sjømannskap Arkiver - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "7ef9f376576ee3a439e47a3d2573a26dd205c8ffd1c4e7c726cb4cb2b394805c",
+  "fetched_at": "2026-06-02T11:10:13.612340+00:00",
+  "depth": 1,
+  "text_chars": 271,
+  "n_links": 161,
+  "n_pdf_links": 0,
+  "n_images": 8,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-10-boyestikk_fenderstikk-scaled.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-06-9_pumpe_bensin_2.jpg",
+      "alt": "Pump bensin manuelt med bensinblæra, den manuelle bensinpumpa"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-06-uthavn_header.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-06-poke_bowl_mat.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-skartveit_gjestehavn.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-03-leggetil_vriba-ten.jpg",
+      "alt": "Bildet viser en som skal legge inntil brygga"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-p-lestikk_del31.png",
+      "alt": "Ferdig pålestikk"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-ba-tkjoring_under_16_a-r_9_9_hk.jpg",
+      "alt": "Ung båtfører kjører båt med 9,9 hk."
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-kategori-sjomannskap.html",
+    "text": "pages/sikker-til-sjos-kategori-sjomannskap.txt"
+  },
+  "anchors": []
+}

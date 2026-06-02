@@ -1,0 +1,44 @@
+{
+  "url": "https://bukt.no/categories/METEOROLOGI",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Meteorologi - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "79af08d1692aa33e040743e2aba64d76a5c1da3476662c3c990a403ec6ea7377",
+  "fetched_at": "2026-06-02T11:14:56.727102+00:00",
+  "depth": 2,
+  "text_chars": 2990,
+  "n_links": 45,
+  "n_pdf_links": 0,
+  "n_images": 5,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-408.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-410.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-411.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-412.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-413.svg",
+      "alt": "Oppgavebilde"
+    }
+  ],
+  "files": {
+    "html": "pages/categories-meteorologi.html",
+    "text": "pages/categories-meteorologi.txt"
+  },
+  "anchors": []
+}

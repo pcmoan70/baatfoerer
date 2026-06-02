@@ -1,0 +1,28 @@
+{
+  "url": "https://bukt.no/",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Øvingsoppgaver til båtførerprøven - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "9b8eadfac4b4e16001c3ff0c4ca5b807b06f8e7cdd05eb34fafa2f74f8a62f90",
+  "fetched_at": "2026-06-02T11:13:22.814478+00:00",
+  "depth": 0,
+  "text_chars": 715,
+  "n_links": 14,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-frontpage_photo.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/index.html",
+    "text": "pages/index.txt"
+  },
+  "anchors": []
+}

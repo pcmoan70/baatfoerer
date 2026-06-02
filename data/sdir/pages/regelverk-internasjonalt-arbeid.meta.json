@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/regelverk/internasjonalt-arbeid/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Internasjonalt arbeid - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c9c98da5230f1ef024ff82e8f40bd397dddbcbab0d8923cd2389d2fd00a6cb5f",
+  "fetched_at": "2026-06-02T10:56:02.377548+00:00",
+  "depth": 2,
+  "text_chars": 295,
+  "n_links": 28,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/regelverk-internasjonalt-arbeid.html",
+    "text": "pages/regelverk-internasjonalt-arbeid.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Internasjonalt arbeid",
+      "id": "main-content"
+    }
+  ]
+}

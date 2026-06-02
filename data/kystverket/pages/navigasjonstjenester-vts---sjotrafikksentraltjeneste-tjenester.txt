@@ -1,0 +1,26 @@
+Sjøtrafikksentraltjenester
+Sjøtrafikksentraltjenesten (VTS) tilbyr tre typer tjenester, basert på nasjonalt regelverk og internasjonale standarder og anbefalinger.
+Sjøtrafikksentraltjenesten (VTS) tilbyr tre typer tjenester, basert på nasjonalt regelverk og internasjonale standarder og anbefalinger.
+Sjøtrafikksentralen gir viktig og tidsriktig informasjon for å støtte den nautiske beslutningsprosessen ombord. Et fartøy kan be sjøtrafikksentralen om informasjon og sjøtrafikksentralen kan gi informasjon til fartøy uoppfordre. Sjøtrafikksentralen har også myndighet til å be fartøyet om informasjon dersom noe er uklart.
+Informasjonen kan inneholde opplysninger om trafikkbildet, eksempelvis:
+- Posisjon, fartøysidentitet, destinasjon
+- Meteorologisk-hydrografisk informasjon
+- Aktuelle begrensninger eller aktiviteter i farleder
+- Retningslinjer for obligatorisk rapportering
+- VHF kanaler som er gjeldende i tjenesteområdet
+Navigasjonsassistanse gis på forespørsel fra fartøy for å gi beslutningsstøtte om bord, eller når sjøtrafikksentralen observerer et avvik i trafikken der man vurderer det som nødvendig å gripe inn. Ved navigasjonsassistanse følger sjøtrafikksentralen kontinuerlig opp det aktuelle fartøyet.
+Situasjoner hvor navigasjonsassistanse kan gis:
+- Ved vanskelige meteorologiske forhold
+- Ved feil eller mangler på navigasjonsutstyr ombord på fartøy
+- Når fartøy avviker fra seilingsplan
+- Når det er risiko for grunnstøting eller kollisjon
+- Når et fartøy er usikker på sin posisjon, eller ikke er i stand til å bestemme sin posisjon
+Sjøtrafikksentralen kan gi:
+- Peiling og avstand til nærliggende fare eller landmerke
+- Anbefale en seilingskurs til neste rutepunkt (waypoint)
+Trafikkorganisering skal bidra til sikker og effektiv trafikkavvikling, og hindre at det oppstår for stor trafikktetthet eller farlige situasjoner i sjøtrafikksentralområder.
+Organisering og planlegging av trafikkbildet er særlig viktig når det er høy trafikktetthet. Fartøy over en viss størrelse må søke om tillatelse før seilas eller oppankring i sjøtrafikksentralområder, og må videre rapportere til gjeldende sjøtrafikksentral før innseiling i et tjenesteområde eller før avgang fra kai eller ankerplass.
+Sjøtrafikkforskriften regulerer blant annet møte- og passeringsforbud, og at fartøyet kan få tillatelse (klarering) til å seile inn i et sjøtrafikksentralområde. En tillatelse (klarering) kan gis uten betingelser, eller ha spesielle vilkår som:
+- bruk av spesielle farleder
+- seilas må skje i en bestemt rekkefølge i forhold til annen trafikk
+- tillatelse (klarering) kan tilbakeholdes når det er saklig grunnlag for dette

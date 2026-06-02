@@ -1,0 +1,38 @@
+{
+  "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Fyr, lykter og sjømerker | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "3cf331b7484215bce63510939e6d0b141f31bcaed91c36bcc14fc1dd3d1579c1",
+  "fetched_at": "2026-06-02T11:02:31.483313+00:00",
+  "depth": 1,
+  "text_chars": 1447,
+  "n_links": 139,
+  "n_pdf_links": 1,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "kystverket\\images\\globalassets-fotoware-2021-5-dji_0008.jpg-169bbf91.jpg",
+      "alt": "Alnes fyr"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-f863a8a0.png",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sjovegen-fyr-lykter-og-sjomerker.html",
+    "text": "pages/sjovegen-fyr-lykter-og-sjomerker.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Fyr, lykter og sjømerker",
+      "id": "content-start"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+Nye digitale verktøy skal bidra til enda sikrere og mer effektive seilaser i fremtiden. Karl Helge Haagensen fra Kystverket var nylig los om bord på fartøyet M/T Tern Ocean gjennom det smale og grunne Tjeldsundet. Her ble det digitale verktøyet S-100 Demonstrator, med live oppdatering av S-129 testet på en kommersiell seilas – for første gang i global sammenheng.
+Beregner hvor det er trygt
+Målet med S-129 er å sikre god klaring i områder med små marginer på dybde. Modeller av et fartøys fasong og fysiske struktur brukes i kalkulasjonen av S-129. I tillegg hentes fysiske faktorene fra fartøyets omgivelser inn i en modell av selve seilingsområdet, som undervannsterreng, strøm, vannstand, bølgehøyde, vind, dybde, vannets saltinnhold og barometertrykk.
+Et viktig mål med S-129 er å kunne utvide navigerbart handlingsrom.
+Innovasjon viktig for losen
+Losyrket går mange hundre år tilbake i tid, og dagens loser kan fortsatt seile trygt og finne fram uten moderne hjelpemidler, både i tåke, regn og snøbyger.
+– Likevel er innovasjon og utvikling viktig for å bedre sjøsikkerheten, og lostjenesten skal bidra aktivt inn i denne utviklingen, sier losdirektør Erik Blom i Kystverket.
+Testen ble gjennomført på en losing av M/T Tern Ocean, gjennom det smale og grunne Tjeldsundet.
+Kan dokumentere i forkant
+– Vi hadde strengt tatt ikke trengt alt dette utstyret på denne seilasen. Målet her var å teste det nye digitale systemet og se på samspillet i praksis. Dette er helt nytt og fortsatt under utvikling. Men når vi får nye verktøy som øker sjøsikkerheten, er det klart at det har en stor verdi. Både offshore- og cruiseflåten stiller strenge krav til dokumentasjon av klarering mot bunn.
+– Med S-129 kan vi beregne og planlegge seilasen i forkant for å se om seilasen er gjennomførbar, sier statslos Karl Helge Haagensen.
+Utvider handlingsrommet
+– Vi kan her dokumentere trygg seilingsdybde i forkant. Det betyr at man kan seile ved tilstrekkelig vannstand og spare tid ved å slippe å vente på høyvann. Skip kan lastes tyngre, som gir færre turer, eller de kan velge nye og kortere ruter og spare drivstoff, sier statslos Karl Helge Haagensen.
+Skreddersydd for fartøy og område
+– S-129 er et ekstra lag med info som beregner og viser hvor det er trygt å seile. Røde områder på kartet viser hvor det ikke er trygt. Dette er tilpasset og skreddersydd for et spesifikt fartøy i et spesifikt farvann. Informasjon om båten brukes sammen med ytre forhold som påvirker fartøyet, som dybde, strøm og tidevann/vannstand, og alt vises i S-100 Demonstrator applikasjonen, sier Svein Skjæveland, prosjektleder i Electronic Chart Centre (ECC).
+– I denne testen i Tjeldsundet så vi helt spesifikt på dybde, vannstand og strøm i overflaten, sier han. I tillegg kunne vi drapere informasjon som ENC og bunnforhold over dybdedataene i visningen av dataene i Demonstratoren.
+Oppdateres gjennom seilasen
+Det er firmaet OMC International i Irland som leverer de såkalte «under keel clearance»-tjenestene. Under seilasen hentes AIS-info om dyptgående, posisjon og fart. Dette brukes av OMC til kalkulasjon av nye S-129 datasett. En direkte kobling i Demonstratoren til OMC sin dataflyt sørger for at man får tilgang til nye justerte datasett annethvert minutt gjennom seilasen, slik at endringer vises fortløpende.
+Alle data samlet i ett bilde under testen i Tjeldsundet. Skjermdump S-100 Demonstrator.
+Testet dataflyt i Tjeldsundet
+På seilasen gjennom Tjeldsundet ble flyten av data testet i praksis. Data fra produsenten kan hentes direkte ned fra sluttbrukersystemet, i en trygg og effektiv løsning som ivaretar sikkerhet og integritet i dataoverføringsprosessen. – Dette er en av de foreløpig få eksisterende implementeringene av sikkerhetsprotokollen som beskrives i S-100, så dette er innovativt og helt i front i utviklingen, sier Svein.
+Tjeldsundet var et svært egnet sted for akkurat denne testen.
+– Her er det forholdsvis grunt, noe som øker den hydrodynamiske effekten som gjør at båten synker litt lenger ned i vannet (squat-effekten). Det er også krevende strømforhold og relativt stor variasjon i vannstanden her oppe i nord, sier Karl Helge.
+Får alt i ett bilde
+– Det er en stor fordel for den som navigerer å få alt i ett grafisk bilde. Ulike data hentes fra ulike kilder, men alt legges inn i S-100 Demonstrator som ulike lag, slik at vi ser alt som en helhet, sier Karl Helge, som i tillegg hadde med tre ekstra XR2-sensorer fra AD Navigation for å sikre nøyaktig posisjonen underveis.
+– Mye av denne informasjonen har vi hatt tidligere på ulike skjermer, men nå har vi fått alt i samme bilde. Det store nye her er online-kommunikasjon med eksterne aktører, som OMC, som leverer fortløpende oppdatering av UKC (Under Keel Clarence), sier han.
+Statslos Karl Helge Haagensen fra Kystverket og Svein Skjæveland fra ECC i arbeid under testen.
+Sparer tid, penger og miljø
+Svein forteller at hensikten er å vise at det er mulig å lage data på disse formatene og bruke dem i S-100 Demonstrator, som er hovedsystemet for dette utviklingsprosjektet.
+– Vi ønsker å vise at dette utstyret kan brukes, og se om det kan gi fordeler. Her er det for eksempel muligheter for rederiene å få mer effektive seilaser ved å laste tyngre, eller spare tid ved å seile andre og kortere ruter.
+Målet er bedre sikkerhet, bedre økonomi og å få miljøgevinster med lavere utslipp fordi forbruket av drivstoff går ned, sier Svein Skjæveland, prosjektleder i Electronic Chart Centre (ECC)

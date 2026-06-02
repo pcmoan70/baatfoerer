@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/articles/meteorologi",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Vindstyrker og Beauforts skala - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "17052b5807fcbf72a30f322bb69df603e1025a65ce20f9e40cb6f89d0f156d63",
+  "fetched_at": "2026-06-02T11:16:45.276823+00:00",
+  "depth": 2,
+  "text_chars": 2710,
+  "n_links": 30,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/articles-meteorologi.html",
+    "text": "pages/articles-meteorologi.txt"
+  },
+  "anchors": []
+}

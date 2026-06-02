@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/havn/sikker-lasting-og-lossing-av-bulkskip/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Sikker lasting og lossing av bulkskip | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "9bdf0e73178ac20a9c67f303c055d25cd6be416c3004cb64aa461f6349b9bcae",
+  "fetched_at": "2026-06-02T11:03:42.188609+00:00",
+  "depth": 1,
+  "text_chars": 303,
+  "n_links": 134,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/havn-sikker-lasting-og-lossing-av-bulkskip.html",
+    "text": "pages/havn-sikker-lasting-og-lossing-av-bulkskip.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Sikker lasting og lossing av bulkskip",
+      "id": "content-start"
+    }
+  ]
+}

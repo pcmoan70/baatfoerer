@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/los/losformidling/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Losformidling | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "230788c68dbdee3c9587cf5e1d313da17e8a93b5da2f1f3e49696e8a93721216",
+  "fetched_at": "2026-06-02T11:05:55.421575+00:00",
+  "depth": 2,
+  "text_chars": 1525,
+  "n_links": 131,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-los-losformidling.html",
+    "text": "pages/navigasjonstjenester-los-losformidling.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Losformidling",
+      "id": "content-start"
+    }
+  ]
+}

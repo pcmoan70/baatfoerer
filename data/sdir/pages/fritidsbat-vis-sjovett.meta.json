@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/vis-sjovett/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Vis Sjøvett - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "6eab13a83dda252be57f165f8d34dc84a4fba575c6257b436b6eeffb77f0797c",
+  "fetched_at": "2026-06-02T10:56:29.237577+00:00",
+  "depth": 2,
+  "text_chars": 706,
+  "n_links": 39,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-vis-sjovett.html",
+    "text": "pages/fritidsbat-vis-sjovett.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Vis sjøvett",
+      "id": "main-content"
+    }
+  ]
+}

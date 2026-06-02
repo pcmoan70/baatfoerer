@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/categories/SIKKERHET",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Sikkerhet - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "78f0b00e5a6658378af9c20d8090affa04bd86f82ea9a92423183acb11931d1f",
+  "fetched_at": "2026-06-02T11:14:59.014149+00:00",
+  "depth": 2,
+  "text_chars": 1890,
+  "n_links": 34,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/categories-sikkerhet.html",
+    "text": "pages/categories-sikkerhet.txt"
+  },
+  "anchors": []
+}

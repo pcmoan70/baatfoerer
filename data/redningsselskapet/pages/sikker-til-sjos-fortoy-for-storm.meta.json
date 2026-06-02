@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/fortoy-for-storm/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Fortøy for storm - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "bbcfc17468570ef69c310cf84a097bad6ce806dd7320a0db7d5c06b1a8276998",
+  "fetched_at": "2026-06-02T11:12:50.367524+00:00",
+  "depth": 2,
+  "text_chars": 3265,
+  "n_links": 119,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-fortoy-for-storm.html",
+    "text": "pages/sikker-til-sjos-fortoy-for-storm.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Fortøy for storm",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

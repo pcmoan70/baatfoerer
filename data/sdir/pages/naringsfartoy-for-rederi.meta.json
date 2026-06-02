@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/naringsfartoy/for-rederi/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "For rederi - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "065f35ab5b753d98319554098f3858ea5c282b1967443e76907c91c6c77c49d2",
+  "fetched_at": "2026-06-02T10:56:10.839106+00:00",
+  "depth": 2,
+  "text_chars": 598,
+  "n_links": 32,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/naringsfartoy-for-rederi.html",
+    "text": "pages/naringsfartoy-for-rederi.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "For rederi",
+      "id": "main-content"
+    }
+  ]
+}

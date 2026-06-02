@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/articles/kommunikasjon",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Kommunikasjon på sjøen – VHF, nødsignaler og lydsignaler - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "e8e6da3f1447ac596d03793c6847af00c99210453e38f9bf824b48f34951e62c",
+  "fetched_at": "2026-06-02T11:16:40.527699+00:00",
+  "depth": 2,
+  "text_chars": 1801,
+  "n_links": 26,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/articles-kommunikasjon.html",
+    "text": "pages/articles-kommunikasjon.txt"
+  },
+  "anchors": []
+}

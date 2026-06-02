@@ -1,0 +1,29 @@
+{
+  "url": "https://xn--btfrerregisteret-dob85a.no/min-side/",
+  "site": "batforerregisteret",
+  "source_id": "batforerregisteret",
+  "title": "Kandidatinnlogging",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "060ec5dd9ef960a87d83b2d8ff5cf7a030f5a890603ee978100975e1856c8211",
+  "fetched_at": "2026-06-02T10:57:24.400060+00:00",
+  "depth": 1,
+  "text_chars": 697,
+  "n_links": 4,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/min-side.html",
+    "text": "pages/min-side.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Logg inn",
+      "id": "body"
+    }
+  ]
+}

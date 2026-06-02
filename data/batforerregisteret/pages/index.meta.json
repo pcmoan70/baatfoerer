@@ -1,0 +1,64 @@
+{
+  "url": "https://xn--btfrerregisteret-dob85a.no/",
+  "site": "batforerregisteret",
+  "source_id": "batforerregisteret",
+  "title": "Båtførerregisteret - registrering til båtførerprøven",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "W/\"4da76095ce472662fcb294e9901d2674\"",
+  "last_modified": null,
+  "checksum_sha256": "0bfd26b2c72af80b2606317f2f10ffa90246629b8e1602fabaa5d28a4f623c06",
+  "fetched_at": "2026-06-02T10:57:23.293281+00:00",
+  "depth": 0,
+  "text_chars": 2825,
+  "n_links": 37,
+  "n_pdf_links": 3,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/index.html",
+    "text": "pages/index.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Båtfører­registeret",
+      "id": "body"
+    },
+    {
+      "level": 2,
+      "text": "Veien til ditt båtførerbevis",
+      "id": "veient-til-bfp"
+    },
+    {
+      "level": 2,
+      "text": "Registrering",
+      "id": "registrering"
+    },
+    {
+      "level": 2,
+      "text": "Testsenter",
+      "id": "testsenter"
+    },
+    {
+      "level": 2,
+      "text": "Eksamen",
+      "id": "eksamen"
+    },
+    {
+      "level": 2,
+      "text": "Båtførerbevis",
+      "id": "bevis"
+    },
+    {
+      "level": 2,
+      "text": "Internasjonalt båtførersertifikat (ICC)",
+      "id": "icc"
+    },
+    {
+      "level": 2,
+      "text": "Nyheter",
+      "id": "news"
+    }
+  ]
+}

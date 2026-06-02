@@ -1,0 +1,106 @@
+[11](/tasks/11) |
+Hvilket nummer har den internasjonale nødkanalen på VHF? |
+|
+[13](/tasks/13) |
+Hva betyr det når en ferge tuter én gang? |
+|
+[14](/tasks/14) |
+Hva betyr det når en ferge tuter to ganger? |
+|
+[15](/tasks/15) |
+Hva betyr det når en ferge tuter tre ganger? |
+|
+[30](/tasks/30) |
+Hva betyr signalflagget?
+|
+|
+[45](/tasks/45) |
+Hva er telefonnummeret til Kystradioen? |
+|
+[105](/tasks/105) |
+Hvilke av disse er nødsignaler? |
+|
+[116](/tasks/116) |
+Hva er dagsingalet for slep over 200 meter? |
+|
+[126](/tasks/126) |
+Hvilket av signalflaggene er signalflagg A, som betyr "Dykker ute, hold avstand"? |
+|
+[145](/tasks/145) |
+Hva betyr dette?
+|
+|
+[155](/tasks/155) |
+Hvor mange støt i fløyta gir en båt for å si "Jeg forandrer min kurs til styrbord"? |
+|
+[156](/tasks/156) |
+Hvor mange støt i fløyta gir en båt for å si "Jeg forandrer min kurs til babord"? |
+|
+[157](/tasks/157) |
+Hvor mange støt i fløyta gir en båt for å si "Jeg bruker maskinkraften akterover"? |
+|
+[158](/tasks/158) |
+Hva signaliserer båten?
+|
+|
+[159](/tasks/159) |
+Hva signaliserer båten?
+|
+|
+[160](/tasks/160) |
+Hva signaliserer båten?
+|
+|
+[161](/tasks/161) |
+Ved nedsatt sikt skal et maskindrevet fartøy over 12 meter som gjør fart gjennom vannet gi et langt støt i fløyta minst... |
+|
+[164](/tasks/164) |
+Hvordan skal et maskindrevet fartøy over 12 meter som gjør fart gjennom vannet signalisere minst annenhvert minutt ved nedsatt sikt? |
+|
+[167](/tasks/167) |
+Hvor ofte skal et fartøy under 20 meter gi et virkningsfullt lydsignal (hvis det ikke ringer med klokken) hvis det står på grunn eller har ankret opp? |
+|
+[183](/tasks/183) |
+Hva betyr dette?
+|
+|
+[189](/tasks/189) |
+Hvem kan bruke VHF-radioen? (under normale omstendigheter) |
+|
+[190](/tasks/190) |
+Hva kan du gjøre for å få bedre rekkevidde på VHF-radioen? |
+|
+[191](/tasks/191) |
+Hvilken av disse er tryggest å bruke til kommunikasjon på sjøen? |
+|
+[192](/tasks/192) |
+Hvordan innledes en hastermelding på VHF? |
+|
+[234](/tasks/234) |
+Hva betyr dette dagsignalet?
+|
+|
+[236](/tasks/236) |
+Hva er dagsingalet for fartøy som ligger til ankers? |
+|
+[334](/tasks/334) |
+Hvor lang tid varer et kort støt i fløyta? |
+|
+[335](/tasks/335) |
+Hvor lang tid varer et langt støt i fløyta? |
+|
+[381](/tasks/381) |
+Hvilken knapp på VHFen sender ut en forhåndsprogrammert nødmelding til kystradio og til alle farkoster i området? |
+|
+[382](/tasks/382) |
+Hva står DSC for? |
+|
+[383](/tasks/383) |
+Hva brukes DSC til? |
+|
+[405](/tasks/405) |
+Med hvilket dagsignal signaliserer en seilbåt at den går både med seil og motor? |
+|
+[429](/tasks/429) |
+Hva er en EPIRB? |
+|

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/los/vil-du-bli-los/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Vil du bli los? | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "05ca66525798ef9609576539977fcc088f817ac50f7ce36326f9426c696640b3",
+  "fetched_at": "2026-06-02T11:06:01.714507+00:00",
+  "depth": 2,
+  "text_chars": 6731,
+  "n_links": 140,
+  "n_pdf_links": 0,
+  "n_images": 4,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-a319e6ecc6e646c6991fe0782353de17-vil-du-bli-los_23_2.jpg-169bbf91.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-656ef159ce0444939494508cab2b2947-los-martin-st-e57c1d7b.jpg",
+      "alt": "Los klatrer i leider"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-a7a74ecf527240dcbbdc83267af196b2-siv-og-roald.jpg-08dea819.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-84c5b420eb744bc1b6f364757ad0a48e-image-16.jpg-93a52c2f.jpg",
+      "alt": "statslos Siv Oldeide"
+    }
+  ],
+  "files": {
+    "html": "pages/navigasjonstjenester-los-vil-du-bli-los.html",
+    "text": "pages/navigasjonstjenester-los-vil-du-bli-los.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Vil du bli los?",
+      "id": "content-start"
+    }
+  ]
+}

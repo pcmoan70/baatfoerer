@@ -1,0 +1,34 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/batforerbevis/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Informasjon om båtførerbevis og båtførerprøven - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "54a94cfa8f52a20879bc1c9847e27f1869a98965fddb27f7cc8279e84bcbfde9",
+  "fetched_at": "2026-06-02T10:57:16.824659+00:00",
+  "depth": 2,
+  "text_chars": 12676,
+  "n_links": 40,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-sertifikater-batforerbevis-batforerbevis.html",
+    "text": "pages/fritidsbat-sertifikater-batforerbevis-batforerbevis.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Informasjon om båtførerbevis og båtførerprøven",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Finn et godkjent testsenter",
+      "id": "main-text-content"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://www.kystverket.no/kystkultur/fyrstasjoner/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Fyrstasjoner | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "5c9da200ba56fc1f76c317aafb8ec72d9058691a0b5626f82478d8ef9539565f",
+  "fetched_at": "2026-06-02T11:03:52.909003+00:00",
+  "depth": 1,
+  "text_chars": 3254,
+  "n_links": 150,
+  "n_pdf_links": 0,
+  "n_images": 3,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-4a168cf4e8e3464c807e870a4cfbd68c-lindesnes-fyr-5a3ad9c6.jpg",
+      "alt": "Lindesnes fyr"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-digitale_fyrbesok.svg",
+      "alt": "Digitale fyrbesøk"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-kystkultur-fyr-kjolnes-gange.jpg-08dea819.jpg",
+      "alt": "Kjølnes fyr"
+    }
+  ],
+  "files": {
+    "html": "pages/kystkultur-fyrstasjoner.html",
+    "text": "pages/kystkultur-fyrstasjoner.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Fyrstasjoner",
+      "id": "content-start"
+    }
+  ]
+}

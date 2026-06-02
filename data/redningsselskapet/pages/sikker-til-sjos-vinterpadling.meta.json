@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/vinterpadling/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Vinterpadling - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "2b67e9471e2d2869b4d5e1fa9cf238f0e2951547a8ae7082be6498219ef8f2a1",
+  "fetched_at": "2026-06-02T11:12:47.457740+00:00",
+  "depth": 2,
+  "text_chars": 4718,
+  "n_links": 116,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-vinterpadling.html",
+    "text": "pages/sikker-til-sjos-vinterpadling.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Vinterpadling",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

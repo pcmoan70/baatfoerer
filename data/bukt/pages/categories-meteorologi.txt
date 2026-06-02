@@ -1,0 +1,105 @@
+[139](/tasks/139) |
+Hva er Høyeste Astronomiske Tidevann (HAT)? |
+|
+[250](/tasks/250) |
+Hva menes med bølgelengde? |
+|
+[251](/tasks/251) |
+Hva menes med bølgehøyde? |
+|
+[260](/tasks/260) |
+Hvor mange meter per sekund (m/s) er frisk bris? |
+|
+[261](/tasks/261) |
+Hvor mange meter per sekund (m/s) er lett bris? |
+|
+[262](/tasks/262) |
+Hvor mange meter per sekund (m/s) er laber bris? |
+|
+[263](/tasks/263) |
+Hvor mange meter per sekund (m/s) er sterk kuling? |
+|
+[264](/tasks/264) |
+Hvor mange meter per sekund (m/s) er stiv kuling? |
+|
+[265](/tasks/265) |
+Hvor mange meter per sekund (m/s) er liten kuling? |
+|
+[266](/tasks/266) |
+Hvor mange meter per sekund (m/s) er full storm? |
+|
+[267](/tasks/267) |
+Hvor mange meter per sekund (m/s) er liten storm? |
+|
+[268](/tasks/268) |
+Hvilken vindstyrke er lengre bølger med små skumtopper typisk for? |
+|
+[269](/tasks/269) |
+Hvilken vindstyrke er dette typisk for: Sjøen hoper seg opp, og hvitt skum fra bølgertopper som brekker begynner å blåse i strimer i vindretningen. |
+|
+[270](/tasks/270) |
+Hva er solgangsbris? |
+|
+[344](/tasks/344) |
+Du står med ryggen mot vinden på den nordlige halvkule. Hvor har du det laveste lufttrykket? |
+|
+[345](/tasks/345) |
+Du står med ryggen mot vinden på den nordlige halvkule. Hvor har du det høyeste lufttrykket? |
+|
+[387](/tasks/387) |
+Hvor lang tid tar det fra laveste lavvann (LAT) til høyeste høyvann (HAT), avrundet til nærmeste time? |
+|
+[388](/tasks/388) |
+Hvor lang tid tar det fra et laveste lavvann (LAT) til neste laveste lavvann, avrundet til nærmeste time? |
+|
+[393](/tasks/393) |
+Hvilket trinn er det høyeste trinnet, "orkan", på Beaufort-skalaen |
+|
+[407](/tasks/407) |
+Hva er et annet ord for sjøbris? |
+|
+[408](/tasks/408) |
+Hvor mange meter per sekund (m/s) meldes når denne pila vises på værkartet?
+|
+|
+[409](/tasks/409) |
+Hvor mange meter per sekund (m/s) meldes når denne pila vises på værkartet?
+|
+|
+[410](/tasks/410) |
+Hvor mange meter per sekund (m/s) meldes når denne pila vises på værkartet?
+|
+|
+[411](/tasks/411) |
+Hvor mange meter per sekund (m/s) meldes når denne pila vises på værkartet?
+|
+|
+[412](/tasks/412) |
+Hvor mange meter per sekund (m/s) meldes når denne pila vises på værkartet?
+|
+|
+[413](/tasks/413) |
+Hvor mange meter per sekund (m/s) meldes når denne pila vises på værkartet?
+|
+|
+[438](/tasks/438) |
+Hvor lang sikt kan du forvente når meteorologene melder "dårlig sikt"? |
+|
+[439](/tasks/439) |
+Hvor lang sikt kan du forvente når meteorologene melder "moderat sikt"? |
+|
+[440](/tasks/440) |
+Hvor lang sikt kan du forvente når meteorologene melder "god sikt"? |
+|
+[441](/tasks/441) |
+Hvor lang sikt kan du forvente når meteorologene melder tåke? |
+|
+[442](/tasks/442) |
+Når er det størst forskjell mellom flo og fjære? |
+|
+[447](/tasks/447) |
+Pilene på værkartet kan ha en eller flere streker. Hvor mange knop vind indikerer hver hele strek? |
+|
+[448](/tasks/448) |
+Pilene på værkartet kan ha én eller flere streker. Hvor mange knop vind indikerer en halv strek? |
+|

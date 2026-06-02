@@ -1,0 +1,44 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-vestland/fagdag-uregistrerte-jordsameige-i-fjellomrade",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Fagdag: Uregistrerte jordsameige i fjellområde",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "d7b9b369855489ebc54a12570e8faf243d1f2ce4aae8e8978649a3fcf27ce552",
+  "fetched_at": "2026-06-02T11:08:42.210315+00:00",
+  "depth": 2,
+  "text_chars": 1087,
+  "n_links": 38,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-vestland-fagdag-78b24249.html",
+    "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-vestland-fagdag-78b24249.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Fagdag: Uregistrerte jordsameige i fjellområde",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

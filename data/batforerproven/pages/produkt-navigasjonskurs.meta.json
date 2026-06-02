@@ -1,0 +1,73 @@
+{
+  "url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/navigasjonskurs/",
+  "site": "batforerproven",
+  "source_id": "batforerproven",
+  "title": "Navigasjonskurs - Båtførerprøven.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:20:25 GMT",
+  "checksum_sha256": "da625d26fff7b115d38488705b572b6af4d0b09b8e56d29a71cb82141884dde1",
+  "fetched_at": "2026-06-02T11:20:28.240347+00:00",
+  "depth": 2,
+  "text_chars": 4709,
+  "n_links": 109,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2022-10-produktbilde-navigasjonskurs-452x339.jpg",
+      "alt": "100% videobasert navigasjonskurs på nett og i applikasjon fra Båtførerprøven.no"
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-11-prudktbilde-navigasjonsutstyr-452x339.jpg",
+      "alt": "Med navigasjonsutstyr og kurs fra Båtførerprøven kan du se gode instruksjonsvideoer og lære i eget tempo."
+    }
+  ],
+  "files": {
+    "html": "pages/produkt-navigasjonskurs.html",
+    "text": "pages/produkt-navigasjonskurs.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Navigasjonskurs",
+      "id": "product-28878"
+    },
+    {
+      "level": 2,
+      "text": "24 omtaler for Navigasjonskurs",
+      "id": "comments"
+    },
+    {
+      "level": 2,
+      "text": "Hurtiglenker",
+      "id": "nav_menu-2"
+    },
+    {
+      "level": 2,
+      "text": "Kundeservice",
+      "id": "nav_menu-5"
+    },
+    {
+      "level": 2,
+      "text": "Follow us",
+      "id": "nav_menu-4"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "content-report"
+    },
+    {
+      "level": 4,
+      "text": "Block Member?",
+      "id": "block-member"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "reported-content"
+    }
+  ]
+}

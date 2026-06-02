@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/varsle-oss/feil-pa-sjomerker/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Varsle om feil på sjømerker, eller andre farer av betydning for sikker navigasjon eller ferdsel | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "b64a26d504cf69424950fd46e339e24a629c081983159905687f91243db7d6fd",
+  "fetched_at": "2026-06-02T11:02:27.188887+00:00",
+  "depth": 1,
+  "text_chars": 1191,
+  "n_links": 137,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/varsle-oss-feil-pa-sjomerker.html",
+    "text": "pages/varsle-oss-feil-pa-sjomerker.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Varsle om feil på sjømerker, eller andre farer av betydning for sikker navigasjon eller ferdsel",
+      "id": "content-start"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Sikkerhetsutstyr Arkiver - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "49ec5667cb89b8915d3bab6b98bbdd353142baeeb0b94957dce8d9d127d412e3",
+  "fetched_at": "2026-06-02T11:10:03.942081+00:00",
+  "depth": 1,
+  "text_chars": 331,
+  "n_links": 160,
+  "n_pdf_links": 0,
+  "n_images": 10,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-03-ba-ter_sandspollen.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-photo_52675145895-scaled.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-02-sink_header.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-02-flytedresser_header.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-02-nattylys_header.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-09-05_dieseldyrenekommer.jpg",
+      "alt": "Pass deg for dieseldyrene. De har aldri gode hensikter."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-09-daniel_synlighet.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-03-bakomrulle.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-03-barn_pa-_isen.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-01-vinterpadling_kajakk.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-kategori-sikkerhetsutstyr.html",
+    "text": "pages/sikker-til-sjos-kategori-sikkerhetsutstyr.txt"
+  },
+  "anchors": []
+}

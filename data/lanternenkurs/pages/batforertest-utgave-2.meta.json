@@ -1,0 +1,183 @@
+{
+  "url": "https://www.lanternenkurs.no/batforertest-utgave-2",
+  "site": "lanternenkurs",
+  "source_id": "lanternenkurs",
+  "title": "Båtførerprøven - Gratis quiz - Test deg selv - Båtførertest",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "1a71c016220d5a6ab7195863c9edb099d5c934b3446f47060e72f5eecccebc2f",
+  "fetched_at": "2026-06-02T11:18:17.057022+00:00",
+  "depth": 1,
+  "text_chars": 1674,
+  "n_links": 37,
+  "n_pdf_links": 0,
+  "n_images": 12,
+  "images": [
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-skjermbilde-2021-04-11-kl.-17.17.09.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-attetallsknute.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-baug.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-forfrysning.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-fortoyningsfjaer.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-totut.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-styrbord-babord1.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-styrbordbabord2.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-dagslep.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-fast-lys.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-babordmerket-situasjon.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-ankerpunkt.png",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/batforertest-utgave-2.html",
+    "text": "pages/batforertest-utgave-2.txt"
+  },
+  "anchors": [
+    {
+      "level": 2,
+      "text": "Test deg selv - Admiraltesten",
+      "id": "content"
+    },
+    {
+      "level": 2,
+      "text": "Results",
+      "id": "hdq_139"
+    },
+    {
+      "level": 3,
+      "text": "#1. Hvor mange meter er en nautisk mil (nm)?",
+      "id": "hdq_question_6552"
+    },
+    {
+      "level": 3,
+      "text": "#2. Hva er en kaskoforsikring på båt?",
+      "id": "hdq_question_6555"
+    },
+    {
+      "level": 3,
+      "text": "#3. Hva slags knute er dette?",
+      "id": "hdq_question_6557"
+    },
+    {
+      "level": 3,
+      "text": "#4. Hva kalles bakenden av båten?",
+      "id": "hdq_question_6559"
+    },
+    {
+      "level": 3,
+      "text": "#5. Du har falt i sjøen et godt stykke utpå havet, og det er kaldt i vannet. Hvordan holder du best på varmen?",
+      "id": "hdq_question_6562"
+    },
+    {
+      "level": 3,
+      "text": "#6. Du fører en båt med CE-merking kategori C. Hva betyr dette?",
+      "id": "hdq_question_6563"
+    },
+    {
+      "level": 3,
+      "text": "#7. Hva er dette?",
+      "id": "hdq_question_6565"
+    },
+    {
+      "level": 3,
+      "text": "#8. Hva betyr dette lydsignalet?",
+      "id": "hdq_question_6567"
+    },
+    {
+      "level": 3,
+      "text": "#9. Hvilken båt skal vike, og hvorfor det?",
+      "id": "hdq_question_6570"
+    },
+    {
+      "level": 3,
+      "text": "#10. Hvilken båt har retten til veien?",
+      "id": "hdq_question_6572"
+    },
+    {
+      "level": 3,
+      "text": "#11. Hva slags båt er dette?",
+      "id": "hdq_question_6574"
+    },
+    {
+      "level": 3,
+      "text": "#12. Hva betyr dette?",
+      "id": "hdq_question_6576"
+    },
+    {
+      "level": 3,
+      "text": "#13. Hva slags båt er dette?",
+      "id": "hdq_question_6579"
+    },
+    {
+      "level": 3,
+      "text": "#14. Hva slags båt er dette?",
+      "id": "hdq_question_6581"
+    },
+    {
+      "level": 3,
+      "text": "#15. Et fyr har lyktearakteristikk F. Hvilken illustrasjon er riktig?",
+      "id": "hdq_question_6583"
+    },
+    {
+      "level": 3,
+      "text": "#16. Hvilken lyktekarakteristikk er dette?",
+      "id": "hdq_question_6586"
+    },
+    {
+      "level": 3,
+      "text": "#17. Hva slags kardinalmerke er dette?",
+      "id": "hdq_question_6588"
+    },
+    {
+      "level": 3,
+      "text": "#18. Hvilken vei er riktig?",
+      "id": "hdq_question_6591"
+    },
+    {
+      "level": 3,
+      "text": "#19. Hva betyr dette merket i kartet?",
+      "id": "hdq_question_6593"
+    },
+    {
+      "level": 3,
+      "text": "#20. Hva slags sjømerke er dette?",
+      "id": "hdq_question_6594"
+    }
+  ]
+}

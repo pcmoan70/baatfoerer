@@ -1,0 +1,60 @@
+Kontakt sjøtrafikksentraltjenesten
+Kontaktinformasjon til VTS-tjenesten.
+Kontaktinformasjon til VTS-tjenesten.
+-
+Horten sjøtrafikksentraltjeneste (VTS)
+VHF kallesignal: Horten VTS
+VHF kanal 19 (Indre Oslofjorden, sektor Nord)
+VHF kanal 18 (Ytre Oslofjorden, sektor Sør)
+E-post:[vts.horten@kystverket.no](mailto:vts.horten@kystverket.no)Telefon:
++47 33 03 49 60 (sektor Nord, VHF kanal 19)
++47 33 03 49 53 (sektor Sør, VHF kanal 18)
+Alternativ kontakt: +47 47 46 54 48
+Telefonnummer Iridium: 00 88 16 52 44 34 89 -
+Brevik sjøtrafikksentraltjeneste (VTS)
+VHF kallesignal: Brevik VTS
+VHF kanal 80
+E-post:[vts.brevik@kystverket.no](mailto:vts.brevik@kystverket.no)Telefon: +47 35 57 26 20
+Alternativ kontakt: +47 95 28 93 32
+Telefonnummer Iridium: 00 88 16 77 12 89 99 -
+Kvitsøy sjøtrafikksentraltjeneste (VTS)
+VHF kallesignal: Kvitsøy VTS
+VHF kanal 19 (sektor Nord)
+VHF kanal 18 (sektor Sør)
+E-post:[vts.kvitsoy@kystverket.no](mailto:vts.kvitsoy@kystverket.no)Telefon:
++47 51 73 60 33 (sektor Nord)
++47 51 73 60 32 (sektor Sør)
+Alternativ kontakt: + 47 95 11 60 32
+Telefonnummer Iridium: 00 88 16 52 43 86 40 -
+Fedje sjøtrafikksentraltjeneste (VTS)
+VHF kallesignal: Fedje VTS
+VHF kanal 80 (sektor Nord)
+VHF kanal 71 (sektor Sør)
+E-post:[vts.fedje@kystverket.no](mailto:vts.fedje@kystverket.no)Telefon:
++47 56 16 44 32 (sektor Nord)
++47 56 16 44 30 (sektor Sør)
+Alternativ kontakt: +47 90 67 69 20
+Telefonnummer Iridium: 00 88 16 52 43 71 39 -
+Kinn sjøtrafikksentraltjeneste (VTS)
+VHF kallesignal: Kinn VTS
+VHF kanal 18
+E-post:
+[vts.kinn@kystverket.no](mailto:vts.kinn@kystverket.no)Telefon: + 47 70 23 11 23
+Alternativ kontakt: +47 95 28 93 32
+Telefonnummer Iridium: 00 88 16 77 12 89 99 -
+Melkøya sjøtrafikksentraltjeneste (VTS)
+VHF kallesignal: Nor VTS
+VHF kanal 71
+E-post:
+[nor.vts@kystverket.no](mailto:nor.vts@kystverket.no)Telefon: +47 78 98 98 98
+Alternativ kontakt: +47 90 24 53 39
+Faks: +47 78 98 98 99
+Telefonnummer Iridium: 00 88 16 21 41 90 09 -
+Informasjonstjeneste for Barents skipsrapporteringssystem (SRS) og rutetiltak i NØS (TSS) - NOR VTS
+VHF kallesignal: NOR VTS
+VHF kanal 16
+E-post:[nor.vts@kystverket.no](mailto:nor.vts@kystverket.no)Telefon område nord for N65: +4778989901
+Telefon område sør for N65: +4778989898
+Alternativ kontakt: +4790245339
+Faks: +4778989899
+Telefonnummer Iridium: 00 88 16 52 43 70 88

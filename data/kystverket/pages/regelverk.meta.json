@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/regelverk/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Regelverk som vi utøver mynde etter | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "b0a6e0844dc78b0979cef1b97a410e8bea679bad7ddfd8cb73770019b010eac1",
+  "fetched_at": "2026-06-02T11:03:43.269906+00:00",
+  "depth": 1,
+  "text_chars": 4554,
+  "n_links": 140,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/regelverk.html",
+    "text": "pages/regelverk.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Regelverk som vi utøver mynde etter",
+      "id": "content-start"
+    }
+  ]
+}

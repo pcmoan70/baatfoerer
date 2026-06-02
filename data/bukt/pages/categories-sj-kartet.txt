@@ -1,0 +1,150 @@
+[33](/tasks/33) |
+Hva betyr dette kartsymbolet?
+|
+|
+[34](/tasks/34) |
+Hva betyr dette kartsymbolet?
+|
+|
+[35](/tasks/35) |
+Hva betyr dette kartsymbolet?
+|
+|
+[82](/tasks/82) |
+Hva betyr dette kartsymbolet?
+|
+|
+[83](/tasks/83) |
+Hva betyr dette kartsymbolet?
+|
+|
+[84](/tasks/84) |
+Hva betyr dette kartsymbolet?
+|
+|
+[85](/tasks/85) |
+Hva betyr dette kartsymbolet?
+|
+|
+[86](/tasks/86) |
+Hva menes med kartdatum? |
+|
+[129](/tasks/129) |
+En nautisk mil er det samme som... |
+|
+[140](/tasks/140) |
+Hvor mange minutter er det i en breddegrad? |
+|
+[247](/tasks/247) |
+Hva betyr skiltet?
+|
+|
+[283](/tasks/283) |
+Hvor mange meter i virkeligheten er 1 centimeter på et kart med målestokk 1 : 50 000? |
+|
+[285](/tasks/285) |
+Hvor lang er en kabellengde? (avrundet til nærmeste meter) |
+|
+[286](/tasks/286) |
+Hva er sjøkartnull? |
+|
+[287](/tasks/287) |
+Hvilke symboler kan en breddegrad slutte med? |
+|
+[288](/tasks/288) |
+Hvilke symboler kan en lengdegrad slutte med? |
+|
+[289](/tasks/289) |
+Hva betyr en grå eller svart M på kartet? |
+|
+[290](/tasks/290) |
+Hva betyr "Cy" på kartet? |
+|
+[291](/tasks/291) |
+Hva er vanligste datum for sjøkart? |
+|
+[292](/tasks/292) |
+Hva betyr "R" på kartet? |
+|
+[293](/tasks/293) |
+Hva betyr "Wd" på kartet? |
+|
+[294](/tasks/294) |
+Hvordan angis anbefalt lei i kartet? |
+|
+[295](/tasks/295) |
+Med hvilke bokstaver kan en overrett (merker som ved sin plassering til hverandre lager siktelinjer) være markert i kartet? |
+|
+[296](/tasks/296) |
+Hva angir dybdetall med rett skrift? |
+|
+[297](/tasks/297) |
+Hva angir dybdetall med kursiv skrift? |
+|
+[298](/tasks/298) |
+Hvor mange breddeskunder er det i en breddegrad? |
+|
+[307](/tasks/307) |
+Hva betyr Racon (R) på kartet? |
+|
+[354](/tasks/354) |
+Hvilken ZOC (Zone of Confidence)-kategori indikerer dybdemålinger av beste kvalitet? |
+|
+[355](/tasks/355) |
+Hvilken ZOC (Zone of Confidence)-kategori indikerer dybdemålinger av laveste kvalitet? |
+|
+[356](/tasks/356) |
+Du ser fargen rødt på ZOC (Zone of Confidence)-diagrammet. Hvilken ZOC-kategori er dette? |
+|
+[357](/tasks/357) |
+Du ser fargen hvit på ZOC (Zone of Confidence)-diagrammet. Hvilken ZOC-kategori er dette? |
+|
+[358](/tasks/358) |
+Du ser fargen blå på ZOC (Zone of Confidence)-diagrammet. Hvilken ZOC-kategori er dette? |
+|
+[359](/tasks/359) |
+Hvilke ZOC-kategorier indikeres med grader av rosa i ZOC-diagrammet? |
+|
+[360](/tasks/360) |
+Du ser dette symbolet på et digitalt sjøkartet. Hvilken ZOC-kategori er dette?
+|
+|
+[361](/tasks/361) |
+Du ser dette symbolet på et digitalt sjøkartet. Hvilken ZOC-kategori er dette?
+|
+|
+[362](/tasks/362) |
+Du ser dette symbolet på et digitalt sjøkartet. Hvilken ZOC-kategori er dette?
+|
+|
+[363](/tasks/363) |
+Du ser dette symbolet på et digitalt sjøkartet. Hvilken ZOC-kategori er dette?
+|
+|
+[364](/tasks/364) |
+Du ser dette symbolet på et digitalt sjøkartet. Hvilken ZOC-kategori er dette?
+|
+|
+[365](/tasks/365) |
+Du ser dette symbolet på et digitalt sjøkartet. Hvilken ZOC-kategori er dette?
+|
+|
+[386](/tasks/386) |
+Mørkeblått på et fysisk sjøkart betyr at det aldri er dypere enn... |
+|
+[420](/tasks/420) |
+Hva betyr "Sg" på kartet? |
+|
+[421](/tasks/421) |
+Melding om endring i sjøkartene finner du i...? |
+|
+[424](/tasks/424) |
+Hvilken farge markeres tørrfallsområder med på sjøkartet? |
+|
+[443](/tasks/443) |
+Du seiler i mørket og befinner deg ved Bjørnhausen. Kan du trygt seile mot Veslekalv?
+|
+|
+[444](/tasks/444) |
+Åpn [Skolekart for Oslofjorden](https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_003_oslof.pdf). Hvilken lykt ligger på posisjon 59°15,2′N 10°42,3′E? |
+|

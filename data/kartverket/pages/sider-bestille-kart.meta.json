@@ -1,0 +1,54 @@
+{
+  "url": "https://www.kartverket.no/sider/bestille-kart",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Bestille kart | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:06:57 GMT",
+  "checksum_sha256": "2b7c9099ca052cd376ccb030ff4ce60858aa0067136f335b25715bca271547d6",
+  "fetched_at": "2026-06-02T11:06:58.632184+00:00",
+  "depth": 1,
+  "text_chars": 1797,
+  "n_links": 45,
+  "n_pdf_links": 2,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sider-bestille-kart.html",
+    "text": "pages/sider-bestille-kart.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Bestill oppdaterte papirkart – Print on Demand (POD)",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Mer om kart",
+      "id": "LinkListBlockProxy-6614"
+    },
+    {
+      "level": 2,
+      "text": "Bestille andre produkter",
+      "id": "LinkListBlockProxy-6615"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/ce-merking/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "CE-merking - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "d7d2cb11f3be85288097d816ea097f31199f6c1f50efbd93cf89f2ba412c1eb3",
+  "fetched_at": "2026-06-02T10:56:32.514164+00:00",
+  "depth": 2,
+  "text_chars": 611,
+  "n_links": 30,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-ce-merking.html",
+    "text": "pages/fritidsbat-ce-merking.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "CE-merking",
+      "id": "main-content"
+    }
+  ]
+}

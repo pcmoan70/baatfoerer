@@ -1,0 +1,81 @@
+[7](/tasks/7) |
+Hva er magnetisk kurs (MK) hvis rettvisende kurs (RK) er 155 grader og misvisning er 8 grader vest? |
+|
+[8](/tasks/8) |
+Hva er magnetisk kurs (MK) hvis rettvisende kurs (RK) er 166 grader og misvisning er 9 grader øst? |
+|
+[9](/tasks/9) |
+Hva er rettvisende kurs (RK) hvis magnetisk kurs (MK) er 136 grader og misvisning er 7 grader vest? |
+|
+[10](/tasks/10) |
+Hva er rettvisende kurs (RK) hvis magnetisk kurs (MK) er 149 grader og misvisning er 4 grader øst? |
+|
+[18](/tasks/18) |
+Hvor lang er en nautisk mil? |
+|
+[19](/tasks/19) |
+Hva langt vil en båt som kjører med 4 knop bevege seg på 5 timer? |
+|
+[63](/tasks/63) |
+Hva kalles avvik mellom retningen til den geografiske nordpolen og magnetisk nord på et gitt sted på kloden? |
+|
+[64](/tasks/64) |
+Hva kalles den endring som må foretas på en kompasskurs ombord på et skip for å korrigere for magnetisme fra fartøyets konstruksjon? |
+|
+[88](/tasks/88) |
+Hva lang tid tar det for en båt som kjører i 2 knop å bevege seg 12 nautiske mil? |
+|
+[198](/tasks/198) |
+Hva måles med loggen? |
+|
+[199](/tasks/199) |
+Hva måles med ekkoloddet? |
+|
+[200](/tasks/200) |
+Hvis loggens korreksjonstall er 1.1 og logget distanse er 2 NM, hva blir riktig distanse? |
+|
+[201](/tasks/201) |
+Hvis loggens korreksjonstall er 1.1 og riktig distanse er 4.4 NM, hva er logget distanse? |
+|
+[299](/tasks/299) |
+Åpn [Skolekart for Oslofjorden](https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_003_oslof.pdf). I hvilken posisjon ligger Havskåren? |
+|
+[300](/tasks/300) |
+Åpn [Skolekart for Oslofjorden](https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_003_oslof.pdf). Hvilket skjær ligger i posisjon 59°10,4′N 10°42,6′E? |
+|
+[301](/tasks/301) |
+Print ut [Skolekart for Oslofjorden](https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_003_oslof.pdf). Hvor lang er avstanden mellom nordsida av Flateguru og nordsida av Søndre Missingen? Angi med ett desimal. |
+|
+[302](/tasks/302) |
+Hvilken gradkurs er sør-øst? |
+|
+[303](/tasks/303) |
+Print ut [Skolekart for Oslofjorden](https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_003_oslof.pdf). Hva er kursen fra nordligste punkt på Garnholmen til sørligste punkt på Rauertangen? |
+|
+[366](/tasks/366) |
+Du kjører i 4 knop. Hvor lang tid bruker du på å kjøre 2 nautiske mil? |
+|
+[378](/tasks/378) |
+Hvilken breddegrad ligger ekvator på? |
+|
+[384](/tasks/384) |
+Hva står GPS for? |
+|
+[398](/tasks/398) |
+Hvis misvisningen er angitt som 3° W 2020 (15' E), hva er misvisningen i 2024? |
+|
+[404](/tasks/404) |
+Hva mange knop er 3 meter per sekund (m/s)? Rund av til nærmeste hele. |
+|
+[435](/tasks/435) |
+Hvilken gradkurs er sør-vest? |
+|
+[436](/tasks/436) |
+Hvilken gradkurs er vest? |
+|
+[437](/tasks/437) |
+Hvilken gradkurs er øst? |
+|
+[446](/tasks/446) |
+Hva mange meter per sekund (m/s) er 10 knop? Rund av til nærmeste hele. |
+|

@@ -1,0 +1,28 @@
+Informasjonskapsler (Cookies)
+En informasjonskapsel, ofte kalt cookie, er en liten tekstfil som lastes ned og lagres på brukers datamaskin når brukeren åpner en nettside. Informasjonskapselen brukes for
+eksempel til å lagre innloggingsdetaljer, huske handlekurv i nettbutikken eller registrere hvor brukeren beveger seg rundt på nettstedet.
+Informasjonskapsler kan være nyttig både for eieren og brukeren av en nettside. Eieren av nettsiden kan tilpasse tjenesten ut fra informasjonen som lagres. For brukeren kan
+besøk på nettsiden oppleves mer brukervennlig og tilpasset.
+Ulike typer informasjonskapsler/cookies
+Informasjonskapsler kan være:
+- sesjonsavhengig eller fast informasjonskapsel
+- første eller tredjeparts informasjonskapsel
+Sesjonsavhengig informasjonskapsel/session cookie
+Disse slettes etter endt sesjon, det vil si når bruker lukker nettleseren. Disse brukes blant annet for å registrere at en bruker er inne på nettsiden og hvilke valg hun
+gjør.
+Fast informasjonskapsel/persistent cookie
+Disse slettes ikke etter endt sesjon. Faste informasjonskapsler kan typisk inneholde informasjon om autentisering, språkinnstillinger og menypreferanser. Dette gjør at
+framtidige besøk hos nettsiden vil være raskere og mer tilpasset brukeren. De fleste faste informasjonskapsler har en utløpsdato der de slettes automatisk etter en viss
+periode
+Tredjeparts informasjonskapsel/third party cookie
+Dette er en informasjonskapsel (fast eller sesjonsavhengig) som settes av en annen enn den som driver nettstedet som brukeren besøker. Typisk kan dette være annonser og
+reklamebannere på nettaviser m.v..
+[Les mer om cookies og informasjonskapsler her](https://www.datatilsynet.no/personvern-pa-ulike-omrader/internett-og-apper/cookies/).
+Vår bruk av informasjonskapsler (cookies)
+- Vi bruker sesjonsavhengige cookies for å lagre innloggingsstatus.
+- Vi bruker persistent cookies som én del av sikringen mot
+[cross-site request
+forgery](http://en.wikipedia.org/wiki/Cross-site_request_forgery).
+- Vi bruker tredjeparts informasjonskapsler fra
+[Google
+Analytics (ga.js)](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) for å innhente generell statistikk om besøk på våre nettsider.

@@ -1,0 +1,38 @@
+{
+  "url": "https://www.kystverket.no/nyheter/2020/ny-bok-om-navigasjon-i-lostjenesten/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Ny bok om navigasjon  | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "b92d01813de813e699bd3d9238a502fbd4e31cf82c1d4fa136966e0edf7d9256",
+  "fetched_at": "2026-06-02T11:06:18.552525+00:00",
+  "depth": 2,
+  "text_chars": 1496,
+  "n_links": 130,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-94fecbb89e844029a00f260ca17208e9-pa-losoppdrag-b8d30e93.jpg",
+      "alt": "Losoppdrag i Rekefjord"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-94fecbb89e844029a00f260ca17208e9-forside_-navi-3a592bbc.png",
+      "alt": "forside_ navigasjon for lostjenesten.PNG"
+    }
+  ],
+  "files": {
+    "html": "pages/nyheter-2020-ny-bok-om-navigasjon-i-lostjenesten.html",
+    "text": "pages/nyheter-2020-ny-bok-om-navigasjon-i-lostjenesten.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Ny bok om navigasjon",
+      "id": "content-start"
+    }
+  ]
+}

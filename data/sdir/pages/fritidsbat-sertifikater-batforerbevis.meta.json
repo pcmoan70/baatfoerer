@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Båtførerbevis - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "acb55fbc075cfa16bed7943fb5c1ce142d2879b95fb84e79e2976a1946a11794",
+  "fetched_at": "2026-06-02T10:55:50.327622+00:00",
+  "depth": 1,
+  "text_chars": 381,
+  "n_links": 35,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-sertifikater-batforerbevis.html",
+    "text": "pages/fritidsbat-sertifikater-batforerbevis.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Båtførerbevis",
+      "id": "main-content"
+    }
+  ]
+}

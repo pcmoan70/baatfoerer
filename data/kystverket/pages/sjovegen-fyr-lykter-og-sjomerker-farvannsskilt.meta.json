@@ -1,0 +1,134 @@
+{
+  "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Farvannsskilt | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "90cc0a6bc8d3f103c5d9c8f4be75cf28cf44fbc60994170fcb8160431e000064",
+  "fetched_at": "2026-06-02T11:05:38.220300+00:00",
+  "depth": 2,
+  "text_chars": 5267,
+  "n_links": 135,
+  "n_pdf_links": 3,
+  "n_images": 26,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---annen-fare.jpg",
+      "alt": "V - Annen fare.jpg"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---annen-fare---gul.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-n105_horisontal_klaring_ikon.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-n102_vertikal_klaring_ikon.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---bevegelig-bru.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---kabelferge.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---livsfarlig-ledning.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---ankring-forbudt.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---dykking-forbudt.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense-opphorer.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---sjotrafikk-forbudt.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ab8285c9e1374a88b4fcb3e91324fbac-o---anropskanal-vhf.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ab8285c9e1374a88b4fcb3e91324fbac-o---sakte-fart.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---dato.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---kabel.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lav-bru.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lengde-bortenfor-meter.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lengde-bo-f0081758.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lengde-fra-meter.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---tid.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---virkeomrade.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---beste-punkt-for-passasje.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---overett.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---sidemarkering-babord.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---sidemarkering-styrbord.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sjovegen-fyr-lykter-og-sjomerker-farvannsskilt.html",
+    "text": "pages/sjovegen-fyr-lykter-og-sjomerker-farvannsskilt.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Farvannsskilt",
+      "id": "content-start"
+    }
+  ]
+}

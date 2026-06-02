@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/farledsbevisprove/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "farledsbevisprøve | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "9d7646543682d456e0a0801e719c52496a81f29a872c809f981b0eb6351d977a",
+  "fetched_at": "2026-06-02T11:06:20.786832+00:00",
+  "depth": 2,
+  "text_chars": 3309,
+  "n_links": 164,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-farledsbevis-farledsbevisprove.html",
+    "text": "pages/navigasjonstjenester-farledsbevis-farledsbevisprove.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Farledsbevisprøve",
+      "id": "content-start"
+    }
+  ]
+}

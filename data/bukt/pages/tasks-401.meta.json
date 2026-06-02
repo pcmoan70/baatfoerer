@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/tasks/401",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oppgave 401 - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "039654f1d6544b88f7fa3a920d46ec93e361fe62dd420ce7b8125cca215761ff",
+  "fetched_at": "2026-06-02T11:16:57.175143+00:00",
+  "depth": 2,
+  "text_chars": 162,
+  "n_links": 12,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/tasks-401.html",
+    "text": "pages/tasks-401.txt"
+  },
+  "anchors": []
+}

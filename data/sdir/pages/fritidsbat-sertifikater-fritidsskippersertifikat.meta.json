@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sertifikater/fritidsskippersertifikat/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Fritidsskippersertifikat D5L/D5LA - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "1ef50437820ae7ccf31ab92d51c77c80e5c77e5b5db6fd58fd82b1d94228a29e",
+  "fetched_at": "2026-06-02T10:57:06.219353+00:00",
+  "depth": 2,
+  "text_chars": 480,
+  "n_links": 31,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-sertifikater-fritidsskippersertifikat.html",
+    "text": "pages/fritidsbat-sertifikater-fritidsskippersertifikat.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Fritidsskippersertifikat",
+      "id": "main-content"
+    }
+  ]
+}

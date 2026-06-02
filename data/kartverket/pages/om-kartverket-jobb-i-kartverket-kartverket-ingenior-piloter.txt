@@ -1,0 +1,27 @@
+Fra geoinformatikk-master til samfunnskritisk arbeid i Kartverket
+Kort tid etter at Yonatan Bisrat Taye (27) tok master i geoinformatikk, fikk han jobb som overingeniør i Kartverket. I grunndata-avdelingen kombinerer han teknisk fagkunnskap og tett brukerdialog i en jobb som innvirker direkte på samfunnssikkerheten.
+Veien inn i jobben kom litt overraskende, to uker etter at studiet ved Norges miljø- og biovitenskapelige universitet (NMBU) var fullført i 2023. Det anses som lang tid i ingeniørstudiet.
+Etter å ha søkt en annen stilling hos Kartverket tidligere på året, fikk han en telefon noen måneder senere: «Er du fortsatt tilgjengelig?». Det var han, og stillingen viste seg å passe ham enda bedre enn forventet.
+I dag jobber han i et produktteam som utvikler og drifter løsninger for [Nasjonalt register over luftfartshindre (NRL)](https://www.kartverket.no/geodataarbeid/nrl). Registeret sørger for at høye og potensielt farlige objekter på bakken rapporteres inn og blir synlige i kartene som pilotene bruker.
+En variert hverdag med stor betydning
+– En viktig del av jobben er å veilede de som eier disse objektene gjennom rapporteringsprosessen. Jeg kontrollerer ellers innsendte data, avdekker feil og gir tilbakemeldinger som sikrer at informasjonen blir riktig.
+Arbeidsdagen hans varierer mye. Noen dager er han i kontakt med brukere på telefon og e-post, andre dager sitter han tett på utviklere for å løse tekniske utfordringer eller teste nye funksjoner. Han reiser også jevnlig på samlinger og møter med eksterne aktører. Det er ofte i disse møtene at betydningen av arbeidet virkelig blir synlig.
+– Vi hadde en samling med Luftambulansen, der piloten fortalte om hvordan gode kart utgjør forskjellen mellom å kunne fly i dårlig vær eller måtte la være. Da han sa: «Vi håper at dere gjør så god jobb som mulig, så vi kan komme hjem til familiene våre etterpå». Den traff ganske dypt. Det er da man kjenner hvor viktig arbeidet vårt er, sier Yonatan.
+Samarbeid, teknologi og veien videre
+I tillegg til arbeidet med NRL, deltar teamet hans i ulike studentprosjekter ved Universitetet i Agder. Der får studentene jobbe med reelle problemstillinger knyttet til Kartverkets systemer. For Yonatan gir dette både faglig inspirasjon og verdifull innsikt utenfra.
+Ettersom geoinformatikk (tidligere geomatikk) er et fagfelt få kjenner til før de begynner å studere det, mener han at rekruttering er en av utfordringene framover. Faget har blitt mer teknologidrevet. Kartverket er da også i stor grad en teknologivirksomhet i utvikling. Datakvalitet, sikkerhet og samhandling på tvers av etater vil prege de kommende årene.
+– Geoinformatikk er kanskje den mest praktiske ingeniørgraden du kan ta: Alt du jobber med, finnes i virkeligheten. Alt du måler inn, betyr noe. Jeg tror flere ville valgt faget hvis de visste hvor samfunnsnyttig og variert geoinformatikk er.
+Motivasjon i fellesskapet
+Når han blir spurt om hva som motiverer ham mest, peker han likevel like mye på menneskene som på fagområdet.
+– Det at jobben er meningsfull, betyr mye – men det gjør også miljøet. Vi har et godt team med mye humor og samarbeid. Hadde det ikke vært sosialt og støttende, hadde jobben vært noe helt annet.
+For Yonatan handler arbeidshverdagen om å bruke kunnskapen sin på en måte som gir direkte effekt. Og selv om han beskriver jobben som både givende og krevende, er det nettopp kombinasjonen av felleskapet og den varierte arbeidshverdagen som gjør den så viktig for ham.
+Les flere ansatthistorier:
+[
+](https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kristian-bygger-norges-digitale-kartgrunnlag)
+Kristian bygger Norges digitale kartgrunnlag
+Fra mastergrad til mikroservice-helt: Kristian (26) gikk rett fra studiene til et av Norges viktigste digitale miljø.
+[
+](https://www.kartverket.no/om-kartverket/jobb-i-kartverket/wanni-former-fremtidens-brukeropplevelser)
+Wanni former fremtidens brukeropplevelser
+Wanni er UX-designeren som kombinerer kreativitet, systemforståelse og menneskekunnskap for å gjøre Kartverkets digitale løsninger forståelige og tilgjengelige.
+E-posten er sendt

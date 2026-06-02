@@ -1,0 +1,111 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Jobb i Kartverket | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:03:56 GMT",
+  "checksum_sha256": "8566b88a4829e6647b7fe5ae3ed8af283cd87c633b4044b47b03cc3aa7bdb4b3",
+  "fetched_at": "2026-06-02T11:07:22.040311+00:00",
+  "depth": 1,
+  "text_chars": 974,
+  "n_links": 42,
+  "n_pdf_links": 0,
+  "n_images": 9,
+  "images": [
+    {
+      "file": "kartverket\\images\\contentassets-a610633bc1224c56837358ba626fafed-rekruttering_-41be8ec0.jpg",
+      "alt": "\" width="
+    },
+    {
+      "file": "kartverket\\images\\contentassets-97477e9c000a429fa6f0637c7ca0b666-wanni_og_kris-4eb73ae9.jpg",
+      "alt": "\" width="
+    },
+    {
+      "file": "kartverket\\images\\contentassets-444fd99c56fa44eb9ce9f889250647f0-kv_rekbilder_-9b2fcd59.jpg",
+      "alt": "\" width="
+    },
+    {
+      "file": "kartverket\\images\\contentassets-cc7f2b28a79a4348a64dfa4d4dafdec0-kartverket_25-55dac1e9.jpg",
+      "alt": "\" width="
+    },
+    {
+      "file": "kartverket\\images\\contentassets-73f77f7e8e5442efbd4d4dc460ca2c98-kartverkets_l-194cb4c0.jpg",
+      "alt": "\" width="
+    },
+    {
+      "file": "kartverket\\images\\contentassets-eff467500c01496597b0587cb31e717f-nystudent1.jpg-37269907.jpg",
+      "alt": "\" width="
+    },
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-taye-pa-besok-s-811c0034.jpg",
+      "alt": "En gruppe menn foran parkert helikopter fra Luftambulansen."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-1d6df3f7.jpg",
+      "alt": "Portrett av Kristian forran en skog."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-b716f565.jpg",
+      "alt": "Portrett av Wanwisa Wanpake Johnsrud, skog i bakgrunnen."
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket-jobb-i-kartverket.html",
+    "text": "pages/om-kartverket-jobb-i-kartverket.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Jobb- og karrieresider",
+      "id": "primarycontent"
+    },
+    {
+      "level": 3,
+      "text": "Ledige stillinger",
+      "id": "TeaserListBlockProxy-4002-0"
+    },
+    {
+      "level": 3,
+      "text": "Karriere og utvikling",
+      "id": "TeaserListBlockProxy-4002-1"
+    },
+    {
+      "level": 3,
+      "text": "Jobb med IT hos oss",
+      "id": "TeaserListBlockProxy-4002-2"
+    },
+    {
+      "level": 3,
+      "text": "Menneskene i Kartverket",
+      "id": "TeaserListBlockProxy-4002-3"
+    },
+    {
+      "level": 3,
+      "text": "Organisering og oppdrag",
+      "id": "TeaserListBlockProxy-4002-4"
+    },
+    {
+      "level": 3,
+      "text": "Student eller nyutdannet?",
+      "id": "TeaserListBlockProxy-4002-5"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

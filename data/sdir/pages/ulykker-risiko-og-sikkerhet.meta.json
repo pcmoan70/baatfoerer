@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Ulykker, risiko og sikkerhet - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "36274312c3fcc287abe813cee605e48ed7ca526f5756b698ee832378c15d7ff9",
+  "fetched_at": "2026-06-02T10:55:47.567591+00:00",
+  "depth": 1,
+  "text_chars": 830,
+  "n_links": 36,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/ulykker-risiko-og-sikkerhet.html",
+    "text": "pages/ulykker-risiko-og-sikkerhet.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Ulykker, maritim sikring, risiko og sikkerhet",
+      "id": "main-content"
+    }
+  ]
+}

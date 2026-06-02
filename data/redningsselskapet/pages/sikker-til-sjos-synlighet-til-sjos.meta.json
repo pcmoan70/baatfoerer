@@ -1,0 +1,43 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/synlighet-til-sjos/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Synlighet til sjøs - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "02034c2d2ac9e78589b94ab0441d2546cba25315ca3de0a18107e8d76717514b",
+  "fetched_at": "2026-06-02T11:12:17.749568+00:00",
+  "depth": 2,
+  "text_chars": 6921,
+  "n_links": 128,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-09-synliget_vest_solbrille_padle.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-09-synlighet-3.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-synlighet-til-sjos.html",
+    "text": "pages/sikker-til-sjos-synlighet-til-sjos.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Synlighet til sjøs",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "site": "kartverket",
+  "n_images": 56,
+  "images": [
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-tingholmen-med-kartutsnitt-e024ae95.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/tingholmen-med-kartutsnitt_foto-arnfinn-lie.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "alt": "Fyrlykt på Tingholmen. Kartutsnitt som viser sjømerke for fyrlykt er redigert inn. Foto: Arnfinn Lie",
+      "caption": "FYRLYKT OG ANDRE KARTSYMBOL: Den nautiske publikasjonen \"Symboler og forkortelser i norske sjøkart\" forklarar symbol og forkortingar som brukast i norske og internasjonale sjøkart. Foto: Arnfinn Lie",
+      "page_url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart",
+      "relevance_score": 13,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark",
+        "\\bfyr\\b|lykt|sektor",
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/halten-fyr-froya.jpg?width=1766&mode=crop",
+      "alt": "Halten fyr ved Fr&oslash;ya, med mange staker og ei oppdrettsmerde.",
+      "caption": "INGEN GRUNN TIL Å GÅ PÅ GRUNN: Med det nye informasjonslaget i Norgeskart.no kan du se hvor god kvalitet det er på dybdedataene som vi oppgir.",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/dybdedata-og-datakvalitet-i-norske-sjokart",
+      "relevance_score": 8,
+      "topic_hits": [
+        "\\bfyr\\b|lykt|sektor",
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-lands-foto-turkart-kompass-og-turkar-e4e55741.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-lands-foto/turkart/kompass-og-turkart-med-pa-tur.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "alt": "Kart og kompass med på tur",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/til-lands/kart/turkart",
+      "relevance_score": 7,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b",
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/skolekart-sjokart.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "alt": "Et skolekart (sjøkart) ligger oppå et hovedseriekart. To hender plotter inn kurs med blyant og linjal. Foto.",
+      "caption": "UNDERVISNING: Skolekartene er laget i A3-format slik at de lett kan printes ut. Kartene er kun ment til bruk i undervisning. Foto: Sissel Kanstad",
+      "page_url": "https://www.kartverket.no/til-sjos/kart/skolekart",
+      "relevance_score": 7,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b",
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-illustrasjon.jpg-37269907.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjomaling-illustrasjon.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "Illustrasjon som viser gammel og ny metode for dybdem&aring;ling.",
+      "caption": "DYBDEKARTLEGGING: Tidligere ble havbunnen sjømålt i linjer med enkeltstråle-ekkolodd montert under arbeidsbåten. Nå brukes multistråle-ekkolodd, noe som gir arealdekkende sjømålinger. Illustrasjoner: Kartverket",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/dybdedata-og-datakvalitet-i-norske-sjokart",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/hovedseriekart-planlegger-seilas.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "alt": "To menn ligger på brygga i ei småbåthavn og peker i et sjøkart. Foto: Morten Brun",
+      "caption": "Sjøkartene er offsielle navigasjonskart for norske sjø og hav-områder.  Foto: Morten Brun",
+      "page_url": "https://www.kartverket.no/til-sjos/kart/norskesjokart",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-seilbat-gps-adobestock.jpg-3b9cbf77.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/seilbat-gps-adobestock.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "alt": "Mann i seilbåt peker på sjøkart i sin kartplotter. Foto: Adobestock",
+      "caption": "SJØSIKKERHEIT: Oppdaterte sjøkart er eit viktig bidrag til auka sjøsikkerheit. Illustrasjonsfoto: Adobestock.",
+      "page_url": "https://www.kartverket.no/til-sjos/kart/sjokart-til-kartplottere",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-hero.jpg-3b9cbf77.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjokartkampanjen-20212-hero.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "alt": "Mann styrer motorbåt mens dame sjekker sjøkartet. Foto: Kartverket",
+      "caption": "NYE BÅTEIGARAR: Ekteparet Eirik og Christina har kjøpt seg båt. Christina har oppdaga kor mykje kunnskap det er å finne i sjøkartet og ho prøvar å overbevise Eirik om å omfamne sjøkartet, han også. Foto: Leidar/Kartverket",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-bil-fc4ec090.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjokartkampanjen-20212-bildeteaser.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "alt": "Mann styrer motorbåt mens dame sjekker sjøkartet. Foto: Kartverket",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-om-kartverket-historie-geografisk-visning-histo-5b2d0e48.jpg",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/historie/geografisk-visning-historiske-kart-skjermdump.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "Lenke til kartbasert visning av historiske kart",
+      "caption": "Skjermdump frå kartløysinga.",
+      "page_url": "https://www.kartverket.no/om-kartverket/historie/historiske-kart",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-kv_rekbilder__s-0f47f246.jpg",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/bilder-av-ansatte/kv_rekbilder__skv_04456_foto_iver_daaland_ase.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "alt": "Ung mannlig ingeniør foran PC-skjerm",
+      "caption": "EN VARIERT ARBEIDSHVERDAG: I grunndata-avdelingen jobber Yonatan Bisrat Taye med kart- og registerløsninger som brukes av blant annet piloter. (Foto: Iver Daaland Åse)",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-om-kartverket-kartverksledelse-kartverkets-orga-392566bb.jpg",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/kartverksledelse/kartverkets-organisasjonskart.jpg?width=1766&mode=crop",
+      "alt": "Organisasjonskart over ledelsen i Kartverket: Kartverkssjef, virksomhetsstyring, IT, region- og samfunnskontakt, geodesidivisjonen, landdivisjonen, sj&oslash;divisjonen, eiendomsdivisjonen.",
+      "caption": "ORGANISASJONSKART: Leiinga i Kartverket består av kartverkssjef, assisterande kartverkssjef og direktørane for verksemdstyring, IT, region- og samfunnskontakt, geodesidivisjonen, landdivisjonen, sjødivisjonen og eigedomsdivisjonen.",
+      "page_url": "https://www.kartverket.no/om-kartverket/kva-kartverket-gjer",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-kartrikets-tilstand-bereds-a23dbbd5.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/geodataarbeid/kartrikets-tilstand/beredskap-kart-finse-foto-rode-kors_nora-alette-sandberg-1.jpg?width=1766&mode=crop",
+      "alt": "R&oslash;de Kors-patrulje i refleksvester dr&oslash;fter over et kart. (Foto: Nora Sandberg/ R&oslash;de Kors)",
+      "caption": "BEREDSKAP: En Røde Kors-patrulje i refleksvester drøfter over et kart. (Foto: Nora Sandberg/ Røde Kors)",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-nyheter-forsvaret_ovelse_kart_2026.01.17-c59aa09c.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/nyheter/forsvaret_ovelse_kart_2026.01.17_foto_arun-rethnam-haug_forsvaret.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "alt": "To personer i militær vinterkamuflasje diskuterer og peker på et kart.",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-kartutsnitt-sognesjoen.png-cb0df5e4.png",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjomaling-kartutsnitt-sognesjoen.png?width=1336&mode=crop",
+      "alt": "Kartutsnitt over Sognesj&oslash;en som angir kvaliteten p&aring; dybdedata med r&oslash;d farge",
+      "caption": "VISUELL VISNING: Kartutsnitt over Sognesjøen hentet fra Norgeskart .",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/dybdedata-og-datakvalitet-i-norske-sjokart",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-lands-foto-turkart-img_0269.jpg-3b9cbf77.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-lands-foto/turkart/img_0269.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "alt": "Kvinne på tur med utskrift av \"Mitt turkart\". Foto: Hanna Hauan",
+      "caption": "LETTLEST: Kartene er velegnet som turkart til bruk på fjellet, i skogen og langs kysten og til jakt og fiske. De er lettleste og hjelper deg både med å planlegge turen og å finne fram i terrenget. Foto: Hanna Hauan",
+      "page_url": "https://www.kartverket.no/til-lands/kart/turkart",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-enc-i-ecdis.jpg-3b9cbf77.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/enc-i-ecdis.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "alt": "ENC vist i en ECDIS på brua om bord på et lasteskip. Foto.",
+      "caption": "ENC: ENC-er brukes til papirløs navigasjon i navigasjonssystemet ECDIS. Norske ENC-er produseres av Kartverkets sjødivisjon. Foto: Kystverket",
+      "page_url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-til-sjos-sjokart-datakvalitet-dybder-norske-sjokart.jpg-37269907.jpg",
+      "url": "https://www.kartverket.no/globalassets/til-sjos/sjokart/datakvalitet-dybder-norske-sjokart.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "Datakvalitet-dybder-norske-sjokart.jpg",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-zoc-diagram-kartustnitt-525.jpg-37269907.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/zoc-diagram-kartustnitt-525.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "Eksempel p&aring; ZOC-diagram vist i papirsj&oslash;kart med sj&oslash;kart i bakgrunnen. Kilde: Kartverket",
+      "caption": "ZOC-DIAGRAM: Slik kan et ZOC-diagram i et papir-sjøkart se ut. Dette er hentet fra hovedseriekart nr. 525 Bellsund - van Mijenfjorden, som dekker farvann på Svalbard. Kilde: Kartverket",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-kart525medkildediagram.png-37269907.png",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/kart525medkildediagram.png?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "Papir-sj&oslash;kart med kildediagram",
+      "caption": "KILDEDIAGRAM: Slik så tidligere kildediagram ut i hovedseriekart nr. 525 Bellsund - van Mijenfjorden, som dekker farvann på Svalbard. Kilde: Kartverket",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-for-naa.jpg-37269907.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjomaling-for-naa.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "\" width=",
+      "caption": "DYBDEKARTLEGGING: Tidligere ble havbunnen sjømålt i linjer med enkeltstråle-ekkolodd montert under arbeidsbåten. Nå bruker vi multistråle-ekkolodd, og får arealdekkende sjømålinger. Illustrasjoner: Kartverket",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-handretting-av-sjokart.jpg-3b9cbf77.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/handretting-av-sjokart.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "alt": "Hender plotter inn rettelse i sjøkart ved hjelp av paralellfoskyver, passer og blyant. Foto.",
+      "caption": "FERSKVARE: Sjøkart er ferskvare! Oppdater sjøkartet ditt med rettingar som meldast i Etterretninger for sjøfarende (Efs) kvar fjortande dag. Foto: Sissel Kanstad",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/oppdatere-sjokart",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-svalbard.jpg-3b9cbf77.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/svalbard.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "alt": "Sjøis i farvann på Svalbard.",
+      "caption": "Foto: Kartverket",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/sjokart-pa-svalbard",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-hoyspent-og-helikopter-4f1f47ca.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/geodataarbeid/nrl/hoyspent-og-helikopter-foto-wilhelm-boe-5j8a81581.jpg?width=1766&mode=crop",
+      "alt": "H&oslash;yspentmast og ledningsnett med et helikopter svevende over (foto Wilhelm B&oslash;e/ Kartverket)",
+      "caption": "SKJERMES: Data fra Norsk register over luftfartshindre (NRL) blir nå ikke lenger allment tilgjengelig. (Foto: Wilhelm Bøe/ Kartverket)",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/geodataarbeid/2026/april/tilgang-til-nrl-data-krever-godkjenning-fra-1.-juli",
+      "relevance_score": 3,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-maris-skjermdump.png-37269907.png",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/maris-skjermdump.png?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "\" width=",
+      "caption": "ZOC: Slik er kvaliteten på dybdedata merket i norske ENC-er brukt i det typegodkjente elektroniske kartsystemet ECDIS. Illustrasjon: Skjermdump fra MARIS",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\contentassets-ce2530deaba649178db86152835ef981-catzoc-eksempel.jpg-cb0df5e4.jpg",
+      "url": "https://www.kartverket.no/contentassets/ce2530deaba649178db86152835ef981/catzoc-eksempel.jpg?width=1336&mode=crop",
+      "alt": "ZOC-diagram.JPG",
+      "caption": "Kilde: Kartverket",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/sjokart-pa-svalbard",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-saltstraumen-kari-thoresen.jpg-cb0df5e4.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/saltstraumen-kari-thoresen.jpg?width=1336&mode=crop",
+      "alt": "Saltstraumen i Bod&oslash; i Nordland, sett fra oven.",
+      "caption": "SALTSTRAUMEN: Den mest kjente tidevannsstrømmen i Norge er Saltstraumen i Bodø, Nordland. Å gå gjennom Saltstraumen med båt når strømmen er på sitt sterkeste, er svært risikabelt. Foto: Kari Thoresen / Kartverket",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-og-mer-presis-vannstandsmodell-for-saltstraumen",
+      "relevance_score": 2,
+      "topic_hits": [
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-taye-pa-besok-s-70d81713.jpg",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/bilder-av-ansatte/taye-pa-besok-som-dommer-hos-uia.jpeg?width=1766&mode=crop",
+      "alt": "Menn foran et parkert ambulsansehelikopter",
+      "caption": "PÅ BESØK: Yonatan med kartverkskollegaer på besøk hos UiA for å dømme studentprosjekt. (Foto: Amna Drace Biscevic)",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-yonatan_bisrat_-a34e8a80.jpg",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/bilder-av-ansatte/yonatan_bisrat_taye_skv_04002.jpg?width=668&height=891&quality=85&mode=crop&scale=both",
+      "alt": "Ung mannlig ingeni&oslash;r ser inn i kamera",
+      "caption": "PRAKTISK STUDIE: – Geoinformatikk er kanskje den mest praktiske ingeniørgraden du kan ta: Alt du jobber med, finnes i virkeligheten, sier Yonatan. (Foto: Iver Daaland Åse)",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-60e476d7.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/ansattehistorier/wanni-og-kristian/wanni_og_krisitan_idaa_04042524-img_0395.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "alt": "Mann med skjegg og briller ute i naturen.",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-0b6a835c.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/ansattehistorier/wanni-og-kristian/wanni_og_krisitan_idaa_0404255-img_0329.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "alt": "Ung kvinnelige UX-designer foran whiteboard-tavle",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-taye-pa-besok-s-811c0034.jpg",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/bilder-av-ansatte/taye-pa-besok-som-dommer-hos-uia-4-5crop.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "alt": "En gruppe menn foran parkert helikopter fra Luftambulansen.",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-1d6df3f7.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/ansattehistorier/wanni-og-kristian/wanni_og_krisitan_idaa_04042524-img_0395.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "alt": "Portrett av Kristian forran en skog.",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-b716f565.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/ansattehistorier/wanni-og-kristian/wanni_og_krisitan_idaa_04042526-img_0400.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "alt": "Portrett av Wanwisa Wanpake Johnsrud, skog i bakgrunnen.",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-om-kartverket-foto-kartverkssjef_johnny_-57cfe073.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/om-kartverket-foto/kartverkssjef_johnny_welle__skv_02512_foto_morten_brun.jpg?width=668&height=534&quality=85&mode=crop&scale=both",
+      "alt": "Kartverkssjef Johnny Welle, en mann i dress fotografert mot en m&oslash;rk bakgrunn.",
+      "caption": "SKJERME OG DELE: Vi må håndtere kartinformasjonen ansvarlig, slik at beredskapstiltaket i seg sjøl ikke skaper nye sårbarheter, sier kartverkssjef Johnny Welle. (Foto: Morten Brun/ Kartverket)",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-statusrapport-2026-serverr-6cbaded3.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/geodataarbeid/statusrapport-2026/serverrom_foto_iver_daaland_ase.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "alt": "En person står foran et rack med dataservere montert i en reol, mens han ser ned på en bærbar PC.",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-luftambulanse_ved_uia_-a1856bca.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/geodataarbeid/nrl/luftambulanse_ved_uia_foto_magnus-nodland-skogedal.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "alt": "Luftambulanse lander ved en administrasjonsbygning. Foto:Magnus Nødland Skogedal",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/geodataarbeid/2026/april/tilgang-til-nrl-data-krever-godkjenning-fra-1.-juli",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\contentassets-a595e51263f3465d92517f53e2644834-saltstraumeni-34b6d264.jpg",
+      "url": "https://www.kartverket.no/contentassets/a595e51263f3465d92517f53e2644834/saltstraumenillustrasjon_vannstandsmaaling-graf_kartverket.jpg?width=1766&mode=crop",
+      "alt": "Graf som viser vannstandsm&aring;linger fra Bod&oslash; og Naurstad og hvordan floa kommer senere innenfor Saltstraumen, og at forskjellen mellom flo og fj&aelig;re er mindre.",
+      "caption": "MÅLINGER: Vannstandsmålinger fra Bodø (svart) og Naurstad (rosa) i et drøyt døgn fra juli 2025. Figuren viser hvordan floa kommer senere innenfor Saltstraumen, og at forskjellen mellom flo og fjære er mindre. Kilde: Kartverket",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-og-mer-presis-vannstandsmodell-for-saltstraumen",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\contentassets-a595e51263f3465d92517f53e2644834-vannstandsmod-8885ddb4.jpg",
+      "url": "https://www.kartverket.no/contentassets/a595e51263f3465d92517f53e2644834/vannstandsmodell_saltstraumen_kart_kartverket.jpg?width=1336&mode=crop",
+      "alt": "Kartusnitt av Skjerstadfjorden hvor permanent vannstandsm&aring;ler i Bod&oslash; er markert, samt omr&aring;dene Naurstad, Oldereid og Rognan hvor Kartverket har m&aring;lt vannstanden i perioden 2024&ndash;2025.",
+      "caption": "MÅLERE: I perioden 2024–2025 har Kartverket målt vannstand i Naurstad, ved Oldereid kraftstasjon og i Rognan. En permanent vannstandsmåler er plassert i Bodø. Kilde: Kartverket",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-og-mer-presis-vannstandsmodell-for-saltstraumen",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--c6a9c8b2.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/vannstand/vannstandsmaler-eydehavn-foto-synne-b-gronseth-5j8a9563.jpg?width=1766&mode=crop",
+      "alt": "Tre menn i arbeidst&oslash;y p&aring; en kaikant smiler mot kamera. Det er fint v&aring;rv&aelig;r med stille sj&oslash; og bl&aring; himmel i bakgrunnen.",
+      "caption": "MONTERT: Arbeidslaget fra Kartverket monterte den nye vannstandsmåleren i Eydehavn. Fra venstre: Bjørn Erik Bue, Kjetil Ydstebø og Knut Aksel Rydningen. Foto: Synne Bekkeheien Grønseth",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--a5793121.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/vannstand/vannstandsmaler-eydehavn-foto-synne-b-gronseth-_j8a9636.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "To personer st&aring;r og jobber p&aring; en kaikant mens den tredje st&aring;r i en stige som henger ned fra bryggekanten, mens de monterer teknisk utstyr.",
+      "caption": "VÅRVÆR: Sørlandet glimtet til med nydelig vårvær da vannstandsmåleren i Eydehavn ble montert. Foto: Synne Bekkeheien Grønseth.",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--40f46841.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/vannstand/vannstandsmaler-eydehavn-foto-synne-b-gronseth-_j8a9584.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "Klemmer og solide skruer p&aring; en betongkai foran skotuppene til en arbeider.",
+      "caption": "ROBUST: Godt festeutstyr er påkrevd ved havet.",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--23de1818.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/vannstand/vannstandsmaler-eydehavn-foto-synne-b-gronseth-5j8a9429.jpg?width=668&height=891&quality=85&mode=crop&scale=both",
+      "alt": "En person med klatresele st&aring;r i ei gardintrapp som er sikra med tau i kaikanten, mens to kolleger sender teknisk utstyr til ham.",
+      "caption": "KREATIV KONSTRUKSJON: Selv om det ser spenstig ut at montøren står i ei gardintrapp, er både utstyr og mannskap sikret til kaikanten. Foto: Synne Bekkeheien Grønseth.",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--37af79e7.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/vannstand/vannstandsmaler-eydehavn-foto-synne-b-gronseth-5j8a9574.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "En mont&oslash;r sitter p&aring; bakken med ryggen lent mot bilen, mens han sjekker tekniske m&aring;linger p&aring; en PC.",
+      "caption": "KONTAKT: De første dataene fra sensor 1 i Arendal er registrert, konstaterer senioringeniør Kjetil Ydstebø i Kartverkets teknologiseksjon. Foto: Synne Bekkeheien Grønseth.",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-mp16037292-electric-po-d631847a.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/geodataarbeid/nrl/mp16037292-electric-power-lines-foto-boggy-most-photos.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "alt": "Ei høyspentmast og kraftlinjer fotografert fra lufta. Masta står midt i en åker der det vokser grønne spirer, mens det er gule blomster rundt sokkelen til masta.",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-kartutsnitt-sognesjoen.png-5efe3723.png",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjomaling-kartutsnitt-sognesjoen.png?width=445&height=250&mode=crop&scale=both&quality=75",
+      "alt": "Kartutsnitt som ved hjelp av rosa farger viser kvaliteten på dybdedata.",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-saltstraumen-kari-thoresen.jpg-5efe3723.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/saltstraumen-kari-thoresen.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "alt": "Oversiktsbilde av Saltstraumen, med en sterk sjøstrøm som renner mellom holmer og skjær. I forgrunnen skimtes noen personer.",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\contentassets-92fb46e313d14bd5bebe3d77c26789b8-rekruttering_-ca710407.jpg",
+      "url": "https://www.kartverket.no/contentassets/92fb46e313d14bd5bebe3d77c26789b8/rekruttering_ida_hope_barth_og_virginia_antonijevic_skv_02282_foto_morten_brun.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "alt": "Ansatte som jobber i Kartverket (Foto: Morten Brun)",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-api-er-og-data-foto-friluftsliv-vann-natur.jpg-0383442e.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/api-er-og-data-foto/friluftsliv-vann-natur.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/api-og-data/kjope-kartdata",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\contentassets-a610633bc1224c56837358ba626fafed-rekruttering_-41be8ec0.jpg",
+      "url": "https://www.kartverket.no/contentassets/a610633bc1224c56837358ba626fafed/rekruttering_henriksen_og_nesbakken_skv_02267_foto_morten_brun.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "\" width=",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\contentassets-97477e9c000a429fa6f0637c7ca0b666-wanni_og_kris-4eb73ae9.jpg",
+      "url": "https://www.kartverket.no/contentassets/97477e9c000a429fa6f0637c7ca0b666/wanni_og_krisitan_idaa_04042527-img_0401.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "\" width=",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\contentassets-444fd99c56fa44eb9ce9f889250647f0-kv_rekbilder_-9b2fcd59.jpg",
+      "url": "https://www.kartverket.no/contentassets/444fd99c56fa44eb9ce9f889250647f0/kv_rekbilder__idaa_040425_da_3093.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "\" width=",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\contentassets-cc7f2b28a79a4348a64dfa4d4dafdec0-kartverket_25-55dac1e9.jpg",
+      "url": "https://www.kartverket.no/contentassets/cc7f2b28a79a4348a64dfa4d4dafdec0/kartverket_250_ar_jubileumsfest_skv_03723_foto_jan_lode_ellingsen-3.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "\" width=",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\contentassets-73f77f7e8e5442efbd4d4dc460ca2c98-kartverkets_l-194cb4c0.jpg",
+      "url": "https://www.kartverket.no/contentassets/73f77f7e8e5442efbd4d4dc460ca2c98/kartverkets_ledergruppe_2024_skv_03993_foto_morten_brun-1.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "\" width=",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\contentassets-eff467500c01496597b0587cb31e717f-nystudent1.jpg-37269907.jpg",
+      "url": "https://www.kartverket.no/contentassets/eff467500c01496597b0587cb31e717f/nystudent1.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "alt": "\" width=",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "kartverket",
+      "source_id": "kartverket",
+      "authority": "official",
+      "file": "kartverket\\images\\globalassets-bilder-nyheter-roarol-1.jpg-5efe3723.jpg",
+      "url": "https://www.kartverket.no/globalassets/bilder/nyheter/roarol~1.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    }
+  ]
+}

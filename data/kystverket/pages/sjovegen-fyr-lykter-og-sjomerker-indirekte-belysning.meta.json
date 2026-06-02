@@ -1,0 +1,34 @@
+{
+  "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/indirekte-belysning/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Lanterner med og uten indirekte belysning  | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "f7b2d9b9bfe12313259672369f36eb8951bbf9b6073e64318645c517125061f1",
+  "fetched_at": "2026-06-02T11:04:42.475154+00:00",
+  "depth": 2,
+  "text_chars": 3276,
+  "n_links": 129,
+  "n_pdf_links": 2,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-32f6868dadcc49769e5c15d5493a0d3a-indirekte-bel-c7d18db5.jpg",
+      "alt": "HIB-er i møre. Hurtigbåtmerker med indirekte belysning."
+    }
+  ],
+  "files": {
+    "html": "pages/sjovegen-fyr-lykter-og-sjomerker-indirekte-belysning.html",
+    "text": "pages/sjovegen-fyr-lykter-og-sjomerker-indirekte-belysning.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Lanterner med og uten indirekte belysning",
+      "id": "content-start"
+    }
+  ]
+}

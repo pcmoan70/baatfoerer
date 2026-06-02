@@ -1,0 +1,69 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/kva-kartverket-gjer",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Dette gjer Kartverket | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:58 GMT",
+  "checksum_sha256": "4fa6a18e353b5c07babd44d39aaf6a42291b7d3e603aec7b81a7d56885875bb2",
+  "fetched_at": "2026-06-02T11:09:01.076975+00:00",
+  "depth": 2,
+  "text_chars": 8544,
+  "n_links": 44,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-kartverksledelse-kartverkets-orga-392566bb.jpg",
+      "alt": "Organisasjonskart over ledelsen i Kartverket: Kartverkssjef, virksomhetsstyring, IT, region- og samfunnskontakt, geodesidivisjonen, landdivisjonen, sj&oslash;divisjonen, eiendomsdivisjonen."
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket-kva-kartverket-gjer.html",
+    "text": "pages/om-kartverket-kva-kartverket-gjer.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Frå det ytste verdsrommet til dei djupaste havbotnar",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Les også",
+      "id": "TeaserListBlockProxy-15787"
+    },
+    {
+      "level": 3,
+      "text": "Jobb i Kartverket",
+      "id": "TeaserListBlockProxy-15787-0"
+    },
+    {
+      "level": 3,
+      "text": "Vil du jobbe hos oss?",
+      "id": "TeaserListBlockProxy-15787-1"
+    },
+    {
+      "level": 3,
+      "text": "Foredrag frå Kartverket",
+      "id": "TeaserListBlockProxy-15787-2"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+Jobb med IT i Kartverket
+I Kartverket har vi ansvar for noen av Norges viktigste digitale systemer. Vi trenger flere kloke hoder – kanskje det er deg?
+Ser du etter ny jobb?
+Akademia og samarbeid
+Les mer om [Kartverkets samarbeid med akademia](https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverkets-samarbeidsformer-med-studenter-og-akademia), og hva du kan forvente hvis du vil ta [master hos oss](https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-og-masteroppgave).
+Kartverkets IT-avdeling jobber i tverrfaglige team som eier løsningene fra A til Å. Dette skaper ansvar og engasjement for det vi lager, styrker interne relasjoner og hjelper oss med å nå mål vi er stolte av.
+Bli kjent med oss i IT
+Hos oss kommer du tett på både fagmiljøet og brukerne av løsningene vi utvikler. Du får være med tidlig i prosessene, teste med ekte brukere og bidra til å levere ny funksjonalitet jevnlig. Her får du jobbe med det som virkelig betyr noe – for både deg og brukerne!
+Vi har store ambisjoner og jobber med å løfte de digitale tjenestene våre. Kartverkets IT-avdeling skal være en drivkraft i utviklingen – en rådgiver som viser vei ved å ta i bruk moderne teknologi, skyplattformer og gode verktøy for produktutvikling.
+Vi er over 130 fast ansatte som jobber med utvikling, drift og forvaltning av IT-løsninger som brukes av hele Norges befolkning. Vi har blant annet ansvaret for utvikling og drift av Eiendomsregisteret (matrikkelen) og har egen plattform som kjører på Kubernetes i skyen.
+[
+](https://www.kartverket.no/om-kartverket/jobb-i-kartverket/wanni-former-fremtidens-brukeropplevelser)
+Møt våre ansatte: Former framtidas brukeropplevelser
+Wanni er UX-designeren som kombinerer kreativitet, systemforståelse og menneskekunnskap for å gjøre Kartverkets digitale løsninger forståelige og tilgjengelige.
+Sentrale verktøy, språk og geografiske dataformater vi jobber med:
+- GitHub, GitHub Actions, Terraform
+- Java, Kotlin, Python, Javascript, React, Rest, SQL
+- ETL (Extract, transform, load prosesser)
+- GIS-programvare, OGC tjenester og geografiske dataformater (bl.a GeoJson, GML, MVT)
+Vi er allerede gode på IT i Kartverket, men vi ønsker å bli enda bedre sammen med deg!
+E-posten er sendt

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/om-farledsbevis/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "om farledsbevis | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "42edea1dadf96784351e9c60e46bc7237fb666226871782389f8be65350f1df5",
+  "fetched_at": "2026-06-02T11:06:25.122246+00:00",
+  "depth": 2,
+  "text_chars": 1438,
+  "n_links": 144,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-farledsbevis-om-farledsbevis.html",
+    "text": "pages/navigasjonstjenester-farledsbevis-om-farledsbevis.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Om Farledsbevisklassene",
+      "id": "content-start"
+    }
+  ]
+}

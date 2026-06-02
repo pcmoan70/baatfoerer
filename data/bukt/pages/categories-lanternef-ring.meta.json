@@ -1,0 +1,100 @@
+{
+  "url": "https://bukt.no/categories/LANTERNEFØRING",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Lanterneføring - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "045446942682bd78f7394621707e3a49fd99f46fdc4569fa538b9979c199935f",
+  "fetched_at": "2026-06-02T11:14:39.818002+00:00",
+  "depth": 2,
+  "text_chars": 1094,
+  "n_links": 37,
+  "n_pdf_links": 0,
+  "n_images": 19,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-20.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-21.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-22.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-23.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-25.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-26.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-27.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-28.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-29.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-41.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-58.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-59.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-119.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-173.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-178.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-179.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-180.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-272.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-273.svg",
+      "alt": "Oppgavebilde"
+    }
+  ],
+  "files": {
+    "html": "pages/categories-lanternef-ring.html",
+    "text": "pages/categories-lanternef-ring.txt"
+  },
+  "anchors": []
+}

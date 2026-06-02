@@ -1,0 +1,48 @@
+{
+  "url": "https://bukt.no/tasks/100/answers/markCorrect",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oppgave 126 - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "6a98ad893e69aa0ccce27bf2ebfca9f40f5811545f0ed61935986a72fb47607f",
+  "fetched_at": "2026-06-02T11:17:05.798306+00:00",
+  "depth": 2,
+  "text_chars": 133,
+  "n_links": 12,
+  "n_pdf_links": 0,
+  "n_images": 6,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-126_0.svg",
+      "alt": ""
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-126_1.svg",
+      "alt": ""
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-126_2.svg",
+      "alt": ""
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-126_3.svg",
+      "alt": ""
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-126_4.svg",
+      "alt": ""
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-126_5.svg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/tasks-100-answers-markcorrect.html",
+    "text": "pages/tasks-100-answers-markcorrect.txt"
+  },
+  "anchors": []
+}

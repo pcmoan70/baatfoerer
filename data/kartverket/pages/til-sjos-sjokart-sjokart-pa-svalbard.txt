@@ -1,0 +1,61 @@
+Skal du ferdes i båt på Svalbard?
+På Svalbard er det flere spesielle forhold du bør være oppmerksom på før du legger ut på seilas. Vær obs på at det er store områder som ikke er kartlagt ennå.
+Fakta
+Kartverkets sjøkart retter seg hovedsakelig mot profesjonelle navigatører.
+Yrkesflåten og fartøy over en viss størrelse er pålagt å navigere med oppdaterte offisielle sjøkart, enten papirkart eller elektroniske sjøkart (ENC) brukt i typegodkjente elektronisk kartsystem som ECDIS (Electronic Chart Display and Information System).
+Elektroniske sjøkart (ENC) i polare strøk
+[Norske ENC-er](https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc) er delt inn i ulike målestokk-klasser alt etter formålet med navigasjonen (Usage Band), etter anbefalinger fra den internasjonale hydrografiske organisasjonen (IHO). I ENC-ene som dekker Svalbard er det flere ulikheter sammenlignet med ENC-ene på norskekysten.
+Den vanligste målestokken i ENC-er på Svalbard er NO3 (Coastal). Det vil si at navigatøren kan zoome mellom målestokkene M1:90 000 – 1:349 999 på kartskjermen. Detaljgraden i ENC-ene langs kysten av Svalbard er betydelig mindre enn for norskekysten.
+Noen områder dekkes kun av NO2 (General). Disse ENC-ene inneholder enda mindre informasjon. Navigatøren kan zoome mellom målestokkene M1:350 000-1:1 499 999 på kartskjermen.
+Noen få områder dekkes av NO4 (Approach), som gjør det mulig å zoome mellom målestokkene M1:22 000 – 1:89 999 på kartskjermen.
+Noen få områder dekkes av NO5 (Harbour), som gjør det mulig å zoome mellom målestokkene M1:4000 – 1:21999 på kartskjermen.
+NO6 (Berthing) finnes det foreløpig kun for kaien i Ny-Ålesund. Der kan du zoome helt inn til M1:3999 og bedre på kartskjermen.
+Vi anbefaler at du følger med i Primars produktkatalog. Primar er distributør av alle de norske offisielle ENC-ene, så der finner du alltid oppdatert informasjon om hvilke ENC-er som er tilgjengelige på Svalbard. De samme ENC-en gjøres samtidig tilgjengelig for produsenter og distributører til kartplottere.
+Vi advarer mot overdreven zoom
+Vi advarer på det sterkeste mot overdreven innzooming på kartskjermen!
+Ved all sjøkartproduksjon, både for papir- og elektroniske sjøkart (ENC), er generalisering av innhold i kartet helt nødvendig. Det øker lesbarheten, men innebærer også at detaljrikdommen i kartet er avhengig av tilgjengelig informasjon og målestokken kartet er generalisert til. I et sjøkart vil informasjon som er viktig for navigasjon bli fremhevet.
+Elektroniske sjøkart gjør det mulig å zoome inn og ut i kartet for å få bedre oversikt. Zoomer du for langt inn, strekkes informasjonen i kartet ut over den bruken den er beregnet for. Dette kalles overskalering. Du må ta hensyn til både målestokk og datakvalitet i kartet og være oppmerksom på dette når du zoomer.
+I de profesjonelle kartsystemene (godkjente ECDIS-system) blir overskalering varslet automatisk, men i andre kartplottere må ofte den sjøfarende selv være oppmerksom på når kartbildet er overskalert.
+Papirkartene i polare strøk
+Sjøkartene på Svalbard har ikke den samme målestokken som for fastlands-Norge.
+Målestokken er 1:100 000, dvs. at de dekker større områder og er mye mindre detaljert enn de som er for fastlands-Norge. Store deler av Nordaustlandet dekkes fremdeles kun av overseilingskart (505 og 507) i målestokk 1: 700 000.
+Selv om det finnes noen spesial- og havnekart i større målestokker, er detaljeringsgraden langs Svalbards kyst betydelig mindre enn langs norskekysten.
+[Her finner du kartbladinndeling for papirkartene på Svalbard- Norgeskart.no.](https://norgeskart.no/?zoom=3&lat=8253841.020000003&lon=930783.8900000001&p=searchOptionsPanel&rotation=0&backgroundLayer=sjokartraster&themeLayers=svalbardkart_sjo%2Coverseilingskart)
+I samme tjenesten kan du velge bakgrunnskartene Sjøkart oppdatert EFS, Nautisk bakgrunnskart, eller Elektroniske sjøkart som bakgrunnskart for å gjøre deg kjent med navigasjonskartene på Svalbard.
+Hvilken datakvalitet har dybdeinformasjonen der du skal ferdes?
+I de offisielle elektroniske sjøkartene (ENC) er det et eget datalag som forteller hvilken kvalitet det er på dybdedataene i området. Kartverket følger internasjonale standarder. Basert på det vi vet om målemetode, posisjoneringsinstrument, dybdenøyaktighet og datadekning, har vi klassifisert datakvaliteten til dybdedataene i norske sjøkart.
+I papirkartene finner du denne informasjonen i kartets ZOC-diagram.
+Vær ekstra oppmerksom på hva dette betyr for din seilas på Svalbard!
+Studer kildediagram og datakvalitet nøye når du planlegger å ferdes i områdene rundt Svalbard. Dybdekartleggingen er ikke fullført, og store områder gjenstår å sjømåle.
+Kvalitetskategorier (CATZOC) i norske sjøkart på Svalbard:
+- A1: Heldekkende sjømåling gjennomført. Alle signifikante grunner og dybder er målt.
+- A2: Heldekkende sjømåling gjennomført. Alle signifikante grunner og dybder er målt. Moderne dybdemålinger med multistråle-ekkolodd klassifisert som litt lavere nøyaktighet.
+- B: Heldekkende sjømåling er ikke oppnådd. Uoppdagete grunner farlig for navigasjon er ikke forventet, men kan ikke utelukkes.
+- C: Fullstendig sjømåling i området er ikke oppnådd. Dybdeavvik må forventes.
+- D: Fullstendig sjømåling i området er ikke oppnådd. Store dybdeavvik må forventes.
+- U: Ikke vurdert. Kvaliteten på dybdedataene i området er ikke vurdert.
+I tillegg til datakvaliteten må man være ekstra oppmerksom på områder som ikke er sjømålt i det hele tatt. Disse er kodet som Unsurveyed Area (UNSARE) i ENC.
+[Les mer om kartkvalitet (CATZOC).](https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc)
+Kartverket har hentet ut informasjonen om CATZOC fra de offisielle ENC-ene og distribuerer datasett og WMS-tjeneste via Geonorge.no. Datalaget kan brukes til å få oversikt over [datakvaliteten på dybdedata i navigasjonsproduktene](https://kartkatalog.geonorge.no/metadata/datakvalitet-paa-dybdedata-i-navigasjonsproduktene/ac668c06-43c8-4c31-9910-93139abd24b0) langs norskekysten og på Svalbard. Tjenesten er gratis og åpen for alle.
+I tjenesten [TopoSvalbard - Norsk Polarinstitutt (npolar.no)](https://toposvalbard.npolar.no/) kan du velge sjøkart som kartlag og studere datakvaliteten på dybdedata i navigasjonsproduktene på Svalbard vha tilleggsfunksjonen Q.
+Andre forhold å ta hensyn til ved ferdsel på Svalbard:
+Grunne områder langs land:
+- For å ivareta sikkerheten til mannskap og fartøy ved sjømåling på Svalbard vil områder som er grunnere enn 3 meter ofte være umålt.
+- Det kan være betydelige feil i kystkonturen i sjøkartene avhengig hvor informasjonen er hentet fra.
+- Kystlinjen kan være skiftende – særlig ved store elveutløp og brefronter.
+- Langs land kan det være soner hvor det ikke er sjømålt, eller så kan det være brukt data med dårlig kvalitet. På grunn av kartmålestokk er slike områder ikke alltid lesbare i papirkartene.
+Isbrefronter
+- Brefronter i sjøen forandres ofte. Foran isbrefronter i sjøen skjer det store endringer i dybdeforholdene, og dybdeangivelsene er derfor usikre.
+- Områdene foran isbrefrontene må anses som ikke sjømålt. Dette må tas i betraktning når navigering utføres i disse områdene.
+- Stadig endringer i brefrontene mot sjøen kan medføre at det er et betydelig avvik mellom faktisk brefront og den som er vist i kartet. I områder hvor brefrontene har trukket seg tilbake sammenlignet med den som er angitt i sjøkartet, finnes det ikke dybdeinformasjon.
+- Gamle siktelinjer basert på referansepunkt i isbreer bør ikke brukes.
+Skip skal opereres i sikker avstand til brefronter. Avstanden skal være minimum fem ganger brefrontens høyde, men ikke mindre enn 200 meter.
+Fakta Sjøkartleggingen på Svalbard
+Det gjenstår fremdeles å kartlegge store sjøområder på Svalbard. Det er stor variasjon i innhold og nøyaktighet med hensyn til nye og eldre målinger i navigasjonsproduktene.
+Moderne målinger på Svalbard blir utført med tilnærmet samme kvalitet som på norskekysten. Den eneste forskjellen er at det på norskekysten måles inn til tørrfall, mens det på Svalbard måles til 3 m dyp.
+Datakvaliteten på dybdedataene er angitt i det enkelte kart ved hjelp av Zones of Confidence (ZOC) Diagram i papirkartene og datalaget M_QUAL (datakvalitet) i de elektroniske sjøkartene. I tillegg angis de store områdene som ikke er sjømålt med ‘Unsurveyed’.
+Kartverket har i større eller mindre grad drevet systematisk sjømåling på Svalbard hvert år siden 1984, men fortsatt gjenstår det store umålte områder. Målesesongen på Svalbard er begrenset til perioden juni-september på grunn av is- og lysforhold. Fra 2007 ble sjømålingen intensivert ved at alle Kartverkets målefartøyer ble forflyttet fra norskekysten til Svalbard i sommersesongen.
+I tillegg til sikkerhetsmessige hensyn er det vanskelig å drive sjømåling i islagte områder. Dette skyldes at isen vil gi redusert datakvalitet og at utstyret lett blir skadet av isen. Moderne sjøkartlegging har utviklet seg til å bli en spesialisert oppgave som krever mye av både utstyr og kompetanse.
+Fakta Verneområder og kulturminner på Svalbard
+[Bruk Svalbardkartet ](https://geokart.npolar.no/Html5Viewer/index.html?viewer=Svalbardkartet) for informasjon om ferdselsforbud, naturvernområder, fuglereservater og kulturminner fra Riksantikvaren.
+E-posten er sendt

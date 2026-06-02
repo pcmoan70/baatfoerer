@@ -1,0 +1,84 @@
+Gjeldende farvannsskilt
+-
+Varselskilt
+Annen fare
+Anvendelse: Angir en fare som det ikke finnes eget skilt
+for. Farens art skal angis på underskilt.Annen fare med gul bunn
+Anvendelse: Gul fluoriserende bunn kan benyttes når et
+skilt brukes i forbindelse med arbeid, eller andre
+midlertidige tiltak i sjø.Horisontal klaring
+Anvendelse: Angir horisontal klaring i en farledsinnsnevring, utdypet renne eller lignende.
+Vertikal klaring og sikker vertikal klaring
+Anvendelse: Angir vertikal klaring under bru eller lignende, og sikker vertikal klaring under luftlinje med elektrisk energi eller elektronisk kommunikasjon.
+Ved lave bruer kan skiltet « Annen fare » med underskilt «Lav bru » anvendes.Bevegelig bru
+Anvendelse: Angir alle typer bevegelig bru, for eksempel klaffebru og svingbru
+Kabelferge
+Anvendelse: Angir kabelstyrt eller kabeldrevet ferge.
+Livsfarlig ledning
+Anvendelse: Angir strømførende ledning med livsfarlig spenning.
+-
+Forbudsskilt
+Ankring forbudt
+Anvendelse: Angir at ankring er forbudt.
+Dykking forbudt
+Anvendelse: Angir at dykking er forbudt. Forbud kan være gitt ved ordensforskrift eller lignende.
+Fartsgrense
+Anvendelse: Angir høyeste tillatte fart (for eksempel 5 knop).
+Fartsgrense opphørerAnvendelse: Angir at fartsgrense opphører.
+Sjøtrafikk forbudt
+Anvendelse: Angir at sjøtrafikk er forbudt innenfor et sjøområde.
+-
+Opplysningsskilt
+Anropskanal VHF
+Anvendelse: Angir anropskanal som skal brukes for å kontakte havn eller lignende.
+Sakte fart
+Anvendelse: Angir at fartøyer skal utvise forsiktighet og avpasse farten.
+-
+Underskilt
+Dato
+Anvendelse: Angir dato for når hovedskiltet gjelder.
+Kabel, Rørledning, vannledning eller avløpsledning
+Anvendelse: Angir at hovedskiltet gjelder kabel, rørledning eller lignende sjøledning.
+Lav bru
+Anvendelse: Angir at hovedskiltet gjelder lav bru.
+Strekningens lengde bortenfor skiltet i meter
+Anvendelse: Angir en strekning som begynner bortenfor hovedskiltet i meter (m).
+Strekningens lengde bortenfor skiltet i nautiske mil
+Anvendelse: Angir en strekning som begynner bortenfor hovedskiltet i nautiske mil (M).
+Strekningens lengde fra skiltet i meter
+Anvendelse: Angir strekning fra hovedskiltet i meter (m).
+Angir strekning fra skiltet i nautiske mil
+Anvendelse: Angir strekning fra skiltet i nautiske mil (M).
+Tid
+Anvendelse: Angir tiden for når hovedskiltet gjelder.
+Virkeområde
+Anvendelse: Angir hovedskiltets virkeområde en eller begge sider i meter (m).
+-
+Markeringsskilt
+Beste punkt for passering
+Anvendelse: Angir beste punkt for passering under bru.
+Overett
+Anvendelse: Viser traseen på sjøbunnen for ledninger og kabler.
+Sidemarkering babordAnvendelse: Angir sidemarkering til babord i forhold til merkesystemets hovedretning for begrenset høyde under bru.
+Sidemarkering styrbord
+Anvendelse: Angir sidemarkering til styrbord i forhold til merkesystemets hovedretning for begrenset høyde under bru.
+Forskrift om farvannsskilt og navigasjonsinnretninger av 19. desember 2012 gir blant annet nærmere bestemmelser om utforming og tekniske spesifikasjoner for farvannsskilt og navigasjonsinnretninger og om merking av akvakulturanlegg.
+Det følger av [havne- og farvannsloven § 10 tredje ledd](https://lovdata.no/dokument/NL/lov/2019-06-21-70/KAPITTEL_2#KAPITTEL_2) at navigasjonsinnretninger og farvannsskilt bare kan settes opp, fjernes, flyttes, endres eller tildekkes etter tillatelse fra departementet.
+Farvannsskilt
+Departementets myndighet er delegert til Kystverket.
+Farvannsskilt gir veiledning til de som ferdes på sjøen. I forskriften er det lagt vekt på en harmonisering av farvannsskilt i forhold til regelverk i andre europeiske land.
+- Det må innhentes tillatelse for å sette ut farvannsskilt. Ta kontakt på
+[post@kystverket.no](mailto:post@kystverket.no)for informasjon/søknad
+Skilt med fartsgrense for fritidsfartøy
+Last ned filer til produksjon av skiltene fartsgrense for fritidsfartøy her:
+[N212_Fartsgrense.pdf][N212_Fartsgrense.dwg][N212_Fartsgrense.ai]
+[N515_Fritidsfartøy.pdf][N515_Fritidsfartøy.dwg][N515_Fritidsfartøy.ai]
+For å få tilsendt andre filer til bruk i produksjon av skilt, til illustrasjoner, trykksaker etc., kontakt Lill Haugen på e-post [lill.haugen@kystverket.no](mailto:lill.haugen@kystverket.no)
+Navigasjonsinnretninger
+For navigasjonsinnretninger fastsetter Kystverkets hovedkontor [retningslinjer for tekniske krav til og bruk, utforming og lokalisering](https://www.kystverket.no/contentassets/56500e71a194444f9190fa23bcb7777b/retningslinjer-for-utforming-tekniske-krav-til-ogplassering-av-navigasjonsinnretninger.pdf)
+- Det må innhentes tillatelse for å etablere navigasjonsinnretninger. Ta kontakt på
+[post@kystverket.no](mailto:post@kystverket.no)for informasjon/søknad.
+Merking av akvakulturanlegg
+Etablering av akvakulturanlegg krever blant annet tillatelse fra Kystverket. Når det gis tillatelse til å etablere akvakulturanlegg fastsettes det vilkår om at merking skal være i samsvar med forskriften, og det må følgelig ikke innhentes egen tillatelse for dette forholdet.
+Farledsnormalen
+Både med hensyn til bruk av farvannsskilt og navigasjonsinnretninger, og når det gjelder utlegg av akvakulturanlegg i sjø, vil en finne relevant rettledning i [Farledsnormalen.](https://www.kystverket.no/regelverk/havne--og-farvannsloven/farledsnormalen/)

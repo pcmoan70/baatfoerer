@@ -1,0 +1,28 @@
+{
+  "url": "https://www.lanternenkurs.no/opprett-profil-og-betal-eksamensavgift-pa-batforerregisteret-no/",
+  "site": "lanternenkurs",
+  "source_id": "lanternenkurs",
+  "title": "3. Båtførerregisteret.no - Opprett profil, last opp bilde og betal eksamensavgift - Lanternen",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "2195a9ce8195d86a8eba9f54a938fb2ee00fa52d44d6fe68953ad9a5605e708b",
+  "fetched_at": "2026-06-02T11:18:45.854259+00:00",
+  "depth": 2,
+  "text_chars": 2347,
+  "n_links": 42,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2019-12-bfpn-kort.png",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/opprett-profil-og-betal-eksamensavgift-pa-batforerregisteret-no.html",
+    "text": "pages/opprett-profil-og-betal-eksamensavgift-pa-batforerregisteret-no.txt"
+  },
+  "anchors": []
+}

@@ -1,0 +1,56 @@
+Lyskarakteristikk – Hvordan tolke blinkemonstrene?
+Fyrlykter, fyr, bøyer og mange andre sjømerker har sin egen lyskarakteristikk, altså et eget blinkemønster. Dette hjelper deg med å identifisere hvilket sjømerke du ser – spesielt i mørket eller dårlig sikt.
+Hva består en lyskarakteristikk av?
+En lyskarakter beskriver hvordan lyset blinker. Den kan være regelmessig, i grupper, eller ha like lange lys- og mørkeperioder. Karakteristikkene angis med forkortelser og tall, for eksempel:
+Fl(2) 6s
+= 2 raske blink hvert 6. sekundOc 4s
+= langt lys, kort mørke, gjentar hvert 4. sekund
+Vanlige lyskarakterer
+- F – Fast lys: Fast kontinuerlig lys i én farge. Eksempel:
+F
+. - Iso – Isolys: Lys og mørke varer like lenge. Eksempel:
+Iso 4s
+→ 2 sek lys, 2 sek mørke. - Oc – Occulting, okkulterende: Lyset er på lenger enn det er av. Eksempel:
+Oc 6s
+→ Langt lys, kort mørke, repeteres hvert 6. sekund. - Oc(n) – Oc i grupper: Antall mørkepauser i en gruppe. Eksempel:
+Oc(3) 10s
+→ 3 mørkepauser innen 10 sekunder. - Fl – Flashing: Kort blink, lengre mørke. Eksempel:
+Fl 5s
+→ Ett kort blink hvert 5. sekund. - Fl(n) – Flashing i grupper: Flere blink i rekkefølge. Eksempel:
+Fl(2) 6s
+→ To raske blink, repeteres hvert 6. sekund. - LFl – Long Flashing, langt blink: Blink på minst 2 sekunder. Eksempel:
+LFl 6s
+→ Ett langt blink hvert 6. sekund. - Q – Quick: Veldig raske blink, vanligvis 60 per minutt.
+- VQ – Very Quick: Ekstremt raske blink, rundt 120 per minutt.
+- AlAlternating: Alternerende lys veksler mellom forskjellige farger. Al WGB, for eksempel, veksler mellom hvitt, grønt og blått.
+Hva betyr tiden i karakteristikken?
+Tallet etter karakteren viser total varighet for hele syklusen. Eksempel:
+Oc(3) 10s
+betyr at én syklus med 3 mørkepauser tar 10 sekunder. Etter 10 sekunder begynner det hele på nytt.Fl(2) 6s
+betyr 2 blink innenfor 6 sekunder, deretter en pause før det gjentar seg.VQ(3) 4s
+betyr 3 veldig raske blink innenfor 4 sekunder. Vises på bildet.
+Farger
+Det kan også ligge informasjon om lysets farge i lyskarakteren, for eksempel betyr Oc R 6s
+rødt lys med en mørkemperiode
+hvert 6. sekund. Det brukes forkortelse for engelske navn på fargene, W
+for white etc.
+Noen lykter kombinerer flere farger. Fyrlykter kan markeres med WRG
+: Du ser hvitt, rødt eller grønt lys
+avhengig av hvilken sektor du er i. Mer om fyrlykter [her](https://bukt.no/articles/fyrlykter).
+Hvordan bruker du dette i praksis?
+Når du ser et blinkende lys til sjøs, kan du telle blink og tid for å identifisere lykten. Kryss deretter med sjøkartet hvor lyskarakterene er angitt med symboler som:
+Fl WRG
+: Blinkende (flash) lys med hvit, rød og grønn sektorIso R 4s
+: Isolys (like lenge mørkt og lyst), rød farge, 4 sekunders periode, som vil si det er lyst i 2 sekunder og mørkt i 2 sekunder.
+Tips til båtførerprøven
+Øv på å kjenne igjen karakterer og forstå hva Iso
+, Oc
+, Fl
+, (2)
+, (3)
+, 6s
+etc betyr. Det kommer ofte oppgaver med både kode og bilder.
+Relevante oppgaver
+| Nummer | Oppgave | Svarhistorie |
+|---|---|---|
+|

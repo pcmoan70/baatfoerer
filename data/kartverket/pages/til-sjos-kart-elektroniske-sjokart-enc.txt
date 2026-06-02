@@ -1,0 +1,31 @@
+Egenskaper
+ENC gir navigatøren en sømløs presentasjon av de elektroniske sjøkartene med sanntidsposisjonering.
+ENC-ene redigeres i gitte målestokker, akkurat som et papirkart. Kartene er bundet av strenge krav til presentasjon av data (symboler, farger, linjetykkelse, størrelse etc.) og varierer lite på tvers av landegrenser.
+Innholdet i en ENC og et papirkart for samme område er ikke nødvendigvis identiske. Eksempelvis kan en ENC inneholde mer dybdeinformasjon enn papirkartet, mens landinformasjon og navn kan være redusert sammenlignet med det som finnes i papirkartene.
+ENC-er har muligheten for automatisk oppdatering om bord. Oppdateringer (ER-meldinger) blir utgitt for norske ENC-er i samsvar med kartrettelser og -oppdateringer publisert i [Etterretninger for sjøfarende](/til-sjos/efs) (Efs). Dette gjelder også midlertidige (T) og foreløpige (P) meldinger.
+Ved større endringer som eksempelvis ved nymåling av et større område vil en kartcelle bli utgitt som "ny utgave" (New Edition). "Nye utgaver" (New Editions) kan også bli utgitt av datatekniske årsaker.
+Bruksområder
+ENC-er brukes til papirløs navigasjon i det elektroniske kartsystemet ECDIS. ECDIS viser også en løpende presentasjon av eget og andre fartøy sin posisjon og bevegelse.
+I flere store norske havner er dybdekontur og dybdearealer fortettet med intervaller på 1 meter. Her kan anløp planlegges og gjennomføres ved hjelp av ‘safety contour’ som kan settes basert på båtens dypgående, og ikke kartets standardiserte intervall på 5–10–15–20 meter. Den ekstra dybdeinformasjonen er i Berthing-ENC-ene. Det planlegges en fortetting av dybdeinformasjon i flere utvalgte havner og trange sund.
+ENC-ene retter seg hovedsakelig mot profesjonelle navigatører. Yrkesflåten og fartøy over en viss størrelse er pålagt å navigere på offisielle sjøkart, enten i form av godkjente og oppdaterte papirkart, eller at de bruker et typegodkjent elektronisk kartsystem for ENC, som ECDIS (Electronic Chart Display and Information System). Alle som navigerer på ECDIS er pliktige til å seile på oppdaterte ENC-er.
+En kan benytte ECDIS som lovlig erstatning for papirkartet dersom det brukes offisielle ENC-er og en i tillegg har et godkjent back-up-system. Det betyr at man må ha to ECDIS-er om bord som er tilknyttet hver sin strømkilde.
+Formater
+Grunnlaget for norske ENC-er er enten hentet fra digitalisering/scanning av eksisterende sjøkart, eller direkte fra databaser. Dataene inngår i en sømløs database hvor hver ENC utgjør en kartcelle. Hver kartcelle blir identifisert ved et unikt nummer.
+I en ENC er [datakvaliteten for hydrografiske data angitt i kvalitetssoner (Zones of Confidence)](/til-sjos/sjokart/kartkvalitet-catzoc) hvor kvaliteten er vurdert ut fra tre faktorer; posisjonsnøyaktighet, nøyaktighet i dybde og dekningsgrad av havbunnen.
+Norske ENC-er er delt inn i ulike navigasjonsformål/målestokksklasser (Usage Band), etter anbefalinger fra den internasjonale hydrografiske organisasjonen (IHO):
+Navigasjonsformål (Usage Band)
+Bestill ENC
+Offisielle ENC-er som dekker norsk farvann kan bestilles via distributører som har avtale med Kartverket via PRIMAR.
+[ENC -distributører hos primar.org](https://www.primar.org/distributors)
+For å lære mer, eller be om et pristilbud, vennligst ta kontakt med en av våre autoriserte PRIMAR-distributører.
+Primar er et internasjonalt samarbeid som driftes non-profit av Kartverkets sjødivisjon. PRIMAR leverer offisielle elektroniske sjøkart (ENC) fra hele verden til internasjonal skipsfart. [Om PRIMAR](https://www.primar.org/home)
+Rett i kartet
+Meld inn feil i sjøkart
+Via tjenesten Rett i kartet (rettikartet.no) kan du melde inn feil og mangler i sjøkartet, etablering og endring av installasjoner eller annen informasjon.
+[Rett i kartet](https://rettikartet.no/app/sjo)
+Unngå overskalering
+Generalisering er nødvendig ved all sjøkartproduksjon, både for papir- og elektroniske sjøkart (ENC). Det øker lesbarheten, men innebærer at detaljrikdommen i kartet er avhengig av målestokken kartet er generalisert for.
+I et sjøkart vil informasjon som er viktig for navigasjon bli fremhevet, mens det uvesentlige dempes og skyves i bakgrunnen.
+Bruk av moderne utstyr gir mulighet til å zoome inn i elektroniske sjøkart for å få bedre oversikt. Zoomer du for langt inn, strekkes informasjonen i kartet ut over den bruken den er beregnet for. Dette kalles overskalering. Du må altså ta hensyn til både målestokk og datakvalitet i kartet.
+I de profesjonelle kartsystemene (godkjente ECDIS-system) blir overskalering varslet automatisk, men i andre kartplottere må ofte den sjøfarende selv være oppmerksom på når kartbildet er overskalert.
+E-posten er sendt

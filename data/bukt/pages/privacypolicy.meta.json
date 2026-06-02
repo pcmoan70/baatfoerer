@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/privacyPolicy",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Personvern og cookies - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "3e657ac132ca0bada2ff7b9fe7f24ff34e6a93fbf45bca69c0aea4d297b87407",
+  "fetched_at": "2026-06-02T11:13:51.361575+00:00",
+  "depth": 1,
+  "text_chars": 1297,
+  "n_links": 14,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/privacypolicy.html",
+    "text": "pages/privacypolicy.txt"
+  },
+  "anchors": []
+}

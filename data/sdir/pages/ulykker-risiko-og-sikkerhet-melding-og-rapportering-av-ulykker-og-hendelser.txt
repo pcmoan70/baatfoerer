@@ -1,0 +1,61 @@
+Rapporter en ulykke eller hendelse
+Ulykker, tap av fraktcontainere, digitale hendelser og ISPS-hendelser skal meldes fra om og rapporteres til Sjøfartsdirektoratet. I tillegg er det ønskelig at nestenulykker rapporteres. Nedenfor er det gitt en kort oversikt over når og hvordan det skal meldes og rapporteres.
+Behov for assistanse?
+Meld fra til [Hovedredningssentral](https://www.hovedredningssentralen.no/kontakt/) eller [kystradiostasjon](https://www.kystradio.no/s/article/V%C3%A5re-Kystradiostasjoner-hva-gj%C3%B8r-de?language=no) dersom det er behov for assistanse eller er fare for utslipp.
+Ved ulykke på fritidsbåt kan det meldes fra til politiet på telefon 112 i stedet for å melde fra til de ovennevnte instansene.
+Ved utslipp eller fare for utslipp utenfor norsk sjøterritorium skal det meldes fra til nærmeste kyststat.
+Hvis det ikke er behov for assistanse, skal det meldes fra til Sjøfartsdirektoratets beredskapstelefon: +47 52 74 50 00 (bemannet 24 timer i døgnet).
+Rapporter en ulykke, arbeidsulykke eller nestenulykke eller tap av fraktcontainer
+Ulykker, arbeidsulykker og nestenulykker skal rapporteres via skjemaet KS-0197 og sendes til [post@sdir.no](mailto:post@sdir.no) innen 72 timer etter hendelsen. Tap av fraktcontainer skal rapporteres uten ugrunnet opphold.
+Veiledning
+Rapporteringsplikten er nærmere beskrevet i veiledningen om melding og rapportering av ulykker til Sjøfartsdirektoratet m.fl.
+Rapporter digitale hendelser (cyberangrep)
+Digitale hendelser (cyberangrep) skal rapporteres via skjemaet Rapportering av digitale hendelser.
+Rapporter ISPS-hendelser
+ISPS-hendelser skal rapporteres via Rapportering av ISPS-hendelser
+-
+- Alle norske skip.
+- Utenlandske skip etter hendelser norsk territorialfarvann – også i territorialfarvannet rundt Svalbard og Jan Mayen og i norsk økonomisk sone.
+- Roroferger og hurtiggående passasjerfartøy som går i rutetrafikk til eller fra norsk havn til havn i en EØS-stat når sjøulykken inntreffer utenfor norsk sjøterritorium, dersom Norge var den siste EØS-staten skipet besøkte før ulykken.
+- Alle rederi eller skip som blir rammet av digitale hendelser hvor det er fare for spredning til eller påvirkning av drift av og sikkerheten til fartøy.
+- Rederi som har skip i internasjonal fart og som har hatt ISPS-hendelse om bord.
+-
+Skipsfører eller rederi skal uten opphold gi muntlig melding ved blant annet:
+- Ved en skipsulykke som innebærer brann, eksplosjon, grunnstøting, kollisjon, sammenstøt eller lignende.
+- Betydelig skade på person eller fartøy.
+- Arbeidsulykke når det kreves evakuering av den skadde.
+- Personskader eller materielle skader som er forårsaket av elektrisitet.
+- Utslipp eller sannsynlig utslipp av olje eller skadelige stoffer.
+- Tap av skip eller liv.
+- Tilsiktede uønskete handlinger som digitale angrep, sabotasje eller piratvirksomhet eller annet ISPS-brudd, selv om tilfellet ikke er å anse som en sjøulykke.
+- Yrkessykdom.
+Krav om melding gjelder også når eksternt personell som utfører arbeid om bord i fartøy, er part i en ulykke om bord eller har en ulykke om bord.
+-
+Sjøfartsdirektoratet ønsker at alvorlige nestenulykker med andre skip enn passasjerskip rapporteres. Informasjon om nestenulykker vil bli benyttet til arbeid med forbedring av sjøsikkerheten.
+Tilsiktede uønskete handlinger som potensielt kunne fått konsekvenser eller hvor en er usikker på omfang er ønskelig at rapporteres.
+-
+Dersom en norsk statsborger dør om bord på et skip som befinner seg i utlandet, skal
+[skatteetatens retningslinjer følges.](https://www.skatteetaten.no/person/folkeregister/dodsfall/)Da er det norsk utenriksstasjon som skal kontaktes (ambassaden eller konsulatet i landet personen døde i) og som har ansvar for å sende dødsattest til Skattedirektoratet. Dødsfallet blir da registrert i Folkeregisteret. Dersom den avdøde var registrert bosatt i Norge, sender Skattedirektoratet dødsattesten til tingretten der avdøde sist var bostedsregistrert.
+Ved naturlig død som involverer utenlandske passasjerer er det ikke rapporteringskrav til norske myndigheter.
+-
+- Hovedredningssentralen eller nærmeste kystradio skal varsles ved akutt forurensning eller fare for akutt forurensning fra fartøy.
+- Hovedredningssentralen og Petroleumstilsynet skal varsles ved akutt forurensning eller fare for akutt forurensning fra virksomhet på kontinentalsokkelen som driver petroleumsaktivitet.
+- Kystverket kan utarbeide et system for viderevarsling.
+- Brannvesenet skal varsles om akutt forurensning eller fare for akutt forurensning fra landbasert virksomhet.
+-
+-
+Skjemaet GP-5173 Identifisering av ofre - savnet person skal brukes til alle opplysninger som kan fremskaffes om en savnet person som kan lette identifiseringen gjennom sammenligning med data innsamlet fra ofrene på åstedet.
+Meld personskader eller materielle skader forårsaket av elektrisitet til DSB
+Personskader eller materielle skader som er forårsaket av elektrisitet, skal snarest mulig meldes til [Direktoratet for samfunnssikkerhet og beredskap (DSB).](https://www.dsb.no/stromskader)
+Meld personskade til NAV
+Ved skade på arbeidstaker er det viktig å huske på meldingsplikten til NAV.Aktuelle skjemaer finner du på[ NAVs nettside](https://www.nav.no/meldyrkesskade).
+Meldingsplikten til NAV gjelder for norske og utenlandske statsborgere som er ansatt på skip registrert i Norsk ordinært skipsregister (NOR) samt norske og utenlandske statsborgere bosatt i Norge og ansatte på norske skip registrert i Norsk internasjonalt skipsregister (NIS).
+Det samme gjelder for statsborgere i et EØS-land samt utenlandske statsborgere som ikke er bosatt i Norge, men som betaler medlemskap til den norske folketrygden.
+Bestill tilsyn eller kontroll etter havari og skade
+Husk å [bestille tilsyn](https://www.sdir.no/naringsfartoy/tilsyn/bestill-tilsyn/) så snart som mulig, når skip eller en flyttbar innretning har hatt havari, skade eller mangler som krever dette.
+For fartøy som er underlagt Godkjente foretak, skal godkjent foretak kontaktes når det gjelder kontroll etter havari, skade eller mangler som krever dette.
+Når tilsynsmyndigheten er delegert til Anerkjent klasseselskap, sendes egen bestilling til klasseselskapet.
+Rapporter ulykke med fritidsfartøy
+Ulykker med fritidsfartøy rapporteres via skjemaet [KS-0602 (PDF)](https://www.sdir.no/skjemakatalog/rapport-om-ulykke-pa-fritidsfartoy/)
+Regelverk
+Kravet til rapportering finner du i [Melde- og rapporteringsplikt ved sjøulykker og andre hendelser til sjøs (forskrift).](https://www.sdir.no/regelverk/forskriftsutlisting/melde--og-rapporteringsplikt-ved-sjoulykker-og-andre-hendelser-til-sjos/)

@@ -1,0 +1,44 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/faq",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "FAQ | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 10:51:37 GMT",
+  "checksum_sha256": "5a154f95285ba5e6135bd2f616ee67422d72530276ef06a85b90fe0fc09f04dc",
+  "fetched_at": "2026-06-02T11:07:05.719502+00:00",
+  "depth": 1,
+  "text_chars": 3313,
+  "n_links": 46,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-faq.html",
+    "text": "pages/om-kartverket-faq.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Ofte stilte spørsmål til Kartverket",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

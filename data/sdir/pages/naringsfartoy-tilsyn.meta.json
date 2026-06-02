@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/naringsfartoy/tilsyn/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Tilsyn - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "4a2c8514102eaa7d5b597cb5bf47cdd32111867edc04eb73cebd13ccfeb1cc07",
+  "fetched_at": "2026-06-02T10:56:09.761526+00:00",
+  "depth": 2,
+  "text_chars": 699,
+  "n_links": 41,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/naringsfartoy-tilsyn.html",
+    "text": "pages/naringsfartoy-tilsyn.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Tilsyn",
+      "id": "main-content"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/knuter/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Knuter - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "97e7174328b1360256a92e85bb2e7182ba4549d2dfcfd278d2737d97c13f4e3a",
+  "fetched_at": "2026-06-02T11:13:04.976822+00:00",
+  "depth": 2,
+  "text_chars": 450,
+  "n_links": 133,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-knuter.html",
+    "text": "pages/sikker-til-sjos-knuter.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Knuter",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

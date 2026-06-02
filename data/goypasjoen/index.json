@@ -1,0 +1,60 @@
+{
+  "site": "goypasjoen",
+  "name": "Gøy på sjøen",
+  "seed_url": "https://xn--gypsjen-gxa2of.no/batforerproven",
+  "authority": "private",
+  "rebuilt": true,
+  "n_pages": 1,
+  "n_pdfs": 0,
+  "n_images": 2,
+  "pages": [
+    {
+      "url": "https://xn--gypsjen-gxa2of.no/batforerproven",
+      "site": "goypasjoen",
+      "source_id": "goypasjoen",
+      "title": "Båtførerprøven | Gøypåsjøen.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "6aa400688a3148052f44ed693459cec6a580e5e0d8b327b09c439f6fa2a5fa6e",
+      "fetched_at": "2026-06-02T11:17:10.202292+00:00",
+      "depth": 0,
+      "text_chars": 2668,
+      "n_links": 60,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "goypasjoen\\images\\media-r-rxjjidkjzju.webp",
+          "alt": ""
+        },
+        {
+          "file": "goypasjoen\\images\\products-salepage-blocks-ythgnb-111.webp",
+          "alt": "Båt som ligger fortøyd til en brygge."
+        }
+      ],
+      "files": {
+        "html": "pages/batforerproven.html",
+        "text": "pages/batforerproven.txt"
+      }
+    }
+  ],
+  "pdfs": [],
+  "images": [
+    {
+      "file": "goypasjoen\\images\\media-r-rxjjidkjzju.webp",
+      "alt": "",
+      "caption": "",
+      "url": "https://cdn.kursoria.no/media/r/rxjjidkjzju.webp",
+      "page_url": "https://xn--gypsjen-gxa2of.no/batforerproven"
+    },
+    {
+      "file": "goypasjoen\\images\\products-salepage-blocks-ythgnb-111.webp",
+      "alt": "Båt som ligger fortøyd til en brygge.",
+      "caption": "",
+      "url": "https://cdn.kursoria.no/products/salepage/blocks/ythgnb-111.webp",
+      "page_url": "https://xn--gypsjen-gxa2of.no/batforerproven"
+    }
+  ]
+}

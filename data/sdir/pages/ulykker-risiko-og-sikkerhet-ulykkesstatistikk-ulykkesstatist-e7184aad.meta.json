@@ -1,0 +1,64 @@
+{
+  "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/ulykkesstatistikk/ulykkesstatistikk-for-fritidsfartoy/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Ulykkesstatistikk for fritidsfartøy - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "b7b7173049647e1192969252f3417dbf28b752906f84efdcef29709673c34d5c",
+  "fetched_at": "2026-06-02T10:56:18.798442+00:00",
+  "depth": 2,
+  "text_chars": 76004,
+  "n_links": 28,
+  "n_pdf_links": 7,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/ulykker-risiko-og-sikkerhet-ulykkesstatistikk-ulykkesstatist-e7184aad.html",
+    "text": "pages/ulykker-risiko-og-sikkerhet-ulykkesstatistikk-ulykkesstatist-e7184aad.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Ulykkesstatistikk for fritidsfartøy",
+      "id": "main-content"
+    },
+    {
+      "level": 3,
+      "text": "Dødsulykker",
+      "id": "main-text-content"
+    },
+    {
+      "level": 3,
+      "text": "Fritidsfartøyulykker med omkomne 2019",
+      "id": "data-toggle-content-Omkomne2019"
+    },
+    {
+      "level": 2,
+      "text": "Fritidsfartøyulykker med omkomne 2020",
+      "id": "data-toggle-content-Omkomne2020"
+    },
+    {
+      "level": 2,
+      "text": "Fritidsfartøyulykker med omkomne 2021",
+      "id": "data-toggle-content-Omkomne2021"
+    },
+    {
+      "level": 2,
+      "text": "Fritidsfartøyulykker med omkomne 2022",
+      "id": "data-toggle-content-Omkomne2022"
+    },
+    {
+      "level": 3,
+      "text": "Fritidsfartøyulykker med omkomne 2023",
+      "id": "data-toggle-content-Omkomne2023"
+    },
+    {
+      "level": 3,
+      "text": "Fritidsfartøyulykker med omkomne 2024",
+      "id": "data-toggle-content-Omkomne2024"
+    }
+  ]
+}

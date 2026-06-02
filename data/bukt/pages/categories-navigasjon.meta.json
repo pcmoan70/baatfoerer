@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/categories/NAVIGASJON",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Navigasjon - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "955338e9cc711edbbb8737c228450d53e17e9e6b30914fbc9c609add4cba48c3",
+  "fetched_at": "2026-06-02T11:14:57.881344+00:00",
+  "depth": 2,
+  "text_chars": 2867,
+  "n_links": 39,
+  "n_pdf_links": 4,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/categories-navigasjon.html",
+    "text": "pages/categories-navigasjon.txt"
+  },
+  "anchors": []
+}

@@ -1,0 +1,702 @@
+{
+  "site": "batforerproven",
+  "n_images": 48,
+  "images": [
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-09-lanterneslep-300x241.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/09/lanterneslep-300x241.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-app-presentasjonsbilde-4-3-452x339.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/App-presentasjonsbilde-4-3-452x339.jpg",
+      "alt": "Båtførerprøven nettkurs tilgjengelig på nett og som app. Levende videokurs med hundrevis av øvningsoppgaver som ligner den virkelige båtførerprøven.",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/gavekort-nettkurs/",
+      "relevance_score": 5,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-app-forklaringsbilder-4-3-452x339.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/App-forklaringsbilder-4-3-452x339.jpg",
+      "alt": "Nettkurset til båtførerprøven.no inkluderer navigasjonsutstyr, testeksamener og gir deg en pekepinn på når du er klar til eksamen.",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/gavekort-nettkurs/",
+      "relevance_score": 5,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2022-10-produktbilde-navigasjonskurs-452x339.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2022/10/Produktbilde-navigasjonskurs-452x339.jpg",
+      "alt": "100% videobasert navigasjonskurs på nett og i applikasjon fra Båtførerprøven.no",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/navigasjonskurs/",
+      "relevance_score": 5,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-11-prudktbilde-navigasjonsutstyr-452x339.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/11/Prudktbilde-navigasjonsutstyr-452x339.jpg",
+      "alt": "Med navigasjonsutstyr og kurs fra Båtførerprøven kan du se gode instruksjonsvideoer og lære i eget tempo.",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/navigasjonskurs/",
+      "relevance_score": 5,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-ung-kurs-prod1.webp",
+      "url": "https://www.båtførerprøven.no/wp-content/uploads/2025/10/ung-kurs-prod1.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/batforerprovenung/",
+      "relevance_score": 4,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-ung-kurs.webp",
+      "url": "https://www.båtførerprøven.no/wp-content/uploads/2025/10/ung-kurs.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/batforerprovenung/",
+      "relevance_score": 4,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-vikeplikt-motorba-t-spm-3-300x169.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/Vikeplikt-motorbåt-spm-3-300x169.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 4,
+      "topic_hits": [
+        "vikeplikt|kryssende|forbikj"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-09-testeksamen-forsidebilde-1-452x339.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/09/Testeksamen-forsidebilde-1-452x339.jpg",
+      "alt": "Jente gjennomfører testeksamen fra egen stue, og får en indikasjon på sitt kunnskapsnivå.",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/ekspresskurs/",
+      "relevance_score": 4,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2024-01-batforerproven.no_-452x319.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2024/01/Batforerproven.no_-452x319.png",
+      "alt": "Fysisk gavekort til mottaker av kurs, følger med.",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/gavekort-nettkurs/",
+      "relevance_score": 4,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2024-08-produktbilde-praktisk-kurs-452x339.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2024/08/Produktbilde-Praktisk-kurs-452x339.jpg",
+      "alt": "Praktisk kurs (privattimer)",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/praktisk-kurs-privattimer/",
+      "relevance_score": 4,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-kartsymboler-spm-3-300x213.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/Kartsymboler-spm-3-300x213.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-img5-1.webp",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/11/img5-1.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/Klasseromskurs%20for%20bedrifter",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-img1.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/11/img1.png",
+      "alt": "img1",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/Klasseromskurs%20for%20bedrifter",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-img2.webp",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/11/img2.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/Klasseromskurs%20for%20bedrifter",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-image-28.webp",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/11/image-28.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/Klasseromskurs%20for%20bedrifter",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-b.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/11/b.png",
+      "alt": "logo",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/klasseromskurs/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-klasseromskurs-2.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/11/klasseromskurs-2.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/klasseromskurs/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2026-03-venner-pa-tur-1-1-e1749468367703-edited-1.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2026/03/Venner-pa-tur-1-1-e1749468367703-edited-1.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/klasseromskurs/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2026-03-mobil-skratt-sjoveisreglene-2-1.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2026/03/Mobil-skratt-sjoveisreglene-2-1.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/klasseromskurs/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-img4.webp",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/11/img4.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/klasseromskurs/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-hand-1-1.webp",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/11/hand-1-1.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/klasseromskurs/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-frame-19718.svg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/11/Frame-19718.svg",
+      "alt": "Search",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/kurs/gratistest/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-frame-cart.svg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/11/Frame-cart.svg",
+      "alt": "Frame-cart",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/kurs/gratistest/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2024-06-gratistest-kursbilde4-3.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2024/06/Gratistest-kursbilde4-3.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/kurs/gratistest/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-05-frame-20307-1.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/05/Frame-20307-1.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/kurs/gratistest/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-ikoner_bfp_batforerproven.svg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/Ikoner_BFP_batforerproven.svg",
+      "alt": "Ekspresskurs",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/ekspresskurs/",
+      "relevance_score": 3,
+      "topic_hits": [
+        "kompass|peiling|kurs\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-04-section-1-video.png",
+      "url": "https://www.båtførerprøven.no/wp-content/uploads/2025/04/Section-1-Video.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/batforerprovenung/",
+      "relevance_score": 1,
+      "topic_hits": [
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-ung-praktisk-1.webp",
+      "url": "https://www.båtførerprøven.no/wp-content/uploads/2025/10/ung-praktisk-1.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/batforerprovenung/",
+      "relevance_score": 1,
+      "topic_hits": [
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-baatforer-ung-1.webp",
+      "url": "https://www.båtførerprøven.no/wp-content/uploads/2025/10/baatforer-ung-1.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/batforerprovenung/",
+      "relevance_score": 1,
+      "topic_hits": [
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-familiepakke-produktbilder.jpg",
+      "url": "https://www.båtførerprøven.no/wp-content/uploads/2025/10/Familiepakke-produktbilder.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/batforerprovenung/",
+      "relevance_score": 1,
+      "topic_hits": [
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-levende-studio.webp",
+      "url": "https://www.båtførerprøven.no/wp-content/uploads/2025/10/levende-studio.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/batforerprovenung/",
+      "relevance_score": 1,
+      "topic_hits": [
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-04-hand-1-1.png",
+      "url": "https://www.båtførerprøven.no/wp-content/uploads/2025/04/hand-1-1.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/batforerprovenung/",
+      "relevance_score": 1,
+      "topic_hits": [
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-r-dstake-300x264.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/rødstake-300x264.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-34966-300x200.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/34966-300x200.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-tidevann-str-m-og-ta-ke-spm-4-300x169.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/Tidevann-strøm-og-tåke-spm-4-300x169.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-kartoppgaver-spm-6-300x169.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/Kartoppgaver-spm-6-300x169.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-first-aid-2-300x224.jpeg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/first-aid-2-300x224.jpeg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-kartets-oppbygning-spm-1-300x169.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/Kartets-oppbygning-spm-1-300x169.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-oc28s-300x82.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/OC28s-300x82.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-b-lger-spm-4-300x225.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/Bølger-spm-4-300x225.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-sj-veisregler-spm-3-300x225.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/Sjøveisregler-spm-3-300x225.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-s-r.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/sør.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-06-screen-shot-2012-06-11-at-8.19.07-am-246x300.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/06/Screen-Shot-2012-06-11-at-8.19.07-AM-246x300.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-ba-ttyper-spm-3-300x203.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/Båttyper-spm-3-300x203.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-kartets-oppbygning-spm-3-300x169.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2020/05/Kartets-oppbygning-spm-3-300x169.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2026-03-slik-tar-du-batforerproven-1.jpg",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2026/03/Slik-tar-du-batforerproven-1.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/testeksamen/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "batforerproven",
+      "source_id": "batforerproven",
+      "authority": "private",
+      "file": "batforerproven\\images\\wp-content-uploads-2025-04-frame-20321.png",
+      "url": "https://www.xn--btfrerprven-x8a3wf.no/wp-content/uploads/2025/04/Frame-20321.png",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.xn--btfrerprven-x8a3wf.no/testeksamen/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    }
+  ]
+}

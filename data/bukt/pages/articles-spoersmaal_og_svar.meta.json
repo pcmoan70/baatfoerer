@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/articles/spoersmaal_og_svar",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Spørsmål og svar om båtførerprøven - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "66a544cc32f81ac35d5de7cddf4c3e36435e7021aedf3a6ced060f2b4c160564",
+  "fetched_at": "2026-06-02T11:16:51.277394+00:00",
+  "depth": 2,
+  "text_chars": 1800,
+  "n_links": 15,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/articles-spoersmaal_og_svar.html",
+    "text": "pages/articles-spoersmaal_og_svar.txt"
+  },
+  "anchors": []
+}

@@ -1,0 +1,2128 @@
+{
+  "site": "kartverket",
+  "name": "Kartverket – skolekart",
+  "seed_url": "https://www.kartverket.no/til-sjos/kart/skolekart",
+  "authority": "official",
+  "rebuilt": true,
+  "n_pages": 60,
+  "n_pdfs": 17,
+  "n_images": 56,
+  "pages": [
+    {
+      "url": "https://www.kartverket.no/api-og-data/kjope-kartdata",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kjøpe kartdata | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:54 GMT",
+      "checksum_sha256": "debfd163560f107894c5ea086aab326a2f7c6b5ec9c09a51a25df8afa68f0cc8",
+      "fetched_at": "2026-06-02T11:07:56.645038+00:00",
+      "depth": 2,
+      "text_chars": 2467,
+      "n_links": 60,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-api-er-og-data-foto-friluftsliv-vann-natur.jpg-0383442e.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/api-og-data-kjope-kartdata.html",
+        "text": "pages/api-og-data-kjope-kartdata.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/eiendom/lokal-matrikkelmyndighet/kurs-i-matrikkelforing",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kurs i matrikkelføring | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:36 GMT",
+      "checksum_sha256": "6789b532ecaaecc1f4f1798103d0eed7a79e885c1da0b24f542b1f1ba83a97f9",
+      "fetched_at": "2026-06-02T11:08:37.587227+00:00",
+      "depth": 2,
+      "text_chars": 600,
+      "n_links": 43,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/eiendom-lokal-matrikkelmyndighet-kurs-i-matrikkelforing.html",
+        "text": "pages/eiendom-lokal-matrikkelmyndighet-kurs-i-matrikkelforing.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/en/about-kartverket/arrangement",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Arrangement | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:34 GMT",
+      "checksum_sha256": "bcf15ddcd738ca475f4596e586cb0936f614755b0848a44043378e0c6d961213",
+      "fetched_at": "2026-06-02T11:08:36.292864+00:00",
+      "depth": 2,
+      "text_chars": 2601,
+      "n_links": 52,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/en-about-kartverket-arrangement.html",
+        "text": "pages/en-about-kartverket-arrangement.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/en/about-kartverket/careers",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Careers | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:54 GMT",
+      "checksum_sha256": "df98401f85afb6f47482f2b3c1c329716a1cea549df0d1eeace467599b794ab8",
+      "fetched_at": "2026-06-02T11:08:55.444800+00:00",
+      "depth": 2,
+      "text_chars": 2539,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/en-about-kartverket-careers.html",
+        "text": "pages/en-about-kartverket-careers.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/en/about-kartverket/contact-us/contact-form",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Contact form | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "9db40ca8db5470d0f4069316db1e6b8d4839003f37ea76784d35e97b694327d5",
+      "fetched_at": "2026-06-02T11:08:32.803232+00:00",
+      "depth": 2,
+      "text_chars": 832,
+      "n_links": 42,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/en-about-kartverket-contact-us-contact-form.html",
+        "text": "pages/en-about-kartverket-contact-us-contact-form.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/en/about-kartverket/contact-us",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Contact us | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:24 GMT",
+      "checksum_sha256": "c0016ca0143e6c48b182842467d34e4207e2d4f005b803751f0a1fbe100cf026",
+      "fetched_at": "2026-06-02T11:07:25.335491+00:00",
+      "depth": 2,
+      "text_chars": 1713,
+      "n_links": 46,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/en-about-kartverket-contact-us.html",
+        "text": "pages/en-about-kartverket-contact-us.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/en/about-kartverket/faq",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "FAQ | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:32 GMT",
+      "checksum_sha256": "67a9edde29b2136432cf6ab462f6b7edf849d3c8da5420bb94cd8e9390fe333e",
+      "fetched_at": "2026-06-02T11:08:34.101473+00:00",
+      "depth": 2,
+      "text_chars": 3319,
+      "n_links": 45,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/en-about-kartverket-faq.html",
+        "text": "pages/en-about-kartverket-faq.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/en/about-kartverket/nyheter",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Nyheter | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:45 GMT",
+      "checksum_sha256": "ea76156a8fc32b8b0faa9f982f5a134399962c53773e2c6160eb6c10d7a6b111",
+      "fetched_at": "2026-06-02T11:08:46.573874+00:00",
+      "depth": 2,
+      "text_chars": 1359,
+      "n_links": 30,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/en-about-kartverket-nyheter.html",
+        "text": "pages/en-about-kartverket-nyheter.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/arrangement/eiendom/adresseseminar-2026",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Adresseseminar 2026 | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c7b64c4d9291161f868fb97caae25424e8b32c8eeaaabdc8b6f13a5a63d03b43",
+      "fetched_at": "2026-06-02T11:08:44.386758+00:00",
+      "depth": 2,
+      "text_chars": 1209,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-arrangement-eiendom-adresseseminar-2026.html",
+        "text": "pages/om-kartverket-arrangement-eiendom-adresseseminar-2026.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/arrangement/eiendom/eiendomsrettsseminar",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Eiendomsrettsseminar | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "d7e9c3ce127a836aeaca558873a691f6b290a58fddbc4c145c7a89071b43b9ab",
+      "fetched_at": "2026-06-02T11:08:45.510055+00:00",
+      "depth": 2,
+      "text_chars": 4391,
+      "n_links": 37,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-arrangement-eiendom-eiendomsrettsseminar.html",
+        "text": "pages/om-kartverket-arrangement-eiendom-eiendomsrettsseminar.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/arrangement/forskning-og-utvikling/fou-forum-for-geografisk-informasjon-juni-2026",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "FoU-forum for geografisk informasjon | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "0945226dc0da2273a6f45f2a8097cb92774b0f7bf5c48cfd6fa7118adb02d000",
+      "fetched_at": "2026-06-02T11:08:43.317947+00:00",
+      "depth": 2,
+      "text_chars": 3637,
+      "n_links": 35,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-arrangement-forskning-og-utvikling-fou-forum-f-f86372fe.html",
+        "text": "pages/om-kartverket-arrangement-forskning-og-utvikling-fou-forum-f-f86372fe.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/arrangement/regionalt/webinar-forvaltning-av-stikkrennedata",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Webinar: Forvaltning av stikkrennedata | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "42d540b5f4ff200bb48505c860dccb51e30bd87789ff4bd874dfe5b31697b9ad",
+      "fetched_at": "2026-06-02T11:08:39.961147+00:00",
+      "depth": 2,
+      "text_chars": 1410,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-arrangement-regionalt-webinar-forvaltning-av-stikkrennedata.html",
+        "text": "pages/om-kartverket-arrangement-regionalt-webinar-forvaltning-av-stikkrennedata.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/arrangement",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Arrangement | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:05 GMT",
+      "checksum_sha256": "4f918c7ff7d25ddf73e555a1703a580fe6585198e0b3e19fe36b995551589aa8",
+      "fetched_at": "2026-06-02T11:07:07.718044+00:00",
+      "depth": 1,
+      "text_chars": 2550,
+      "n_links": 53,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-arrangement.html",
+        "text": "pages/om-kartverket-arrangement.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/faq",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "FAQ | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 10:51:37 GMT",
+      "checksum_sha256": "5a154f95285ba5e6135bd2f616ee67422d72530276ef06a85b90fe0fc09f04dc",
+      "fetched_at": "2026-06-02T11:07:05.719502+00:00",
+      "depth": 1,
+      "text_chars": 3313,
+      "n_links": 46,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-faq.html",
+        "text": "pages/om-kartverket-faq.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-agder",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverket Agder | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:27 GMT",
+      "checksum_sha256": "dec0a1529281a0447073befee5b878958ea65bf3fb82f985f6ee5e10d08322cb",
+      "fetched_at": "2026-06-02T11:07:29.365123+00:00",
+      "depth": 2,
+      "text_chars": 1346,
+      "n_links": 59,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-agder.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-agder.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-innlandet",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverket Innlandet | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:29 GMT",
+      "checksum_sha256": "7974b8bd6f980486415972a8275ba2e98651294ae105b6127580feff0c7940d4",
+      "fetched_at": "2026-06-02T11:07:30.832634+00:00",
+      "depth": 2,
+      "text_chars": 1290,
+      "n_links": 61,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-innlandet.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-innlandet.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt-more-og-romsdal/noreg-digitalt-samling-2026",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Noreg digitalt-samling 2026 | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "8177a745cba1989505b9aec4424e62102305521b1ea88541490df28ac94bf79c",
+      "fetched_at": "2026-06-02T11:08:41.039237+00:00",
+      "depth": 2,
+      "text_chars": 2732,
+      "n_links": 38,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-more-og-romsdal-ed557143.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-more-og-romsdal-ed557143.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverket Møre og Romsdal | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:30 GMT",
+      "checksum_sha256": "aea86738b6173789dee85c85245ae920d9e873c7edf4251bc18f49bd441220eb",
+      "fetched_at": "2026-06-02T11:07:32.361477+00:00",
+      "depth": 2,
+      "text_chars": 1709,
+      "n_links": 61,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-more-og-romsdal.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-more-og-romsdal.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-nordland/norge-digitalt-nordland/norge-digitalt-fagsamling-nordland-2026",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Norge digitalt-fagsamling Nordland 2026",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "9dfb305f082b8aa54b6253b3ff3779f7b10a2caae2c181a15f726264dc7d3cee",
+      "fetched_at": "2026-06-02T11:08:38.881392+00:00",
+      "depth": 2,
+      "text_chars": 2590,
+      "n_links": 40,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-nordland-norge--d3064310.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-nordland-norge--d3064310.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-nordland",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverket Nordland | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:32 GMT",
+      "checksum_sha256": "0ee05eac07910e182f8774fd92aea115d0ef2ce7d6dbca4ee489fb78538f887d",
+      "fetched_at": "2026-06-02T11:07:33.864161+00:00",
+      "depth": 2,
+      "text_chars": 1666,
+      "n_links": 64,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-nordland.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-nordland.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-oslo",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverket Oslo | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:33 GMT",
+      "checksum_sha256": "20a404fd57d67ea06598d0f1e628e5d9c624393c2c076a752a69e85b21ed6036",
+      "fetched_at": "2026-06-02T11:07:35.315415+00:00",
+      "depth": 2,
+      "text_chars": 1329,
+      "n_links": 61,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-oslo.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-oslo.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-rogaland",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverket Rogaland | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:35 GMT",
+      "checksum_sha256": "02669811797010773231be8b0d1d563bcbe1d8d2e1299c7302919aa8f6bda388",
+      "fetched_at": "2026-06-02T11:07:36.779894+00:00",
+      "depth": 2,
+      "text_chars": 1321,
+      "n_links": 57,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-rogaland.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-rogaland.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverket Troms og Finnmark | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:36 GMT",
+      "checksum_sha256": "5a5f5738649055a7a9fd2d42b20575498e83db8c9d0ce42803cd32ecba991911",
+      "fetched_at": "2026-06-02T11:07:38.141863+00:00",
+      "depth": 2,
+      "text_chars": 2110,
+      "n_links": 62,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-troms-og-finnmark.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-troms-og-finnmark.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-trondelag",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverket Trøndelag | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:38 GMT",
+      "checksum_sha256": "003a447bb571529b354436d5f99b2a2b1ce0c771d090c118f487c7802793f5bf",
+      "fetched_at": "2026-06-02T11:07:39.585826+00:00",
+      "depth": 2,
+      "text_chars": 2087,
+      "n_links": 60,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-trondelag.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-trondelag.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-vestfold-og-telemark",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverket Vestfold og Telemark | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:39 GMT",
+      "checksum_sha256": "a4ef2c67269d453a34b528919f2fc9450087c86989557e17e719f5ca5d1190a6",
+      "fetched_at": "2026-06-02T11:07:41.109804+00:00",
+      "depth": 2,
+      "text_chars": 1371,
+      "n_links": 57,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-vestfold-og-telemark.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-vestfold-og-telemark.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-vestland/fagdag-uregistrerte-jordsameige-i-fjellomrade",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Fagdag: Uregistrerte jordsameige i fjellområde",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "d7b9b369855489ebc54a12570e8faf243d1f2ce4aae8e8978649a3fcf27ce552",
+      "fetched_at": "2026-06-02T11:08:42.210315+00:00",
+      "depth": 2,
+      "text_chars": 1087,
+      "n_links": 38,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-vestland-fagdag-78b24249.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-vestland-fagdag-78b24249.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-vestland",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverket Vestland | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:41 GMT",
+      "checksum_sha256": "0fb198aea33f390107ab5b945924cc96c6112ac7f3abd2882f94180623bec27e",
+      "fetched_at": "2026-06-02T11:07:42.493902+00:00",
+      "depth": 2,
+      "text_chars": 1708,
+      "n_links": 62,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-vestland.html",
+        "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-vestland.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/historie/historiske-kart",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Historiske kart | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "d2f930d8e43f840b6afac0b25810e0b53c6afca231285d9f57738b5bb8cc0897",
+      "fetched_at": "2026-06-02T11:07:54.427164+00:00",
+      "depth": 2,
+      "text_chars": 541,
+      "n_links": 40,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-om-kartverket-historie-geografisk-visning-histo-5b2d0e48.jpg",
+          "alt": "Lenke til kartbasert visning av historiske kart"
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket-historie-historiske-kart.html",
+        "text": "pages/om-kartverket-historie-historiske-kart.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/jobb-med-it",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Jobb med IT i Kartverket | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:56 GMT",
+      "checksum_sha256": "7bcd9b14b7bebf86d88048e9e9b3386a72ebdc0091a8d869089cf972aeee9054",
+      "fetched_at": "2026-06-02T11:08:57.703105+00:00",
+      "depth": 2,
+      "text_chars": 2231,
+      "n_links": 37,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-jobb-i-kartverket-jobb-med-it.html",
+        "text": "pages/om-kartverket-jobb-i-kartverket-jobb-med-it.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/karriere-og-utvikling",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Karriere og utvikling | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:55 GMT",
+      "checksum_sha256": "93a3f9f743fb486af04edb9d5e5468a249d61012a3dcabdf70440a836f735152",
+      "fetched_at": "2026-06-02T11:08:56.627308+00:00",
+      "depth": 2,
+      "text_chars": 2693,
+      "n_links": 36,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-jobb-i-kartverket-karriere-og-utvikling.html",
+        "text": "pages/om-kartverket-jobb-i-kartverket-karriere-og-utvikling.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Jobb som ingeniør i Kartverket | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:09:02 GMT",
+      "checksum_sha256": "2758b169950bb9ea8111b7b94d3bf375939934646b26ab6d66a45eb32faceba5",
+      "fetched_at": "2026-06-02T11:09:08.515273+00:00",
+      "depth": 2,
+      "text_chars": 4100,
+      "n_links": 36,
+      "n_pdf_links": 0,
+      "n_images": 5,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-kv_rekbilder__s-0f47f246.jpg",
+          "alt": "Ung mannlig ingeniør foran PC-skjerm"
+        },
+        {
+          "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-taye-pa-besok-s-70d81713.jpg",
+          "alt": "Menn foran et parkert ambulsansehelikopter"
+        },
+        {
+          "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-yonatan_bisrat_-a34e8a80.jpg",
+          "alt": "Ung mannlig ingeni&oslash;r ser inn i kamera"
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-60e476d7.jpg",
+          "alt": "Mann med skjegg og briller ute i naturen."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-0b6a835c.jpg",
+          "alt": "Ung kvinnelige UX-designer foran whiteboard-tavle"
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket-jobb-i-kartverket-kartverket-ingenior-piloter.html",
+        "text": "pages/om-kartverket-jobb-i-kartverket-kartverket-ingenior-piloter.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/menneskene",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Menneskene i Kartverket | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:57 GMT",
+      "checksum_sha256": "4e604dc6b9f2b4d2d2ac412ac2937c502b1d1836cc8f0a0a07f5be1a50282d96",
+      "fetched_at": "2026-06-02T11:08:58.802713+00:00",
+      "depth": 2,
+      "text_chars": 968,
+      "n_links": 33,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-jobb-i-kartverket-menneskene.html",
+        "text": "pages/om-kartverket-jobb-i-kartverket-menneskene.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/sommerjobb",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Studenter og nyutdannede | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:09:01 GMT",
+      "checksum_sha256": "c3a71035ae54a874adeda2395711aab026a02eac1813265796127d5e6c4990aa",
+      "fetched_at": "2026-06-02T11:09:02.181651+00:00",
+      "depth": 2,
+      "text_chars": 1393,
+      "n_links": 36,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-jobb-i-kartverket-sommerjobb.html",
+        "text": "pages/om-kartverket-jobb-i-kartverket-sommerjobb.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Jobb i Kartverket | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:03:56 GMT",
+      "checksum_sha256": "8566b88a4829e6647b7fe5ae3ed8af283cd87c633b4044b47b03cc3aa7bdb4b3",
+      "fetched_at": "2026-06-02T11:07:22.040311+00:00",
+      "depth": 1,
+      "text_chars": 974,
+      "n_links": 42,
+      "n_pdf_links": 0,
+      "n_images": 9,
+      "images": [
+        {
+          "file": "kartverket\\images\\contentassets-a610633bc1224c56837358ba626fafed-rekruttering_-41be8ec0.jpg",
+          "alt": "\" width="
+        },
+        {
+          "file": "kartverket\\images\\contentassets-97477e9c000a429fa6f0637c7ca0b666-wanni_og_kris-4eb73ae9.jpg",
+          "alt": "\" width="
+        },
+        {
+          "file": "kartverket\\images\\contentassets-444fd99c56fa44eb9ce9f889250647f0-kv_rekbilder_-9b2fcd59.jpg",
+          "alt": "\" width="
+        },
+        {
+          "file": "kartverket\\images\\contentassets-cc7f2b28a79a4348a64dfa4d4dafdec0-kartverket_25-55dac1e9.jpg",
+          "alt": "\" width="
+        },
+        {
+          "file": "kartverket\\images\\contentassets-73f77f7e8e5442efbd4d4dc460ca2c98-kartverkets_l-194cb4c0.jpg",
+          "alt": "\" width="
+        },
+        {
+          "file": "kartverket\\images\\contentassets-eff467500c01496597b0587cb31e717f-nystudent1.jpg-37269907.jpg",
+          "alt": "\" width="
+        },
+        {
+          "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-taye-pa-besok-s-811c0034.jpg",
+          "alt": "En gruppe menn foran parkert helikopter fra Luftambulansen."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-1d6df3f7.jpg",
+          "alt": "Portrett av Kristian forran en skog."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-b716f565.jpg",
+          "alt": "Portrett av Wanwisa Wanpake Johnsrud, skog i bakgrunnen."
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket-jobb-i-kartverket.html",
+        "text": "pages/om-kartverket-jobb-i-kartverket.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/kontakt-oss/kontaktskjema",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kontaktskjema | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "0d3b719009fe005ca1a2a23be8db2efff6e747181194e5f9802856aeaa934797",
+      "fetched_at": "2026-06-02T11:07:04.666915+00:00",
+      "depth": 1,
+      "text_chars": 901,
+      "n_links": 46,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-kontakt-oss-kontaktskjema.html",
+        "text": "pages/om-kartverket-kontakt-oss-kontaktskjema.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/kontakt-oss",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kontakt oss | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 10:45:38 GMT",
+      "checksum_sha256": "97aea42f0a8c927d22c75eccb0e1b381027de0147063ea3e738a8bd5b32f321f",
+      "fetched_at": "2026-06-02T11:06:53.921968+00:00",
+      "depth": 1,
+      "text_chars": 2140,
+      "n_links": 47,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-kontakt-oss.html",
+        "text": "pages/om-kartverket-kontakt-oss.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/kva-kartverket-gjer",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Dette gjer Kartverket | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:58 GMT",
+      "checksum_sha256": "4fa6a18e353b5c07babd44d39aaf6a42291b7d3e603aec7b81a7d56885875bb2",
+      "fetched_at": "2026-06-02T11:09:01.076975+00:00",
+      "depth": 2,
+      "text_chars": 8544,
+      "n_links": 44,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-om-kartverket-kartverksledelse-kartverkets-orga-392566bb.jpg",
+          "alt": "Organisasjonskart over ledelsen i Kartverket: Kartverkssjef, virksomhetsstyring, IT, region- og samfunnskontakt, geodesidivisjonen, landdivisjonen, sj&oslash;divisjonen, eiendomsdivisjonen."
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket-kva-kartverket-gjer.html",
+        "text": "pages/om-kartverket-kva-kartverket-gjer.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/nyheter?sections=781",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Nyheter | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:30 GMT",
+      "checksum_sha256": "0dc558e6cf7283555698ca82ac34885863316b62bf30d454904db3a73a9fdf0d",
+      "fetched_at": "2026-06-02T11:08:31.510061+00:00",
+      "depth": 2,
+      "text_chars": 1383,
+      "n_links": 31,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-nyheter-76a76528.html",
+        "text": "pages/om-kartverket-nyheter-76a76528.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartberedskap som en del av totalforsvaret | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:13 GMT",
+      "checksum_sha256": "99120b835fdcb2443fb78d2f651361533e9636ec0d4453ad64589888120006ea",
+      "fetched_at": "2026-06-02T11:08:20.052515+00:00",
+      "depth": 2,
+      "text_chars": 6935,
+      "n_links": 38,
+      "n_pdf_links": 0,
+      "n_images": 5,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-kartrikets-tilstand-bereds-a23dbbd5.jpg",
+          "alt": "R&oslash;de Kors-patrulje i refleksvester dr&oslash;fter over et kart. (Foto: Nora Sandberg/ R&oslash;de Kors)"
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-om-kartverket-foto-kartverkssjef_johnny_-57cfe073.jpg",
+          "alt": "Kartverkssjef Johnny Welle, en mann i dress fotografert mot en m&oslash;rk bakgrunn."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-statusrapport-2026-serverr-6cbaded3.jpg",
+          "alt": "En person står foran et rack med dataservere montert i en reol, mens han ser ned på en bærbar PC."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-nyheter-roarol-1.jpg-5efe3723.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-nyheter-forsvaret_ovelse_kart_2026.01.17-c59aa09c.jpg",
+          "alt": "To personer i militær vinterkamuflasje diskuterer og peker på et kart."
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket-nyheter-alle-2026-april-kartberedskap-som-tota-14276c7a.html",
+        "text": "pages/om-kartverket-nyheter-alle-2026-april-kartberedskap-som-tota-14276c7a.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/nyheter/geodataarbeid/2026/april/tilgang-til-nrl-data-krever-godkjenning-fra-1.-juli",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Tilgang til NRL-data krever godkjenning fra 1. juli | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:46 GMT",
+      "checksum_sha256": "2ca4ec579312032c448e0e529d79fe8e75e88138e2de79e269078772cbc60256",
+      "fetched_at": "2026-06-02T11:08:49.802386+00:00",
+      "depth": 2,
+      "text_chars": 1782,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-luftambulanse_ved_uia_-a1856bca.jpg",
+          "alt": "Luftambulanse lander ved en administrasjonsbygning. Foto:Magnus Nødland Skogedal"
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-hoyspent-og-helikopter-4f1f47ca.jpg",
+          "alt": "H&oslash;yspentmast og ledningsnett med et helikopter svevende over (foto Wilhelm B&oslash;e/ Kartverket)"
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket-nyheter-geodataarbeid-2026-april-tilgang-til-n-897154e9.html",
+        "text": "pages/om-kartverket-nyheter-geodataarbeid-2026-april-tilgang-til-n-897154e9.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/dybdedata-og-datakvalitet-i-norske-sjokart",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Norgeskart.no viser kvalitet på sjøkartdybder | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:49 GMT",
+      "checksum_sha256": "bdfa55d8f0f90ced504e16fcd12f6c6ab3cec8c4d45f6052d6cbebd0db428924",
+      "fetched_at": "2026-06-02T11:08:54.225628+00:00",
+      "depth": 2,
+      "text_chars": 2693,
+      "n_links": 37,
+      "n_pdf_links": 0,
+      "n_images": 3,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-illustrasjon.jpg-37269907.jpg",
+          "alt": "Illustrasjon som viser gammel og ny metode for dybdem&aring;ling."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg",
+          "alt": "Halten fyr ved Fr&oslash;ya, med mange staker og ei oppdrettsmerde."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-kartutsnitt-sognesjoen.png-cb0df5e4.png",
+          "alt": "Kartutsnitt over Sognesj&oslash;en som angir kvaliteten p&aring; dybdedata med r&oslash;d farge"
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket-nyheter-til-sjos-2026-april-dybdedata-og-datak-3972b34a.html",
+        "text": "pages/om-kartverket-nyheter-til-sjos-2026-april-dybdedata-og-datak-3972b34a.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-og-mer-presis-vannstandsmodell-for-saltstraumen",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Ny vannstandsmodell for Saltstraumen | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:26 GMT",
+      "checksum_sha256": "172e895a1bf6d0fb648f1b3a578217dbd699141d8e37d2e8ebc513f5051230a0",
+      "fetched_at": "2026-06-02T11:08:30.460725+00:00",
+      "depth": 2,
+      "text_chars": 2346,
+      "n_links": 38,
+      "n_pdf_links": 0,
+      "n_images": 3,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-saltstraumen-kari-thoresen.jpg-cb0df5e4.jpg",
+          "alt": "Saltstraumen i Bod&oslash; i Nordland, sett fra oven."
+        },
+        {
+          "file": "kartverket\\images\\contentassets-a595e51263f3465d92517f53e2644834-saltstraumeni-34b6d264.jpg",
+          "alt": "Graf som viser vannstandsm&aring;linger fra Bod&oslash; og Naurstad og hvordan floa kommer senere innenfor Saltstraumen, og at forskjellen mellom flo og fj&aelig;re er mindre."
+        },
+        {
+          "file": "kartverket\\images\\contentassets-a595e51263f3465d92517f53e2644834-vannstandsmod-8885ddb4.jpg",
+          "alt": "Kartusnitt av Skjerstadfjorden hvor permanent vannstandsm&aring;ler i Bod&oslash; er markert, samt omr&aring;dene Naurstad, Oldereid og Rognan hvor Kartverket har m&aring;lt vannstanden i perioden 2024&ndash;2025."
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket-nyheter-til-sjos-2026-april-ny-og-mer-presis-v-59d026d5.html",
+        "text": "pages/om-kartverket-nyheter-til-sjos-2026-april-ny-og-mer-presis-v-59d026d5.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Ny vannstandsmåler på Sørlandet | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:20 GMT",
+      "checksum_sha256": "b1ceb385b5c17381cefed0e0adb2f092765a56fd439c11013f25983b6436759f",
+      "fetched_at": "2026-06-02T11:08:26.290435+00:00",
+      "depth": 2,
+      "text_chars": 4105,
+      "n_links": 42,
+      "n_pdf_links": 0,
+      "n_images": 5,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--c6a9c8b2.jpg",
+          "alt": "Tre menn i arbeidst&oslash;y p&aring; en kaikant smiler mot kamera. Det er fint v&aring;rv&aelig;r med stille sj&oslash; og bl&aring; himmel i bakgrunnen."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--a5793121.jpg",
+          "alt": "To personer st&aring;r og jobber p&aring; en kaikant mens den tredje st&aring;r i en stige som henger ned fra bryggekanten, mens de monterer teknisk utstyr."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--40f46841.jpg",
+          "alt": "Klemmer og solide skruer p&aring; en betongkai foran skotuppene til en arbeider."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--23de1818.jpg",
+          "alt": "En person med klatresele st&aring;r i ei gardintrapp som er sikra med tau i kaikanten, mens to kolleger sender teknisk utstyr til ham."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--37af79e7.jpg",
+          "alt": "En mont&oslash;r sitter p&aring; bakken med ryggen lent mot bilen, mens han sjekker tekniske m&aring;linger p&aring; en PC."
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket-nyheter-til-sjos-2026-april-ny-vannstandsmaler-pa-sorlandet.html",
+        "text": "pages/om-kartverket-nyheter-til-sjos-2026-april-ny-vannstandsmaler-pa-sorlandet.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/nyheter",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Nyheter | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:07 GMT",
+      "checksum_sha256": "dd65d313c7aa8fe27afedda1fdd38124b3a95c5318463f74f67e2dddd4651dfe",
+      "fetched_at": "2026-06-02T11:07:11.811322+00:00",
+      "depth": 1,
+      "text_chars": 1383,
+      "n_links": 31,
+      "n_pdf_links": 0,
+      "n_images": 3,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-mp16037292-electric-po-d631847a.jpg",
+          "alt": "Ei høyspentmast og kraftlinjer fotografert fra lufta. Masta står midt i en åker der det vokser grønne spirer, mens det er gule blomster rundt sokkelen til masta."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-kartutsnitt-sognesjoen.png-5efe3723.png",
+          "alt": "Kartutsnitt som ved hjelp av rosa farger viser kvaliteten på dybdedata."
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-saltstraumen-kari-thoresen.jpg-5efe3723.jpg",
+          "alt": "Oversiktsbilde av Saltstraumen, med en sterk sjøstrøm som renner mellom holmer og skjær. I forgrunnen skimtes noen personer."
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket-nyheter.html",
+        "text": "pages/om-kartverket-nyheter.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/personvern",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartverkets personvernerklæring | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:23 GMT",
+      "checksum_sha256": "5766ea37cc915774b12b9b88076801a1b2444cbc457506fbff42e8cb2efd4ff6",
+      "fetched_at": "2026-06-02T11:07:24.266921+00:00",
+      "depth": 1,
+      "text_chars": 9945,
+      "n_links": 43,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-personvern.html",
+        "text": "pages/om-kartverket-personvern.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket/presse",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Presse | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:22 GMT",
+      "checksum_sha256": "89e7290bdc3e8a7d4faecf6db2e1bec81a32f6c9db6523122c0db9bbbc63ba07",
+      "fetched_at": "2026-06-02T11:07:23.208238+00:00",
+      "depth": 1,
+      "text_chars": 3355,
+      "n_links": 56,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kartverket-presse.html",
+        "text": "pages/om-kartverket-presse.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/om-kartverket",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Om Kartverket | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:25 GMT",
+      "checksum_sha256": "b8731132ea784d3d629e9fd58d39acf84076f880c3fc3faaa3efe7dcf1ef862e",
+      "fetched_at": "2026-06-02T11:07:27.923415+00:00",
+      "depth": 2,
+      "text_chars": 2546,
+      "n_links": 78,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\contentassets-92fb46e313d14bd5bebe3d77c26789b8-rekruttering_-ca710407.jpg",
+          "alt": "Ansatte som jobber i Kartverket (Foto: Morten Brun)"
+        }
+      ],
+      "files": {
+        "html": "pages/om-kartverket.html",
+        "text": "pages/om-kartverket.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/sider/bestille-kart",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Bestille kart | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:06:57 GMT",
+      "checksum_sha256": "2b7c9099ca052cd376ccb030ff4ce60858aa0067136f335b25715bca271547d6",
+      "fetched_at": "2026-06-02T11:06:58.632184+00:00",
+      "depth": 1,
+      "text_chars": 1797,
+      "n_links": 45,
+      "n_pdf_links": 2,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sider-bestille-kart.html",
+        "text": "pages/sider-bestille-kart.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-lands/kart/turkart",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Lag ditt eget turkart | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:04:29 GMT",
+      "checksum_sha256": "e0c7e219029aa47a8577cc6de912b6c88b92ea8a146fc316b69869a785443b55",
+      "fetched_at": "2026-06-02T11:07:49.874183+00:00",
+      "depth": 2,
+      "text_chars": 2371,
+      "n_links": 39,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-lands-foto-turkart-img_0269.jpg-3b9cbf77.jpg",
+          "alt": "Kvinne på tur med utskrift av \"Mitt turkart\". Foto: Hanna Hauan"
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-lands-foto-turkart-kompass-og-turkar-e4e55741.jpg",
+          "alt": "Kart og kompass med på tur"
+        }
+      ],
+      "files": {
+        "html": "pages/til-lands-kart-turkart.html",
+        "text": "pages/til-lands-kart-turkart.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Elektroniske sjøkart (ENC) | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 10:53:56 GMT",
+      "checksum_sha256": "1b6c9d370ab894f43960c9ea3491d16145f2de9580071b0ebdf94dca5399fbdc",
+      "fetched_at": "2026-06-02T11:07:44.563348+00:00",
+      "depth": 2,
+      "text_chars": 4673,
+      "n_links": 44,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-enc-i-ecdis.jpg-3b9cbf77.jpg",
+          "alt": "ENC vist i en ECDIS på brua om bord på et lasteskip. Foto."
+        }
+      ],
+      "files": {
+        "html": "pages/til-sjos-kart-elektroniske-sjokart-enc.html",
+        "text": "pages/til-sjos-kart-elektroniske-sjokart-enc.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/kart/norskesjokart",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Norske sjøkart | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:49 GMT",
+      "checksum_sha256": "27ee3ace99bcaf5f623765da5a8d8968fad943863e378889b090ff4ac1039582",
+      "fetched_at": "2026-06-02T11:07:52.070528+00:00",
+      "depth": 2,
+      "text_chars": 4947,
+      "n_links": 42,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg",
+          "alt": "To menn ligger på brygga i ei småbåthavn og peker i et sjøkart. Foto: Morten Brun"
+        }
+      ],
+      "files": {
+        "html": "pages/til-sjos-kart-norskesjokart.html",
+        "text": "pages/til-sjos-kart-norskesjokart.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/kart/sjokart-til-kartplottere",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Sjøkartdata i kartplottarar | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:44 GMT",
+      "checksum_sha256": "edaba1a982d6662de949e09dcbf429435f3943618b75ceb6036cb20435e415b3",
+      "fetched_at": "2026-06-02T11:07:46.764728+00:00",
+      "depth": 2,
+      "text_chars": 1966,
+      "n_links": 50,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-seilbat-gps-adobestock.jpg-3b9cbf77.jpg",
+          "alt": "Mann i seilbåt peker på sjøkart i sin kartplotter. Foto: Adobestock"
+        }
+      ],
+      "files": {
+        "html": "pages/til-sjos-kart-sjokart-til-kartplottere.html",
+        "text": "pages/til-sjos-kart-sjokart-til-kartplottere.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/kart/skolekart",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Skolekart | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:06:36 GMT",
+      "checksum_sha256": "96e879ff4f85e34e1efac7024dfbea689a8f5e82da92cb7482c826f90d108cf2",
+      "fetched_at": "2026-06-02T11:06:39.135014+00:00",
+      "depth": 0,
+      "text_chars": 3872,
+      "n_links": 39,
+      "n_pdf_links": 13,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg",
+          "alt": "Et skolekart (sjøkart) ligger oppå et hovedseriekart. To hender plotter inn kurs med blyant og linjal. Foto."
+        }
+      ],
+      "files": {
+        "html": "pages/til-sjos-kart-skolekart.html",
+        "text": "pages/til-sjos-kart-skolekart.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Symboler og forkortelser i norske sjøkart | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:06:53 GMT",
+      "checksum_sha256": "8902aa79493b80ebfc6b7907e951941cfd11c61a8e4f2ebe8bede421582cfef0",
+      "fetched_at": "2026-06-02T11:06:56.235947+00:00",
+      "depth": 1,
+      "text_chars": 2119,
+      "n_links": 42,
+      "n_pdf_links": 2,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-tingholmen-med-kartutsnitt-e024ae95.jpg",
+          "alt": "Fyrlykt på Tingholmen. Kartutsnitt som viser sjømerke for fyrlykt er redigert inn. Foto: Arnfinn Lie"
+        }
+      ],
+      "files": {
+        "html": "pages/til-sjos-nautiske-publikasjoner-symboler-og-forkortelser-i-norske-sjokart.html",
+        "text": "pages/til-sjos-nautiske-publikasjoner-symboler-og-forkortelser-i-norske-sjokart.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Bruk sjøkart – få ei betre oppleving på sjøen | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:56 GMT",
+      "checksum_sha256": "9925d13c320f14085fcfc760d30efaf1f2d8b8d03b812b6b2c824b066a9ec05f",
+      "fetched_at": "2026-06-02T11:07:59.225191+00:00",
+      "depth": 2,
+      "text_chars": 5430,
+      "n_links": 62,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-hero.jpg-3b9cbf77.jpg",
+          "alt": "Mann styrer motorbåt mens dame sjekker sjøkartet. Foto: Kartverket"
+        }
+      ],
+      "files": {
+        "html": "pages/til-sjos-sjokart-bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen.html",
+        "text": "pages/til-sjos-sjokart-bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Kartkvalitet (CATZOC) | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:59 GMT",
+      "checksum_sha256": "60146b9bfe85505cb5ded24b26350f0b22cf22e8363d8b1effc5b2e31255e770",
+      "fetched_at": "2026-06-02T11:08:05.710869+00:00",
+      "depth": 2,
+      "text_chars": 6183,
+      "n_links": 40,
+      "n_pdf_links": 5,
+      "n_images": 5,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-til-sjos-sjokart-datakvalitet-dybder-norske-sjokart.jpg-37269907.jpg",
+          "alt": "Datakvalitet-dybder-norske-sjokart.jpg"
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-zoc-diagram-kartustnitt-525.jpg-37269907.jpg",
+          "alt": "Eksempel p&aring; ZOC-diagram vist i papirsj&oslash;kart med sj&oslash;kart i bakgrunnen. Kilde: Kartverket"
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-kart525medkildediagram.png-37269907.png",
+          "alt": "Papir-sj&oslash;kart med kildediagram"
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-maris-skjermdump.png-37269907.png",
+          "alt": "\" width="
+        },
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-for-naa.jpg-37269907.jpg",
+          "alt": "\" width="
+        }
+      ],
+      "files": {
+        "html": "pages/til-sjos-sjokart-kartkvalitet-catzoc.html",
+        "text": "pages/til-sjos-sjokart-kartkvalitet-catzoc.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Korleis forstå sjøkartet | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:10 GMT",
+      "checksum_sha256": "916d46d96af0220f27aea6e658fdf5b1ddead74f36f0a506538fda66f660f011",
+      "fetched_at": "2026-06-02T11:08:11.368534+00:00",
+      "depth": 2,
+      "text_chars": 3307,
+      "n_links": 38,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/til-sjos-sjokart-korleis-forsta-sjokartet.html",
+        "text": "pages/til-sjos-sjokart-korleis-forsta-sjokartet.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/sjokart/oppdatere-sjokart",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Oppdatere sjøkart | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:11 GMT",
+      "checksum_sha256": "ee874d5d79a02b23a82f70e703892cca62fe1a553ed37c0c0191847633139294",
+      "fetched_at": "2026-06-02T11:08:13.489505+00:00",
+      "depth": 2,
+      "text_chars": 2951,
+      "n_links": 35,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-handretting-av-sjokart.jpg-3b9cbf77.jpg",
+          "alt": "Hender plotter inn rettelse i sjøkart ved hjelp av paralellfoskyver, passer og blyant. Foto."
+        }
+      ],
+      "files": {
+        "html": "pages/til-sjos-sjokart-oppdatere-sjokart.html",
+        "text": "pages/til-sjos-sjokart-oppdatere-sjokart.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/sjokart/sjokart-pa-svalbard",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Sjøkart på Svalbard | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:08:06 GMT",
+      "checksum_sha256": "9bc4b652a19b690b1e984716bf36d6a4e0723259f2839374d70770a566fdfdf2",
+      "fetched_at": "2026-06-02T11:08:10.146441+00:00",
+      "depth": 2,
+      "text_chars": 9246,
+      "n_links": 48,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-svalbard.jpg-3b9cbf77.jpg",
+          "alt": "Sjøis i farvann på Svalbard."
+        },
+        {
+          "file": "kartverket\\images\\contentassets-ce2530deaba649178db86152835ef981-catzoc-eksempel.jpg-cb0df5e4.jpg",
+          "alt": "ZOC-diagram.JPG"
+        }
+      ],
+      "files": {
+        "html": "pages/til-sjos-sjokart-sjokart-pa-svalbard.html",
+        "text": "pages/til-sjos-sjokart-sjokart-pa-svalbard.txt"
+      }
+    },
+    {
+      "url": "https://www.kartverket.no/til-sjos/sjokart",
+      "site": "kartverket",
+      "source_id": "kartverket_skolekart",
+      "title": "Den gode opplevinga på sjøen | Kartverket.no",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": "Tue, 02 Jun 2026 11:07:00 GMT",
+      "checksum_sha256": "49cbd60fb7009c0de477af56c63381cd54b3f05e821ac35d84abeb054f041619",
+      "fetched_at": "2026-06-02T11:07:03.364550+00:00",
+      "depth": 1,
+      "text_chars": 410,
+      "n_links": 56,
+      "n_pdf_links": 1,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-bil-fc4ec090.jpg",
+          "alt": "Mann styrer motorbåt mens dame sjekker sjøkartet. Foto: Kartverket"
+        }
+      ],
+      "files": {
+        "html": "pages/til-sjos-sjokart.html",
+        "text": "pages/til-sjos-sjokart.txt"
+      }
+    }
+  ],
+  "pdfs": [
+    {
+      "url": "https://www.kartverket.no/efs-documents/oversikt-pr-kart/kartoversikt.pdf",
+      "file": "kartverket\\pdf\\efs-documents-oversikt-pr-kart-kartoversikt.pdf",
+      "bytes": 403225,
+      "checksum_sha256": "8ef47a995b7cc72cdb3cf58acf5c6fc271111d71cb7293bafca4bff18f3f4f6e",
+      "etag": "\"f6f4e218df1dc1:0\"",
+      "last_modified": "Mon, 01 Jun 2026 06:08:03 GMT",
+      "fetched_at": "2026-06-02T11:06:59.764633+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/nautiske-publikasjoner/produktkatalog-norske-sjokart.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-nautiske-publikasjoner-produktkatalog-norske-sjokart.pdf",
+      "bytes": 6685184,
+      "checksum_sha256": "ce49cd25a0c887213f26048bc50a035fb588237f8dc7c882b2e215dffd0840dc",
+      "etag": "\"1DBCFD38260E980\"",
+      "last_modified": "Wed, 28 May 2025 13:22:07 GMT",
+      "fetched_at": "2026-06-02T11:06:58.728295+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-nautiske-publikasjoner-symboler-og-for-a7869c20.pdf",
+      "bytes": 7908473,
+      "checksum_sha256": "61321470c6e1a670b58df5b68ed14cec3d0f0a9ade69b6292e8c198f61cf1d89",
+      "etag": "\"1D639871F269A00\"",
+      "last_modified": "Wed, 03 Jun 2020 09:12:36 GMT",
+      "fetched_at": "2026-06-02T11:06:56.342327+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/sjokart/catzoc-table.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-sjokart-catzoc-table.pdf",
+      "bytes": 370347,
+      "checksum_sha256": "6c43aea1aa5319ea0a37203e139b814225ff7b5ed14a82b1c77b32c515ea7643",
+      "etag": "\"1D802FEF7D04580\"",
+      "last_modified": "Thu, 06 Jan 2022 13:11:51 GMT",
+      "fetched_at": "2026-06-02T11:08:05.743910+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/305_skole.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-305_skole.pdf",
+      "bytes": 1676502,
+      "checksum_sha256": "1d025f3eee1ceec7543bfe8c4052ed6eb9b948e05063e5807d26a2a17c69cee4",
+      "etag": "\"1DC8621442B3F80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:15 GMT",
+      "fetched_at": "2026-06-02T11:06:47.659464+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/311_skole.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-311_skole.pdf",
+      "bytes": 1509067,
+      "checksum_sha256": "c30962d1f7849b7c04632b0bb38dc6b5df51726bfbfef9f7b73ccf34cea614f2",
+      "etag": "\"1DC8621586F3C80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:49 GMT",
+      "fetched_at": "2026-06-02T11:06:51.879742+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_003_oslof.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_003_oslof.pdf",
+      "bytes": 1502456,
+      "checksum_sha256": "2d0b6bc389308b0eca56ab66d794d747821bbe4d0bc0e343c5efe9d53e249d8c",
+      "etag": "\"1DC8621586F3C80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:49 GMT",
+      "fetched_at": "2026-06-02T11:06:46.626659+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_010_lindesnes.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_010_lindesnes.pdf",
+      "bytes": 2850177,
+      "checksum_sha256": "fa47227215abc5bca6b5ec556868bdf03e139db561562050312821a7c6adcd5d",
+      "etag": "\"1DC8621586F3C80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:49 GMT",
+      "fetched_at": "2026-06-02T11:06:43.505699+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_017_bokna.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_017_bokna.pdf",
+      "bytes": 2325574,
+      "checksum_sha256": "067d2983dafc470ec9828885fcc2b863a19552e3cb7a4640eb7ad11d4983dd07",
+      "etag": "\"1DC8621586F3C80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:49 GMT",
+      "fetched_at": "2026-06-02T11:06:39.240392+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_021_vatlestraumen.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_021_vatlestraumen.pdf",
+      "bytes": 7701350,
+      "checksum_sha256": "03bca0385fc25b660796cef36753f5ff86e30b571f88f2b74d265d9e574206e2",
+      "etag": "\"1DCAFC821395E00\"",
+      "last_modified": "Mon, 09 Mar 2026 13:25:00 GMT",
+      "fetched_at": "2026-06-02T11:06:50.852052+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_023_hjeltefjorden.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_023_hjeltefjorden.pdf",
+      "bytes": 4170491,
+      "checksum_sha256": "53f6d8c1ddceedc0e0510e1b343ef1e0197e86b5be510142782290bd8c6ca222",
+      "etag": "\"1DCAFC825FE1200\"",
+      "last_modified": "Mon, 09 Mar 2026 13:25:08 GMT",
+      "fetched_at": "2026-06-02T11:06:41.415143+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_030.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_030.pdf",
+      "bytes": 5634803,
+      "checksum_sha256": "63af5b9a3c72cad4da9ceeeb86b545efd05d11c4cb88e6ecc5a89e1793575f2f",
+      "etag": "\"1DC8621586F3C80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:49 GMT",
+      "fetched_at": "2026-06-02T11:06:40.334811+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_031.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_031.pdf",
+      "bytes": 2710156,
+      "checksum_sha256": "2f6d736db9ca57e70f66f106f4728dfc5ed11ef8fd3564387226ba89d6488bb4",
+      "etag": "\"1DC8621586F3C80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:49 GMT",
+      "fetched_at": "2026-06-02T11:06:42.459103+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_048.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_048.pdf",
+      "bytes": 3894756,
+      "checksum_sha256": "6c35c898e12addc61d00a7a57c4415fbfa44c6af24ef745984ea85d376140597",
+      "etag": "\"1DC8621586F3C80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:49 GMT",
+      "fetched_at": "2026-06-02T11:06:44.553196+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_077.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_077.pdf",
+      "bytes": 2518379,
+      "checksum_sha256": "f83cabc965a12acdbc5883e2a0e4ebc6501357fe31b00c05397936c1733048fc",
+      "etag": "\"1DC8621586F3C80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:49 GMT",
+      "fetched_at": "2026-06-02T11:06:49.741460+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_452_oslo.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_452_oslo.pdf",
+      "bytes": 1498390,
+      "checksum_sha256": "178dde46fa9f6171d3765ec07d5284b91c1f65492e8ff6f24191d33787dd57d8",
+      "etag": "\"1DC8621586F3C80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:49 GMT",
+      "fetched_at": "2026-06-02T11:06:45.585081+00:00"
+    },
+    {
+      "url": "https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_455_stavanger.pdf",
+      "file": "kartverket\\pdf\\globalassets-til-sjos-skolekart-skole_455_stavanger.pdf",
+      "bytes": 4023547,
+      "checksum_sha256": "e3113912ad825a2bbc0ad31520e753daf8b6745a2825dba13eb6f29d862782d8",
+      "etag": "\"1DC8621586F3C80\"",
+      "last_modified": "Thu, 15 Jan 2026 13:17:49 GMT",
+      "fetched_at": "2026-06-02T11:06:48.710220+00:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-api-er-og-data-foto-friluftsliv-vann-natur.jpg-0383442e.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/api-er-og-data-foto/friluftsliv-vann-natur.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/api-og-data/kjope-kartdata"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-historie-geografisk-visning-histo-5b2d0e48.jpg",
+      "alt": "Lenke til kartbasert visning av historiske kart",
+      "caption": "Skjermdump frå kartløysinga.",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/historie/geografisk-visning-historiske-kart-skjermdump.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/historie/historiske-kart"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-kv_rekbilder__s-0f47f246.jpg",
+      "alt": "Ung mannlig ingeniør foran PC-skjerm",
+      "caption": "EN VARIERT ARBEIDSHVERDAG: I grunndata-avdelingen jobber Yonatan Bisrat Taye med kart- og registerløsninger som brukes av blant annet piloter. (Foto: Iver Daaland Åse)",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/bilder-av-ansatte/kv_rekbilder__skv_04456_foto_iver_daaland_ase.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-taye-pa-besok-s-70d81713.jpg",
+      "alt": "Menn foran et parkert ambulsansehelikopter",
+      "caption": "PÅ BESØK: Yonatan med kartverkskollegaer på besøk hos UiA for å dømme studentprosjekt. (Foto: Amna Drace Biscevic)",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/bilder-av-ansatte/taye-pa-besok-som-dommer-hos-uia.jpeg?width=1766&mode=crop",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-yonatan_bisrat_-a34e8a80.jpg",
+      "alt": "Ung mannlig ingeni&oslash;r ser inn i kamera",
+      "caption": "PRAKTISK STUDIE: – Geoinformatikk er kanskje den mest praktiske ingeniørgraden du kan ta: Alt du jobber med, finnes i virkeligheten, sier Yonatan. (Foto: Iver Daaland Åse)",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/bilder-av-ansatte/yonatan_bisrat_taye_skv_04002.jpg?width=668&height=891&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-60e476d7.jpg",
+      "alt": "Mann med skjegg og briller ute i naturen.",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/ansattehistorier/wanni-og-kristian/wanni_og_krisitan_idaa_04042524-img_0395.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-0b6a835c.jpg",
+      "alt": "Ung kvinnelige UX-designer foran whiteboard-tavle",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/ansattehistorier/wanni-og-kristian/wanni_og_krisitan_idaa_0404255-img_0329.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter"
+    },
+    {
+      "file": "kartverket\\images\\contentassets-a610633bc1224c56837358ba626fafed-rekruttering_-41be8ec0.jpg",
+      "alt": "\" width=",
+      "caption": "",
+      "url": "https://www.kartverket.no/contentassets/a610633bc1224c56837358ba626fafed/rekruttering_henriksen_og_nesbakken_skv_02267_foto_morten_brun.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket"
+    },
+    {
+      "file": "kartverket\\images\\contentassets-97477e9c000a429fa6f0637c7ca0b666-wanni_og_kris-4eb73ae9.jpg",
+      "alt": "\" width=",
+      "caption": "",
+      "url": "https://www.kartverket.no/contentassets/97477e9c000a429fa6f0637c7ca0b666/wanni_og_krisitan_idaa_04042527-img_0401.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket"
+    },
+    {
+      "file": "kartverket\\images\\contentassets-444fd99c56fa44eb9ce9f889250647f0-kv_rekbilder_-9b2fcd59.jpg",
+      "alt": "\" width=",
+      "caption": "",
+      "url": "https://www.kartverket.no/contentassets/444fd99c56fa44eb9ce9f889250647f0/kv_rekbilder__idaa_040425_da_3093.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket"
+    },
+    {
+      "file": "kartverket\\images\\contentassets-cc7f2b28a79a4348a64dfa4d4dafdec0-kartverket_25-55dac1e9.jpg",
+      "alt": "\" width=",
+      "caption": "",
+      "url": "https://www.kartverket.no/contentassets/cc7f2b28a79a4348a64dfa4d4dafdec0/kartverket_250_ar_jubileumsfest_skv_03723_foto_jan_lode_ellingsen-3.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket"
+    },
+    {
+      "file": "kartverket\\images\\contentassets-73f77f7e8e5442efbd4d4dc460ca2c98-kartverkets_l-194cb4c0.jpg",
+      "alt": "\" width=",
+      "caption": "",
+      "url": "https://www.kartverket.no/contentassets/73f77f7e8e5442efbd4d4dc460ca2c98/kartverkets_ledergruppe_2024_skv_03993_foto_morten_brun-1.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket"
+    },
+    {
+      "file": "kartverket\\images\\contentassets-eff467500c01496597b0587cb31e717f-nystudent1.jpg-37269907.jpg",
+      "alt": "\" width=",
+      "caption": "",
+      "url": "https://www.kartverket.no/contentassets/eff467500c01496597b0587cb31e717f/nystudent1.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-taye-pa-besok-s-811c0034.jpg",
+      "alt": "En gruppe menn foran parkert helikopter fra Luftambulansen.",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/bilder-av-ansatte/taye-pa-besok-som-dommer-hos-uia-4-5crop.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-1d6df3f7.jpg",
+      "alt": "Portrett av Kristian forran en skog.",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/ansattehistorier/wanni-og-kristian/wanni_og_krisitan_idaa_04042524-img_0395.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-b716f565.jpg",
+      "alt": "Portrett av Wanwisa Wanpake Johnsrud, skog i bakgrunnen.",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/ansattehistorier/wanni-og-kristian/wanni_og_krisitan_idaa_04042526-img_0400.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-kartverksledelse-kartverkets-orga-392566bb.jpg",
+      "alt": "Organisasjonskart over ledelsen i Kartverket: Kartverkssjef, virksomhetsstyring, IT, region- og samfunnskontakt, geodesidivisjonen, landdivisjonen, sj&oslash;divisjonen, eiendomsdivisjonen.",
+      "caption": "ORGANISASJONSKART: Leiinga i Kartverket består av kartverkssjef, assisterande kartverkssjef og direktørane for verksemdstyring, IT, region- og samfunnskontakt, geodesidivisjonen, landdivisjonen, sjødivisjonen og eigedomsdivisjonen.",
+      "url": "https://www.kartverket.no/globalassets/om-kartverket/kartverksledelse/kartverkets-organisasjonskart.jpg?width=1766&mode=crop",
+      "page_url": "https://www.kartverket.no/om-kartverket/kva-kartverket-gjer"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-kartrikets-tilstand-bereds-a23dbbd5.jpg",
+      "alt": "R&oslash;de Kors-patrulje i refleksvester dr&oslash;fter over et kart. (Foto: Nora Sandberg/ R&oslash;de Kors)",
+      "caption": "BEREDSKAP: En Røde Kors-patrulje i refleksvester drøfter over et kart. (Foto: Nora Sandberg/ Røde Kors)",
+      "url": "https://www.kartverket.no/globalassets/bilder/geodataarbeid/kartrikets-tilstand/beredskap-kart-finse-foto-rode-kors_nora-alette-sandberg-1.jpg?width=1766&mode=crop",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-om-kartverket-foto-kartverkssjef_johnny_-57cfe073.jpg",
+      "alt": "Kartverkssjef Johnny Welle, en mann i dress fotografert mot en m&oslash;rk bakgrunn.",
+      "caption": "SKJERME OG DELE: Vi må håndtere kartinformasjonen ansvarlig, slik at beredskapstiltaket i seg sjøl ikke skaper nye sårbarheter, sier kartverkssjef Johnny Welle. (Foto: Morten Brun/ Kartverket)",
+      "url": "https://www.kartverket.no/globalassets/bilder/om-kartverket-foto/kartverkssjef_johnny_welle__skv_02512_foto_morten_brun.jpg?width=668&height=534&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-statusrapport-2026-serverr-6cbaded3.jpg",
+      "alt": "En person står foran et rack med dataservere montert i en reol, mens han ser ned på en bærbar PC.",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/geodataarbeid/statusrapport-2026/serverrom_foto_iver_daaland_ase.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-nyheter-roarol-1.jpg-5efe3723.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/nyheter/roarol~1.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-nyheter-forsvaret_ovelse_kart_2026.01.17-c59aa09c.jpg",
+      "alt": "To personer i militær vinterkamuflasje diskuterer og peker på et kart.",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/nyheter/forsvaret_ovelse_kart_2026.01.17_foto_arun-rethnam-haug_forsvaret.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-luftambulanse_ved_uia_-a1856bca.jpg",
+      "alt": "Luftambulanse lander ved en administrasjonsbygning. Foto:Magnus Nødland Skogedal",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/geodataarbeid/nrl/luftambulanse_ved_uia_foto_magnus-nodland-skogedal.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/geodataarbeid/2026/april/tilgang-til-nrl-data-krever-godkjenning-fra-1.-juli"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-hoyspent-og-helikopter-4f1f47ca.jpg",
+      "alt": "H&oslash;yspentmast og ledningsnett med et helikopter svevende over (foto Wilhelm B&oslash;e/ Kartverket)",
+      "caption": "SKJERMES: Data fra Norsk register over luftfartshindre (NRL) blir nå ikke lenger allment tilgjengelig. (Foto: Wilhelm Bøe/ Kartverket)",
+      "url": "https://www.kartverket.no/globalassets/bilder/geodataarbeid/nrl/hoyspent-og-helikopter-foto-wilhelm-boe-5j8a81581.jpg?width=1766&mode=crop",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/geodataarbeid/2026/april/tilgang-til-nrl-data-krever-godkjenning-fra-1.-juli"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-illustrasjon.jpg-37269907.jpg",
+      "alt": "Illustrasjon som viser gammel og ny metode for dybdem&aring;ling.",
+      "caption": "DYBDEKARTLEGGING: Tidligere ble havbunnen sjømålt i linjer med enkeltstråle-ekkolodd montert under arbeidsbåten. Nå brukes multistråle-ekkolodd, noe som gir arealdekkende sjømålinger. Illustrasjoner: Kartverket",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjomaling-illustrasjon.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/dybdedata-og-datakvalitet-i-norske-sjokart"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg",
+      "alt": "Halten fyr ved Fr&oslash;ya, med mange staker og ei oppdrettsmerde.",
+      "caption": "INGEN GRUNN TIL Å GÅ PÅ GRUNN: Med det nye informasjonslaget i Norgeskart.no kan du se hvor god kvalitet det er på dybdedataene som vi oppgir.",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/halten-fyr-froya.jpg?width=1766&mode=crop",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/dybdedata-og-datakvalitet-i-norske-sjokart"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-kartutsnitt-sognesjoen.png-cb0df5e4.png",
+      "alt": "Kartutsnitt over Sognesj&oslash;en som angir kvaliteten p&aring; dybdedata med r&oslash;d farge",
+      "caption": "VISUELL VISNING: Kartutsnitt over Sognesjøen hentet fra Norgeskart .",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjomaling-kartutsnitt-sognesjoen.png?width=1336&mode=crop",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/dybdedata-og-datakvalitet-i-norske-sjokart"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-saltstraumen-kari-thoresen.jpg-cb0df5e4.jpg",
+      "alt": "Saltstraumen i Bod&oslash; i Nordland, sett fra oven.",
+      "caption": "SALTSTRAUMEN: Den mest kjente tidevannsstrømmen i Norge er Saltstraumen i Bodø, Nordland. Å gå gjennom Saltstraumen med båt når strømmen er på sitt sterkeste, er svært risikabelt. Foto: Kari Thoresen / Kartverket",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/saltstraumen-kari-thoresen.jpg?width=1336&mode=crop",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-og-mer-presis-vannstandsmodell-for-saltstraumen"
+    },
+    {
+      "file": "kartverket\\images\\contentassets-a595e51263f3465d92517f53e2644834-saltstraumeni-34b6d264.jpg",
+      "alt": "Graf som viser vannstandsm&aring;linger fra Bod&oslash; og Naurstad og hvordan floa kommer senere innenfor Saltstraumen, og at forskjellen mellom flo og fj&aelig;re er mindre.",
+      "caption": "MÅLINGER: Vannstandsmålinger fra Bodø (svart) og Naurstad (rosa) i et drøyt døgn fra juli 2025. Figuren viser hvordan floa kommer senere innenfor Saltstraumen, og at forskjellen mellom flo og fjære er mindre. Kilde: Kartverket",
+      "url": "https://www.kartverket.no/contentassets/a595e51263f3465d92517f53e2644834/saltstraumenillustrasjon_vannstandsmaaling-graf_kartverket.jpg?width=1766&mode=crop",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-og-mer-presis-vannstandsmodell-for-saltstraumen"
+    },
+    {
+      "file": "kartverket\\images\\contentassets-a595e51263f3465d92517f53e2644834-vannstandsmod-8885ddb4.jpg",
+      "alt": "Kartusnitt av Skjerstadfjorden hvor permanent vannstandsm&aring;ler i Bod&oslash; er markert, samt omr&aring;dene Naurstad, Oldereid og Rognan hvor Kartverket har m&aring;lt vannstanden i perioden 2024&ndash;2025.",
+      "caption": "MÅLERE: I perioden 2024–2025 har Kartverket målt vannstand i Naurstad, ved Oldereid kraftstasjon og i Rognan. En permanent vannstandsmåler er plassert i Bodø. Kilde: Kartverket",
+      "url": "https://www.kartverket.no/contentassets/a595e51263f3465d92517f53e2644834/vannstandsmodell_saltstraumen_kart_kartverket.jpg?width=1336&mode=crop",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-og-mer-presis-vannstandsmodell-for-saltstraumen"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--c6a9c8b2.jpg",
+      "alt": "Tre menn i arbeidst&oslash;y p&aring; en kaikant smiler mot kamera. Det er fint v&aring;rv&aelig;r med stille sj&oslash; og bl&aring; himmel i bakgrunnen.",
+      "caption": "MONTERT: Arbeidslaget fra Kartverket monterte den nye vannstandsmåleren i Eydehavn. Fra venstre: Bjørn Erik Bue, Kjetil Ydstebø og Knut Aksel Rydningen. Foto: Synne Bekkeheien Grønseth",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/vannstand/vannstandsmaler-eydehavn-foto-synne-b-gronseth-5j8a9563.jpg?width=1766&mode=crop",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--a5793121.jpg",
+      "alt": "To personer st&aring;r og jobber p&aring; en kaikant mens den tredje st&aring;r i en stige som henger ned fra bryggekanten, mens de monterer teknisk utstyr.",
+      "caption": "VÅRVÆR: Sørlandet glimtet til med nydelig vårvær da vannstandsmåleren i Eydehavn ble montert. Foto: Synne Bekkeheien Grønseth.",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/vannstand/vannstandsmaler-eydehavn-foto-synne-b-gronseth-_j8a9636.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--40f46841.jpg",
+      "alt": "Klemmer og solide skruer p&aring; en betongkai foran skotuppene til en arbeider.",
+      "caption": "ROBUST: Godt festeutstyr er påkrevd ved havet.",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/vannstand/vannstandsmaler-eydehavn-foto-synne-b-gronseth-_j8a9584.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--23de1818.jpg",
+      "alt": "En person med klatresele st&aring;r i ei gardintrapp som er sikra med tau i kaikanten, mens to kolleger sender teknisk utstyr til ham.",
+      "caption": "KREATIV KONSTRUKSJON: Selv om det ser spenstig ut at montøren står i ei gardintrapp, er både utstyr og mannskap sikret til kaikanten. Foto: Synne Bekkeheien Grønseth.",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/vannstand/vannstandsmaler-eydehavn-foto-synne-b-gronseth-5j8a9429.jpg?width=668&height=891&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--37af79e7.jpg",
+      "alt": "En mont&oslash;r sitter p&aring; bakken med ryggen lent mot bilen, mens han sjekker tekniske m&aring;linger p&aring; en PC.",
+      "caption": "KONTAKT: De første dataene fra sensor 1 i Arendal er registrert, konstaterer senioringeniør Kjetil Ydstebø i Kartverkets teknologiseksjon. Foto: Synne Bekkeheien Grønseth.",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/vannstand/vannstandsmaler-eydehavn-foto-synne-b-gronseth-5j8a9574.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-mp16037292-electric-po-d631847a.jpg",
+      "alt": "Ei høyspentmast og kraftlinjer fotografert fra lufta. Masta står midt i en åker der det vokser grønne spirer, mens det er gule blomster rundt sokkelen til masta.",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/geodataarbeid/nrl/mp16037292-electric-power-lines-foto-boggy-most-photos.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-kartutsnitt-sognesjoen.png-5efe3723.png",
+      "alt": "Kartutsnitt som ved hjelp av rosa farger viser kvaliteten på dybdedata.",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjomaling-kartutsnitt-sognesjoen.png?width=445&height=250&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-saltstraumen-kari-thoresen.jpg-5efe3723.jpg",
+      "alt": "Oversiktsbilde av Saltstraumen, med en sterk sjøstrøm som renner mellom holmer og skjær. I forgrunnen skimtes noen personer.",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/saltstraumen-kari-thoresen.jpg?width=445&height=250&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket/nyheter"
+    },
+    {
+      "file": "kartverket\\images\\contentassets-92fb46e313d14bd5bebe3d77c26789b8-rekruttering_-ca710407.jpg",
+      "alt": "Ansatte som jobber i Kartverket (Foto: Morten Brun)",
+      "caption": "",
+      "url": "https://www.kartverket.no/contentassets/92fb46e313d14bd5bebe3d77c26789b8/rekruttering_ida_hope_barth_og_virginia_antonijevic_skv_02282_foto_morten_brun.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/om-kartverket"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-lands-foto-turkart-img_0269.jpg-3b9cbf77.jpg",
+      "alt": "Kvinne på tur med utskrift av \"Mitt turkart\". Foto: Hanna Hauan",
+      "caption": "LETTLEST: Kartene er velegnet som turkart til bruk på fjellet, i skogen og langs kysten og til jakt og fiske. De er lettleste og hjelper deg både med å planlegge turen og å finne fram i terrenget. Foto: Hanna Hauan",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-lands-foto/turkart/img_0269.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-lands/kart/turkart"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-lands-foto-turkart-kompass-og-turkar-e4e55741.jpg",
+      "alt": "Kart og kompass med på tur",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-lands-foto/turkart/kompass-og-turkart-med-pa-tur.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-lands/kart/turkart"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-enc-i-ecdis.jpg-3b9cbf77.jpg",
+      "alt": "ENC vist i en ECDIS på brua om bord på et lasteskip. Foto.",
+      "caption": "ENC: ENC-er brukes til papirløs navigasjon i navigasjonssystemet ECDIS. Norske ENC-er produseres av Kartverkets sjødivisjon. Foto: Kystverket",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/enc-i-ecdis.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg",
+      "alt": "To menn ligger på brygga i ei småbåthavn og peker i et sjøkart. Foto: Morten Brun",
+      "caption": "Sjøkartene er offsielle navigasjonskart for norske sjø og hav-områder.  Foto: Morten Brun",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/hovedseriekart-planlegger-seilas.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-sjos/kart/norskesjokart"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-seilbat-gps-adobestock.jpg-3b9cbf77.jpg",
+      "alt": "Mann i seilbåt peker på sjøkart i sin kartplotter. Foto: Adobestock",
+      "caption": "SJØSIKKERHEIT: Oppdaterte sjøkart er eit viktig bidrag til auka sjøsikkerheit. Illustrasjonsfoto: Adobestock.",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/seilbat-gps-adobestock.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-sjos/kart/sjokart-til-kartplottere"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg",
+      "alt": "Et skolekart (sjøkart) ligger oppå et hovedseriekart. To hender plotter inn kurs med blyant og linjal. Foto.",
+      "caption": "UNDERVISNING: Skolekartene er laget i A3-format slik at de lett kan printes ut. Kartene er kun ment til bruk i undervisning. Foto: Sissel Kanstad",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/skolekart-sjokart.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-sjos/kart/skolekart"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-tingholmen-med-kartutsnitt-e024ae95.jpg",
+      "alt": "Fyrlykt på Tingholmen. Kartutsnitt som viser sjømerke for fyrlykt er redigert inn. Foto: Arnfinn Lie",
+      "caption": "FYRLYKT OG ANDRE KARTSYMBOL: Den nautiske publikasjonen \"Symboler og forkortelser i norske sjøkart\" forklarar symbol og forkortingar som brukast i norske og internasjonale sjøkart. Foto: Arnfinn Lie",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/tingholmen-med-kartutsnitt_foto-arnfinn-lie.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-hero.jpg-3b9cbf77.jpg",
+      "alt": "Mann styrer motorbåt mens dame sjekker sjøkartet. Foto: Kartverket",
+      "caption": "NYE BÅTEIGARAR: Ekteparet Eirik og Christina har kjøpt seg båt. Christina har oppdaga kor mykje kunnskap det er å finne i sjøkartet og ho prøvar å overbevise Eirik om å omfamne sjøkartet, han også. Foto: Leidar/Kartverket",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjokartkampanjen-20212-hero.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-til-sjos-sjokart-datakvalitet-dybder-norske-sjokart.jpg-37269907.jpg",
+      "alt": "Datakvalitet-dybder-norske-sjokart.jpg",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/til-sjos/sjokart/datakvalitet-dybder-norske-sjokart.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-zoc-diagram-kartustnitt-525.jpg-37269907.jpg",
+      "alt": "Eksempel p&aring; ZOC-diagram vist i papirsj&oslash;kart med sj&oslash;kart i bakgrunnen. Kilde: Kartverket",
+      "caption": "ZOC-DIAGRAM: Slik kan et ZOC-diagram i et papir-sjøkart se ut. Dette er hentet fra hovedseriekart nr. 525 Bellsund - van Mijenfjorden, som dekker farvann på Svalbard. Kilde: Kartverket",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/zoc-diagram-kartustnitt-525.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-kart525medkildediagram.png-37269907.png",
+      "alt": "Papir-sj&oslash;kart med kildediagram",
+      "caption": "KILDEDIAGRAM: Slik så tidligere kildediagram ut i hovedseriekart nr. 525 Bellsund - van Mijenfjorden, som dekker farvann på Svalbard. Kilde: Kartverket",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/kart525medkildediagram.png?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-maris-skjermdump.png-37269907.png",
+      "alt": "\" width=",
+      "caption": "ZOC: Slik er kvaliteten på dybdedata merket i norske ENC-er brukt i det typegodkjente elektroniske kartsystemet ECDIS. Illustrasjon: Skjermdump fra MARIS",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/maris-skjermdump.png?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-for-naa.jpg-37269907.jpg",
+      "alt": "\" width=",
+      "caption": "DYBDEKARTLEGGING: Tidligere ble havbunnen sjømålt i linjer med enkeltstråle-ekkolodd montert under arbeidsbåten. Nå bruker vi multistråle-ekkolodd, og får arealdekkende sjømålinger. Illustrasjoner: Kartverket",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjomaling-for-naa.jpg?width=1104&height=621&quality=85&mode=crop&scale=both",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-handretting-av-sjokart.jpg-3b9cbf77.jpg",
+      "alt": "Hender plotter inn rettelse i sjøkart ved hjelp av paralellfoskyver, passer og blyant. Foto.",
+      "caption": "FERSKVARE: Sjøkart er ferskvare! Oppdater sjøkartet ditt med rettingar som meldast i Etterretninger for sjøfarende (Efs) kvar fjortande dag. Foto: Sissel Kanstad",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/handretting-av-sjokart.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/oppdatere-sjokart"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-svalbard.jpg-3b9cbf77.jpg",
+      "alt": "Sjøis i farvann på Svalbard.",
+      "caption": "Foto: Kartverket",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/svalbard.jpg?width=1464&height=549&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/sjokart-pa-svalbard"
+    },
+    {
+      "file": "kartverket\\images\\contentassets-ce2530deaba649178db86152835ef981-catzoc-eksempel.jpg-cb0df5e4.jpg",
+      "alt": "ZOC-diagram.JPG",
+      "caption": "Kilde: Kartverket",
+      "url": "https://www.kartverket.no/contentassets/ce2530deaba649178db86152835ef981/catzoc-eksempel.jpg?width=1336&mode=crop",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart/sjokart-pa-svalbard"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-bil-fc4ec090.jpg",
+      "alt": "Mann styrer motorbåt mens dame sjekker sjøkartet. Foto: Kartverket",
+      "caption": "",
+      "url": "https://www.kartverket.no/globalassets/bilder/til-sjos-foto/sjokartkampanjen-20212-bildeteaser.jpg?width=736&height=589&mode=crop&scale=both&quality=75",
+      "page_url": "https://www.kartverket.no/til-sjos/sjokart"
+    }
+  ]
+}

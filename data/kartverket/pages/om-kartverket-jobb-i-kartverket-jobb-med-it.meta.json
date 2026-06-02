@@ -1,0 +1,44 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/jobb-med-it",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Jobb med IT i Kartverket | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:56 GMT",
+  "checksum_sha256": "7bcd9b14b7bebf86d88048e9e9b3386a72ebdc0091a8d869089cf972aeee9054",
+  "fetched_at": "2026-06-02T11:08:57.703105+00:00",
+  "depth": 2,
+  "text_chars": 2231,
+  "n_links": 37,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-jobb-i-kartverket-jobb-med-it.html",
+    "text": "pages/om-kartverket-jobb-i-kartverket-jobb-med-it.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Jobb med IT i Kartverket",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

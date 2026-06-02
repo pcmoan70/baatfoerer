@@ -1,0 +1,31 @@
+[Los](https://www.kystverket.no/navigasjonstjenester/los/)
+Rundt 300 loser i Kystverkets lostjeneste sørger for sikker seilas langs norskekysten, 24 timer i døgnet – hele året.
+Los og farledsbevis sikrer en trygg seilas ved å sørge for at fartøy har tilstrekkelig kompetanse om bord. Losplikten oppfylles ved å ta los eller bruk av farledsbevis. I tillegg drifter og utvikler vi digitale maritime tjenester som bidrar til tryggere og mer effektiv navigasjon.
+-
+[Los](https://www.kystverket.no/navigasjonstjenester/los/)Rundt 300 loser i Kystverkets lostjeneste sørger for sikker seilas langs norskekysten, 24 timer i døgnet – hele året. -
+[Farledsbevis](https://www.kystverket.no/navigasjonstjenester/farledsbevis/)Farledsbevis er et sertifikat som gir navigatører lov til å seile i et spesifikt farvann med et lospliktig fartøy uten å bruke los. Sertifikatet blir utstedt av Kystverket. -
+[Sjøtrafikksentraltjenesten](https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/)Sjøtrafikksentralene organiserer skipstrafikken og tilbyr informasjonstjeneste og navigasjonsassistanse i sine tjenesteområder. -
+[Digital rutetjeneste](https://www.kystverket.no/navigasjonstjenester/artikkel-digital-rutetjeneste---routeinfo.no)På routeinfo.no kan navigatører laste ned referanseruter for navigasjon til havner, og få viktig ruteinformasjon og lokale forskrifter som gjelder for seilasen. -
+[AIS](https://www.kystverket.no/sjotransport-og-havn/ais/)Det nasjonale AIS-nettverket AIS Norge gjør det mulig for myndigheter å følge skipstrafikken i sanntid. Kystverket deler AIS data med andre myndigheter og publikum. -
+[Navigasjonsvarsling](https://www.kystverket.no/navigasjonstjenester/navigasjonsvarsling/)Kystverket er koordinator for NAVAREA XIX med ansvar for å sende navigasjonsvarsler for Norskehavet, Grønlandshavet og vestre del av Barentshavet. Kystverket er også nasjonal koordinator for navigasjonsvarsler med ansvar for å sende varsler for norskekysten og kysten av Svalbard. -
+[ArcticInfo](https://www.kystverket.no/sjovegen/vartjenester/arcticinfo/)ArcticInfo.no gir sjøfarende informasjon om seilingsforhold i arktiske farvann, og beslutningsstøtte for tryggere ferdsel i Arktis . -
+[Ismeldinger - hvor mye is er det i farleia?](https://www.kystverket.no/sjovegen/vartjenester/istjenesten-i-norge/)Gjenfrosne eller isete farvann og ising på fartøy kan skape utfordringer for skipstrafikken. -
+[LRIT](https://www.kystverket.no/navigasjonstjenester/overvakningssystemet-lrit/)LRIT-pliktige fartøy må rapportere nye eller fornyede LRIT-sertifikater til Kystverket. -
+[E-navigasjon](https://www.kystverket.no/om-kystverket/forskning-og-utvikling-fou/e-navigasjon-2/)E-navigasjon er en global strategi utviklet av FNs sjøfartsorganisasjon IMO for å legge til rette for digitalisering og automatisert utveksling av informasjon mellom skip, og mellom skip og myndigheter. -
+[Kystradio - infrastruktur for nød- og sikkerhetskommunikasjon](https://www.kystverket.no/navigasjonstjenester/kystradio---infrastruktur-for-nod--og-sikkerhetskommunikasjon/)Kystradiotjenesten er Norges døgnåpne nødnett til sjøs – langs hele norskekysten og til nord om Svalbard. Staten overtar tjenesten fra Telenor fra 1. januar 2026. Kystverket tar over teknisk infrastruktur. Tjenesten videreføres med samme kvalitet og tilgjengelighet som før.
+-
+[Bestille Los](https://shiprep.no/ShipRepWebUI/SignIn.aspx?ReturnUrl=/ShipRepWebUI)Bestill los i SafeSeaNet Norway.
+-
+[Digitale referanseruter](https://routeinfo.no/)Last ned digitale seilingsruter for navigasjon til havner.
+-
+[NAVAREA XIX-varsler](https://kyvreports.kystverket.no/NavcoReport/navareaxixvarsler.aspx)Navigasjonsvarsler for Norskehavet, Grønlandshavet og vestre del av Barentshavet.
+-
+[Kystvarsler](https://kyvreports.kystverket.no/NavcoReport/navigasjonsvarsler.aspx)Navigasjonsvarsler for norskekysten og kysten av Svalbard.
+-
+[Slukkede lykter](https://slukkinger.kystverket.no/)Oversikt over slukkede fyrlys langs norskekysten.
+-
+[Kystinfo](https://kystinfo.no/)Kystverkets kartløsning på nett.
+-
+[ArcticInfo](https://www.barentswatch.no/arcticinfo/)Se viktig informasjon om arktiske farvann for trygg ferdsel i nordområdene.
+-
+[SafeSeaNet Norway](https://shiprep.no/ShipRepWebUI/SignIn.aspx?ReturnUrl=/ShipRepWebUI)Bestill los og send ankomst- og avgangsopplysninger til myndigheter og havner.

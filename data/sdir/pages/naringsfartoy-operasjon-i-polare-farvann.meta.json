@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/naringsfartoy/operasjon-i-polare-farvann/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Operasjon i polare farvann - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "fb61688833767eed3f30b6fc0c39de0d8f01959f69eeb5ec00556324e845a21f",
+  "fetched_at": "2026-06-02T10:56:14.112311+00:00",
+  "depth": 2,
+  "text_chars": 359,
+  "n_links": 29,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/naringsfartoy-operasjon-i-polare-farvann.html",
+    "text": "pages/naringsfartoy-operasjon-i-polare-farvann.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Operasjon i polare farvann",
+      "id": "main-content"
+    }
+  ]
+}

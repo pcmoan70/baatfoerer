@@ -1,0 +1,34 @@
+{
+  "url": "https://xn--btfrerregisteret-dob85a.no/info/bfp/duplikatutstedelse/",
+  "site": "batforerregisteret",
+  "source_id": "batforerregisteret",
+  "title": "Utstedelse av Duplikat",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "W/\"f537c982a7be021947696a510ec8a68b\"",
+  "last_modified": null,
+  "checksum_sha256": "d941cc2afa8bf2ebde1657f5c3b77a7c88ce1d08f1ebee4293859af096073105",
+  "fetched_at": "2026-06-02T10:57:26.606255+00:00",
+  "depth": 1,
+  "text_chars": 1570,
+  "n_links": 17,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/info-bfp-duplikatutstedelse.html",
+    "text": "pages/info-bfp-duplikatutstedelse.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Båtfører­registeret",
+      "id": "body"
+    },
+    {
+      "level": 1,
+      "text": "Nyutstedelse eller duplikat av Båtførerbevis",
+      "id": "site_content"
+    }
+  ]
+}

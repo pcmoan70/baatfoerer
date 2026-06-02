@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/ofte-stilte-sporsmal-om-farledsbevis/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Ofte stilte spørsmål | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "443814f14b3f124e29a3a35e4d897b2482cdf045b29beb10e4744d1f9aa70ad7",
+  "fetched_at": "2026-06-02T11:06:29.412631+00:00",
+  "depth": 2,
+  "text_chars": 9575,
+  "n_links": 131,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-farledsbevis-ofte-stilte-sporsmal-om-farledsbevis.html",
+    "text": "pages/navigasjonstjenester-farledsbevis-ofte-stilte-sporsmal-om-farledsbevis.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Ofte stilte spørsmål",
+      "id": "content-start"
+    }
+  ]
+}

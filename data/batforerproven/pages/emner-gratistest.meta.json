@@ -1,0 +1,114 @@
+{
+  "url": "https://www.xn--btfrerprven-x8a3wf.no/emner/gratistest/",
+  "site": "batforerproven",
+  "source_id": "batforerproven",
+  "title": "Gratis test - Båtførerprøven.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": "Sun, 31 May 2026 18:52:37 GMT",
+  "checksum_sha256": "ce30ba42338c8f31594b7bf16fc4d7604b10361df4d5dd74d453e8fddab67b3e",
+  "fetched_at": "2026-06-02T11:19:33.623927+00:00",
+  "depth": 0,
+  "text_chars": 2056,
+  "n_links": 10,
+  "n_pdf_links": 0,
+  "n_images": 16,
+  "images": [
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-kartsymboler-spm-3-300x213.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-r-dstake-300x264.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-34966-300x200.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-tidevann-str-m-og-ta-ke-spm-4-300x169.jpg",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-kartoppgaver-spm-6-300x169.jpg",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-first-aid-2-300x224.jpeg",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-kartets-oppbygning-spm-1-300x169.jpg",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-oc28s-300x82.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-b-lger-spm-4-300x225.jpg",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-09-lanterneslep-300x241.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-sj-veisregler-spm-3-300x225.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-vikeplikt-motorba-t-spm-3-300x169.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-s-r.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-06-screen-shot-2012-06-11-at-8.19.07-am-246x300.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-ba-ttyper-spm-3-300x203.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-kartets-oppbygning-spm-3-300x169.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/emner-gratistest.html",
+    "text": "pages/emner-gratistest.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Gratis test",
+      "id": "ld-focus-content"
+    },
+    {
+      "level": 4,
+      "text": "Quiz Sammendrag",
+      "id": "wpProQuiz_303"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "content-report"
+    },
+    {
+      "level": 4,
+      "text": "Block Member?",
+      "id": "block-member"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "reported-content"
+    }
+  ]
+}

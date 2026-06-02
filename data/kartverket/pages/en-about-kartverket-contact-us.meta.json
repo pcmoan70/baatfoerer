@@ -1,0 +1,49 @@
+{
+  "url": "https://www.kartverket.no/en/about-kartverket/contact-us",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Contact us | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:24 GMT",
+  "checksum_sha256": "c0016ca0143e6c48b182842467d34e4207e2d4f005b803751f0a1fbe100cf026",
+  "fetched_at": "2026-06-02T11:07:25.335491+00:00",
+  "depth": 2,
+  "text_chars": 1713,
+  "n_links": 46,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/en-about-kartverket-contact-us.html",
+    "text": "pages/en-about-kartverket-contact-us.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Contact us",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Regional offices",
+      "id": "LinkListBlockProxy-5430"
+    },
+    {
+      "level": 2,
+      "text": "Send page by Email",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Contact us",
+      "id": "footerheading-contactus"
+    },
+    {
+      "level": 4,
+      "text": "Resources",
+      "id": "footerheading-resources"
+    }
+  ]
+}

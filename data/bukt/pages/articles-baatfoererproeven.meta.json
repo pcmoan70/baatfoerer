@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/articles/baatfoererproeven",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Båtførerprøven - hva, hvorfor og hvordan? - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "295233c3c683cc66ef7ee62763dd7bd5dd19667ad54c41ce2af4f0ba1787be25",
+  "fetched_at": "2026-06-02T11:16:27.926464+00:00",
+  "depth": 2,
+  "text_chars": 2425,
+  "n_links": 20,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/articles-baatfoererproeven.html",
+    "text": "pages/articles-baatfoererproeven.txt"
+  },
+  "anchors": []
+}

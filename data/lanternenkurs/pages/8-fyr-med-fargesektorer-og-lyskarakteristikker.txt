@@ -1,0 +1,10 @@
+8.1 Fyr og fargesektorer
+Kystfyr og ulike innseilingslykter er et manøvreringsverktøy for å sørge for en trygg landingsgang.
+- Sektorfargen i kartet viser fargen lyset på fyrlykten lyser i den sektoren du befinner deg i.
+- Hvit sektor er klar/trygg sektor.
+- Rød og grønn sektor eller “uren”sektor” er full av farer
+Dersom du ser et hvitt lys (W står for White) betyr det at du er i klar sektor, og trygt kan seile inn mot fyret. Hvis du er i rød (R står for red) eller grønn (G for green) sektor, må du orientere deg inn mot hvit sektor for å sikre en trygg landingsgang.
+8.2 Lyktekarakteristikker
+For å skille ulike fyr, lykter og staker fra hverandre, har de ulik “puls” eller “karakteristikker”. I kartene står lyktekarakteristikker oppført under fyrlyktens navn.
+På eksamen er det viktig at du klarer å skille de ulike karakteristikkene fra hverandre, og at du forstår hvordan de lyser. Dette vil igjen kunne fortelle deg hvilket fyr/ lykt du ser på, og da vil du lettere kunne orientere deg i kartet.
+Selv om lyskarakteristikkene kan virke krevende å lære seg vil vi gå gjennom disse grundig på kurset, og gjennomføre praktiske oppgaver for at du skal bli så godt rustet som mulig til å bestå båtførerprøven. Meld deg på ledig kurs her:

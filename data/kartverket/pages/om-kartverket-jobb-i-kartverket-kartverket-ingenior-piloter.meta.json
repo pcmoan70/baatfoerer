@@ -1,0 +1,65 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/kartverket-ingenior-piloter",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Jobb som ingeniør i Kartverket | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:09:02 GMT",
+  "checksum_sha256": "2758b169950bb9ea8111b7b94d3bf375939934646b26ab6d66a45eb32faceba5",
+  "fetched_at": "2026-06-02T11:09:08.515273+00:00",
+  "depth": 2,
+  "text_chars": 4100,
+  "n_links": 36,
+  "n_pdf_links": 0,
+  "n_images": 5,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-kv_rekbilder__s-0f47f246.jpg",
+      "alt": "Ung mannlig ingeniør foran PC-skjerm"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-taye-pa-besok-s-70d81713.jpg",
+      "alt": "Menn foran et parkert ambulsansehelikopter"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-bilder-av-ansatte-yonatan_bisrat_-a34e8a80.jpg",
+      "alt": "Ung mannlig ingeni&oslash;r ser inn i kamera"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-60e476d7.jpg",
+      "alt": "Mann med skjegg og briller ute i naturen."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-ansattehistorier-wanni-og-kristian-wanni-0b6a835c.jpg",
+      "alt": "Ung kvinnelige UX-designer foran whiteboard-tavle"
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket-jobb-i-kartverket-kartverket-ingenior-piloter.html",
+    "text": "pages/om-kartverket-jobb-i-kartverket-kartverket-ingenior-piloter.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Fra geoinformatikk-master til samfunnskritisk arbeid i Kartverket",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

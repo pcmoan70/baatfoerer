@@ -1,0 +1,63 @@
+Sjøtrafikksentraltjenesten
+Sjøtrafikksentraltjenesten – Vessel Traffic Service (VTS) – er en internasjonalt standardisert tjeneste, som i Norge er driftet av Kystverket. VTS-tjenesten skal bidra til sikker og effektiv navigasjon og verne om miljøet.
+Lenker
+-
+Kontaktinformasjon til VTS-tjenesten
+-
+[Seilingsregler](https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/seilingsregler-etter-fylker/)Sjøtrafikkforskriften inneholder seilingsregler i bestemte farvann langs kysten og ved Svalbard, der flere er i sjøtrafikksentralenes tjenesteområder. I tillegg gjelder egne seilingsregler om trafikkseparasjonssystem og anbefalte ruter i norsk økonomisk sone. -
+[Kart over tjenesteområder](https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/kart-over-tjenesteomrader/)Se sjøtrafikksentralenes tjenesteområder i kartet. -
+[Krav til fartøy som bruker tjenesteområder](https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/krav-til-fartoy-som-bruker-sjotrafikksentralenes-tjenesteomrader/)Bruk av sjøtrafikksentralenes tjenesteområder er regulert av sjøtrafikkforskriften. Forskriften gjelder i hovedsak alle fartøy på 24 meter eller mer. -
+[Sjøtrafikksentraltjenester](https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/tjenester/)Sjøtrafikksentraltjenesten (VTS) tilbyr tre typer tjenester, basert på nasjonalt regelverk og internasjonale standarder og anbefalinger. -
+[Analyseenheten i Vardø](https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/tjenester/analyseenheten-i-vardo/)Kystverket og Fiskeridirektoratet har en felles analyseenhet som utfører analyser av skipstrafikk for å avdekke uønskede eller ulovlige aktiviteter i havområdene. -
+[Jobb som maritim trafikkleder](https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/jobb-som-maritim-trafikkleder/)Sjøtrafikksentralene er bemannet av maritime trafikkledere 24 timer i døgnet, året rundt. Alle maritime trafikkledere har lang erfaring som skipsførere og overstyrmenn -
+[Statistikk frå sjøtrafikksentralane](https://www.kystverket.no/sjotransport-og-havn/statistikk-og-prognoser/statistikk-fra-sjotrafikksentralane/)Her finn du statistikk på registrerte seglingsklareringar og inngrep VTS-ane har gjort i sjøtrafikken. -
+[Risikolaststatistikk langs kysten i nord](https://www.kystverket.no/sjotransport-og-havn/statistikk-og-prognoser/risikolaststatistikk-langs-kysten-i-nord/)Her finner du risikolaststatistikk for transport av oljeprodukter til og fra det nordlige Russland. -
+[Om sjøtrafikksentraltjenesten](https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/om-sjotrafikksentraltjenesten/)Sjøtrafikksentraltjenesten – Vessel Traffic Service (VTS) – er en internasjonalt standardisert tjeneste som i Norge er driftet av Kystverket for å bidra til sikker og effektiv navigasjon og verne om miljøet i kystsonen. -
+[Sikkerhetsavgift](https://www.kystverket.no/sjotransport-og-havn/avgifter/sikkerhetsavgift/)Sikkerhetsavgiften gjelder for fartøy som bruker farvann som er overvåket av en sjøtrafikksentral.
+Nyttige tjenester
+-
+[SafeSeaNet Norway](https://shiprep.no/ShipRepWebUI/SignIn.aspx?ReturnUrl=/ShipRepWebUI)Bestill los og send ankomst- og avgangsopplysninger til myndigheter og havner.
+-
+[Kystvarsler](https://kyvreports.kystverket.no/NavcoReport/navigasjonsvarsler.aspx)Navigasjonsvarsler for norskekysten og kysten av Svalbard.
+-
+[Bølge- og strømvarsel](https://www.barentswatch.no/bolgevarsel/)Se bølgehøyder og strømvarsel langs norskekysten.
+-
+[ArcticInfo](https://www.barentswatch.no/arcticinfo/)Se viktig informasjon om arktiske farvann for trygg ferdsel i nordområdene.
+Andre aktuelle tema
+[
+Statistikk om skipsfartens rolle i godstransport
+](https://www.kystverket.no/sjotransport-og-havn/statistikk-og-prognoser/statistikk-om-skipsfartens-rolle-i-godstransport/)
+Her finner du statistikk knyttet til sjøs andel av godstransport.
+Relaterte artikler
+[
+Endret seilingsmønster ved Måløybrua fra 14. september 2022 til 28. februar 2023
+](https://www.kystverket.no/nyheter/2020/endret-seilingsmonster-ved-maloybrua-fra-14.-september-2022-og-ut-aret)
+Statens vegvesen skal bygge en barriere mot skipspåkjørsel ved Måløybruas midtre bropilar i Kinn kommune, Vestland fylke. Vestre seilingsløp under Måløybrua vil være stengt i hele anleggsperioden. All sjøtrafikk, både nordgående og sørgående, skal bruke østre seilingsløp. NB! Stengningserioden er …
+[
+Oppstart av ny sjøtrafikksentraltjeneste på Vestlandet
+](https://www.kystverket.no/nyheter/2020/oppstart-av-ny-sjotrafikksentraltjeneste-pa-vestlandet/)
+Fra 1. juni 2021 kommer Kinn sjøtrafikksentraltjeneste i drift. Tjenesten er etablert for å styrke sjøsikkerheten, og skal overvåke og organisere skipstrafikken i farvannet mellom Florø og Måløy.
+[
+Nå kan fartøy forhåndsmelde seilasen digitalt til sjøtrafikksentralene i SafeSeaNet
+](https://www.kystverket.no/nyheter/2020/na-kan-fartoy-forhandsmelde-seilasen-digitalt-til-sjotrafikksentralene-i-safeseanet/)
+I stedet for å kontakte sjøtrafikksentralen på VHF minst en time før avgang i tjenesteområdet, kan fartøy nå gjøre dette digitalt i SafeSeaNet.
+[
+Statistikk og prognoser
+](https://www.kystverket.no/sjotransport-og-havn/statistikk-og-prognoser/)
+Er du på jakt etter tall om sjøtransporten, eller statistikker og prognoser knyttet til Kystverkets virksomhet og ansvarsområder?
+[
+Vil styrke overvåking av skipstrafikk
+](https://www.kystverket.no/nyheter/2020/vil-styrke-overvaking-av-skipstrafikk/)
+Kystverkets sjøsikkerhetstjenester bidrar til å redusere risikoen for akutt forurensing og tap av menneskeliv på norskekysten. Vekst i havnæringene og i sjøtransporten vil sammen med klimaendringer kreve ytterligere styrking av disse tjenestene for å unngå at sjøsikkerheten blir svekket på sikt.
+[
+Ny tjeneste for tryggere skipsfart i nordområdene
+](https://www.kystverket.no/nyheter/2020/tryggere-skipsfart-i-nordomradene/)
+Tjenesten ArcticInfo tilbyr sjøfarende en rekke tjenester som er viktig for sikkerhet, fremkommelighet og miljø i Arktis.
+[
+Har utvidet nettverk for sjøtrafikkovervåking på Svalbard
+](https://www.kystverket.no/nyheter/2020/har-utvidet-nettverk-for-sjotrafikkovervaking-pa-svalbard/)
+Kystverket har etablert seks nye vind- og soldrevne AIS-basestasjoner på Svalbard. De nye basestasjonene gjør det mulig å se skipsbevegelser til enhver tid utenfor nordvest- og østkysten av Svalbard.
+[
+Sjøsikkerhetsanalysen
+](https://www.kystverket.no/nyheter/2020/sjosikkerhetsanalysen/)
+Kystverket har på oppdrag for Samferdselsdepartementet utarbeidet en helhetlig sjøsikkerhetsanalyse for norske farvann – Sjøsikkerhetsanalysen 2014. Arbeidet har vært utført i tett samarbeid mellom Kystverket og DNV GL.

@@ -1,0 +1,59 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/istips-i-istiden/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Istips i istiden - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "5eca413422e035dfc73f0a615e2be7f461324311c75f911b048ecc4fd8ee539e",
+  "fetched_at": "2026-06-02T11:12:51.835723+00:00",
+  "depth": 2,
+  "text_chars": 9323,
+  "n_links": 134,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-istips-i-istiden.html",
+    "text": "pages/sikker-til-sjos-istips-i-istiden.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Istips i istiden",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Istips til skøyteløperen",
+      "id": "skøyteløper"
+    },
+    {
+      "level": 2,
+      "text": "Istips til skigåeren",
+      "id": "skigåer"
+    },
+    {
+      "level": 2,
+      "text": "Istips til isfiskeren",
+      "id": "isfisker"
+    },
+    {
+      "level": 2,
+      "text": "Istips til isbaderen",
+      "id": "isbader"
+    },
+    {
+      "level": 2,
+      "text": "Andre istips",
+      "id": "andreistips"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

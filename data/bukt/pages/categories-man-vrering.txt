@@ -1,0 +1,45 @@
+[106](/tasks/106) |
+Hvilken båt er lo båt?
+|
+|
+[107](/tasks/107) |
+Hvilken båt er le båt?
+|
+|
+[108](/tasks/108) |
+Hvilken av seilbåtene (som går for seil) skal vike og hvorfor?
+|
+|
+[109](/tasks/109) |
+Seilbåten (som går for seil) tar igjen motorbåten. Hvem skal vike?
+|
+|
+[111](/tasks/111) |
+Hvilken båt har vikeplikt?
+|
+|
+[112](/tasks/112) |
+To motorbåter møtes. Hvem skal vike?
+|
+|
+[147](/tasks/147) |
+Hvilken vei bør båten ligge i hardt vær? |
+|
+[205](/tasks/205) |
+Hvilke av påstandene om trafikkseperasjonssystemer er riktige? |
+|
+[206](/tasks/206) |
+Ifølge Sjøveisreglene, regnes en seilbåt som går for motor som seilfartøy? |
+|
+[271](/tasks/271) |
+Hvordan bør du legge til i forhold til vinden? |
+|
+[395](/tasks/395) |
+Hvordan skal du forholde deg når du har forkjørsrett og er på kollisjonskurs med en annen båt? |
+|
+[396](/tasks/396) |
+Når er et fartøy "underveis" ifølge sjøveisreglene? |
+|
+[397](/tasks/397) |
+Når en seilbåt går både for seil og motor regnes den som... |
+|

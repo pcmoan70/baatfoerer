@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/rapporter-og-utredninger/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Rapporter og utredninger - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "851a1bdc4918ad45e41eb05add0491c57b0d901ec4f502b07bc33c9714263a5e",
+  "fetched_at": "2026-06-02T10:56:35.819408+00:00",
+  "depth": 2,
+  "text_chars": 1645,
+  "n_links": 27,
+  "n_pdf_links": 9,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-rapporter-og-utredninger.html",
+    "text": "pages/fritidsbat-rapporter-og-utredninger.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Rapporter og utredninger",
+      "id": "main-content"
+    }
+  ]
+}

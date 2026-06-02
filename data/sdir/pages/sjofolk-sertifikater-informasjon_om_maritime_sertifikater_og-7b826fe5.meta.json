@@ -1,0 +1,34 @@
+{
+  "url": "https://www.sdir.no/sjofolk/sertifikater/Informasjon_om_maritime_sertifikater_og_kvalifikasjoner/radiosertifikat-for-vhf/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Radiosertifikat for VHF (SRC) - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "3437637bbc9ffbebec99d85aac3e100854f9bb89df824c62e56709b8d6159734",
+  "fetched_at": "2026-06-02T10:57:14.684355+00:00",
+  "depth": 2,
+  "text_chars": 1049,
+  "n_links": 34,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sjofolk-sertifikater-informasjon_om_maritime_sertifikater_og-7b826fe5.html",
+    "text": "pages/sjofolk-sertifikater-informasjon_om_maritime_sertifikater_og-7b826fe5.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Radiosertifikat for VHF",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Søk sertifikat",
+      "id": "main-text-content"
+    }
+  ]
+}

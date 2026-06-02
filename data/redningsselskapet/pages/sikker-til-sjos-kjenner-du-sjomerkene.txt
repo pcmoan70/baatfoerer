@@ -1,0 +1,90 @@
+Kjenner du sjømerkene?
+Et sjømerke er et fast eller flytende merke laget for å hjelpe båter og skip å navigere langs et skipsled. Offisielle sjømerker er som regel merket av på sjøkart.
+Kardinalmerker
+Kardinalmerker (nord-,øst-, sør- og vestmerke) gir informasjon om farer, og sier hvilken kompassretning som er trygt farvann. Enkelt forklart skal man gå nord for et nordmerke og sør for et sørmerke, vest for et vestmerke og øst for et østmerke.
+Kardinal nord (passering nord for merket)
+Farge: svart over gul (BY)
+Toppmerke: To svarte kjegler som begge peker opp
+Lys: Hvitt, kontinuerlig hurtigblink (Q W, hurtige hvite blink, eller VQ W, veldig hurtige hvite blink) –
+QW eller VQ W (Se ordliste under)
+Kardinal øst (passering øst for merket)
+Farge: svart gul svart (BYB)
+Toppmerke: To svarte kjegler, øverste peker opp, nederste peker ned
+Lys: 3 hurtige hvite blink hvert tiende sekund – Q(3) W 1Os
+Eller 3 veldig hurtig hvite blink hvert 5. sekund – VQ(3) W 5s
+Kardinal syd (passering sør for merket)
+Farge: gul svart (YB)
+Toppmerke: To svarte kjegler som begge peker ned
+Lys: Hvitt hurtigblink med grupper av seks blink. Deretter langvarig lys – Q(6) +LFI W 15s
+Kardinal vest (passering vest for merket)
+Farge: Gul svart gul (YBY
+Toppmerke : To svarte kjegler, øverste peiker ned, nederste peker opp
+Lys: hvit hurtigblink med grupper av ni blink – Q(9) W 15s
+En huskeregel for lyskarakteristikken er klokka: Nordmerket har kontinuerlige blinker, østmerket har tre blinker, sørmerket har seks pluss en lang, mens vestmerket har ni blinker. Kjeglene på sørmerket peker ned som sør på kartet, på nordmerket peker de opp som nord på kartet og vestmerket har en kjegle som en V på toppen.
+HuskeregeL laget av ukjent sjøulk
+Lateralmerker – sideavmerkning
+Sideavmerking eller lateralmerke blir brukt for å markere en kanal, ei skipslei eller et havneinnløp. Trafikk som følger merkinga sin hovedretning skal ha grønne merker på styrbord side og røde merker om babord, og motsatt for trafikk som går mot hovedretninga. Hovedretninga er etter regelen definert i retning nord og inn fjorder og kanaler, men det må alltid leses av i sjøkartet.
+Sideavmerking grønn
+Merket skal passeres slik at man får grønn lanterne (styrbord) mot det grønne merket om man følger ledens hovedretning. I alle sjøkart finner du en pil med en rød og en grønn prikk på hver side. Pila merkerer hva som er ledens hovedretning.
+Utseende: Grønn sylinder med konisk toppmerke, grønt lys med hva som helst av karakter. Kan ha påskrevet et oddetall. Grønne staker er spisse på toppen – røde er flate.
+Sideavmerking rød
+Skal passeres slik at man får rød lanterne (babord) mot det røde merket om man følger ledens hovedreting.I alle sjøkart finner du en pil med en rød og en grønn prikk på hver side. Pila merkerer hva som er ledens hovedretning.
+Utseende: Rød sylinder med kvadratisk toppmerke, rødt lys med hva som helst av karakter. Kan ha påskrevet et partall.
+Frittliggende grunne
+Merket frittliggende fare eller grunne, også kalt midtgrunnemerke. Trafikken kan gå på alle sider av grunnen eller faren som er markert.
+Farge: Svart, med røde bånd
+Toppmerke: To svarte kuler (forekommer sjeldent)
+Lys: Hvitt
+Karakteristikk: Grupper med to hurtigblink
+Senterledsmerke
+Et senterledsmerke kan markere midten av en kanal eller et annet trygt område. Trafikken kan gå på alle sider av merket.
+Farge: Rød og hvit
+Toppmerke: En rød kule
+Lys: Hvitt
+Karakteristikk: Flere ulike typer langblink
+Spesialmerke
+Spesialmerkene blir nyttet til å markere forskjellige typer områder som skips- og båttrafikken skal holde klar fra, så som område for militærøvinger, område med kabler eller oljerørledninger, lagringssteder og område for rekreasjon (badeplass).
+Farge: Gul
+Toppmerke: Gult kryss
+Lys: Gul
+Karakteristikk: Hva som helst
+Jernstang med arm
+skal passeres på den siden som armen peker (armen peker bestandig mot trygt farvann). Men dobbeltsjekk alltid med kartet, da jernarmen kan ha snudd seg i dårlig vær og lignende.
+Varde med arm
+- Skal passeres på den siden som armen peker
+- Armen peker mot trygt farvann
+- Brukes ofte der det er behov for tydelig retningsangivelse
+Viktig: Dobbeltsjekk alltid med kartet, da armen kan ha vridd seg i dårlig vær
+Varde uten arm
+- Ingen retningsangivelse fra merket alene
+- Viser at det finnes grunn/land/område du må ta hensyn til
+- Må tolkes sammen med:
+- sjøkart
+- øvrige sjømerker i området
+Prinsipp: Bruk varden som advarsel – ikke som fasit for veivalg
+Ordliste:
+- Q = Quick (rask)
+- W = White (hvit)
+- V = Very (veldig, brukes sammen med Q)
+- L = Long (lang)
+- Fl = Flashing (blinkende)
+- LFl = Long Flashing (lange blink)
+- Oc = Occulting (mest lys, korte mørke avbrudd)
+- Iso = Isophase (likefase – like mye lys som mørke)
+- F = Fixed (fast lys)
+- Gp = Group ( ) = Antall blink i gruppe
+- VQ = Very Quick (veldig raske blink)
+- UQ = Ultra Quick (ultraraske blink)
+- R = Red (rød)
+- G = Green (grønn)
+- Y = Yellow (gul)
+- Bu = Blue (blå)
+- Or = Orange (oransje)
+- s = seconds (sekunder)
+- Mo(A) = Morse A (morsekode A) Kort og langt blink
+- Dir = Directional (retningslys)
+Har du lyst til å lære mer? Ta et kurs!
+Ta del i et aktivt læringsfellesskap med motiverte veiledere og båtinteresserte deltagere fra hele landet, eller ta båtførerkurset som digitalt nettkurs i ditt eget tempo. På RS Sjøliv kan du velge den kurstypen som passer deg best.
+Med eller uten båt – vi trenger deg
+Uten deg som medlem klarer vi verken å forebygge ulykker eller være der når uhellet er ute. Som medlem er du med på å sikre tryggheten langs hele kysten. Har du båt, får du også assistanse fra redningsskøytene når du trenger det.
+Vi er aldri sterkere enn menneskene som står bak oss. Og laget vårt? Det er folket. Det er deg og meg – med eller uten båt.

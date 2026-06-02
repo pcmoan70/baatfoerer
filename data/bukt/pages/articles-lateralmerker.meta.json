@@ -1,0 +1,28 @@
+{
+  "url": "https://bukt.no/articles/lateralmerker",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Lateralmerker – Hva betyr de <span style=\"color: red;\">røde</span> og <span style=\"color: green;\">grønne</span> merkene? - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "cb0bd9f23c0305dbd6172ce01a2c9cfce079f9d40e4d4e4a401b27eee66b33bb",
+  "fetched_at": "2026-06-02T11:16:42.788507+00:00",
+  "depth": 2,
+  "text_chars": 1585,
+  "n_links": 19,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-lateralmerker.svg",
+      "alt": "Illustrasjon av lateralmerker – babord og styrbord"
+    }
+  ],
+  "files": {
+    "html": "pages/articles-lateralmerker.html",
+    "text": "pages/articles-lateralmerker.txt"
+  },
+  "anchors": []
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/tasks/13",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oppgave 13 - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "b5565dcb2f13788b6c827affb7e5eced6edf63cc21473cd234ce1e8e20fa8239",
+  "fetched_at": "2026-06-02T11:16:25.649293+00:00",
+  "depth": 2,
+  "text_chars": 225,
+  "n_links": 12,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/tasks-13.html",
+    "text": "pages/tasks-13.txt"
+  },
+  "anchors": []
+}

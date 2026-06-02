@@ -1,0 +1,39 @@
+{
+  "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/undersokelse-av-ulykker/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Undersøkelse av ulykker - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "4361686523d1cd2cdf6758ed657230e376f0b3b3db077a0f66504e0597dbcdc5",
+  "fetched_at": "2026-06-02T10:56:52.490829+00:00",
+  "depth": 2,
+  "text_chars": 3562,
+  "n_links": 34,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/ulykker-risiko-og-sikkerhet-undersokelse-av-ulykker.html",
+    "text": "pages/ulykker-risiko-og-sikkerhet-undersokelse-av-ulykker.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Undersøkelse av ulykker",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Hopp til innhold",
+      "id": "content-anchors"
+    },
+    {
+      "level": 2,
+      "text": "Sjøfartsdirektoratets roller ved hendelser og ulykker til sjøs",
+      "id": "main-text-content"
+    }
+  ]
+}

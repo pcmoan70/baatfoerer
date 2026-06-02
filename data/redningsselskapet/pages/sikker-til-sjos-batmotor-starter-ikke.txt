@@ -1,0 +1,42 @@
+Har motoren stoppet?
+Det meldes om regn på reiseradioen. På tide å dra hjem fra uthavn. Men motoren er helt død når du vrir om nøkkelen eller drar i snora.
+Båtmotoren starter ikke
+Det kan være mange grunner til at en påhengsmotor ikke starter. Enhver forbrenningsmotor trenger drivstoff, luft og elektrisitet (tenning) for å starte. Vi har laget en sjekkliste du kan gå gjennom dersom motoren er død, eller du ikke får start.
+9 ting du kan sjekke for å få liv i båtmotoren:
+Står girspaken i fri?
+Gir- og gasshendelen har en mekanisme som gjør at motoren ikke lar seg starte når giret ikke står i fri. Når du vrir på nøkkelen vil det ikke være noe reaksjon. Dersom du har manuell start (startsnor) vil den være umulig å dra dersom motoren står i gir.
+Dette kan være problemet når motoren tilsynelatende er helt død.
+Dersom starteren går er det ikke girspak i gir som er problemet.
+Er dødmannsknappen satt på plass?
+Utrolig mange glemmer å sjekke at dødmannsknappen sitter på plass. Spesielt de som ikke er vant med å bruke den. Dersom dødmannsknappen er fjernet er det ikke mulig å starte motoren.
+Dette kan være feilen dersom starteren går rundt, men motoren ikke tenner.
+Er hovedstrømsbryter på?
+Hovedstrømsbryteren er også en klassiker, som det er fort gjort å glemme. Dersom ikke denne er på vil strømmen aldri komme frem til starteren som drar i gang båten. Har du motor som dras i gang med snor, er det neppe hovedstrømsbryteren som er problemet.
+Dette kan være feilen om motoren er helt død og starteren ikke går rundt. Du får da heller ikke tiltet motoren, dersom du har powertrim.
+Løse kabler?
+Sjekk at kablene til startbatteriet sitter ordentlig fast på polene. En skiftnøkkel eller en 8, 10 og 12 mm fastnøkkel kan være kjekt å ha for å etterstramme batteriklemmene.
+Dette kan være feilen dersom hovedstrømsbryteren er på, dødmannsknappen på og motorens startmotor ikke gir lyd fra seg, eller kun gir små klikkelyder.
+Er det strøm på batteriet?
+Mens du inspiserer batteriet kan du også måle spenningen. Et fulladet batteri skal ha en hvilespenning (uten belastning) på 12,7 volt. Har batteriet rundt 12 volt er det tomt. Det vil da ikke ha nok strøm til å klare å dra rundt startmotoren. Og da trenger du [en batterilader](https://nettbutikk.rs.no/produkt/defa-smartcharge-10a-batterilader/) for å lade batteriet.
+[Les mer om bruk av multimeter her](https://rs.no/sikker-til-sjos/multimeter-ma-man-ha/)
+Tom for strøm?
+Har du drivstoff?
+Dersom starteren går rundt, men motoren ikke tenner kan det hende den ikke får drivstoff. Har du løs tank er det enkelt å sjekke om du fortsatt har drivstoff. Løft og kjenn på vekten, ikke rist.
+Sitter bensinslangen på plass?
+Bensinslangen må være hel og tett for at den skal frakte bensinen trygt frem fra tank til motor. Selve overgangen har en tendens til å morkne med årene og bør skiftes med jevne mellomrom.
+Er luftingen åpen?
+Motoren suger bensin fra tanken. Dersom luftingen er stengt vil motoren suge til seg alt av luft som er i tanken – før den stopper.
+Får motoren bensin?
+Små og mellomstore påhengsmotorer trenger manuell pumping av bensin fra tank til motor frem til motoren starter og kan suge selv.
+Starttips for små motorer
+- De fleste småmotorer har en manuell choke. Bruk denne når motor er kald. Sett på full choke når du starter, før du reduserer choken gradvis når motoren går jevnt.
+- Drar du for mange ganger i startsnora vil du oppleve at motoren kan bli «rå» fordi pluggen blir våt av bensin. Steng choke – vent og prøv igjen.
+- Dersom du har elektrisk start/nøkkelstart er det viktig at du ikke gjør for mange startforsøk. Da vil du på sikt ødelegge startmotoren.
+- Som regel er det en av tre ting som er feil: bensintilførsel, lufttilførsel eller mangel på gnist. Det siste kan skyldes at tennpluggen er ødelagt eller våt.
+Ta det rolig.
+Vi finner deg.
+SafeTrx sender informasjon om hvor du er når du trenger hjelp.
+Appen inneholder også oppdaterte kart fra Kartverket, seilplanlegger, sporing og assistanseknapp. Les mer og last ned appen i dag!
+Andre gode tips:
+En laginnsats i over 130 år
+Redningsselskapet er, og har alltid vært en laginnsats. Vår felles beredskap berger liv og verdier når ulykker skjer, og forhindrer flere gjennom økt sjøvettkunnskap blant alle som ferdes her. Å redde liv er kjernen i alt vi i Redningsselskapet gjør, og siden 1891 har vårt mål vært at ingen skal omkomme på eller ved havet. For å få til dette fremover, er vi helt avhengige av både medarbeidere, frivillige, medlemmer, givere og næringslivspartnere.

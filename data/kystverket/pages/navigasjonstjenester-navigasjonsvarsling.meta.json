@@ -1,0 +1,34 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/navigasjonsvarsling/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Navigasjonsvarsling | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "7ff8ec5a0509aaa45208859c31b26cb9a9124b3da642044a25b4152f66ca0ab7",
+  "fetched_at": "2026-06-02T11:03:27.465377+00:00",
+  "depth": 1,
+  "text_chars": 1087,
+  "n_links": 132,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-50495cf09e3c4b65b699226d4b5cf24c-navarea.jpg-169bbf91.png",
+      "alt": "Kart over de 21 NAVAREAS (eller METAREAS) som alle verdenshavene er delt inn i."
+    }
+  ],
+  "files": {
+    "html": "pages/navigasjonstjenester-navigasjonsvarsling.html",
+    "text": "pages/navigasjonstjenester-navigasjonsvarsling.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Navigasjonsvarsling",
+      "id": "content-start"
+    }
+  ]
+}

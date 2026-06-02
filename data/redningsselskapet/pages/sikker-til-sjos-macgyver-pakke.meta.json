@@ -1,0 +1,67 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/macgyver-pakke/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "MacGyver-pakke - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "d1d73e54b490004657157034118f36f00108179d85137087a7637b4ecddd5116",
+  "fetched_at": "2026-06-02T11:12:14.186580+00:00",
+  "depth": 2,
+  "text_chars": 8471,
+  "n_links": 125,
+  "n_pdf_links": 0,
+  "n_images": 8,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-header.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyverpakken-oversikt-1024x819.jpg",
+      "alt": "MacGyver-pakken til båt består av duct tape, leatherman og buntebånd."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-tape-1024x819.jpg",
+      "alt": "Bildet viser ulike vevtape, slik som Duct Tape. Dette trenger du i en god MacGyver-pakke til båten."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgycer-gorilla-tape-1024x1024.jpg",
+      "alt": "Bildet viser vevtape fra produsenten Gorilla Tape. Dette trenger du i en god MacGyver-pakke til båten."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-bunteba-cc-8and-merking-1024x681.jpg",
+      "alt": "Bildet viser hvordan buntebånd i ulike farger kan brukes til å merke ankerkjetting. Dette trenger du i en god MacGyver-pakke til båten."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-leatherman-1024x1024.jpg",
+      "alt": "Bildet viser en leatherman. Dette trenger du i en god MacGyver-pakke til båten."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-leatherman-kvalitet-855x1024.jpg",
+      "alt": "Bildet viser noen av de ulike funksjonene til en leatherman. Dette trenger du i en god MacGyver-pakke til båten."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-alarm_brann.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-macgyver-pakke.html",
+    "text": "pages/sikker-til-sjos-macgyver-pakke.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "MacGyver-pakke til båten",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

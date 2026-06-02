@@ -1,0 +1,71 @@
+Elektroniske sertifikater for sjøfolk
+- Sjøfolk har fra 1.januar 2025 mulighet til å seile med elektronisk sertifikat som er utstedt av Sjøfartsdirektoratet.
+- Fra 20 mars 2025 utsteder Sjøfartsdirektoratet kun elektroniske sertifikat til sjøfolk.
+- Det er ikke lengre krav om å ha sertifikatene med seg i fysisk format om bord.
+- Du vil kunne se alle dine elektroniske sertifikat i appen «
+[NMA seafarer](https://www.sdir.no/sjofolk/sertifikater/sertifikat-app/)» eller når du logger inn på «[Min Side Sjøfolk](https://sjofolk.sdir.no/)» [Her finner du STCW.2/Circ.133 fra Norge, som bekrefter at sertifikater utstedt av norske myndigheter nå utstedes elektronisk.](https://www.sdir.no/contentassets/27b405aa87f047dc9ec54d876c4674d0/stcw.2-circ.133---communication-received-from-the-government-of-norway.pdf)
+Bakgrunn for endringen
+-
+Fra 1. januar 2025 vil sjøfolk kunne seile internasjonalt med elektroniske sertifikater. Denne endringen forenkler hverdagen for den maritime næringen og gjør dokumentasjon lettere tilgjengelig for mannskap over hele verden.
+-
+Oppdateringer i STCW-konvensjonen godkjenner elektroniske sertifikater som likeverdige med fysiske dokumenter. Dette innebærer at STCW-konvensjonen nå tydelig definerer det originale formatet for sertifikater som både fysisk (plastkort) og digitalt.
+-
+I tråd med forskrift om kvalifikasjoner og sertifikater for sjøfolk § 20, må sertifikatet foreligge i originalt format om bord. Fra 2025 vil dette inkludere elektroniske sertifikater som gjøres tilgjengelige via mobilappen "NMA Seafarer" eller på "Min side sjøfolk".
+-
+Under inspeksjoner vil mannskap kunne vise sine sertifikater enten i plastkortformat eller som et godkjent elektronisk sertifikat.
+For sjøfolk
+-
+Du kan søke ut Ferdighetssertifikatet når du ser at kurssenter/skolen har registrert inn utdanningen/kurset på «min side Sjøfolk»
+-
+- Grunnleggende sikkerhetskurs tabell A-VI/1-1, 1-2, 1-3 og 1-4
+- Ledelse i brannslukking tabell A-VI/3
+- Medisinsk førstehjelp tabell A-VI/4-1
+- Medisinsk behandling tabell A-VI/4-2
+- Sikringsbevissthet tabell A-VI/6-1
+- Sjøfolk med særlige sikringsplikter tabell A-VI/6-2
+- Sikringsoffiser (SSO) tabell A-VI/5
+For deg med kompetansesertifikat, se også neste punkt under, dette kan være relevant for deg. Vi anbefaler å sette deg inn i hva et kompetansesertifikat inneholder før du søker ut sertifikatene over.
+Følgende Ferdighetssertifikater dekkes ikke av andre kompetansesertifikat og må søkes ut separat ved behov:
+- Sjøfolk med særlige sikringsplikter A-VI/6-2
+- Sikringsplikter A-VI/6-1
+- Sikkerhets- og terrorberedskapsoffiser (SSO) A-VI/5
+- Medisinsk behandling A-VI/4-2
+En behøver ikke søke ut Sjøfolk med særlige sikringsplikter dersom en har dette inkludert i sitt Ferdighetssertifikat matros eller skipsmotormekaniker (motormann). Det vil stå i selve sertifikatet om dette er inkludert.
+Dette gjelder kun Ferdighetssertifikat matros eller skipsmotormekaniker som opprinnelig har vært utstedt som fysisk som plastkort. Plastkortet vil fortsatt være gyldige.
+-
+De som har følgende Kompetansesertifikat (CoC) utstedt av Sjøfarsdirektoratet;
+- Dekksoffiser - unntatt D6
+- Maskinoffiser – alle typer
+- Skipselektrikeroffiser (ETO)
+- Fiskeskipper klasse A, AB og B
+har også følgende kurs/opplæring inkludert i sertifikatet og behøver ikke søke ut disse ferdighetssertifikat:
+- Videregående sikkerhetsopplæring
+- Ledelse i brannslukking A-VI/3
+- Medisinsk føstehjelp A-VI/4-1
+- Redningsfarkost A-VI/2-1
+- Grunnleggende sikkerhetsopplæring
+- Personlige redningsteknikker A-VI/1-1
+- Forebyggende brannvern og brannslokking A-VI/1-2
+- Grunnleggende førstehjelp A-VI/1-3
+- Personlig sikkerhet og omsorg for menneskeliv og miljø A-VI/1-4
+NB: dette gjelder ikke for Dekksoffiser klasse 5-1 begrenset, som dekker kun grunnleggende sikkerhetsopplæring, og IKKE videregående sikkerhetopplæring.
+-
+Sjøfartsdirektoratet har fjernet bilde og signatur fra alle sertifikater, og vi utsteder kun elektroniske sertifikater. Dette betyr at du ikke trenger å sende inn bilde og signatur i søknader.
+Viktig: Husk å ha med gyldig ID når du er om bord.
+For kurssenter
+-
+Sjøfartsdirektoratet vil fra 15. august 2025 overta ansvaret for utstedelse av følgende ferdighetssertifikater, ved fullført og bestått kurs inkl. oppdatering-/fornyelseskurs:
+- Grunnleggende sikkerhetskurs tabell A-VI/1-1, 1-2, 1-3 og 1-4
+- Ledelse i brannslukking tabell A-VI/3
+- Medisinsk førstehjelp tabell A-VI/4-1
+- Medisinsk behandling tabell A-VI/4-2
+- Sikringsbevissthet tabell A-VI/6-1
+- Sjøfolk med særlige sikringsplikter tabell A-VI/6-2
+- Sikringsoffiser (SSO) tabell A-VI/5
+Det er viktig at kurs/utdanningen rapporteres inn til Sjøfartsdirektoratet så raskt som mulig.
+Da får deltaker søkt ut Ferdighetssertifikatet raskt.
+Kurssentre/skolen skal registrere bestått kurs via API eller siden «Meld inn kvalifikasjoner».
+Det er ikke nødvendig å utstede kursbevis til deltakerne. Dersom dere eller kursdeltakerne likevel ønsker dette, kan det fortsatt gjøres selv om kurset er registrert hos Sjøfartsdirektoratet.
+Husk å sette på den engelske betegnelsen på kursbeviset. Det må komme tydelig frem på både norsk og engelsk at det er et kursbevis (Documentary Evidence) og ikke et ferdighetssertifikat.
+Sjøfolk uten D-nummer eller norsk personnummer skal fortsatt få kursbevis av kurssenter/skole, da det ikke er mulig å registre inn disse elektronisk. Vi jobber med en løsning for innrapportering av kurs og utdanning for disse.
+Kursbevis skal utstedes i henhold til kurstilbyderens egen mal og skal inneholde korrekt referanse til relevant regel, avsnitt og tabell i STCW-konvensjonen, samt en henvisning til gyldig godkjenningsbrev. Dette gjelder også for kurs der det ikke skal utstedes ferdighetssertifikat.

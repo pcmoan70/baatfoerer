@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/tasks/100",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oppgave 100 - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "7726585065404e499c83c501e95d4e3709fa344bf9cac17680b99282d151a07a",
+  "fetched_at": "2026-06-02T11:13:50.226578+00:00",
+  "depth": 1,
+  "text_chars": 127,
+  "n_links": 12,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/tasks-100.html",
+    "text": "pages/tasks-100.txt"
+  },
+  "anchors": []
+}

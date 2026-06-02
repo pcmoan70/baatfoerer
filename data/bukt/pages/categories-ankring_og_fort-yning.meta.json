@@ -1,0 +1,44 @@
+{
+  "url": "https://bukt.no/categories/ANKRING_OG_FORTØYNING",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Ankring og fortøyning - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c76f7dcbfc2edba79c36d5d34ec228463d22895e15ad46b9a9cc006c81c0f27b",
+  "fetched_at": "2026-06-02T11:14:02.596346+00:00",
+  "depth": 2,
+  "text_chars": 1226,
+  "n_links": 29,
+  "n_pdf_links": 0,
+  "n_images": 5,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-134.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-135.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-136.jpg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-137.jpg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-138.jpg",
+      "alt": "Oppgavebilde"
+    }
+  ],
+  "files": {
+    "html": "pages/categories-ankring_og_fort-yning.html",
+    "text": "pages/categories-ankring_og_fort-yning.txt"
+  },
+  "anchors": []
+}

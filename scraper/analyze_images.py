@@ -66,7 +66,7 @@ def main() -> int:
             score, hits = score_image(rec)
             entry = {
                 "site": site,
-                "source_id": idx["source_id"],
+                "source_id": idx.get("source_id", site),
                 "authority": idx.get("authority"),
                 "file": rec.get("file"),
                 "url": rec.get("url"),

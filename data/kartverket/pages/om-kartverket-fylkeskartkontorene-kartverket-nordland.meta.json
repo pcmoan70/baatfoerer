@@ -1,0 +1,64 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-nordland",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kartverket Nordland | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:32 GMT",
+  "checksum_sha256": "0ee05eac07910e182f8774fd92aea115d0ef2ce7d6dbca4ee489fb78538f887d",
+  "fetched_at": "2026-06-02T11:07:33.864161+00:00",
+  "depth": 2,
+  "text_chars": 1666,
+  "n_links": 64,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-nordland.html",
+    "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-nordland.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kartverket Nordland",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Fagområder i fylket",
+      "id": "LinkListBlockProxy-6323"
+    },
+    {
+      "level": 2,
+      "text": "Geodatasamarbeid i fylket",
+      "id": "LinkListBlockProxy-6484"
+    },
+    {
+      "level": 2,
+      "text": "Geodataressurser",
+      "id": "LinkListBlockProxy-5723"
+    },
+    {
+      "level": 2,
+      "text": "Nyheter",
+      "id": "NewsListingBlockProxy-11819"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

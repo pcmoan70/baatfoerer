@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/skipsregistrene/nyregistrering2/registrer-fritidsfartoy-i-nor/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Nyregistrering av fritidsfartøy i NOR - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "556896addfd2a77d26a8c7a4970c65b83934e315e900c51e5e10a52fe5b134ea",
+  "fetched_at": "2026-06-02T10:56:17.397150+00:00",
+  "depth": 2,
+  "text_chars": 737,
+  "n_links": 31,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/skipsregistrene-nyregistrering2-registrer-fritidsfartoy-i-nor.html",
+    "text": "pages/skipsregistrene-nyregistrering2-registrer-fritidsfartoy-i-nor.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Nyregistrering av fritidsfartøy i NOR",
+      "id": "main-content"
+    }
+  ]
+}

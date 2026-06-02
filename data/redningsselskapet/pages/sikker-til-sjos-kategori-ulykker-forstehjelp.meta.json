@@ -1,0 +1,68 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Ulykker og førstehjelp Arkiver - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "30981322ce81182fe0a6e937bd01ed46055dfa3e89befa2aa72b15a92a2cc6ba",
+  "fetched_at": "2026-06-02T11:10:26.499561+00:00",
+  "depth": 1,
+  "text_chars": 2001,
+  "n_links": 160,
+  "n_pdf_links": 0,
+  "n_images": 11,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-07-drukning_header.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-12-isredning_header.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-06-redning-livb-ye-scaled.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2019-06-illustrasjon.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2018-06-sommerturen.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-01-pa--isen.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-03-assistanse_1920718.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-07-mann-over-bord-smal.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-06-forside_lekkbat.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-04-barn_ba-t_sjosyke.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-02-nedkjolt_header.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-kategori-ulykker-forstehjelp.html",
+    "text": "pages/sikker-til-sjos-kategori-ulykker-forstehjelp.txt"
+  },
+  "anchors": []
+}

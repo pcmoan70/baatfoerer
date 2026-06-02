@@ -1,0 +1,59 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Om Kartverket | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:25 GMT",
+  "checksum_sha256": "b8731132ea784d3d629e9fd58d39acf84076f880c3fc3faaa3efe7dcf1ef862e",
+  "fetched_at": "2026-06-02T11:07:27.923415+00:00",
+  "depth": 2,
+  "text_chars": 2546,
+  "n_links": 78,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kartverket\\images\\contentassets-92fb46e313d14bd5bebe3d77c26789b8-rekruttering_-ca710407.jpg",
+      "alt": "Ansatte som jobber i Kartverket (Foto: Morten Brun)"
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket.html",
+    "text": "pages/om-kartverket.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Om Kartverket",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Fylkeskartkontor",
+      "id": "LinkListBlockProxy-5430"
+    },
+    {
+      "level": 2,
+      "text": "Nyheter",
+      "id": "NewsListingBlockProxy-10367"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

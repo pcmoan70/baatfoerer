@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/tid-for-motorvask/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Tid for motorvask - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "205735d1b7bf2d156fef9b4459ca394c150902cbb3c37b5e01e8f6605b610a8b",
+  "fetched_at": "2026-06-02T11:12:56.176642+00:00",
+  "depth": 2,
+  "text_chars": 5125,
+  "n_links": 111,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-tid-for-motorvask.html",
+    "text": "pages/sikker-til-sjos-tid-for-motorvask.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Tid for motorvask",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

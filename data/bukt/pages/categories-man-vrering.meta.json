@@ -1,0 +1,48 @@
+{
+  "url": "https://bukt.no/categories/MANØVRERING",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Manøvrering - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "cffa16f77d510674ed8ea47ba5467e05a5b5b29d355ac30ae34c1df18eb093ac",
+  "fetched_at": "2026-06-02T11:14:49.312791+00:00",
+  "depth": 2,
+  "text_chars": 984,
+  "n_links": 25,
+  "n_pdf_links": 0,
+  "n_images": 6,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-106.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-107.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-108.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-109.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-111.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-112.svg",
+      "alt": "Oppgavebilde"
+    }
+  ],
+  "files": {
+    "html": "pages/categories-man-vrering.html",
+    "text": "pages/categories-man-vrering.txt"
+  },
+  "anchors": []
+}

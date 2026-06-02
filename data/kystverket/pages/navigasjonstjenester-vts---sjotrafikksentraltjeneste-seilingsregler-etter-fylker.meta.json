@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/seilingsregler-etter-fylker/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Seilingsregler | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "1cb540e46c55e0c6f5e7b0069afb9bcef47b67dd0e3959ed395f2b5bf6a39c75",
+  "fetched_at": "2026-06-02T11:06:31.601069+00:00",
+  "depth": 2,
+  "text_chars": 1789,
+  "n_links": 148,
+  "n_pdf_links": 2,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-seilingsregler-etter-fylker.html",
+    "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-seilingsregler-etter-fylker.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Seilingsregler",
+      "id": "content-start"
+    }
+  ]
+}

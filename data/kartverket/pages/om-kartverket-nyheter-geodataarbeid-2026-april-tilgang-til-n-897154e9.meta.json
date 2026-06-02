@@ -1,0 +1,53 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/nyheter/geodataarbeid/2026/april/tilgang-til-nrl-data-krever-godkjenning-fra-1.-juli",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Tilgang til NRL-data krever godkjenning fra 1. juli | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:46 GMT",
+  "checksum_sha256": "2ca4ec579312032c448e0e529d79fe8e75e88138e2de79e269078772cbc60256",
+  "fetched_at": "2026-06-02T11:08:49.802386+00:00",
+  "depth": 2,
+  "text_chars": 1782,
+  "n_links": 34,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-luftambulanse_ved_uia_-a1856bca.jpg",
+      "alt": "Luftambulanse lander ved en administrasjonsbygning. Foto:Magnus Nødland Skogedal"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-hoyspent-og-helikopter-4f1f47ca.jpg",
+      "alt": "H&oslash;yspentmast og ledningsnett med et helikopter svevende over (foto Wilhelm B&oslash;e/ Kartverket)"
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket-nyheter-geodataarbeid-2026-april-tilgang-til-n-897154e9.html",
+    "text": "pages/om-kartverket-nyheter-geodataarbeid-2026-april-tilgang-til-n-897154e9.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Tilgang til NRL-data må godkjennes fra 1. juli",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

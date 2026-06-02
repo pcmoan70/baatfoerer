@@ -1,0 +1,95 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Førstehjelpsutstyr i båt - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "53cdfc235e4ee748b010d69252f0e499f51a16e92f0fa83dd396d38819a65bc5",
+  "fetched_at": "2026-06-02T11:11:05.676528+00:00",
+  "depth": 1,
+  "text_chars": 4610,
+  "n_links": 116,
+  "n_pdf_links": 0,
+  "n_images": 15,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-forstehjelpspute.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-pyrisept-641x1024.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: Pyrisept - sårrensemiddel"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-norgesplaster.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: Plaster"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-11-lifesystems-vanntett-forstehjelp-3-1024x1024.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-saksogpinsett.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: saks og pinsett"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-ispose.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: ispose"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-oyedra-cc-8aper.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: øyedråper"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-redningsfolie.jpg",
+      "alt": "Redningsfolie er førstehjelpsutstyr som kan bidra til å opprettholde kroppstemperaturen"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-munntilmunn_maske.jpg",
+      "alt": "Munn til munn-masken brukes for å gjennomføre innblåsninger på en hygienisk måte"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-forstehjelps_instruksjoner_hefte.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: manual"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-ibux_paracet-300x201.jpg",
+      "alt": "Smertestillende tabletter. Her illustert med Ibux og Paracet"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-eurax_salve-300x140.jpg",
+      "alt": "Eurax sårsalve"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-fla-cc-8attpenn.jpg",
+      "alt": "Flåttpenn: Spesielt verktøy til fjerning av flått."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-solkrem-235x300.jpg",
+      "alt": "Solkrem er viktig å ha med seg på båttur da sola tar ekstra godt på sjøen grunnet refleksjonene i havet."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-gnagsa-cc-8arplaster_compeed.jpg",
+      "alt": "Gnagsårplaster er smart å ha i båten. Her illustrert med Compeed"
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-forstehjelpsutstyr-i-bat.html",
+    "text": "pages/sikker-til-sjos-forstehjelpsutstyr-i-bat.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Førstehjelpsutstyr i båt",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

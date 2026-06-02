@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/enkelt-og-godt-i-bat/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Enkelt og godt i båt - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c5d6d99747797fb49bc2c5718db413f8e2bb45f888c4f322e1606d3258c3d518",
+  "fetched_at": "2026-06-02T11:12:22.365229+00:00",
+  "depth": 2,
+  "text_chars": 5687,
+  "n_links": 118,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-enkelt-og-godt-i-bat.html",
+    "text": "pages/sikker-til-sjos-enkelt-og-godt-i-bat.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Enkelt og godt i båt",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

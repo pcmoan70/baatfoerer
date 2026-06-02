@@ -1,0 +1,25 @@
+Ny og mer presis vannstandsmodell for Saltstraumen
+Den oppdaterte vannstandsmodellen innenfor Saltstraumen gir nå mer presis kunnskap om tidevann og vannstand. Dette gir bedre varsling til bruk i planlegging og beredskap i kystsonen.
+Vannstandsmodellen er basert på data fra Kartverkets nettverk av [permanente vannstandsmålere](https://www.kartverket.no/til-sjos/se-havniva/lar-om-tidevann-og-vannstand/permanente-vannstandsmalere), samt kortere målekampanjer.
+I perioden 2024–2025 har Kartverket målt vannstand i Naurstad, Misværfjorden og Rognan. Data fra disse målingene utgjør grunnlaget for den oppdaterte modellen. Tidligere fantes det kun noen få dager med måledata fra 1992, fra hele fjordsystemet innenfor Saltstraumen.
+Forskjeller i tidevannet
+– Målingene viser at tidevannet er nesten to timer forsinket fra Bodø til Skjerstadfjorden, gjennom Saltstraumen. Forskjellen mellom flo og fjære i Skjerstadfjorden er bare 65 prosent av forskjellen mellom flo og fjære i Bodø. Tidligere har tidevannet i Misværfjorden ikke kunnet beregnes. Med de nye målingene er dette nå mulig, sier seksjonsleder Nicolien Haasbroek i oseanografiseksjonen i Kartverket.
+Årsaken er Saltstraumens form. Sundet er smalt og grunt sammenlignet med fjordsystemet innenfor. Når vannstanden utenfor endrer seg, må store vannmengder presses gjennom sundet. Dette skaper sterke strømmer.
+Saltstraumen er kjent som [en av verdens sterkeste tidevannsstrømmer](https://www.kartverket.no/til-sjos/se-havniva/lar-om-tidevann-og-vannstand/sterke-tidevannsstrommer-i-norge).
+Bruk i andre modeller
+De nye vannstandsdataene vil også bli brukt i neste versjon av [de offisielle separasjonsmodellene](https://www.kartverket.no/api-og-data/separasjonsmodellar).
+Slike modeller viser forskjellen mellom to ulike referansenivå eller høydesystemer i et område. De brukes blant annet til å omregne GNSS-målinger til høyder over havet eller over sjøkartnull, og fra dybdedata i sjøkart til høyder i NN2000.
+Fakta
+Vannstandsmodeller brukes til å:
+- varsle stormflo – høye vannstander ved uvær
+- klimaanalyser – for å forstå havnivåstigning
+- planlegge virksomhet, utbygging og infrastruktur i kystsonen
+- sikkerhet og beredskap
+- navigasjon
+- vannstandsvarsel
+Kontakt
+Sissel Kanstad
+kommunikasjonsrådgiver og presseansvarlig
+Kartverket
+tlf. 51 85 88 28 / 99 51 38 48
+E-posten er sendt

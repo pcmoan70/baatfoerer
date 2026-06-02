@@ -1,0 +1,3003 @@
+{
+  "site": "redningsselskapet",
+  "name": "Redningsselskapet – sjøvettreglene",
+  "seed_url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+  "authority": "ngo",
+  "rebuilt": true,
+  "n_pages": 60,
+  "n_pdfs": 0,
+  "n_images": 150,
+  "pages": [
+    {
+      "url": "https://rs.no/kurs/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Kurs - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "56d278e7be39a4b6b66ccfea9b2fdd14e807b2ca33bd0855ed64a07f1030cbec",
+      "fetched_at": "2026-06-02T11:09:37.479117+00:00",
+      "depth": 1,
+      "text_chars": 1231,
+      "n_links": 114,
+      "n_pdf_links": 0,
+      "n_images": 8,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2020-08-taroretjenter.jpg",
+          "alt": "Ta roret jenter"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-04-hoyhastighet_rib.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-11-sommerskole_2018.jpg",
+          "alt": "Sommerskole"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-09-livredningskurs.jpg",
+          "alt": "Livredningskurs. Mennesker i vannet som øver på livredning."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-02-50531175388_c0f5b339e6_o-scaled.jpg",
+          "alt": "Redningsmannskurs Noatun"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-02-vinteroya-kollasj.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2019-06-digitalt_livredningskurs.png",
+          "alt": "Bildet er en skjermdump fra det digitale livredningskurset"
+        }
+      ],
+      "files": {
+        "html": "pages/kurs.html",
+        "text": "pages/kurs.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/livredningskurs/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Livredningskurs - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c468897048406f6055da2e43e34a243de7b7fc7aa6f11f09bdb28e4a906ccd15",
+      "fetched_at": "2026-06-02T11:11:42.637912+00:00",
+      "depth": 2,
+      "text_chars": 1313,
+      "n_links": 117,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2017-04-kim_hagen_bertheussen_rs-150x150.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/livredningskurs.html",
+        "text": "pages/livredningskurs.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Grunnleggende om strøm i båt - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "49962ea62e75a4dce618bdae85a22a28296f5f0d42fb33b77f534cda20c1b0a3",
+      "fetched_at": "2026-06-02T11:12:04.022177+00:00",
+      "depth": 2,
+      "text_chars": 9767,
+      "n_links": 130,
+      "n_pdf_links": 0,
+      "n_images": 12,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-15.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-3-1024x1024.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-7-1024x535.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-9-1024x535.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-10-1024x535.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-11-1024x1024.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-12-1024x1024.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-13-1024x1024.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-18-1024x1024.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-25-1024x535.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-27-1024x535.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-30-1024x535.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-12-volt-for-dummies.html",
+        "text": "pages/sikker-til-sjos-12-volt-for-dummies.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/7-tips-til-en-perfekt-sommersesong-pa-sjoen/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "7 tips til en perfekt sommersesong på sjøen - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "553cb7134c44cf2d91865e837fcc8593e200aed3810859b00c045cd47c726bcc",
+      "fetched_at": "2026-06-02T11:12:29.966017+00:00",
+      "depth": 2,
+      "text_chars": 4333,
+      "n_links": 126,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-7-tips-til-en-perfekt-sommersesong-pa-sjoen.html",
+        "text": "pages/sikker-til-sjos-7-tips-til-en-perfekt-sommersesong-pa-sjoen.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/alt-du-ma-vite-om-sink-til-bat/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Sink til båt - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "980eceb2d98690f23be60415661ac02dbe7e2cc3263b99e857fae2c6df60938b",
+      "fetched_at": "2026-06-02T11:12:32.848111+00:00",
+      "depth": 2,
+      "text_chars": 4203,
+      "n_links": 123,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-alt-du-ma-vite-om-sink-til-bat.html",
+        "text": "pages/sikker-til-sjos-alt-du-ma-vite-om-sink-til-bat.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/alt-du-trenger-a-vite-om-hummerfiske/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Alt du trenger å vite om hummerfiske - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "dfbc6d2bba66b7649f8414a0112324ee47b26300834d856b753a55ba7e2ed989",
+      "fetched_at": "2026-06-02T11:12:20.824866+00:00",
+      "depth": 2,
+      "text_chars": 11778,
+      "n_links": 151,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-alt-du-trenger-a-vite-om-hummerfiske.html",
+        "text": "pages/sikker-til-sjos-alt-du-trenger-a-vite-om-hummerfiske.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/barn-pa-isen/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Barn på isen - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "ad49ca1398f988ef4bd3872fd629081b3edf9bd4802d2fd81412fefd539b1b2c",
+      "fetched_at": "2026-06-02T11:12:23.843199+00:00",
+      "depth": 2,
+      "text_chars": 2346,
+      "n_links": 125,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-barn-pa-isen.html",
+        "text": "pages/sikker-til-sjos-barn-pa-isen.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/batmotor-starter-ikke/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Båtmotoren starter ikke - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "f97e6c5ab32ffe3e97bdd90242e33754c3dfef2e9630059eda2fbad1b81ffe28",
+      "fetched_at": "2026-06-02T11:12:38.622565+00:00",
+      "depth": 2,
+      "text_chars": 4515,
+      "n_links": 123,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-batmotor-starter-ikke.html",
+        "text": "pages/sikker-til-sjos-batmotor-starter-ikke.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/bryggevett/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Bryggevett - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c38d4d9b97b0b878bf7879456949609009ac6013c9835765f91bb1ccb6e4b8e7",
+      "fetched_at": "2026-06-02T11:11:50.447249+00:00",
+      "depth": 2,
+      "text_chars": 1856,
+      "n_links": 115,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-01-hold_hodet_kaldt.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-bryggevett.html",
+        "text": "pages/sikker-til-sjos-bryggevett.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/daniel-salbu-om-synlighet-og-sikkerhet/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Daniel Salbu om synlighet og sikkerhet - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "70d481921792ef0df0f11c899af386209d5a378e4f4d6b7365a999d89001260a",
+      "fetched_at": "2026-06-02T11:12:37.183836+00:00",
+      "depth": 2,
+      "text_chars": 5083,
+      "n_links": 121,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-daniel-salbu-om-synlighet-og-sikkerhet.html",
+        "text": "pages/sikker-til-sjos-daniel-salbu-om-synlighet-og-sikkerhet.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/enkelt-og-godt-i-bat/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Enkelt og godt i båt - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c5d6d99747797fb49bc2c5718db413f8e2bb45f888c4f322e1606d3258c3d518",
+      "fetched_at": "2026-06-02T11:12:22.365229+00:00",
+      "depth": 2,
+      "text_chars": 5687,
+      "n_links": 118,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-enkelt-og-godt-i-bat.html",
+        "text": "pages/sikker-til-sjos-enkelt-og-godt-i-bat.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/fenderstikk/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Fenderstikk - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "faa7a8858a28b7418675b94e279b731b1ba0a3ea25576d6085b0cf8656f0e922",
+      "fetched_at": "2026-06-02T11:12:35.731312+00:00",
+      "depth": 2,
+      "text_chars": 657,
+      "n_links": 116,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-fenderstikk.html",
+        "text": "pages/sikker-til-sjos-fenderstikk.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/flytedress-for-alle/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Flytedress for alle - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "0846df3cd3910fcd0a2b18cebd094eec3892ba00aa62e0c46b2e0195889c88e7",
+      "fetched_at": "2026-06-02T11:12:57.612159+00:00",
+      "depth": 2,
+      "text_chars": 4143,
+      "n_links": 125,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-flytedress-for-alle.html",
+        "text": "pages/sikker-til-sjos-flytedress-for-alle.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/forstehjelp-ved-drukning/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Førstehjelp ved drukning - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "16bb360542ce833339a61878d77a3ec80d1e47fba3747d5efd39b88a6c1e72e8",
+      "fetched_at": "2026-06-02T11:12:46.024841+00:00",
+      "depth": 2,
+      "text_chars": 2230,
+      "n_links": 108,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-forstehjelp-ved-drukning.html",
+        "text": "pages/sikker-til-sjos-forstehjelp-ved-drukning.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Førstehjelpsutstyr i båt - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "53cdfc235e4ee748b010d69252f0e499f51a16e92f0fa83dd396d38819a65bc5",
+      "fetched_at": "2026-06-02T11:11:05.676528+00:00",
+      "depth": 1,
+      "text_chars": 4610,
+      "n_links": 116,
+      "n_pdf_links": 0,
+      "n_images": 15,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-forstehjelpspute.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-pyrisept-641x1024.jpg",
+          "alt": "Bildet viser førstehjelpsutstyr: Pyrisept - sårrensemiddel"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-norgesplaster.jpg",
+          "alt": "Bildet viser førstehjelpsutstyr: Plaster"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-11-lifesystems-vanntett-forstehjelp-3-1024x1024.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-saksogpinsett.jpg",
+          "alt": "Bildet viser førstehjelpsutstyr: saks og pinsett"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-ispose.jpg",
+          "alt": "Bildet viser førstehjelpsutstyr: ispose"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-oyedra-cc-8aper.jpg",
+          "alt": "Bildet viser førstehjelpsutstyr: øyedråper"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-redningsfolie.jpg",
+          "alt": "Redningsfolie er førstehjelpsutstyr som kan bidra til å opprettholde kroppstemperaturen"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-munntilmunn_maske.jpg",
+          "alt": "Munn til munn-masken brukes for å gjennomføre innblåsninger på en hygienisk måte"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-forstehjelps_instruksjoner_hefte.jpg",
+          "alt": "Bildet viser førstehjelpsutstyr: manual"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-ibux_paracet-300x201.jpg",
+          "alt": "Smertestillende tabletter. Her illustert med Ibux og Paracet"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-eurax_salve-300x140.jpg",
+          "alt": "Eurax sårsalve"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-fla-cc-8attpenn.jpg",
+          "alt": "Flåttpenn: Spesielt verktøy til fjerning av flått."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-solkrem-235x300.jpg",
+          "alt": "Solkrem er viktig å ha med seg på båttur da sola tar ekstra godt på sjøen grunnet refleksjonene i havet."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-gnagsa-cc-8arplaster_compeed.jpg",
+          "alt": "Gnagsårplaster er smart å ha i båten. Her illustrert med Compeed"
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-forstehjelpsutstyr-i-bat.html",
+        "text": "pages/sikker-til-sjos-forstehjelpsutstyr-i-bat.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/fortoy-for-storm/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Fortøy for storm - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "bbcfc17468570ef69c310cf84a097bad6ce806dd7320a0db7d5c06b1a8276998",
+      "fetched_at": "2026-06-02T11:12:50.367524+00:00",
+      "depth": 2,
+      "text_chars": 3265,
+      "n_links": 119,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-fortoy-for-storm.html",
+        "text": "pages/sikker-til-sjos-fortoy-for-storm.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/fortoye-i-uthavn/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Fortøye i uthavn - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "be7b1189ccba3cd6fdee3831293ecdb183a739ccb5fa05502703101b6661c866",
+      "fetched_at": "2026-06-02T11:12:40.082920+00:00",
+      "depth": 2,
+      "text_chars": 2033,
+      "n_links": 117,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-fortoye-i-uthavn.html",
+        "text": "pages/sikker-til-sjos-fortoye-i-uthavn.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/gjenkjenn-en-drukningsulykke/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Gjenkjenn en drukningsulykke - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "95d4117ab0c7106e65ea53be844427779ee7a00256f0da04656b15cba3f4d47c",
+      "fetched_at": "2026-06-02T11:12:41.541675+00:00",
+      "depth": 2,
+      "text_chars": 800,
+      "n_links": 111,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-gjenkjenn-en-drukningsulykke.html",
+        "text": "pages/sikker-til-sjos-gjenkjenn-en-drukningsulykke.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/gode-rad-for-battur-med-barn-om-bord/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Gode råd for båttur med barn - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "0106fdc78c35d8d40021586209c58c89e7a8fd7391f7bbf904a42333f92f1d3b",
+      "fetched_at": "2026-06-02T11:12:26.992667+00:00",
+      "depth": 2,
+      "text_chars": 3084,
+      "n_links": 111,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-gode-rad-for-battur-med-barn-om-bord.html",
+        "text": "pages/sikker-til-sjos-gode-rad-for-battur-med-barn-om-bord.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/gode-rad-mot-sjosyke/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Gode råd mot sjøsyke - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "b3a859af6a3d3559be9289eee4b528fa1b172125337c3b821c320cb2dfdfe410",
+      "fetched_at": "2026-06-02T11:13:16.824901+00:00",
+      "depth": 2,
+      "text_chars": 4014,
+      "n_links": 108,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-gode-rad-mot-sjosyke.html",
+        "text": "pages/sikker-til-sjos-gode-rad-mot-sjosyke.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/hjelp-mann-over-bord/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Hjelp- mann over bord! - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "615792a4d29cdfbccf42a378d5740c24e809d44a770322483e11746ebc50f8c7",
+      "fetched_at": "2026-06-02T11:13:13.890295+00:00",
+      "depth": 2,
+      "text_chars": 2924,
+      "n_links": 116,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-hjelp-mann-over-bord.html",
+        "text": "pages/sikker-til-sjos-hjelp-mann-over-bord.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/hund-i-bat/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Hund i båt - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "2a051c94c1b98cd2ca2edeea44f439be6b16101f122a39feefc5dfe2b54011d7",
+      "fetched_at": "2026-06-02T11:12:31.435503+00:00",
+      "depth": 2,
+      "text_chars": 7170,
+      "n_links": 123,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-hund-i-bat.html",
+        "text": "pages/sikker-til-sjos-hund-i-bat.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/hvilke-bater-kan-du-kjore-med-og-uten-batforerbevis/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Hvilke båter kan du kjøre med og uten båtførerbevis? - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c36e69015ad5c3ea4feebfdb3337c8307c1e86239cf3615a236f0bb250eab80b",
+      "fetched_at": "2026-06-02T11:12:25.496875+00:00",
+      "depth": 2,
+      "text_chars": 4807,
+      "n_links": 121,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-hvilke-bater-kan-du-kjore-med-og-uten-batforerbevis.html",
+        "text": "pages/sikker-til-sjos-hvilke-bater-kan-du-kjore-med-og-uten-batforerbevis.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Hvilken vest skal jeg velge? - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "7fac4a86e1e8ab4b883733a7aa3427c86d77154a7aeeb88045dc8e7396d300ba",
+      "fetched_at": "2026-06-02T11:10:46.803563+00:00",
+      "depth": 1,
+      "text_chars": 3761,
+      "n_links": 131,
+      "n_pdf_links": 0,
+      "n_images": 10,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-crewsaver-banner-4.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2025-04-milla_kristoffer_tar_batforerproven.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-05-elias-redningsvest-rosa-1024x683.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-flytesvester2-1024x743.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-redningsvest-1024x743.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-05-regatta-rs-flytedrakt-1024x743.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-05-redningsvest-hund-2-1024x743.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-05-sjekk-vesten-1-1024x743.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-03-kim_goran.jpg",
+          "alt": "Kim Gøran er maskinsjef på RS «Inge Steensland»"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-11-vestpakking_montasje.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-hvilken-vest-skal-jeg-velge.html",
+        "text": "pages/sikker-til-sjos-hvilken-vest-skal-jeg-velge.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/hvordan-legge-inntil-brygga/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Hvordan legge inntil brygga - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "febae92bd83f1859a35632089a9c0794e05b3da2ae880caae463bd473eab04a3",
+      "fetched_at": "2026-06-02T11:13:03.464047+00:00",
+      "depth": 2,
+      "text_chars": 1326,
+      "n_links": 118,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-hvordan-legge-inntil-brygga.html",
+        "text": "pages/sikker-til-sjos-hvordan-legge-inntil-brygga.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/isredning/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Isredning - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "271a37bf65742406f865b67af441f5b936e61e47531d1ab783a3a0674cc397fe",
+      "fetched_at": "2026-06-02T11:12:43.094736+00:00",
+      "depth": 2,
+      "text_chars": 2944,
+      "n_links": 128,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-isredning.html",
+        "text": "pages/sikker-til-sjos-isredning.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/istips-i-istiden/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Istips i istiden - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "5eca413422e035dfc73f0a615e2be7f461324311c75f911b048ecc4fd8ee539e",
+      "fetched_at": "2026-06-02T11:12:51.835723+00:00",
+      "depth": 2,
+      "text_chars": 9323,
+      "n_links": 134,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-istips-i-istiden.html",
+        "text": "pages/sikker-til-sjos-istips-i-istiden.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/isvett/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Isvett - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "8a4260fd870938960a4fb317758602817158db5580e9ed8f12b04de3604fb0a6",
+      "fetched_at": "2026-06-02T11:12:48.900382+00:00",
+      "depth": 2,
+      "text_chars": 6526,
+      "n_links": 128,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-isvett.html",
+        "text": "pages/sikker-til-sjos-isvett.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/barn-i-bat/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Barn i båt Arkiver - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "930eb2a1bcc9638bbe355d82c852c4d5d2ed1bf44530233a6b5e29a91919b67f",
+      "fetched_at": "2026-06-02T11:11:40.256549+00:00",
+      "depth": 1,
+      "text_chars": 1480,
+      "n_links": 146,
+      "n_pdf_links": 0,
+      "n_images": 5,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2018-07-barn-i-ba-t.jpg",
+          "alt": "Bildet viser en mor med barn ombord i en båt."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2017-05-barnivest1.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-12-hrl_barn1920x718.jpg",
+          "alt": "Hjerte og lungerednings på småbarn."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-11-baby_svomming_sorthvitt.jpg",
+          "alt": "Bildet viser babysvømming."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-11-b9a6fbfc-b2b1-495a-8230-738e3b41dc39.jpeg",
+          "alt": "Barn og baby på båttur"
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-barn-i-bat.html",
+        "text": "pages/sikker-til-sjos-kategori-barn-i-bat.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/page/2/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Sikkerhetsutstyr Arkiver - Side 2 av 3 - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "75435ca5fc51680de8895a05fe4247c68d00e8ac60827cff7fcb29e2b211b13c",
+      "fetched_at": "2026-06-02T11:12:59.100818+00:00",
+      "depth": 2,
+      "text_chars": 2115,
+      "n_links": 161,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-sikkerhetsutstyr-page-2.html",
+        "text": "pages/sikker-til-sjos-kategori-sikkerhetsutstyr-page-2.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/page/3/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Sikkerhetsutstyr Arkiver - Side 3 av 3 - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "8c32737d3dd9234e8c322b9384add770182013b17a6a78875393849c3c6e3aab",
+      "fetched_at": "2026-06-02T11:13:00.573101+00:00",
+      "depth": 2,
+      "text_chars": 265,
+      "n_links": 158,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-sikkerhetsutstyr-page-3.html",
+        "text": "pages/sikker-til-sjos-kategori-sikkerhetsutstyr-page-3.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Sikkerhetsutstyr Arkiver - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "49ec5667cb89b8915d3bab6b98bbdd353142baeeb0b94957dce8d9d127d412e3",
+      "fetched_at": "2026-06-02T11:10:03.942081+00:00",
+      "depth": 1,
+      "text_chars": 331,
+      "n_links": 160,
+      "n_pdf_links": 0,
+      "n_images": 10,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-03-ba-ter_sandspollen.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-05-photo_52675145895-scaled.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-02-sink_header.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-02-flytedresser_header.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-02-nattylys_header.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-09-05_dieseldyrenekommer.jpg",
+          "alt": "Pass deg for dieseldyrene. De har aldri gode hensikter."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-09-daniel_synlighet.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-03-bakomrulle.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-03-barn_pa-_isen.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-01-vinterpadling_kajakk.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-sikkerhetsutstyr.html",
+        "text": "pages/sikker-til-sjos-kategori-sikkerhetsutstyr.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/page/2/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Sjømannskap Arkiver - Side 2 av 4 - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "f5b9e9c3afc20075a510407e09ed7ea800339b4145b643c5bac2b9a8e6d29c2d",
+      "fetched_at": "2026-06-02T11:13:06.420330+00:00",
+      "depth": 2,
+      "text_chars": 1816,
+      "n_links": 164,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-sjomannskap-page-2.html",
+        "text": "pages/sikker-til-sjos-kategori-sjomannskap-page-2.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/page/3/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Sjømannskap Arkiver - Side 3 av 4 - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "edfe554f7de48ae43256f6987785a4c0cc240edf70b747d53b00a630fea4dacd",
+      "fetched_at": "2026-06-02T11:13:07.902951+00:00",
+      "depth": 2,
+      "text_chars": 2025,
+      "n_links": 166,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-sjomannskap-page-3.html",
+        "text": "pages/sikker-til-sjos-kategori-sjomannskap-page-3.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/page/4/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Sjømannskap Arkiver - Side 4 av 4 - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "b05c1eb14456bc64db861e10bf14d9877ed98a7a0659ddced706468331891e45",
+      "fetched_at": "2026-06-02T11:13:09.397069+00:00",
+      "depth": 2,
+      "text_chars": 367,
+      "n_links": 165,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-sjomannskap-page-4.html",
+        "text": "pages/sikker-til-sjos-kategori-sjomannskap-page-4.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Sjømannskap Arkiver - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "7ef9f376576ee3a439e47a3d2573a26dd205c8ffd1c4e7c726cb4cb2b394805c",
+      "fetched_at": "2026-06-02T11:10:13.612340+00:00",
+      "depth": 1,
+      "text_chars": 271,
+      "n_links": 161,
+      "n_pdf_links": 0,
+      "n_images": 8,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-10-boyestikk_fenderstikk-scaled.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-06-9_pumpe_bensin_2.jpg",
+          "alt": "Pump bensin manuelt med bensinblæra, den manuelle bensinpumpa"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-06-uthavn_header.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-06-poke_bowl_mat.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-05-skartveit_gjestehavn.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-03-leggetil_vriba-ten.jpg",
+          "alt": "Bildet viser en som skal legge inntil brygga"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-11-p-lestikk_del31.png",
+          "alt": "Ferdig pålestikk"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-ba-tkjoring_under_16_a-r_9_9_hk.jpg",
+          "alt": "Ung båtfører kjører båt med 9,9 hk."
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-sjomannskap.html",
+        "text": "pages/sikker-til-sjos-kategori-sjomannskap.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/page/2/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Ulykker og førstehjelp Arkiver - Side 2 av 2 - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "7c1f2e4d759e7505ff2eb32340ca1fa05a95d8e1798c92e51f44f2276b68526e",
+      "fetched_at": "2026-06-02T11:13:19.737250+00:00",
+      "depth": 2,
+      "text_chars": 583,
+      "n_links": 129,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-ulykker-forstehjelp-page-2.html",
+        "text": "pages/sikker-til-sjos-kategori-ulykker-forstehjelp-page-2.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Ulykker og førstehjelp Arkiver - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "30981322ce81182fe0a6e937bd01ed46055dfa3e89befa2aa72b15a92a2cc6ba",
+      "fetched_at": "2026-06-02T11:10:26.499561+00:00",
+      "depth": 1,
+      "text_chars": 2001,
+      "n_links": 160,
+      "n_pdf_links": 0,
+      "n_images": 11,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-07-drukning_header.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-12-isredning_header.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2020-06-redning-livb-ye-scaled.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2019-06-illustrasjon.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2018-06-sommerturen.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-01-pa--isen.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-03-assistanse_1920718.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-07-mann-over-bord-smal.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-06-forside_lekkbat.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-04-barn_ba-t_sjosyke.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-02-nedkjolt_header.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-ulykker-forstehjelp.html",
+        "text": "pages/sikker-til-sjos-kategori-ulykker-forstehjelp.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/vaer-og-vind/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Vær og vind Arkiver - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "73a93eba2082ec43c725d0b845ec83df8119cb66d28d05c2d08a773f7cd8d3f5",
+      "fetched_at": "2026-06-02T11:11:33.536877+00:00",
+      "depth": 1,
+      "text_chars": 1925,
+      "n_links": 151,
+      "n_pdf_links": 0,
+      "n_images": 7,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-12-gjennom_isen.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2017-03-storm_rs.no_.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2022-11-trelags_klaer_gudbrand.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-10-vinter_hav.png",
+          "alt": "Varme i båt på vinteren."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-10-storm_a_odman_toppbilde.jpg",
+          "alt": "Redningsskøyta i storm. Foto: Anders Ödman"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-12-vikeregler_mange_bater.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-11-forlenge_ba-tsesong-e1632317461644.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-vaer-og-vind.html",
+        "text": "pages/sikker-til-sjos-kategori-vaer-og-vind.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kategori/vedlikehold/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Vedlikehold Arkiver - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "a627b6c26a0ae57784629f1aa03eee34377ee601b7ea55aebffd28085884e0fb",
+      "fetched_at": "2026-06-02T11:10:35.091287+00:00",
+      "depth": 1,
+      "text_chars": 2246,
+      "n_links": 156,
+      "n_pdf_links": 0,
+      "n_images": 7,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-10-landstrom-om-vinteren-trond-j-hansen.jpg",
+          "alt": "Vinterbåthavn sett ovenfra"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2018-08-opplag_3.jpg",
+          "alt": "Bildet viser en båt er tatt på opplag og som er klar for vinterlagring"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2018-09-opplag.jpg",
+          "alt": "Bildet viser båtopplag, som forberedelse til vinterlagring"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2020-12-kalesje_sno.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2020-08-ferdere_skitne.jpg",
+          "alt": "Bildet viser skitne fendere."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2020-06-09_eddik_speil.jpg",
+          "alt": "Bildet viser hvordan du kan vaske speil med eddik."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2020-05-verktoy_tjh_topp19201080-e1625141624485.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-kategori-vedlikehold.html",
+        "text": "pages/sikker-til-sjos-kategori-vedlikehold.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Kjenner du sjømerkene? - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "cb3fa0696947842de341f1727f7b41a58ecf69afa7989887f9dee53b601d9d1f",
+      "fetched_at": "2026-06-02T11:11:24.898953+00:00",
+      "depth": 1,
+      "text_chars": 5739,
+      "n_links": 112,
+      "n_pdf_links": 0,
+      "n_images": 15,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2025-08-nordmerk_m_bakgrunn.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2025-08-ostmerke_m_bakgrunn.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2025-08-sormerker_m_bakgrunn.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2025-08-vestmerke_m_bakgrunn.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-01-gront_merke.jpg",
+          "alt": "Grønn stake i Oslofjorden"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-01-sideavmerking_rod.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-01-frittliggende_grunne.jpg",
+          "alt": "Illustrasjon av sjømerket for frittliggende grunne. Sort og rødt"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2026-04-senterledsmerke-1024x731.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2026-04-badeboye_spesialmerke-1024x731.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-01-jernstake_m_arm.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-01-varde-1024x1024.png",
+          "alt": "Varde med arm"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-02-batforerproven-1-1024x564.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-03-7800681330_74b6995caf_k.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-10-kursjenter.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-medlem_rs_sommer2025.jpg",
+          "alt": "Bli RS-medlem og støtt beredskapen i Norge."
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-kjenner-du-sjomerkene.html",
+        "text": "pages/sikker-til-sjos-kjenner-du-sjomerkene.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kledd-for-den-kalde-fine-tiden/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Kle deg riktig i vinter - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "21289f2cb1174d4509a6fed9da2ae5f7671ab5aabe566ded9737b2fc68250df2",
+      "fetched_at": "2026-06-02T11:12:53.259860+00:00",
+      "depth": 2,
+      "text_chars": 5318,
+      "n_links": 123,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-kledd-for-den-kalde-fine-tiden.html",
+        "text": "pages/sikker-til-sjos-kledd-for-den-kalde-fine-tiden.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/knuter/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Knuter - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "97e7174328b1360256a92e85bb2e7182ba4549d2dfcfd278d2737d97c13f4e3a",
+      "fetched_at": "2026-06-02T11:13:04.976822+00:00",
+      "depth": 2,
+      "text_chars": 450,
+      "n_links": 133,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-knuter.html",
+        "text": "pages/sikker-til-sjos-knuter.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/kunnskapen-trenger-ogsa-varpuss-bli-sesongklar-i-hodet-ogsa/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Kunnskapen trenger også vårpuss – bli sesongklar i hodet også - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "2135f4953eb995b15fe9d644f93d7d00a8653e78e5b5928aa0c6a6451e6439e2",
+      "fetched_at": "2026-06-02T11:11:48.049761+00:00",
+      "depth": 2,
+      "text_chars": 4144,
+      "n_links": 110,
+      "n_pdf_links": 0,
+      "n_images": 4,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2026-04-pa-cc-8al_virik_2.jpg",
+          "alt": "Pål Virik Nilsen er fagansvarlig kurs og fritidsbåt i RS"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2026-04-sjoliv_skjermdump.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2025-04-pa_l-784x1024.jpg",
+          "alt": "Pål Virik Nilsen i RS"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2026-04-cabincruiser_pa_grunn-1024x556.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-kunnskapen-trenger-ogsa-varpuss-bli-sesongklar-i-hodet-ogsa.html",
+        "text": "pages/sikker-til-sjos-kunnskapen-trenger-ogsa-varpuss-bli-sesongklar-i-hodet-ogsa.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/macgyver-pakke/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "MacGyver-pakke - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "d1d73e54b490004657157034118f36f00108179d85137087a7637b4ecddd5116",
+      "fetched_at": "2026-06-02T11:12:14.186580+00:00",
+      "depth": 2,
+      "text_chars": 8471,
+      "n_links": 125,
+      "n_pdf_links": 0,
+      "n_images": 8,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-header.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyverpakken-oversikt-1024x819.jpg",
+          "alt": "MacGyver-pakken til båt består av duct tape, leatherman og buntebånd."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-tape-1024x819.jpg",
+          "alt": "Bildet viser ulike vevtape, slik som Duct Tape. Dette trenger du i en god MacGyver-pakke til båten."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-macgycer-gorilla-tape-1024x1024.jpg",
+          "alt": "Bildet viser vevtape fra produsenten Gorilla Tape. Dette trenger du i en god MacGyver-pakke til båten."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-bunteba-cc-8and-merking-1024x681.jpg",
+          "alt": "Bildet viser hvordan buntebånd i ulike farger kan brukes til å merke ankerkjetting. Dette trenger du i en god MacGyver-pakke til båten."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-leatherman-1024x1024.jpg",
+          "alt": "Bildet viser en leatherman. Dette trenger du i en god MacGyver-pakke til båten."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-leatherman-kvalitet-855x1024.jpg",
+          "alt": "Bildet viser noen av de ulike funksjonene til en leatherman. Dette trenger du i en god MacGyver-pakke til båten."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-alarm_brann.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-macgyver-pakke.html",
+        "text": "pages/sikker-til-sjos-macgyver-pakke.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/norges-beste-gjestehavner/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Norges beste gjestehavner - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "cd740dba35813e0585447716bf9b13efda2b85984fe29c247e9cc1de1943edf7",
+      "fetched_at": "2026-06-02T11:13:01.970581+00:00",
+      "depth": 2,
+      "text_chars": 6200,
+      "n_links": 114,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-norges-beste-gjestehavner.html",
+        "text": "pages/sikker-til-sjos-norges-beste-gjestehavner.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/nyttige-tips-for-nattseilas/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Nyttige tips for nattseilas - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "bafc94a213337e03986ff14271518acf4df240251a4353a54a102c6a3082223b",
+      "fetched_at": "2026-06-02T11:12:34.325155+00:00",
+      "depth": 2,
+      "text_chars": 5299,
+      "n_links": 125,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-nyttige-tips-for-nattseilas.html",
+        "text": "pages/sikker-til-sjos-nyttige-tips-for-nattseilas.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/redningsvest-til-barn/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Redningsvest til barn - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "3d07ac20220afb8bc3455813f8a1eb3316c9b8c8c10f0b59b2ad76a5edba4e78",
+      "fetched_at": "2026-06-02T11:12:28.528050+00:00",
+      "depth": 2,
+      "text_chars": 7168,
+      "n_links": 135,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-redningsvest-til-barn.html",
+        "text": "pages/sikker-til-sjos-redningsvest-til-barn.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Sjøvettreglene - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "f681262a0c0c6ae4591a150378108b05dc6feb5fb579dfc12bfd6d3379a0445f",
+      "fetched_at": "2026-06-02T11:09:27.624469+00:00",
+      "depth": 0,
+      "text_chars": 1394,
+      "n_links": 117,
+      "n_pdf_links": 2,
+      "n_images": 15,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2025-05-microsoftteams-image__2_-1024x683.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2017-01-munkholm_radler_web.jpeg",
+          "alt": "Munkholm-logo"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2026-04-sjovettregler_plakat1_radler1-724x1024.webp",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2026-04-sjovettregler_plakat2_radler2-724x1024.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2026-02-innhentende_motorba-cc-8at-1024x668.jpg",
+          "alt": "Vik for båter fra styrbord : Når to motorbåter styrer kurser som skjærer hverandre og det er fare for sammenstøt, skal den som kommer fra babord vike for den som kommer fra styrbord."
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-redningsvest-2-e1743752414271.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-07-forstehjelpsputens_innhold.jpg",
+          "alt": "Førstehjelpspute og utstyr. Blant annet saks, gasbind, enkeltmannspakke, plaster, branngele etc"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2016-01-sjomerke_blindleia.jpg",
+          "alt": "Sjømerke i blindleia. Armen på sjømerket peker alltid mot trygt farvann.FOTO: Mads H. Randøy"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-11-ik.svg",
+          "alt": "Redningsselskapet på Innsamlingskontrollen"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-10-social-facebook.svg",
+          "alt": "Redningsselskapet på Facebook"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-10-social-flickr.svg",
+          "alt": "Redningsselskapet på"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-10-social-vimeo.svg",
+          "alt": "Redningsselskapet på"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-10-social-youtube.svg",
+          "alt": "Redningsselskapet på"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-10-social-instagram.svg",
+          "alt": "Redningsselskapet på"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-10-social-snapchat.svg",
+          "alt": "Redningsselskapet på"
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-sjovettreglene.html",
+        "text": "pages/sikker-til-sjos-sjovettreglene.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/slik-behandler-du-en-nedkjolt-person/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Slik behandler du en nedkjølt person - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "e9a0968e31c01f6d27838423fd2ba2416c56418cc90aa4aa5e21ae100cc96fa6",
+      "fetched_at": "2026-06-02T11:13:18.301315+00:00",
+      "depth": 2,
+      "text_chars": 5598,
+      "n_links": 114,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-slik-behandler-du-en-nedkjolt-person.html",
+        "text": "pages/sikker-til-sjos-slik-behandler-du-en-nedkjolt-person.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/slik-redder-du-en-som-holder-pa-a-drukne/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Slik redder du en som holder på å drukne - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "9859dde4e55e626d98e0e19fbb40f5d32be709a9763c1218297c7f0bcf815398",
+      "fetched_at": "2026-06-02T11:12:44.511312+00:00",
+      "depth": 2,
+      "text_chars": 2731,
+      "n_links": 109,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-slik-redder-du-en-som-holder-pa-a-drukne.html",
+        "text": "pages/sikker-til-sjos-slik-redder-du-en-som-holder-pa-a-drukne.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/stopp-lekkasjen/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Stopp lekkasjen - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "af55438836ede3d226674dac0dd748543a45842e1ed884fcb4709866e21c9627",
+      "fetched_at": "2026-06-02T11:13:15.393991+00:00",
+      "depth": 2,
+      "text_chars": 1821,
+      "n_links": 111,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-stopp-lekkasjen.html",
+        "text": "pages/sikker-til-sjos-stopp-lekkasjen.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/synlighet-til-sjos/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Synlighet til sjøs - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "02034c2d2ac9e78589b94ab0441d2546cba25315ca3de0a18107e8d76717514b",
+      "fetched_at": "2026-06-02T11:12:17.749568+00:00",
+      "depth": 2,
+      "text_chars": 6921,
+      "n_links": 128,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2023-09-synliget_vest_solbrille_padle.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-09-synlighet-3.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos-synlighet-til-sjos.html",
+        "text": "pages/sikker-til-sjos-synlighet-til-sjos.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/ta-batservicen-selv/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Slik tar du service på din eldre påhengsmotor selv - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "a39e56caeea20c7d04c0a3b4ae74bcb83ee169dcb1c573652d9e68b9a4afcf29",
+      "fetched_at": "2026-06-02T11:12:19.215376+00:00",
+      "depth": 2,
+      "text_chars": 7987,
+      "n_links": 129,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-ta-batservicen-selv.html",
+        "text": "pages/sikker-til-sjos-ta-batservicen-selv.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/tid-for-motorvask/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Tid for motorvask - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "205735d1b7bf2d156fef9b4459ca394c150902cbb3c37b5e01e8f6605b610a8b",
+      "fetched_at": "2026-06-02T11:12:56.176642+00:00",
+      "depth": 2,
+      "text_chars": 5125,
+      "n_links": 111,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-tid-for-motorvask.html",
+        "text": "pages/sikker-til-sjos-tid-for-motorvask.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/tips_sommertur_baat/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Nyttige tips for sommerturen - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "60966c6c5470702239eaf95fffee3e7bad9e80db603562771176e299bbf321ec",
+      "fetched_at": "2026-06-02T11:13:10.959640+00:00",
+      "depth": 2,
+      "text_chars": 10070,
+      "n_links": 129,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-tips_sommertur_baat.html",
+        "text": "pages/sikker-til-sjos-tips_sommertur_baat.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/unnga-battrobbel-med-enkle-rad/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Unngå båttrøbbel - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "1234bb483143dc0c1632c5cb724d70286bca68a1d8a2501193ade595ab001b96",
+      "fetched_at": "2026-06-02T11:13:12.445280+00:00",
+      "depth": 2,
+      "text_chars": 3834,
+      "n_links": 123,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-unnga-battrobbel-med-enkle-rad.html",
+        "text": "pages/sikker-til-sjos-unnga-battrobbel-med-enkle-rad.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/unnga-dieseldyr/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Dieseldyr - venn eller fiende? - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "b6d58448dd498c290d41fd7ff6275ea53c6c2c073d367650814757a9b6131619",
+      "fetched_at": "2026-06-02T11:12:54.709011+00:00",
+      "depth": 2,
+      "text_chars": 4015,
+      "n_links": 116,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-unnga-dieseldyr.html",
+        "text": "pages/sikker-til-sjos-unnga-dieseldyr.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/vinterpadling/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Vinterpadling - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "2b67e9471e2d2869b4d5e1fa9cf238f0e2951547a8ae7082be6498219ef8f2a1",
+      "fetched_at": "2026-06-02T11:12:47.457740+00:00",
+      "depth": 2,
+      "text_chars": 4718,
+      "n_links": 116,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sikker-til-sjos-vinterpadling.html",
+        "text": "pages/sikker-til-sjos-vinterpadling.txt"
+      }
+    },
+    {
+      "url": "https://rs.no/sikker-til-sjos/",
+      "site": "redningsselskapet",
+      "source_id": "redningsselskapet_sjovett",
+      "title": "Sikker til sjøs - Redningsselskapet",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "48e77d8ff58e57218107139182da3f76073dae9862dcb0b1dbb2b22cec44aaf5",
+      "fetched_at": "2026-06-02T11:09:52.195592+00:00",
+      "depth": 1,
+      "text_chars": 277,
+      "n_links": 169,
+      "n_pdf_links": 0,
+      "n_images": 11,
+      "images": [
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-12-sikkerhetsutstyr.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-12-knuter.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-12-vaer-og-vind.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2015-12-vedlikehold.png",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2026-04-pa-l_virik_2.jpg",
+          "alt": "Pål Virik Nilsen er fagansvarlig kurs og fritidsbåt i RS"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2026-01-bryggevett_1920x1080.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-30.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyverpakken-oversikt.jpg",
+          "alt": ""
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-09-51530626321_e79af14a67_o-scaled-e1632924752629.jpg",
+          "alt": "Bildet viser synlighet til sjøs"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2019-11-ba-tservice-e1618299979955.png",
+          "alt": "Båtservice på eldre påhengsmotor"
+        },
+        {
+          "file": "redningsselskapet\\images\\content-uploads-2021-09-hummer_fiske.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sikker-til-sjos.html",
+        "text": "pages/sikker-til-sjos.txt"
+      }
+    }
+  ],
+  "pdfs": [],
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-08-taroretjenter.jpg",
+      "alt": "Ta roret jenter",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2020/08/taroretjenter.jpg",
+      "page_url": "https://rs.no/kurs/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/05/hoyhastighet_vannscooter_fart.jpg",
+      "page_url": "https://rs.no/kurs/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-04-hoyhastighet_rib.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/04/Hoyhastighet_rib.jpg",
+      "page_url": "https://rs.no/kurs/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-11-sommerskole_2018.jpg",
+      "alt": "Sommerskole",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2016/11/sommerskole_2018.jpg",
+      "page_url": "https://rs.no/kurs/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-09-livredningskurs.jpg",
+      "alt": "Livredningskurs. Mennesker i vannet som øver på livredning.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/09/livredningskurs.jpg",
+      "page_url": "https://rs.no/kurs/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-02-50531175388_c0f5b339e6_o-scaled.jpg",
+      "alt": "Redningsmannskurs Noatun",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/02/50531175388_c0f5b339e6_o-scaled.jpg",
+      "page_url": "https://rs.no/kurs/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-02-vinteroya-kollasj.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/02/Vinteroya-kollasj.jpg",
+      "page_url": "https://rs.no/kurs/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2019-06-digitalt_livredningskurs.png",
+      "alt": "Bildet er en skjermdump fra det digitale livredningskurset",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2019/06/Digitalt_livredningskurs.png",
+      "page_url": "https://rs.no/kurs/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2017-04-kim_hagen_bertheussen_rs-150x150.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2017/04/Kim_hagen_Bertheussen_RS-150x150.jpg",
+      "page_url": "https://rs.no/livredningskurs/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-15.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/15.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-3-1024x1024.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/3-1024x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-7-1024x535.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/7-1024x535.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-9-1024x535.jpg",
+      "alt": "",
+      "caption": "Parallellkobling",
+      "url": "https://rs.no/content/uploads/2024/04/9-1024x535.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-10-1024x535.jpg",
+      "alt": "",
+      "caption": "Seriekobling",
+      "url": "https://rs.no/content/uploads/2024/04/10-1024x535.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-11-1024x1024.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/11-1024x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-12-1024x1024.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/12-1024x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-13-1024x1024.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/13-1024x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-18-1024x1024.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/18-1024x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-25-1024x535.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/25-1024x535.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-27-1024x535.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/27-1024x535.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-30-1024x535.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/30-1024x535.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/12-volt-for-dummies/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-01-hold_hodet_kaldt.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/01/Hold_Hodet_Kaldt.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/bryggevett/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-forstehjelpspute.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/forstehjelpspute.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-pyrisept-641x1024.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: Pyrisept - sårrensemiddel",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/pyrisept-641x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-norgesplaster.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: Plaster",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/Norgesplaster.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-11-lifesystems-vanntett-forstehjelp-3-1024x1024.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/11/lifesystems-vanntett-forstehjelp-3-1024x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-saksogpinsett.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: saks og pinsett",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/Saksogpinsett.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-ispose.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: ispose",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/ispose.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-oyedra-cc-8aper.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: øyedråper",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/oyedra%CC%8Aper.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-redningsfolie.jpg",
+      "alt": "Redningsfolie er førstehjelpsutstyr som kan bidra til å opprettholde kroppstemperaturen",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/redningsfolie.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-munntilmunn_maske.jpg",
+      "alt": "Munn til munn-masken brukes for å gjennomføre innblåsninger på en hygienisk måte",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/munntilmunn_maske.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-forstehjelps_instruksjoner_hefte.jpg",
+      "alt": "Bildet viser førstehjelpsutstyr: manual",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/forstehjelps_instruksjoner_hefte.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-ibux_paracet-300x201.jpg",
+      "alt": "Smertestillende tabletter. Her illustert med Ibux og Paracet",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/ibux_paracet-300x201.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-eurax_salve-300x140.jpg",
+      "alt": "Eurax sårsalve",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/Eurax_salve-300x140.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-fla-cc-8attpenn.jpg",
+      "alt": "Flåttpenn: Spesielt verktøy til fjerning av flått.",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/fla%CC%8Attpenn.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-solkrem-235x300.jpg",
+      "alt": "Solkrem er viktig å ha med seg på båttur da sola tar ekstra godt på sjøen grunnet refleksjonene i havet.",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/Solkrem-235x300.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-gnagsa-cc-8arplaster_compeed.jpg",
+      "alt": "Gnagsårplaster er smart å ha i båten. Her illustrert med Compeed",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/07/gnagsa%CC%8Arplaster_compeed.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/forstehjelpsutstyr-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-crewsaver-banner-4.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/05/RS-crewsaver-banner-4.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-04-milla_kristoffer_tar_batforerproven.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2025/04/Milla_Kristoffer_tar_batforerproven.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-elias-redningsvest-rosa-1024x683.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/05/elias-redningsvest-rosa-1024x683.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-flytesvester2-1024x743.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/05/rs-flytesvester2-1024x743.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-redningsvest-1024x743.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/05/rs-redningsvest-1024x743.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-regatta-rs-flytedrakt-1024x743.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/05/regatta-rs-flytedrakt-1024x743.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-redningsvest-hund-2-1024x743.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/05/redningsvest-hund-2-1024x743.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-sjekk-vesten-1-1024x743.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/05/sjekk-vesten-1-1024x743.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-03-kim_goran.jpg",
+      "alt": "Kim Gøran er maskinsjef på RS «Inge Steensland»",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2016/03/Kim_goran.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-vestpakking_montasje.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/11/vestpakking_Montasje.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2018-07-barn-i-ba-t.jpg",
+      "alt": "Bildet viser en mor med barn ombord i en båt.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2018/07/Barn-i-båt.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/barn-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2017-05-barnivest1.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2017/05/barnivest1.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/barn-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-hrl_barn1920x718.jpg",
+      "alt": "Hjerte og lungerednings på småbarn.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/12/HRL_Barn1920x718.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/barn-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-baby_svomming_sorthvitt.jpg",
+      "alt": "Bildet viser babysvømming.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/11/baby_svomming_sorthvitt.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/barn-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-b9a6fbfc-b2b1-495a-8230-738e3b41dc39.jpeg",
+      "alt": "Barn og baby på båttur",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/11/B9A6FBFC-B2B1-495A-8230-738E3B41DC39.jpeg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/barn-i-bat/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-03-ba-ter_sandspollen.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/03/Båter_Sandspollen.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-photo_52675145895-scaled.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/05/photo_52675145895-scaled.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-02-sink_header.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/02/sink_header.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-02-flytedresser_header.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/02/flytedresser_header.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-02-nattylys_header.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/02/Nattylys_header.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-09-05_dieseldyrenekommer.jpg",
+      "alt": "Pass deg for dieseldyrene. De har aldri gode hensikter.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/09/05_dieseldyrenekommer.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-09-daniel_synlighet.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/09/Daniel_synlighet.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-03-bakomrulle.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/03/bakomrulle.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-03-barn_pa-_isen.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/03/Barn_På_Isen.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-01-vinterpadling_kajakk.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/01/Vinterpadling_kajakk.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sikkerhetsutstyr/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-10-boyestikk_fenderstikk-scaled.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/10/boyestikk_fenderstikk-scaled.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-06-9_pumpe_bensin_2.jpg",
+      "alt": "Pump bensin manuelt med bensinblæra, den manuelle bensinpumpa",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/06/9_Pumpe_bensin_2.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-06-uthavn_header.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/06/uthavn_header.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-06-poke_bowl_mat.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/06/poke_bowl_mat.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-skartveit_gjestehavn.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/05/skartveit_gjestehavn.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-03-leggetil_vriba-ten.jpg",
+      "alt": "Bildet viser en som skal legge inntil brygga",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/03/leggetil_vribåten.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-p-lestikk_del31.png",
+      "alt": "Ferdig pålestikk",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/11/Pålestikk_del31.png",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-ba-tkjoring_under_16_a-r_9_9_hk.jpg",
+      "alt": "Ung båtfører kjører båt med 9,9 hk.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/07/båtkjoring_under_16_år_9_9_hk.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-07-drukning_header.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/07/drukning_header.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-12-isredning_header.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/12/Isredning_header.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-06-redning-livb-ye-scaled.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2020/06/Redning-livbøye-scaled.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2019-06-illustrasjon.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2019/06/Illustrasjon.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2018-06-sommerturen.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2018/06/sommerturen.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-01-pa--isen.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/01/På-isen.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-03-assistanse_1920718.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2016/03/assistanse_1920718.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-07-mann-over-bord-smal.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2016/07/mann-over-bord-smal.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-06-forside_lekkbat.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2016/06/Forside_lekkbat.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-04-barn_ba-t_sjosyke.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2016/04/barn_båt_sjosyke.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-02-nedkjolt_header.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/02/nedkjolt_header.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/ulykker-forstehjelp/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-12-gjennom_isen.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/12/Gjennom_Isen.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vaer-og-vind/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2017-03-storm_rs.no_.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2017/03/Storm_Rs.no_.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vaer-og-vind/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-11-trelags_klaer_gudbrand.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2022/11/Trelags_klaer_gudbrand.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vaer-og-vind/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-10-vinter_hav.png",
+      "alt": "Varme i båt på vinteren.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2016/10/Vinter_hav.png",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vaer-og-vind/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-storm_a_odman_toppbilde.jpg",
+      "alt": "Redningsskøyta i storm. Foto: Anders Ödman",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/10/Storm_a_odman_toppbilde.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vaer-og-vind/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-vikeregler_mange_bater.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/12/vikeregler_mange_bater.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vaer-og-vind/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-forlenge_ba-tsesong-e1632317461644.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/11/Forlenge_båtsesong-e1632317461644.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vaer-og-vind/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-10-landstrom-om-vinteren-trond-j-hansen.jpg",
+      "alt": "Vinterbåthavn sett ovenfra",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/10/landstrom-om-vinteren-Trond-J-hansen.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vedlikehold/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2018-08-opplag_3.jpg",
+      "alt": "Bildet viser en båt er tatt på opplag og som er klar for vinterlagring",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2018/08/opplag_3.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vedlikehold/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2018-09-opplag.jpg",
+      "alt": "Bildet viser båtopplag, som forberedelse til vinterlagring",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2018/09/opplag.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vedlikehold/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-12-kalesje_sno.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2020/12/kalesje_sno.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vedlikehold/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-08-ferdere_skitne.jpg",
+      "alt": "Bildet viser skitne fendere.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2020/08/Ferdere_skitne.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vedlikehold/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-06-09_eddik_speil.jpg",
+      "alt": "Bildet viser hvordan du kan vaske speil med eddik.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2020/06/09_eddik_speil.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vedlikehold/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-05-verktoy_tjh_topp19201080-e1625141624485.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2020/05/Verktoy_tjh_topp19201080-e1625141624485.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kategori/vedlikehold/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-08-nordmerk_m_bakgrunn.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2025/08/Nordmerk_m_bakgrunn.png",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-08-ostmerke_m_bakgrunn.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2025/08/Ostmerke_M_bakgrunn.png",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-08-sormerker_m_bakgrunn.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2025/08/Sormerker_m_bakgrunn.png",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-08-vestmerke_m_bakgrunn.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2025/08/Vestmerke_m_Bakgrunn.png",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-gront_merke.jpg",
+      "alt": "Grønn stake i Oslofjorden",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2016/01/gront_merke.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-sideavmerking_rod.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2016/01/sideavmerking_rod.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-frittliggende_grunne.jpg",
+      "alt": "Illustrasjon av sjømerket for frittliggende grunne. Sort og rødt",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2016/01/frittliggende_grunne.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-senterledsmerke-1024x731.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2026/04/Senterledsmerke-1024x731.png",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-badeboye_spesialmerke-1024x731.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2026/04/Badeboye_spesialmerke-1024x731.png",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-jernstake_m_arm.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2016/01/jernstake_m_arm.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-varde-1024x1024.png",
+      "alt": "Varde med arm",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2016/01/varde-1024x1024.png",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-02-batforerproven-1-1024x564.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.redningsselskapet.no/content/uploads/2021/02/batforerproven-1-1024x564.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-03-7800681330_74b6995caf_k.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/03/7800681330_74b6995caf_k.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-kursjenter.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/10/Kursjenter.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-medlem_rs_sommer2025.jpg",
+      "alt": "Bli RS-medlem og støtt beredskapen i Norge.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/07/Medlem_RS_sommer2025.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-pa-cc-8al_virik_2.jpg",
+      "alt": "Pål Virik Nilsen er fagansvarlig kurs og fritidsbåt i RS",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2026/04/Pa%CC%8Al_virik_2.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kunnskapen-trenger-ogsa-varpuss-bli-sesongklar-i-hodet-ogsa/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-sjoliv_skjermdump.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2026/04/Sjoliv_skjermdump.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kunnskapen-trenger-ogsa-varpuss-bli-sesongklar-i-hodet-ogsa/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-04-pa_l-784x1024.jpg",
+      "alt": "Pål Virik Nilsen i RS",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2025/04/Pa_l-784x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kunnskapen-trenger-ogsa-varpuss-bli-sesongklar-i-hodet-ogsa/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-cabincruiser_pa_grunn-1024x556.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2026/04/Cabincruiser_pa_grunn-1024x556.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/kunnskapen-trenger-ogsa-varpuss-bli-sesongklar-i-hodet-ogsa/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-header.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/MacGyver-header.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/macgyver-pakke/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyverpakken-oversikt-1024x819.jpg",
+      "alt": "MacGyver-pakken til båt består av duct tape, leatherman og buntebånd.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/Macgyverpakken-oversikt-1024x819.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/macgyver-pakke/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-tape-1024x819.jpg",
+      "alt": "Bildet viser ulike vevtape, slik som Duct Tape. Dette trenger du i en god MacGyver-pakke til båten.",
+      "caption": "Originalen var Duct Tape, men i dag finnes det utallige varianter av vevteip. De store rullene er 48-50 millimeter brede og har en lengde på 25-50 meter. Men det kan være praktisk å ha noen små-ruller på lur, gjerne også smalere. De finnes også i forskjellige farger.",
+      "url": "https://rs.no/content/uploads/2024/04/Macgyver-tape-1024x819.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/macgyver-pakke/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgycer-gorilla-tape-1024x1024.jpg",
+      "alt": "Bildet viser vevtape fra produsenten Gorilla Tape. Dette trenger du i en god MacGyver-pakke til båten.",
+      "caption": "Ofte kaller vi all vevteip for Gaffateip eller Duct-teip. I dag produseres imidlertid vevteip av en rekke forskjellige produsenter, men en rull vevteip må alla ha i båten. Er vanligvis sølvfarget eller svart. Vi har god erfaring med Gorilla Tape, som finnes i flere varianter og farger.",
+      "url": "https://rs.no/content/uploads/2024/04/macgycer-gorilla-tape-1024x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/macgyver-pakke/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-bunteba-cc-8and-merking-1024x681.jpg",
+      "alt": "Bildet viser hvordan buntebånd i ulike farger kan brukes til å merke ankerkjetting. Dette trenger du i en god MacGyver-pakke til båten.",
+      "caption": "Siden buntebånd kommer i mange ulike farger kan det være praktisk å bruke dem til merking. For eksempel fargekoder på det elektriske anlegget, eller til å merke ankerkjetting – for å ha kontroll på hvor mye som er lagt ut.",
+      "url": "https://rs.no/content/uploads/2024/04/macgyver-bunteba%CC%8And-merking-1024x681.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/macgyver-pakke/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-leatherman-1024x1024.jpg",
+      "alt": "Bildet viser en leatherman. Dette trenger du i en god MacGyver-pakke til båten.",
+      "caption": "Et godt multifunksjonsverktøy kan ha mer enn 20 funksjoner, bygget inn i en kompakt enhet som lett bæres i beltet. Her representert ved Leatherman modell Wave, fra 2018 erstattet av Wave Plus – hvor man blant annet kan bytte bittet på tangen.",
+      "url": "https://rs.no/content/uploads/2024/04/macgyver-leatherman-1024x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/macgyver-pakke/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyver-leatherman-kvalitet-855x1024.jpg",
+      "alt": "Bildet viser noen av de ulike funksjonene til en leatherman. Dette trenger du i en god MacGyver-pakke til båten.",
+      "caption": "Leatherman er kvalitetsprodukter med hele 25 års garanti. Øverst den populære modellen Wave, som nå er erstattet med modellen Wave Plus – som blant annet har utskiftbar bitt på avbiteren. Øverst det tradisjonelle lær-futteralet, nederst nylon-futteral.",
+      "url": "https://rs.no/content/uploads/2024/04/macgyver-leatherman-kvalitet-855x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/macgyver-pakke/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-alarm_brann.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/07/alarm_brann.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/macgyver-pakke/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-05-microsoftteams-image__2_-1024x683.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2025/05/MicrosoftTeams-image__2_-1024x683.png",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2017-01-munkholm_radler_web.jpeg",
+      "alt": "Munkholm-logo",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2017/01/munkholm_radler_web.jpeg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-sjovettregler_plakat1_radler1-724x1024.webp",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2026/04/Sjovettregler_Plakat1_Radler1-724x1024.webp",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-sjovettregler_plakat2_radler2-724x1024.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2026/04/Sjovettregler_Plakat2_Radler2-724x1024.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-02-innhentende_motorba-cc-8at-1024x668.jpg",
+      "alt": "Vik for båter fra styrbord : Når to motorbåter styrer kurser som skjærer hverandre og det er fare for sammenstøt, skal den som kommer fra babord vike for den som kommer fra styrbord.",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2026/02/innhentende_motorba%CC%8At-1024x668.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-redningsvest-2-e1743752414271.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/05/rs-redningsvest-2-e1743752414271.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-forstehjelpsputens_innhold.jpg",
+      "alt": "Førstehjelpspute og utstyr. Blant annet saks, gasbind, enkeltmannspakke, plaster, branngele etc",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/07/forstehjelpsputens_innhold.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-sjomerke_blindleia.jpg",
+      "alt": "Sjømerke i blindleia. Armen på sjømerket peker alltid mot trygt farvann.FOTO: Mads H. Randøy",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2016/01/Sjomerke_blindleia.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-ik.svg",
+      "alt": "Redningsselskapet på Innsamlingskontrollen",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/11/ik.svg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-facebook.svg",
+      "alt": "Redningsselskapet på Facebook",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/10/social-facebook.svg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-flickr.svg",
+      "alt": "Redningsselskapet på",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/10/social-flickr.svg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-vimeo.svg",
+      "alt": "Redningsselskapet på",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/10/social-vimeo.svg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-youtube.svg",
+      "alt": "Redningsselskapet på",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/10/social-youtube.svg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-instagram.svg",
+      "alt": "Redningsselskapet på",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/10/social-instagram.svg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-snapchat.svg",
+      "alt": "Redningsselskapet på",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/10/social-snapchat.svg",
+      "page_url": "https://rs.no/sikker-til-sjos/sjovettreglene/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-09-synliget_vest_solbrille_padle.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2023/09/Synliget_vest_solbrille_padle.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/synlighet-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-09-synlighet-3.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/09/synlighet-3.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/synlighet-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-sikkerhetsutstyr.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/12/sikkerhetsutstyr.png",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-knuter.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/12/knuter.png",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-vaer-og-vind.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/12/vaer-og-vind.png",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-vedlikehold.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2015/12/vedlikehold.png",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-pa-l_virik_2.jpg",
+      "alt": "Pål Virik Nilsen er fagansvarlig kurs og fritidsbåt i RS",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2026/04/Pål_virik_2.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-01-bryggevett_1920x1080.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2026/01/Bryggevett_1920x1080.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-30.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/30.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyverpakken-oversikt.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2024/04/Macgyverpakken-oversikt.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-09-51530626321_e79af14a67_o-scaled-e1632924752629.jpg",
+      "alt": "Bildet viser synlighet til sjøs",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/09/51530626321_e79af14a67_o-scaled-e1632924752629.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2019-11-ba-tservice-e1618299979955.png",
+      "alt": "Båtservice på eldre påhengsmotor",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2019/11/Båtservice-e1618299979955.png",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-09-hummer_fiske.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://rs.no/content/uploads/2021/09/Hummer_Fiske.jpg",
+      "page_url": "https://rs.no/sikker-til-sjos/"
+    }
+  ]
+}

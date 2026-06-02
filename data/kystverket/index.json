@@ -1,0 +1,3361 @@
+{
+  "site": "kystverket",
+  "name": "Kystverket – BåtFart / fartsgrenser",
+  "seed_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/batfart/",
+  "authority": "official",
+  "rebuilt": true,
+  "n_pages": 61,
+  "n_pdfs": 34,
+  "n_images": 152,
+  "pages": [
+    {
+      "url": "https://www.kystverket.no/havn/sikker-lasting-og-lossing-av-bulkskip/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Sikker lasting og lossing av bulkskip | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "9bdf0e73178ac20a9c67f303c055d25cd6be416c3004cb64aa461f6349b9bcae",
+      "fetched_at": "2026-06-02T11:03:42.188609+00:00",
+      "depth": 1,
+      "text_chars": 303,
+      "n_links": 134,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/havn-sikker-lasting-og-lossing-av-bulkskip.html",
+        "text": "pages/havn-sikker-lasting-og-lossing-av-bulkskip.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/kystkultur/fyrstasjoner/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Fyrstasjoner | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "5c9da200ba56fc1f76c317aafb8ec72d9058691a0b5626f82478d8ef9539565f",
+      "fetched_at": "2026-06-02T11:03:52.909003+00:00",
+      "depth": 1,
+      "text_chars": 3254,
+      "n_links": 150,
+      "n_pdf_links": 0,
+      "n_images": 3,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-4a168cf4e8e3464c807e870a4cfbd68c-lindesnes-fyr-5a3ad9c6.jpg",
+          "alt": "Lindesnes fyr"
+        },
+        {
+          "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-digitale_fyrbesok.svg",
+          "alt": "Digitale fyrbesøk"
+        },
+        {
+          "file": "kystverket\\images\\globalassets-om-kystverket-kystkultur-fyr-kjolnes-gange.jpg-08dea819.jpg",
+          "alt": "Kjølnes fyr"
+        }
+      ],
+      "files": {
+        "html": "pages/kystkultur-fyrstasjoner.html",
+        "text": "pages/kystkultur-fyrstasjoner.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Slik holder vi liv i fyrene | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "7fb5d773dafe9c39f873da3d79c144a4fc0f4e5268307d7abc60c125fb26c79c",
+      "fetched_at": "2026-06-02T11:04:24.827189+00:00",
+      "depth": 1,
+      "text_chars": 3958,
+      "n_links": 133,
+      "n_pdf_links": 0,
+      "n_images": 30,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-a2b386bb698b41b188a2937e54f7f5ec-tony-bat.jpg-578f8d08.jpg",
+          "alt": "Båttur Steilene vedlikehold"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3498.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3502.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-sjovegen-tiltak-i-farvannet-utb-prosjekt-husoy--294ed508.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-bat-plank.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3527.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3476.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3477.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3478.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3482.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3484.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-sjovegen-tiltak-i-farvannet-utb-prosjekt-husoy--4b1c1be0.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3485.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3480.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3486.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3488.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3489.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3491.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3505.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3507.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3509.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3512.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3515.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3519.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3520.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3521.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3523.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3528.jpg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-img_0161.jpeg-fe056798.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-a2ecdffafabd46c688a0d54d147c0d9e-10788897566_6-1433ad20.jpg",
+          "alt": "Runde fyr"
+        }
+      ],
+      "files": {
+        "html": "pages/kystkultur-slik-holder-vi-liv-i-fyrene.html",
+        "text": "pages/kystkultur-slik-holder-vi-liv-i-fyrene.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/artikkel-digital-rutetjeneste---routeinfo.no",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "digital rutetjeneste | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "6b6e76238cbb15965e08b6d0270146c7b13b621e57107a7842aa31750d8963e7",
+      "fetched_at": "2026-06-02T11:03:24.323909+00:00",
+      "depth": 1,
+      "text_chars": 9854,
+      "n_links": 155,
+      "n_pdf_links": 1,
+      "n_images": 7,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-46bd70903e664c698399b50ac9ae28cf-rute-skudefjo-185cf944.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-c42a13596a664f2da3ac0d75b7ced96f-anker---lodingen.jpg-08dea819.jpg",
+          "alt": "Skriftlig invitasjon til informasjonsmøter om ankring"
+        },
+        {
+          "file": "kystverket\\images\\globalassets-navigasjon-og-overvakning-routeinfo-fartoy-med--173a9d55.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-fb246ed6cf1642e9be80b8c7f1b2f4bd-primar_rtz.png-08dea819.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-6e609364564540618843c0f79552dfff-liggende-rout-d40f0a7a.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-6e609364564540618843c0f79552dfff-infografikk-r-c5a420f0.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-6e609364564540618843c0f79552dfff-v4-infografik-fe0b5d6c.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/navigasjonstjenester-artikkel-digital-rutetjeneste---routeinfo.no.html",
+        "text": "pages/navigasjonstjenester-artikkel-digital-rutetjeneste---routeinfo.no.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/assessor-og-rederigodkjenning/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Assessor og rederigodkjenning | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "671ab1db992dbddbe62a7cf68b8587d381c2c87163711c4bd18c7554d6ea8189",
+      "fetched_at": "2026-06-02T11:06:22.992591+00:00",
+      "depth": 2,
+      "text_chars": 393,
+      "n_links": 136,
+      "n_pdf_links": 2,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-farledsbevis-assessor-og-rederigodkjenning.html",
+        "text": "pages/navigasjonstjenester-farledsbevis-assessor-og-rederigodkjenning.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/farledsbevisprove/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "farledsbevisprøve | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "9d7646543682d456e0a0801e719c52496a81f29a872c809f981b0eb6351d977a",
+      "fetched_at": "2026-06-02T11:06:20.786832+00:00",
+      "depth": 2,
+      "text_chars": 3309,
+      "n_links": 164,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-farledsbevis-farledsbevisprove.html",
+        "text": "pages/navigasjonstjenester-farledsbevis-farledsbevisprove.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/krav-og-vilkar/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Krav og vilkår for farledsbevis | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c4266d85da2e4ebdee5f255fa1ef925497c7b1c8bcdca8ed96f52358ebff52d0",
+      "fetched_at": "2026-06-02T11:06:26.224699+00:00",
+      "depth": 2,
+      "text_chars": 6195,
+      "n_links": 146,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-farledsbevis-krav-og-vilkar.html",
+        "text": "pages/navigasjonstjenester-farledsbevis-krav-og-vilkar.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/ofte-stilte-sporsmal-om-farledsbevis/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Ofte stilte spørsmål | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "443814f14b3f124e29a3a35e4d897b2482cdf045b29beb10e4744d1f9aa70ad7",
+      "fetched_at": "2026-06-02T11:06:29.412631+00:00",
+      "depth": 2,
+      "text_chars": 9575,
+      "n_links": 131,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-farledsbevis-ofte-stilte-sporsmal-om-farledsbevis.html",
+        "text": "pages/navigasjonstjenester-farledsbevis-ofte-stilte-sporsmal-om-farledsbevis.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/om-farledsbevis/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "om farledsbevis | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "42edea1dadf96784351e9c60e46bc7237fb666226871782389f8be65350f1df5",
+      "fetched_at": "2026-06-02T11:06:25.122246+00:00",
+      "depth": 2,
+      "text_chars": 1438,
+      "n_links": 144,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-farledsbevis-om-farledsbevis.html",
+        "text": "pages/navigasjonstjenester-farledsbevis-om-farledsbevis.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/regelverk/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "regelverk for farledsbevis | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "dc2a90311d6fbf032fefbbd45f928f0e9d28da1e347c57b68a078c23ab3033dd",
+      "fetched_at": "2026-06-02T11:06:28.338039+00:00",
+      "depth": 2,
+      "text_chars": 1684,
+      "n_links": 131,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-farledsbevis-regelverk.html",
+        "text": "pages/navigasjonstjenester-farledsbevis-regelverk.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/sok-om-farledsbevis/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Søk om farledsbevis | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "28d21116e1d0f6877a2b01739193de2fbfe39d7bfacda0061444e03c241b130f",
+      "fetched_at": "2026-06-02T11:06:21.899554+00:00",
+      "depth": 2,
+      "text_chars": 8207,
+      "n_links": 150,
+      "n_pdf_links": 4,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-farledsbevis-sok-om-farledsbevis.html",
+        "text": "pages/navigasjonstjenester-farledsbevis-sok-om-farledsbevis.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Farledsbevis | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "4df92e153161abbe84baba2cb6b630dcb7a4bff67d560a954f8b550c0320e390",
+      "fetched_at": "2026-06-02T11:03:04.696238+00:00",
+      "depth": 1,
+      "text_chars": 4897,
+      "n_links": 148,
+      "n_pdf_links": 4,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-farledsbevis.html",
+        "text": "pages/navigasjonstjenester-farledsbevis.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/kystradio---infrastruktur-for-nod--og-sikkerhetskommunikasjon/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Kystradio - infrastruktur for nød- og sikkerhetskommunikasjon | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "e507171900c630983636992ddb8ca4d53f73f6a2886a5c6c12ea422396804985",
+      "fetched_at": "2026-06-02T11:03:28.534980+00:00",
+      "depth": 1,
+      "text_chars": 687,
+      "n_links": 130,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-kystradio---infrastruktur-for-nod--og-s-b7215810.html",
+        "text": "pages/navigasjonstjenester-kystradio---infrastruktur-for-nod--og-s-b7215810.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/bestille-los/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Bestille los | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "65e68fb0833f157e6c41836ecefa4827a9a6cd132b5cfc19b4cc9e82d7d85167",
+      "fetched_at": "2026-06-02T11:05:52.074891+00:00",
+      "depth": 2,
+      "text_chars": 307,
+      "n_links": 132,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-los-bestille-los.html",
+        "text": "pages/navigasjonstjenester-los-bestille-los.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/lh_los300/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Lostenesta 300 år | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "20cd632c9825663bfaa1b14529779d7401094480d3cad9aa69275382ab22a24a",
+      "fetched_at": "2026-06-02T11:06:19.677852+00:00",
+      "depth": 2,
+      "text_chars": 799,
+      "n_links": 131,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-los-lh_los300.html",
+        "text": "pages/navigasjonstjenester-los-lh_los300.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/lh_losplikt-pa-svalbard/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Losplikt på Svalbard | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "2fe3237c6ddb7de2c4e79b0aae59bb2aaff620b8dbbc1ed009a8fe0b6f42b405",
+      "fetched_at": "2026-06-02T11:05:54.341022+00:00",
+      "depth": 2,
+      "text_chars": 8010,
+      "n_links": 139,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-los-lh_losplikt-pa-svalbard.html",
+        "text": "pages/navigasjonstjenester-los-lh_losplikt-pa-svalbard.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/lh_lostjenesten/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Lostjenesten | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "b158d5996cd7b8d5aa08391e1bed062faf9c8959461053f585b2ee02202bf669",
+      "fetched_at": "2026-06-02T11:05:50.977441+00:00",
+      "depth": 2,
+      "text_chars": 1356,
+      "n_links": 139,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-los-lh_lostjenesten.html",
+        "text": "pages/navigasjonstjenester-los-lh_lostjenesten.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/lokale-begrensninger/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Lokale begrensninger | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "6664ff577d7e0e9828a6aab357a01d090858d9c4ea60a196fd339f592ebe8b69",
+      "fetched_at": "2026-06-02T11:05:56.511277+00:00",
+      "depth": 2,
+      "text_chars": 290,
+      "n_links": 142,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-los-lokale-begrensninger.html",
+        "text": "pages/navigasjonstjenester-los-lokale-begrensninger.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/losformidling/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Losformidling | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "230788c68dbdee3c9587cf5e1d313da17e8a93b5da2f1f3e49696e8a93721216",
+      "fetched_at": "2026-06-02T11:05:55.421575+00:00",
+      "depth": 2,
+      "text_chars": 1525,
+      "n_links": 131,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-los-losformidling.html",
+        "text": "pages/navigasjonstjenester-los-losformidling.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/losplikt/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Losplikt | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "fd4e32faac05121bf1563238f2db4d41f7f08b5c716e2356b4d6030d41b15036",
+      "fetched_at": "2026-06-02T11:05:53.240086+00:00",
+      "depth": 2,
+      "text_chars": 4645,
+      "n_links": 142,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-los-losplikt.html",
+        "text": "pages/navigasjonstjenester-los-losplikt.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/tilbringertjenester/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Transport av los | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "1d7f6e043d0ae98ad7f7127de4295fc9540322a77ff3f6b583de23356dfbfc6a",
+      "fetched_at": "2026-06-02T11:06:10.213727+00:00",
+      "depth": 2,
+      "text_chars": 2092,
+      "n_links": 129,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-49c40c8e9ad8437f8159b1b963a3fd04-losbording_83-0b5ed33c.jpg",
+          "alt": "Los går om bord på lasteskip via leider"
+        }
+      ],
+      "files": {
+        "html": "pages/navigasjonstjenester-los-tilbringertjenester.html",
+        "text": "pages/navigasjonstjenester-los-tilbringertjenester.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/utkast-helsekrav-for-loser/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Helsekrav for loser | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "44ea843ce0abef535728e0d67a3aadc0a23049a68e9f08db8fb723b273e8ac8f",
+      "fetched_at": "2026-06-02T11:06:02.959841+00:00",
+      "depth": 2,
+      "text_chars": 1215,
+      "n_links": 138,
+      "n_pdf_links": 5,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-los-utkast-helsekrav-for-loser.html",
+        "text": "pages/navigasjonstjenester-los-utkast-helsekrav-for-loser.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/vil-du-bli-los/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Vil du bli los? | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "05ca66525798ef9609576539977fcc088f817ac50f7ce36326f9426c696640b3",
+      "fetched_at": "2026-06-02T11:06:01.714507+00:00",
+      "depth": 2,
+      "text_chars": 6731,
+      "n_links": 140,
+      "n_pdf_links": 0,
+      "n_images": 4,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-a319e6ecc6e646c6991fe0782353de17-vil-du-bli-los_23_2.jpg-169bbf91.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-656ef159ce0444939494508cab2b2947-los-martin-st-e57c1d7b.jpg",
+          "alt": "Los klatrer i leider"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-a7a74ecf527240dcbbdc83267af196b2-siv-og-roald.jpg-08dea819.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-84c5b420eb744bc1b6f364757ad0a48e-image-16.jpg-93a52c2f.jpg",
+          "alt": "statslos Siv Oldeide"
+        }
+      ],
+      "files": {
+        "html": "pages/navigasjonstjenester-los-vil-du-bli-los.html",
+        "text": "pages/navigasjonstjenester-los-vil-du-bli-los.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/los/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Los | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "96d8bd74c8d36914da8d8d9b13e52af8e8c16977a744f224fafcfb5c047d5319",
+      "fetched_at": "2026-06-02T11:03:03.612665+00:00",
+      "depth": 1,
+      "text_chars": 4185,
+      "n_links": 149,
+      "n_pdf_links": 0,
+      "n_images": 10,
+      "images": [
+        {
+          "file": "kystverket\\images\\globalassets-ikoner-tjenester-se-losbestilling.svg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-ikoner-tjenester-avgiftskalkulator.svg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-08100f8d0980439b88c11bc5eb939c7e-losaspiranter-e179c273.jpg",
+          "alt": "Losaspiranter om bord losbåt"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-d511eeff79e84ec3a6878089c892299c-amerikansk-ha-20ddd555.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-20211203_100151.jpg-08dea819.jpg",
+          "alt": "Statslos Karl Helge Haagensen var med da nye digitale verktøy ble testet i Tjeldsundet."
+        },
+        {
+          "file": "kystverket\\images\\contentassets-49c40c8e9ad8437f8159b1b963a3fd04-losbording_83-6dd051a6.jpg",
+          "alt": "Los går om bord på lasteskip via leider"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-94fecbb89e844029a00f260ca17208e9-pa-losoppdrag-630ff727.jpg",
+          "alt": "Losoppdrag i Rekefjord"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-2cbe052d908a489084925451ed8136af-gamle-oksoy_f-76090e00.jpg",
+          "alt": "Fartøyet Gamle Oksøy under seilas"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-9be19d221f924b7997887d57278cf16c-norsk-loskart.png",
+          "alt": "Kart over lostjenesten"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-bfd026e9d9d6491f8e118b895117ff4a-norske-losstasjoner-besk.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/navigasjonstjenester-los.html",
+        "text": "pages/navigasjonstjenester-los.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/navigasjonsvarsling/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Navigasjonsvarsling | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "7ff8ec5a0509aaa45208859c31b26cb9a9124b3da642044a25b4152f66ca0ab7",
+      "fetched_at": "2026-06-02T11:03:27.465377+00:00",
+      "depth": 1,
+      "text_chars": 1087,
+      "n_links": 132,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-50495cf09e3c4b65b699226d4b5cf24c-navarea.jpg-169bbf91.png",
+          "alt": "Kart over de 21 NAVAREAS (eller METAREAS) som alle verdenshavene er delt inn i."
+        }
+      ],
+      "files": {
+        "html": "pages/navigasjonstjenester-navigasjonsvarsling.html",
+        "text": "pages/navigasjonstjenester-navigasjonsvarsling.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/overvakningssystemet-lrit/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Overvåkningssystemet LRIT | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "a0ca30578322cde6fe93c02dd095b2ecf3f4eff72e6dcbdd8828a1418bd47bba",
+      "fetched_at": "2026-06-02T11:05:47.693184+00:00",
+      "depth": 2,
+      "text_chars": 628,
+      "n_links": 134,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-overvakningssystemet-lrit.html",
+        "text": "pages/navigasjonstjenester-overvakningssystemet-lrit.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/kart-over-tjenesteomrader/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Kart over tjenesteområder | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "912c0ff62642b3c341f3938ff188358f4127e66f58659a1dfb53415a41bc30e2",
+      "fetched_at": "2026-06-02T11:06:34.736219+00:00",
+      "depth": 2,
+      "text_chars": 1707,
+      "n_links": 129,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-kart-over-tjenesteomrader.html",
+        "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-kart-over-tjenesteomrader.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/kontakt-sjotrafikksentralene/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "kontakt VTS | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "1776bc10f876c01a3550dd9866a06b215e30712a01c3ce28fc890b77399a0141",
+      "fetched_at": "2026-06-02T11:06:30.507071+00:00",
+      "depth": 2,
+      "text_chars": 2327,
+      "n_links": 129,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-kontakt-864da525.html",
+        "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-kontakt-864da525.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/krav-til-fartoy-som-bruker-sjotrafikksentralenes-tjenesteomrader/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Krav til fartøy | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "2e39dd2380454f19f33ba8b9fcf93c0b5b0f7aa29a61ebe551ae9e4d1a4e993a",
+      "fetched_at": "2026-06-02T11:06:35.826513+00:00",
+      "depth": 2,
+      "text_chars": 949,
+      "n_links": 133,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-krav-ti-f5a2e3f4.html",
+        "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-krav-ti-f5a2e3f4.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/seilingsregler-etter-fylker/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Seilingsregler | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "1cb540e46c55e0c6f5e7b0069afb9bcef47b67dd0e3959ed395f2b5bf6a39c75",
+      "fetched_at": "2026-06-02T11:06:31.601069+00:00",
+      "depth": 2,
+      "text_chars": 1789,
+      "n_links": 148,
+      "n_pdf_links": 2,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-seilingsregler-etter-fylker.html",
+        "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-seilingsregler-etter-fylker.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/tjenester/analyseenheten-i-vardo/",
+      "site": "kystverket",
+      "source_id": "kystverket_sjomerker",
+      "title": "Analyseenheten i Vardø | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c83d26d81f95068e377d32167c0797afb7fae8469a3778af12abb040d6de6def",
+      "fetched_at": "2026-06-02T11:02:19.487695+00:00",
+      "depth": 2,
+      "text_chars": 896,
+      "n_links": 132,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-78edc31e91804ae2aad9fa9decd32c1f-fiskerikrimin-77a94f86.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-25d4ed9639144157862239636fe2ee6b-img_7894.jpg-08dea819.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-tjenest-018351d3.html",
+        "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-tjenest-018351d3.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/tjenester/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Sjøtrafikksentraltjenester | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "ea04369f841cafba9f480a4acf691852b3fa32a72addfac6a62df77f401553d3",
+      "fetched_at": "2026-06-02T11:06:36.897845+00:00",
+      "depth": 2,
+      "text_chars": 2632,
+      "n_links": 137,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-tjenester.html",
+        "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-tjenester.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "vts | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "e9739cf5f63c36cfff3308956accbe8043ac8021bf3c5ee278474a15054c3817",
+      "fetched_at": "2026-06-02T11:03:16.041314+00:00",
+      "depth": 1,
+      "text_chars": 6784,
+      "n_links": 152,
+      "n_pdf_links": 0,
+      "n_images": 6,
+      "images": [
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-navigasjon-og-overvaki-3ae94657.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-bolgevarsel.svg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-06a9795b0ca04a42a2962a13169b8971-bat-maloybrua.jpg-08dea819.jpg",
+          "alt": "Båt på vei under Måløybrua"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-d5a0346542ad431dae25b5ff9727ecef-kart-fra-kyst-a18a1d2e.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-8623c9b798c6461091ce6016ab25efe9-notice-to-mariners.jpg-08dea819.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-dc975578fe354d41be7c52e959983e99-ais-seatex-2.jpg-08dea819.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste.html",
+        "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/navigasjonstjenester/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Navigasjonstjenester | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "2f8437794803b6b2cb61e694e24ad195a09655d809da21f2d4252803899eb3ce",
+      "fetched_at": "2026-06-02T11:02:52.243950+00:00",
+      "depth": 1,
+      "text_chars": 4361,
+      "n_links": 147,
+      "n_pdf_links": 0,
+      "n_images": 8,
+      "images": [
+        {
+          "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-bestille_los.svg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-digitale_referanseruter.svg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-navarea.svg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-navigasjonsvarsler.svg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-ikoner-tjenester-slukkede-fyrlys-2.svg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-kystinfo_kart.svg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-arcticinfo.svg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-safeseanet.svg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/navigasjonstjenester.html",
+        "text": "pages/navigasjonstjenester.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/nyheter/2020/losen-tester-nye-digitale-verktoy/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Losen tester nye digitale verktøy | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "327c6f73a8d0f479e17af62f3a7ab69935d0ec551e6b752393acbca8ee332199",
+      "fetched_at": "2026-06-02T11:06:15.416909+00:00",
+      "depth": 2,
+      "text_chars": 5457,
+      "n_links": 129,
+      "n_pdf_links": 0,
+      "n_images": 4,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-20211203_100151.jpg-169bbf91.jpg",
+          "alt": "Statslos Karl Helge Haagensen var med da nye digitale verktøy ble testet i Tjeldsundet."
+        },
+        {
+          "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-losing-av-far-46337d35.jpg",
+          "alt": "20211203_110612.jpg"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-kartbilde-fra-s100demonstator.png",
+          "alt": "Tide1038d95.png"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-testing-av-el-d25fc5d8.jpg",
+          "alt": "20211203_092909.jpg"
+        }
+      ],
+      "files": {
+        "html": "pages/nyheter-2020-losen-tester-nye-digitale-verktoy.html",
+        "text": "pages/nyheter-2020-losen-tester-nye-digitale-verktoy.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/nyheter/2020/ny-bok-om-navigasjon-i-lostjenesten/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Ny bok om navigasjon  | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "b92d01813de813e699bd3d9238a502fbd4e31cf82c1d4fa136966e0edf7d9256",
+      "fetched_at": "2026-06-02T11:06:18.552525+00:00",
+      "depth": 2,
+      "text_chars": 1496,
+      "n_links": 130,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-94fecbb89e844029a00f260ca17208e9-pa-losoppdrag-b8d30e93.jpg",
+          "alt": "Losoppdrag i Rekefjord"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-94fecbb89e844029a00f260ca17208e9-forside_-navi-3a592bbc.png",
+          "alt": "forside_ navigasjon for lostjenesten.PNG"
+        }
+      ],
+      "files": {
+        "html": "pages/nyheter-2020-ny-bok-om-navigasjon-i-lostjenesten.html",
+        "text": "pages/nyheter-2020-ny-bok-om-navigasjon-i-lostjenesten.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/nyheter/2024/iala-omleggingen-av-sjomerking-langs-norskekysten-er-fullfort/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Lys i riktig retning – IALA-omleggingen av sjømerking langs norskekysten er fullført | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "5122f604dd41c152570e231d8b16cf8b3aa998afb87de2f91ac35a6cb3552ac0",
+      "fetched_at": "2026-06-02T11:05:04.237622+00:00",
+      "depth": 2,
+      "text_chars": 3060,
+      "n_links": 130,
+      "n_pdf_links": 0,
+      "n_images": 4,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-lykt-4.jpg-169bbf91.jpg",
+          "alt": "Fyrlykt Horten"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-etter-iala-omlegging.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-iala-2-lykter-a6d072c7.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-iala-skjermin-9276f65f.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/nyheter-2024-iala-omleggingen-av-sjomerking-langs-norskekysten-er-fullfort.html",
+        "text": "pages/nyheter-2024-iala-omleggingen-av-sjomerking-langs-norskekysten-er-fullfort.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/nyheter/2024/kystverket-setter-kurs-og-kutter-egne-klimagassutslipp/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Kystverket setter kurs og kutter egne klimagassutslipp | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "00aa85adb8ccb7625bcd1bfe6d21c3ffb307b4941fad1e61e776c40534ebc191",
+      "fetched_at": "2026-06-02T11:04:28.986565+00:00",
+      "depth": 1,
+      "text_chars": 2472,
+      "n_links": 132,
+      "n_pdf_links": 0,
+      "n_images": 3,
+      "images": [
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-om-kystverket-klimamal.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-skip-i-innseilingen-ti-140a2ba3.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-98d156def7ad4171b02428a4a1b9ad1e-iona-i-aalesu-e7407a2a.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/nyheter-2024-kystverket-setter-kurs-og-kutter-egne-klimagassutslipp.html",
+        "text": "pages/nyheter-2024-kystverket-setter-kurs-og-kutter-egne-klimagassutslipp.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/oljevern-og-miljoberedskap/kurs-og-ovelser/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Opplæring i håndtering av akutt forurensning | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "3487b6f1d14d7f38c22af2d46df00fa8748b2673c9088bf50050a50ecbcb3f44",
+      "fetched_at": "2026-06-02T11:03:29.635029+00:00",
+      "depth": 1,
+      "text_chars": 359,
+      "n_links": 147,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/oljevern-og-miljoberedskap-kurs-og-ovelser.html",
+        "text": "pages/oljevern-og-miljoberedskap-kurs-og-ovelser.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/om-kystverket/forskning-og-utvikling-fou/e-navigasjon-2/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "E-navigasjon | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "e81be57f27681aef3f44de8439b80c77903128052b4ea85c3afe7f3c35ed5733",
+      "fetched_at": "2026-06-02T11:05:49.865458+00:00",
+      "depth": 2,
+      "text_chars": 1395,
+      "n_links": 147,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/om-kystverket-forskning-og-utvikling-fou-e-navigasjon-2.html",
+        "text": "pages/om-kystverket-forskning-og-utvikling-fou-e-navigasjon-2.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/regelverk/forurensningsloven/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Forurensningsloven | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "a4939fd441ef0f63205041117cafef9fa5048c7eebfd2f2b65ff18aa2332565d",
+      "fetched_at": "2026-06-02T11:03:46.488035+00:00",
+      "depth": 1,
+      "text_chars": 276,
+      "n_links": 131,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-forurensningsloven.html",
+        "text": "pages/regelverk-forurensningsloven.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/regelverk/havne--og-farvannsloven/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Havne- og farvannsloven | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "f9dd0937f512b42614db474532fa9ed7dd746d2e2edb8e9438ebf8e5249d3ed5",
+      "fetched_at": "2026-06-02T11:03:45.409222+00:00",
+      "depth": 1,
+      "text_chars": 258,
+      "n_links": 140,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-havne--og-farvannsloven.html",
+        "text": "pages/regelverk-havne--og-farvannsloven.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/regelverk/horinger/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Høringer | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "22c8a892c0701d7f83e9f12212d64317f1a0924eac560b4998be9422ecbd62d1",
+      "fetched_at": "2026-06-02T11:03:48.691307+00:00",
+      "depth": 1,
+      "text_chars": 3902,
+      "n_links": 165,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-horinger.html",
+        "text": "pages/regelverk-horinger.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/regelverk/planmedvirkning/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Kystverkets rolle i planlegging etter plan- og bygningsloven | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "40cfa9f07dca76d8144e305ebaaf291df813ea4efdf66d7ee957c9ec199ff7f8",
+      "fetched_at": "2026-06-02T11:03:44.331487+00:00",
+      "depth": 1,
+      "text_chars": 351,
+      "n_links": 133,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-planmedvirkning.html",
+        "text": "pages/regelverk-planmedvirkning.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/regelverk/svalbardmiljoloven/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Svalbardmiljøloven | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "39356dac8537c135e430eb4d0135bdf762e6127947fab30ad1ca8c676676e659",
+      "fetched_at": "2026-06-02T11:03:47.566810+00:00",
+      "depth": 1,
+      "text_chars": 5225,
+      "n_links": 129,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-svalbardmiljoloven.html",
+        "text": "pages/regelverk-svalbardmiljoloven.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/regelverk/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Regelverk som vi utøver mynde etter | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "b0a6e0844dc78b0979cef1b97a410e8bea679bad7ddfd8cb73770019b010eac1",
+      "fetched_at": "2026-06-02T11:03:43.269906+00:00",
+      "depth": 1,
+      "text_chars": 4554,
+      "n_links": 140,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk.html",
+        "text": "pages/regelverk.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/batfart/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "BåtFart-appen gjør det enklere å følge fartsgrensene til sjøs | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "f2444142a06028a1cc1b6e61f572ced39ced107eabc6070eac09ad1046cb0357",
+      "fetched_at": "2026-06-02T11:02:26.036851+00:00",
+      "depth": 0,
+      "text_chars": 993,
+      "n_links": 133,
+      "n_pdf_links": 0,
+      "n_images": 5,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-batfart-annonse-rs.png-578f8d08.png",
+          "alt": "Båter som kjører på sjøen"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-batfart_app_symbol.png",
+          "alt": "Båtfart_app_symbol.png"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-badge-apple-app-store.png",
+          "alt": "badge-app-store.png"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-badge-google-play-app.png",
+          "alt": "badge-google-play.png"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-sorg-for-at-s-6b66debc.jpg",
+          "alt": "Sørg for at sommeren på sjøen blir trygg og sikker for alle_foto Foto Leif Andersen Kystverket (2).jpg"
+        }
+      ],
+      "files": {
+        "html": "pages/sjotransport-og-havn-fritidsbat2-batfart.html",
+        "text": "pages/sjotransport-og-havn-fritidsbat2-batfart.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Tenk sikkerhet når du er ute i fritidsbåt | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "950c0c2cff6c38ff140613bef4142887e5471585455b3d30c852605f396573bd",
+      "fetched_at": "2026-06-02T11:03:40.066008+00:00",
+      "depth": 1,
+      "text_chars": 2008,
+      "n_links": 155,
+      "n_pdf_links": 2,
+      "n_images": 6,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-6d4548cdddbc422ba1fcc698cec1d906-kv-nornen.jpg-169bbf91.jpg",
+          "alt": "Fritidsbåter i mange varianter."
+        },
+        {
+          "file": "kystverket\\images\\globalassets-fotoware-2021-5-trygg-til-sjos2.jpg",
+          "alt": "trygg på sjøen"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-71b43d67cef14cebb0d2505e1804556a-batliv-lyngor.jpg-08dea819.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-batfart-annonse-rs.png-08dea819.png",
+          "alt": "Båter som kjører på sjøen"
+        },
+        {
+          "file": "kystverket\\images\\globalassets-sjovegen-fritidsbat_nyttige-tjenester-for-batfolk_forside.jpg",
+          "alt": "Fritidsbåt_Nyttige tjenester for båtfolk_forside.jpg"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-98d273962a8f45f4baaf8796caa64469-sakte-fart.jpg",
+          "alt": "sakte-fart.jpg"
+        }
+      ],
+      "files": {
+        "html": "pages/sjotransport-og-havn-fritidsbat2.html",
+        "text": "pages/sjotransport-og-havn-fritidsbat2.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjotransport-og-havn/test-kystdatahuset/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "kystdatahuset | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "adb9449e5a6f06d2dfde106490ea0fc9ffb33d3acf44b216904b3b439e65fdf3",
+      "fetched_at": "2026-06-02T11:03:32.778922+00:00",
+      "depth": 1,
+      "text_chars": 3840,
+      "n_links": 135,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-datakatalog.svg",
+          "alt": "Kystdatahuset"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-9fd4b54b6045413889a7ac34ea091a6d-illustrasjon--1bb9bc36.jpg",
+          "alt": "kystdatahuset-infografikk-1.jpg"
+        }
+      ],
+      "files": {
+        "html": "pages/sjotransport-og-havn-test-kystdatahuset.html",
+        "text": "pages/sjotransport-og-havn-test-kystdatahuset.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Farvannsskilt | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "90cc0a6bc8d3f103c5d9c8f4be75cf28cf44fbc60994170fcb8160431e000064",
+      "fetched_at": "2026-06-02T11:05:38.220300+00:00",
+      "depth": 2,
+      "text_chars": 5267,
+      "n_links": 135,
+      "n_pdf_links": 3,
+      "n_images": 26,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---annen-fare.jpg",
+          "alt": "V - Annen fare.jpg"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---annen-fare---gul.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-n105_horisontal_klaring_ikon.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-n102_vertikal_klaring_ikon.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---bevegelig-bru.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---kabelferge.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---livsfarlig-ledning.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---ankring-forbudt.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---dykking-forbudt.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense-opphorer.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---sjotrafikk-forbudt.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-ab8285c9e1374a88b4fcb3e91324fbac-o---anropskanal-vhf.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-ab8285c9e1374a88b4fcb3e91324fbac-o---sakte-fart.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---dato.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---kabel.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lav-bru.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lengde-bortenfor-meter.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lengde-bo-f0081758.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lengde-fra-meter.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---tid.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---virkeomrade.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---beste-punkt-for-passasje.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---overett.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---sidemarkering-babord.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---sidemarkering-styrbord.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sjovegen-fyr-lykter-og-sjomerker-farvannsskilt.html",
+        "text": "pages/sjovegen-fyr-lykter-og-sjomerker-farvannsskilt.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Flytende merker - beskrivelser | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "9c1fad5b3143b9c3512fd9df9cf3573645b69aa4b81fc21c91d339c042d9ab51",
+      "fetched_at": "2026-06-02T11:04:55.850347+00:00",
+      "depth": 2,
+      "text_chars": 860,
+      "n_links": 132,
+      "n_pdf_links": 1,
+      "n_images": 10,
+      "images": [
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3ace3ec8.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3531b831.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-2ab44bb4.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a67ae32f.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-e495ce75.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-fc2c9bd2.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a4eee04b.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-1436d7ea.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-9db6004e.png",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-ab0cc6eb.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sjovegen-fyr-lykter-og-sjomerker-flytende-merker.html",
+        "text": "pages/sjovegen-fyr-lykter-og-sjomerker-flytende-merker.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/fyrlykter/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Fyrlykter | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "042662850e2980b56c1698a9dea9707dba3b9ff428dad8f5a51b1e1c5534ed29",
+      "fetched_at": "2026-06-02T11:04:33.146547+00:00",
+      "depth": 2,
+      "text_chars": 1528,
+      "n_links": 135,
+      "n_pdf_links": 2,
+      "n_images": 3,
+      "images": [
+        {
+          "file": "kystverket\\images\\globalassets-fotoware-2021-5-merd-fyrlykt---arendal_28008912243_o.jpg-169bbf91.jpg",
+          "alt": "Bilde av ei fyrlykt"
+        },
+        {
+          "file": "kystverket\\images\\contentassets-0cdf44808b804bcfbe32912ae78e972c-eksempel-pa-s-d80e5d08.jpg",
+          "alt": "Eksempel på sektorinndeling i sjøkart."
+        },
+        {
+          "file": "kystverket\\images\\contentassets-c5e6c1c999f74dd8804e664b6b5213b7-eksempel-paa-et-overettmerke.jpg",
+          "alt": "Overettmerke.jpg"
+        }
+      ],
+      "files": {
+        "html": "pages/sjovegen-fyr-lykter-og-sjomerker-fyrlykter.html",
+        "text": "pages/sjovegen-fyr-lykter-og-sjomerker-fyrlykter.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/indirekte-belysning/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Lanterner med og uten indirekte belysning  | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "f7b2d9b9bfe12313259672369f36eb8951bbf9b6073e64318645c517125061f1",
+      "fetched_at": "2026-06-02T11:04:42.475154+00:00",
+      "depth": 2,
+      "text_chars": 3276,
+      "n_links": 129,
+      "n_pdf_links": 2,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-32f6868dadcc49769e5c15d5493a0d3a-indirekte-bel-c7d18db5.jpg",
+          "alt": "HIB-er i møre. Hurtigbåtmerker med indirekte belysning."
+        }
+      ],
+      "files": {
+        "html": "pages/sjovegen-fyr-lykter-og-sjomerker-indirekte-belysning.html",
+        "text": "pages/sjovegen-fyr-lykter-og-sjomerker-indirekte-belysning.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/merkingen-av-norskeskysten/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Merkingen av norskekysten | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "8dc4b3b188ecf17d8a6fda9e8a1dec81786d4c0705f7e9a66ab51def2d09093a",
+      "fetched_at": "2026-06-02T11:04:40.381939+00:00",
+      "depth": 2,
+      "text_chars": 3586,
+      "n_links": 129,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-0b80a2dbe65f44e1ae00778185f88402-65668m-baroyg-3de4f92e.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\contentassets-3738bbd8a9d94a4699d51b57aac07e78-bake.jpg",
+          "alt": "Båke.jpg"
+        }
+      ],
+      "files": {
+        "html": "pages/sjovegen-fyr-lykter-og-sjomerker-merkingen-av-norskeskysten.html",
+        "text": "pages/sjovegen-fyr-lykter-og-sjomerker-merkingen-av-norskeskysten.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/norsk-fyrliste/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Norsk fyrliste | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "413752197c3e1051a3919efbb5b2d439b7a54dc325993ff9359860d588bbe105",
+      "fetched_at": "2026-06-02T11:05:05.311553+00:00",
+      "depth": 2,
+      "text_chars": 1185,
+      "n_links": 136,
+      "n_pdf_links": 5,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sjovegen-fyr-lykter-og-sjomerker-norsk-fyrliste.html",
+        "text": "pages/sjovegen-fyr-lykter-og-sjomerker-norsk-fyrliste.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/retningslinjer/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Retningslinjer for utforming og plassering av navigasjonsinnretninger  | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "76004c734d781455b94783075dffaa8a42a925901056d5e4ed7a692b05a7600a",
+      "fetched_at": "2026-06-02T11:05:42.396772+00:00",
+      "depth": 2,
+      "text_chars": 2140,
+      "n_links": 132,
+      "n_pdf_links": 5,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sjovegen-fyr-lykter-og-sjomerker-retningslinjer.html",
+        "text": "pages/sjovegen-fyr-lykter-og-sjomerker-retningslinjer.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Fyr, lykter og sjømerker | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "3cf331b7484215bce63510939e6d0b141f31bcaed91c36bcc14fc1dd3d1579c1",
+      "fetched_at": "2026-06-02T11:02:31.483313+00:00",
+      "depth": 1,
+      "text_chars": 1447,
+      "n_links": 139,
+      "n_pdf_links": 1,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "kystverket\\images\\globalassets-fotoware-2021-5-dji_0008.jpg-169bbf91.jpg",
+          "alt": "Alnes fyr"
+        },
+        {
+          "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-f863a8a0.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/sjovegen-fyr-lykter-og-sjomerker.html",
+        "text": "pages/sjovegen-fyr-lykter-og-sjomerker.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Kystverkets reiarlag og fartøy  | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "631277470d102fb404a287abd65590a84f558fb87b81fcb0d5a8522624969a03",
+      "fetched_at": "2026-06-02T11:02:42.960589+00:00",
+      "depth": 1,
+      "text_chars": 6295,
+      "n_links": 129,
+      "n_pdf_links": 0,
+      "n_images": 9,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-b8cee263e01143bd919a220484da89df-ov-hekkingen--01c04a01.jpg",
+          "alt": "To fartøy ligg side om side."
+        },
+        {
+          "file": "kystverket\\images\\globalassets-fotoware-2021-5-ov-hekkingen-342---foto-tor-erik-kvalsvik.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-ov-ryvingen---foto-alf-ar-2ed153cf.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-bokfjord.jpg",
+          "alt": "Bøkfjord.jpg"
+        },
+        {
+          "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-skomvar.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-ov-utvar---foto-alf-arne--b8e35645.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-lindesnes.jpg",
+          "alt": ""
+        },
+        {
+          "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-ms-ona.jpg",
+          "alt": "MS Ona.jpg"
+        },
+        {
+          "file": "kystverket\\images\\globalassets-fotoware-2021-5-tilsyn-p-hib_15606624684_o.jpg-169bbf91.jpg",
+          "alt": "Vedlikehald på sjømerke"
+        }
+      ],
+      "files": {
+        "html": "pages/sjovegen-kystverkets-fartoyer.html",
+        "text": "pages/sjovegen-kystverkets-fartoyer.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/sjovegen/overgang-til-iala-standard/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Overgang til IALA-standard | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "32e474690874bde330a62ae4059c70603e40afff8c8631f02fb3ca60a879284c",
+      "fetched_at": "2026-06-02T11:04:59.011232+00:00",
+      "depth": 2,
+      "text_chars": 758,
+      "n_links": 133,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "kystverket\\images\\contentassets-375f105219ce4166bf22fa304c7c154c-litus-luxsmorsund.jpg",
+          "alt": "Litus Lux"
+        }
+      ],
+      "files": {
+        "html": "pages/sjovegen-overgang-til-iala-standard.html",
+        "text": "pages/sjovegen-overgang-til-iala-standard.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/varsle-oss/feil-pa-sjomerker/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Varsle om feil på sjømerker, eller andre farer av betydning for sikker navigasjon eller ferdsel | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "b64a26d504cf69424950fd46e339e24a629c081983159905687f91243db7d6fd",
+      "fetched_at": "2026-06-02T11:02:27.188887+00:00",
+      "depth": 1,
+      "text_chars": 1191,
+      "n_links": 137,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/varsle-oss-feil-pa-sjomerker.html",
+        "text": "pages/varsle-oss-feil-pa-sjomerker.txt"
+      }
+    },
+    {
+      "url": "https://www.kystverket.no/varsle-oss/sikkerhetstruendehendelse/",
+      "site": "kystverket",
+      "source_id": "kystverket_batfart",
+      "title": "Varsle om mistenkelig maritim aktivitet | Kystverket - tar ansvar for sjøveien",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "f39f6b7f56dacfcebbbf8cc0059a874da7b9ddae95c3a1177db6880ceb1be07e",
+      "fetched_at": "2026-06-02T11:02:28.282789+00:00",
+      "depth": 1,
+      "text_chars": 1517,
+      "n_links": 139,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/varsle-oss-sikkerhetstruendehendelse.html",
+        "text": "pages/varsle-oss-sikkerhetstruendehendelse.txt"
+      }
+    }
+  ],
+  "pdfs": [
+    {
+      "url": "https://www.kystverket.no/contentassets/16cc4e376f04416aae83c3c5e15dd571/merkeliste/midt-norge.pdf",
+      "file": "kystverket\\pdf\\contentassets-16cc4e376f04416aae83c3c5e15dd571-merkeliste-midt-norge.pdf",
+      "bytes": 455531,
+      "checksum_sha256": "ed4cbb528ba60d10cc8cfe83344bdf191ec3ae15a20dae46dec720a02199f81b",
+      "etag": "\"1dcdec522ec5aeb\"",
+      "last_modified": "Fri, 08 May 2026 08:31:59 GMT",
+      "fetched_at": "2026-06-02T11:05:07.380068+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/16cc4e376f04416aae83c3c5e15dd571/merkeliste/nordland.pdf",
+      "file": "kystverket\\pdf\\contentassets-16cc4e376f04416aae83c3c5e15dd571-merkeliste-nordland.pdf",
+      "bytes": 441752,
+      "checksum_sha256": "939bf2e6fd78da7833b4268f7583732dcfe6d7d78087cecaeedeb675f0afee15",
+      "etag": "\"1dcdec52385fd98\"",
+      "last_modified": "Fri, 08 May 2026 08:32:00 GMT",
+      "fetched_at": "2026-06-02T11:05:08.417441+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/16cc4e376f04416aae83c3c5e15dd571/merkeliste/sorost.pdf",
+      "file": "kystverket\\pdf\\contentassets-16cc4e376f04416aae83c3c5e15dd571-merkeliste-sorost.pdf",
+      "bytes": 217497,
+      "checksum_sha256": "3bfa0aba8224361dee4116b61aea0212beaea37c20a306cec4bfdd11170785e8",
+      "etag": "\"1dcdec523801199\"",
+      "last_modified": "Fri, 08 May 2026 08:32:00 GMT",
+      "fetched_at": "2026-06-02T11:05:05.327859+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/16cc4e376f04416aae83c3c5e15dd571/merkeliste/troms-og-finnmark.pdf",
+      "file": "kystverket\\pdf\\contentassets-16cc4e376f04416aae83c3c5e15dd571-merkeliste-troms-og-finnmark.pdf",
+      "bytes": 198155,
+      "checksum_sha256": "69f6853cfb04788078463d1ffaefe8f780013aff454ffbc915dd4a9053ff7c1b",
+      "etag": "\"1dcdec52380460b\"",
+      "last_modified": "Fri, 08 May 2026 08:32:00 GMT",
+      "fetched_at": "2026-06-02T11:05:09.442054+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/16cc4e376f04416aae83c3c5e15dd571/merkeliste/vest.pdf",
+      "file": "kystverket\\pdf\\contentassets-16cc4e376f04416aae83c3c5e15dd571-merkeliste-vest.pdf",
+      "bytes": 376247,
+      "checksum_sha256": "f49234e2cc159578362e891d03ecf17f0fc20c7eb9c405ec3b65c929c4781db5",
+      "etag": "\"1dcdec52386fdb7\"",
+      "last_modified": "Fri, 08 May 2026 08:32:00 GMT",
+      "fetched_at": "2026-06-02T11:05:06.363235+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/276a50e15ae3444097ae9e07eeb13b20/routeinfo-flyer-2022-til-nett.pdf",
+      "file": "kystverket\\pdf\\contentassets-276a50e15ae3444097ae9e07eeb13b20-routeinfo-flyer-2022-til-nett.pdf",
+      "bytes": 666791,
+      "checksum_sha256": "3103a913bd13cfc1226e37707d7f67c87f8c904018eabfe8604e6b12bd2903bc",
+      "etag": "\"1d8182859bbb727\"",
+      "last_modified": "Wed, 02 Feb 2022 11:30:59 GMT",
+      "fetched_at": "2026-06-02T11:03:24.346583+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/3436726d7436417b997bb0b75c86adbb/litus-lux-faktaark.pdf",
+      "file": "kystverket\\pdf\\contentassets-3436726d7436417b997bb0b75c86adbb-litus-lux-faktaark.pdf",
+      "bytes": 246386,
+      "checksum_sha256": "2e80e73a4a34d8308104c0547fc121bf215e61867d8aa73466a4c5bdb55c0d63",
+      "etag": "\"1d7470d70028df2\"",
+      "last_modified": "Wed, 12 May 2021 09:01:47 GMT",
+      "fetched_at": "2026-06-02T11:04:33.175212+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/3436726d7436417b997bb0b75c86adbb/litus-mini-faktaark.pdf",
+      "file": "kystverket\\pdf\\contentassets-3436726d7436417b997bb0b75c86adbb-litus-mini-faktaark.pdf",
+      "bytes": 250201,
+      "checksum_sha256": "e149d47c46bc13420dacd283961244b7e1d7e4b11bf016be22a740b0a21a9183",
+      "etag": "\"1d7470d958d8859\"",
+      "last_modified": "Wed, 12 May 2021 09:02:50 GMT",
+      "fetched_at": "2026-06-02T11:04:34.201333+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/56500e71a194444f9190fa23bcb7777b/n212_fartsgrense.pdf",
+      "file": "kystverket\\pdf\\contentassets-56500e71a194444f9190fa23bcb7777b-n212_fartsgrense.pdf",
+      "bytes": 54544,
+      "checksum_sha256": "786d4c1e8db4aee293dd07520559c6d615344ece6c5623c9066ea498d1711feb",
+      "etag": "\"1d80243238d2090\"",
+      "last_modified": "Wed, 05 Jan 2022 14:47:19 GMT",
+      "fetched_at": "2026-06-02T11:05:38.247203+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/56500e71a194444f9190fa23bcb7777b/n515_fritidsfartoy.pdf",
+      "file": "kystverket\\pdf\\contentassets-56500e71a194444f9190fa23bcb7777b-n515_fritidsfartoy.pdf",
+      "bytes": 48605,
+      "checksum_sha256": "6b9fa297b8d88f3b54f674595aefd3b36abb92d5a303f8c9b9d2e2f2d5a80bc5",
+      "etag": "\"1d80243238d485d\"",
+      "last_modified": "Wed, 05 Jan 2022 14:47:19 GMT",
+      "fetched_at": "2026-06-02T11:05:39.270418+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/56500e71a194444f9190fa23bcb7777b/retningslinjer-for-utforming-tekniske-krav-til-ogplassering-av-navigasjonsinnretninger.pdf",
+      "file": "kystverket\\pdf\\contentassets-56500e71a194444f9190fa23bcb7777b-retningslinje-a09f5fd8.pdf",
+      "bytes": 1651944,
+      "checksum_sha256": "b09173b0780d317496d38c8adb06475bcd5e816517ff347fb1a0b6664153963a",
+      "etag": "\"1d76d7f3c5b8968\"",
+      "last_modified": "Wed, 30 Jun 2021 07:12:07 GMT",
+      "fetched_at": "2026-06-02T11:05:40.317597+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/99b76f0d6e1a42feab99cdc2ff6eeb32/opplaringslogg-kadettfarledsbevis.pdf",
+      "file": "kystverket\\pdf\\contentassets-99b76f0d6e1a42feab99cdc2ff6eeb32-opplaringslog-17485553.pdf",
+      "bytes": 143084,
+      "checksum_sha256": "2289c576ed8e5a01391d336a2b86d4f66ba008a36781d025ed53ae9460a33ea5",
+      "etag": "\"1d763bc210b8c6c\"",
+      "last_modified": "Thu, 17 Jun 2021 21:02:49 GMT",
+      "fetched_at": "2026-06-02T11:06:23.020790+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/a6f8e044aa6447e7b471510bc7cb17d2/new-tss-2021-flyer.pdf",
+      "file": "kystverket\\pdf\\contentassets-a6f8e044aa6447e7b471510bc7cb17d2-new-tss-2021-flyer.pdf",
+      "bytes": 528345,
+      "checksum_sha256": "c8bd4896d5ce2bdef7de9c01a061c26d60ca33cf615ec3d544a8bb546c3d788b",
+      "etag": "\"1d777c9e7b93f59\"",
+      "last_modified": "Tue, 13 Jul 2021 09:31:49 GMT",
+      "fetched_at": "2026-06-02T11:06:32.662608+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/db0d7ffcd9f344428131acdacac225ff/klistremerke0623-2022.pdf",
+      "file": "kystverket\\pdf\\contentassets-db0d7ffcd9f344428131acdacac225ff-klistremerke0623-2022.pdf",
+      "bytes": 1286864,
+      "checksum_sha256": "22eb4144253d478b8f472f922a860af6637806183b3ae8e38b149d5b3879a3b0",
+      "etag": "\"1d993baddf0e5d0\"",
+      "last_modified": "Wed, 31 May 2023 12:24:38 GMT",
+      "fetched_at": "2026-06-02T11:02:31.518759+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/df45140cbb5e4e72b211945a405d2635/2015-2865-1-seilas-pa-farledsbevis-i-innseilingskorridorer.pdf",
+      "file": "kystverket\\pdf\\contentassets-df45140cbb5e4e72b211945a405d2635-2015-2865-1-s-072fc393.pdf",
+      "bytes": 108366,
+      "checksum_sha256": "bb629cf2d17772e4069ff2d45d8ba0dd50c2557b4cacfd9a6000150d87da497e",
+      "etag": "\"1d763bddf78504e\"",
+      "last_modified": "Thu, 17 Jun 2021 21:15:18 GMT",
+      "fetched_at": "2026-06-02T11:06:26.256461+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/e2388db6bace4838aa7604004ffdf787/asp-recognized-by-norway.pdf",
+      "file": "kystverket\\pdf\\contentassets-e2388db6bace4838aa7604004ffdf787-asp-recognized-by-norway.pdf",
+      "bytes": 189721,
+      "checksum_sha256": "843113fd98ae4ca7190a1b284aca99d3e8d3232dbbef9e4b8169f04bae1c3b75",
+      "etag": "\"1dc942fae22b619\"",
+      "last_modified": "Mon, 02 Feb 2026 10:35:42 GMT",
+      "fetched_at": "2026-06-02T11:05:47.724908+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/eb9b1752b9fb45c4a99a11eb222c428a/20130101-retningslinjer_for_utforming_tekniske_krav_til_og_plassering_av_navigasjonsinnretninger-utgitt-av-hk.pdf",
+      "file": "kystverket\\pdf\\contentassets-eb9b1752b9fb45c4a99a11eb222c428a-20130101-retn-1c3623e8.pdf",
+      "bytes": 1704439,
+      "checksum_sha256": "bb3e0654c5ac544d5a2bfde4db3e255c04435c11e330a3883e559a27f4ed59ef",
+      "etag": "\"1d7a944af1c1377\"",
+      "last_modified": "Tue, 14 Sep 2021 08:44:09 GMT",
+      "fetched_at": "2026-06-02T11:05:42.442737+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/ec029f1763e546a2a88ed1e7014fcacc/dirigens-lux-faktaark.pdf",
+      "file": "kystverket\\pdf\\contentassets-ec029f1763e546a2a88ed1e7014fcacc-dirigens-lux-faktaark.pdf",
+      "bytes": 391492,
+      "checksum_sha256": "ab266eee7d05faf0043a957a87b408357487f5a47946ae467c8df1ce6042fafe",
+      "etag": "\"1d7470e45f9a444\"",
+      "last_modified": "Wed, 12 May 2021 09:07:46 GMT",
+      "fetched_at": "2026-06-02T11:04:42.500866+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/ec029f1763e546a2a88ed1e7014fcacc/dirigens-mini-faktaark.pdf",
+      "file": "kystverket\\pdf\\contentassets-ec029f1763e546a2a88ed1e7014fcacc-dirigens-mini-faktaark.pdf",
+      "bytes": 354461,
+      "checksum_sha256": "fd1954efb20cf2c266ab6cfe885bef5dda9db9a6552a44892dfc488e5efc4224",
+      "etag": "\"1d7470e70e3d99d\"",
+      "last_modified": "Wed, 12 May 2021 09:08:58 GMT",
+      "fetched_at": "2026-06-02T11:04:43.519388+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/evalueringsskjema-english.pdf",
+      "file": "kystverket\\pdf\\contentassets-f7ac4f9d5a6f49af8b31b3e0d838cc0f-evalueringsskjema-english.pdf",
+      "bytes": 565911,
+      "checksum_sha256": "29ba3ee6705c502f5408baa3377768f18e2c9c66ddc1e6fe0b232bf919d1e05e",
+      "etag": "\"1d9614baac27297\"",
+      "last_modified": "Tue, 28 Mar 2023 08:02:40 GMT",
+      "fetched_at": "2026-06-02T11:03:07.799001+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/evalueringsskjema-norsk.pdf",
+      "file": "kystverket\\pdf\\contentassets-f7ac4f9d5a6f49af8b31b3e0d838cc0f-evalueringsskjema-norsk.pdf",
+      "bytes": 297615,
+      "checksum_sha256": "77a1e83a195b32fe6e52f8523ca7bd249498230642525419fe79175f025ba530",
+      "etag": "\"1d9614baace5a8f\"",
+      "last_modified": "Tue, 28 Mar 2023 08:02:40 GMT",
+      "fetched_at": "2026-06-02T11:03:06.776180+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/opplarimgslogg-norsk.pdf",
+      "file": "kystverket\\pdf\\contentassets-f7ac4f9d5a6f49af8b31b3e0d838cc0f-opplarimgslogg-norsk.pdf",
+      "bytes": 143084,
+      "checksum_sha256": "2289c576ed8e5a01391d336a2b86d4f66ba008a36781d025ed53ae9460a33ea5",
+      "etag": "\"1d9614baac8feec\"",
+      "last_modified": "Tue, 28 Mar 2023 08:02:40 GMT",
+      "fetched_at": "2026-06-02T11:03:04.721566+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/opplaringslogg-english.pdf",
+      "file": "kystverket\\pdf\\contentassets-f7ac4f9d5a6f49af8b31b3e0d838cc0f-opplaringslogg-english.pdf",
+      "bytes": 146411,
+      "checksum_sha256": "857fd0efef73b02f4609a2367980495fc9033db8c30b3631968c664c0c5d583b",
+      "etag": "\"1d9614baac8ebeb\"",
+      "last_modified": "Tue, 28 Mar 2023 08:02:40 GMT",
+      "fetched_at": "2026-06-02T11:03:05.737137+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/bestemmelser-om-merking-av-permanent-plasserte-innretninger-i-petroleumsvirksomheten.pdf",
+      "file": "kystverket\\pdf\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-0932900a.pdf",
+      "bytes": 627958,
+      "checksum_sha256": "5c4ae00b655de10cec7471f6fc65e387cb47cc35422ed2851326d90b2a3b583b",
+      "etag": "\"1d7489fabc58a76\"",
+      "last_modified": "Fri, 14 May 2021 09:01:05 GMT",
+      "fetched_at": "2026-06-02T11:05:44.566324+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/provisions-related-to-the-marking-of-permanently-located-fascilities-in-the-petroleum-industry.pdf",
+      "file": "kystverket\\pdf\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-122aed9f.pdf",
+      "bytes": 596159,
+      "checksum_sha256": "60fc161a5049b3c4022dcb05e342c664033646e1e80205a6c60f914aea5acb92",
+      "etag": "\"1d7489fd2834dbf\"",
+      "last_modified": "Fri, 14 May 2021 09:02:10 GMT",
+      "fetched_at": "2026-06-02T11:05:45.599285+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/klistremerke0623-2022.pdf",
+      "file": "kystverket\\pdf\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3953148e.pdf",
+      "bytes": 1286864,
+      "checksum_sha256": "22eb4144253d478b8f472f922a860af6637806183b3ae8e38b149d5b3879a3b0",
+      "etag": "\"1db603b02820fd0\"",
+      "last_modified": "Mon, 06 Jan 2025 13:00:50 GMT",
+      "fetched_at": "2026-06-02T11:04:55.884411+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/retningslinjer-for-bruk-av-aisnavigasjonsinnretninger-2019-.pdf",
+      "file": "kystverket\\pdf\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-f0d76853.pdf",
+      "bytes": 808571,
+      "checksum_sha256": "597c9aaf40b3854da291ac42ac54550ce52158eea51a3d6b0b83dbabcfdd36ff",
+      "etag": "\"1d7489d0310e9fb\"",
+      "last_modified": "Fri, 14 May 2021 08:42:03 GMT",
+      "fetched_at": "2026-06-02T11:05:43.505522+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/los-og-farledsbevis/egenerklaring-og-vurdering-av-medisinsk-skikkethet-los.pdf",
+      "file": "kystverket\\pdf\\globalassets-los-og-farledsbevis-egenerklaring-og-vurdering--450f1e23.pdf",
+      "bytes": 516407,
+      "checksum_sha256": "a0814656bbe71947fe720f3280f2f99498080f350dc59961eb45bbfcbe4c2866",
+      "etag": "\"1d75869413bad37\"",
+      "last_modified": "Thu, 03 Jun 2021 11:11:52 GMT",
+      "fetched_at": "2026-06-02T11:06:04.011316+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/los-og-farledsbevis/erklaring-fra-sjomannslege-om-bruk-av-faste-medikamenter-los.pdf",
+      "file": "kystverket\\pdf\\globalassets-los-og-farledsbevis-erklaring-fra-sjomannslege--c738a804.pdf",
+      "bytes": 161347,
+      "checksum_sha256": "add8234100b52ff3cafdf0534df93e781196ca723fb6e09de606cbf4c9d477f6",
+      "etag": "\"1d75869413e3a43\"",
+      "last_modified": "Thu, 03 Jun 2021 11:11:52 GMT",
+      "fetched_at": "2026-06-02T11:06:06.077438+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/los-og-farledsbevis/helseerklaring-for-los.pdf",
+      "file": "kystverket\\pdf\\globalassets-los-og-farledsbevis-helseerklaring-for-los.pdf",
+      "bytes": 183028,
+      "checksum_sha256": "4cc0a94801e6c6d0f073686762d13b9b4db61ec792fb8441062fa99cbde353d8",
+      "etag": "\"1d75869413e86f4\"",
+      "last_modified": "Thu, 03 Jun 2021 11:11:52 GMT",
+      "fetched_at": "2026-06-02T11:06:02.986751+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/los-og-farledsbevis/udyktighetserklaring-for-los.pdf",
+      "file": "kystverket\\pdf\\globalassets-los-og-farledsbevis-udyktighetserklaring-for-los.pdf",
+      "bytes": 171191,
+      "checksum_sha256": "5f72271582597ef2b25e7fe07b8ab64076cdff501b91bb64013ce695ae491eaa",
+      "etag": "\"1d75869413ed0b7\"",
+      "last_modified": "Thu, 03 Jun 2021 11:11:52 GMT",
+      "fetched_at": "2026-06-02T11:06:07.110239+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/los-og-farledsbevis/vurdering-av-klatretest-for-los.pdf",
+      "file": "kystverket\\pdf\\globalassets-los-og-farledsbevis-vurdering-av-klatretest-for-los.pdf",
+      "bytes": 716172,
+      "checksum_sha256": "c9fb72efbe0ad7432dc3863c5bce887164ee5cf7de7d9f03468c66d88c59f402",
+      "etag": "\"1d758694136a18c\"",
+      "last_modified": "Thu, 03 Jun 2021 11:11:52 GMT",
+      "fetched_at": "2026-06-02T11:06:05.051346+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/navigasjon-og-overvakning/vts/retningslinjer-for-bruk-av-brevik-sjotrafikksentral-sitt-tjenesteomrade.pdf",
+      "file": "kystverket\\pdf\\globalassets-navigasjon-og-overvakning-vts-retningslinjer-fo-eb23c5ad.pdf",
+      "bytes": 165500,
+      "checksum_sha256": "e402d869816a249a894ed75ecd0b0c5f6316161e376f0cd99e5ecb651a29e616",
+      "etag": "\"1d81439255fec7c\"",
+      "last_modified": "Fri, 28 Jan 2022 11:21:08 GMT",
+      "fetched_at": "2026-06-02T11:06:31.632475+00:00"
+    },
+    {
+      "url": "https://www.kystverket.no/globalassets/sjovegen/fritidsbat_nyttige-tjenester-for-batfolk_revidert_a6_2022.pdf",
+      "file": "kystverket\\pdf\\globalassets-sjovegen-fritidsbat_nyttige-tjenester-for-batfo-916435d4.pdf",
+      "bytes": 2482797,
+      "checksum_sha256": "76b1f3e4ac0520b2fc199faf0eb50490129ba18690d844b39748f7b3824bfd89",
+      "etag": "\"1d993be24a392ed\"",
+      "last_modified": "Wed, 31 May 2023 12:48:05 GMT",
+      "fetched_at": "2026-06-02T11:03:40.112863+00:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-4a168cf4e8e3464c807e870a4cfbd68c-lindesnes-fyr-5a3ad9c6.jpg",
+      "alt": "Lindesnes fyr",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/4a168cf4e8e3464c807e870a4cfbd68c/lindesnes-fyr_folk-rundt-omkring_tot-m-atrium-2-foto-gro-kibsgaard-petersen_6229837701_o.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/kystkultur/fyrstasjoner/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-digitale_fyrbesok.svg",
+      "alt": "Digitale fyrbesøk",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/tjenesteikoner-2026/digitale_fyrbesok.svg",
+      "page_url": "https://www.kystverket.no/kystkultur/fyrstasjoner/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-kystkultur-fyr-kjolnes-gange.jpg-08dea819.jpg",
+      "alt": "Kjølnes fyr",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/om-kystverket/kystkultur/fyr/kjolnes-gange.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/kystkultur/fyrstasjoner/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-a2b386bb698b41b188a2937e54f7f5ec-tony-bat.jpg-578f8d08.jpg",
+      "alt": "Båttur Steilene vedlikehold",
+      "caption": "Tony Jon Larsson og Kristian Stenrød (i gul jakke fra entreprenøren Stenrød) må ut i båt for å komme seg på jobb på Steilene. (Alle foto: Anders Røeggen)",
+      "url": "https://www.kystverket.no/contentassets/a2b386bb698b41b188a2937e54f7f5ec/tony-bat.jpg?mode=crop&quality=90&width=2000&height=1125",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3498.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Arbeid med taket på fyrmesterboligen.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3498.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3502.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Fornøyde arbeidere, drivere og eiere så langt i arbeidet.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3502.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-sjovegen-tiltak-i-farvannet-utb-prosjekt-husoy--294ed508.jpg",
+      "alt": "",
+      "caption": "Steilene er tilsammen fem øyer - I tillegg til Fyrsteilene som avbildet her, har vi Persteilene, Landsteilene, Storsteilene og Knerten.",
+      "url": "https://www.kystverket.no/globalassets/sjovegen/tiltak-i-farvannet/utb-prosjekt/husoy-fiskerihavn---utdyping/img_0163.jpeg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-bat-plank.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Det kommer stadig inn materiale til brygga på Steilene som ble fikset opp i fjor.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/bat-plank.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3527.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Flere håndverkere var på plass da Kystverket var på besøk.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3527.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3476.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Skiferstein på taket skal skiftes ut på fyrvokterboligen.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3476.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3477.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Maskinbygningen på Steilene.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3477.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3478.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Nytt tak og vinduer på uthuset.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3478.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3482.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Steilene er en inngang til vår felles kystkultur.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3482.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3484.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Mange tonn skifer er fraktet ut til øyene.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3484.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-sjovegen-tiltak-i-farvannet-utb-prosjekt-husoy--4b1c1be0.jpg",
+      "alt": "",
+      "caption": "Uthuset ved fyrstasjonen får en real oppgradering.",
+      "url": "https://www.kystverket.no/globalassets/sjovegen/tiltak-i-farvannet/utb-prosjekt/husoy-fiskerihavn---utdyping/img_0166.jpeg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3485.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Fyrstasjon som er full av liv.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3485.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3480.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Fyrstasjonen har vinduer ut mot sør der fugleliv kan studeres.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3480.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3486.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Nye vindu nye muligheter.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3486.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3488.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Fyrlykta er borte, men historien står sterkt på Steilene.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3488.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3489.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Et uthus kan brukes til mangt.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3489.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3491.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Naturopplevelser på en liten øy.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3491.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3505.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Steilene - et kjent landemerke for sjøfarende inn Oslofjorden.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3505.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3507.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Viktige funksjoner på en liten øy.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3507.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3509.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "En gang veien til fyret.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3509.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3512.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Kulturlandskap ...",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3512.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3515.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "... og kulturformidling.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3515.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3519.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Maling i høstfarger.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3519.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3520.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Til utleie i god gammel stil.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3520.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3521.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Utleie med historie i og på veggene.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3521.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3523.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Kystled for å oppleve roen.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3523.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3528.jpg-fe056798.jpg",
+      "alt": "",
+      "caption": "Vedlikehold og info i skjønn forening.",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/dsc_3528.jpg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-img_0161.jpeg-fe056798.jpg",
+      "alt": "",
+      "caption": "Kaffe må man ha ...",
+      "url": "https://www.kystverket.no/contentassets/67c1bef39ef1464c8b9e617a04242b0c/img_0161.jpeg?quality=95&width=1600",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-a2ecdffafabd46c688a0d54d147c0d9e-10788897566_6-1433ad20.jpg",
+      "alt": "Runde fyr",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/a2ecdffafabd46c688a0d54d147c0d9e/10788897566_69b0d1e4e5_h.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-46bd70903e664c698399b50ac9ae28cf-rute-skudefjo-185cf944.png",
+      "alt": "",
+      "caption": "Et eksempel på en seilingsrute i kartløsningen  på routeinfo.no",
+      "url": "https://www.kystverket.no/contentassets/46bd70903e664c698399b50ac9ae28cf/rute-skudefjorden-stad.png?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/artikkel-digital-rutetjeneste---routeinfo.no"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-c42a13596a664f2da3ac0d75b7ced96f-anker---lodingen.jpg-08dea819.jpg",
+      "alt": "Skriftlig invitasjon til informasjonsmøter om ankring",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/c42a13596a664f2da3ac0d75b7ced96f/anker---lodingen.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/artikkel-digital-rutetjeneste---routeinfo.no"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-navigasjon-og-overvakning-routeinfo-fartoy-med--173a9d55.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/navigasjon-og-overvakning/routeinfo/fartoy-med-skissert-rute-og-ruteinformasjon-foto-kystverket_appex.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/artikkel-digital-rutetjeneste---routeinfo.no"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-fb246ed6cf1642e9be80b8c7f1b2f4bd-primar_rtz.png-08dea819.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/fb246ed6cf1642e9be80b8c7f1b2f4bd/primar_rtz.png?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/artikkel-digital-rutetjeneste---routeinfo.no"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-6e609364564540618843c0f79552dfff-liggende-rout-d40f0a7a.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/6e609364564540618843c0f79552dfff/liggende-routeinfo_kartutsnitt.png?mode=crop&quality=85&width=220&height=150",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/artikkel-digital-rutetjeneste---routeinfo.no"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-6e609364564540618843c0f79552dfff-infografikk-r-c5a420f0.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/6e609364564540618843c0f79552dfff/infografikk-routeinfo-2021-1920x1080.png?mode=crop&quality=85&width=220&height=150",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/artikkel-digital-rutetjeneste---routeinfo.no"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-6e609364564540618843c0f79552dfff-v4-infografik-fe0b5d6c.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/6e609364564540618843c0f79552dfff/v4-infografikk-landsdekkende-digital-rutetjeneste.jpg?mode=crop&quality=85&width=220&height=150",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/artikkel-digital-rutetjeneste---routeinfo.no"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-49c40c8e9ad8437f8159b1b963a3fd04-losbording_83-0b5ed33c.jpg",
+      "alt": "Los går om bord på lasteskip via leider",
+      "caption": "Los border et lasteskip fra losbåten via leider Foto: Helge Skodvin/Kystverket",
+      "url": "https://www.kystverket.no/contentassets/49c40c8e9ad8437f8159b1b963a3fd04/losbording_8360332947_o-1.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/tilbringertjenester/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-a319e6ecc6e646c6991fe0782353de17-vil-du-bli-los_23_2.jpg-169bbf91.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/a319e6ecc6e646c6991fe0782353de17/vil-du-bli-los_23_2.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/vil-du-bli-los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-656ef159ce0444939494508cab2b2947-los-martin-st-e57c1d7b.jpg",
+      "alt": "Los klatrer i leider",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/656ef159ce0444939494508cab2b2947/los-martin-stromdahl--border-via-losleier_-foto-nils-magne-vardoy_2.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/vil-du-bli-los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-a7a74ecf527240dcbbdc83267af196b2-siv-og-roald.jpg-08dea819.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/a7a74ecf527240dcbbdc83267af196b2/siv-og-roald.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/vil-du-bli-los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-84c5b420eb744bc1b6f364757ad0a48e-image-16.jpg-93a52c2f.jpg",
+      "alt": "statslos Siv Oldeide",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/84c5b420eb744bc1b6f364757ad0a48e/image-16.jpg?mode=crop&quality=90&width=400&height=275&rxy=0.39,0.36",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/vil-du-bli-los/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-ikoner-tjenester-se-losbestilling.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/ikoner-tjenester/se-losbestilling.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-ikoner-tjenester-avgiftskalkulator.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/ikoner-tjenester/avgiftskalkulator.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-08100f8d0980439b88c11bc5eb939c7e-losaspiranter-e179c273.jpg",
+      "alt": "Losaspiranter om bord losbåt",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/08100f8d0980439b88c11bc5eb939c7e/losaspiranter_-pa-leiderkurs.jpeg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-d511eeff79e84ec3a6878089c892299c-amerikansk-ha-20ddd555.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/d511eeff79e84ec3a6878089c892299c/amerikansk-hangarskip_losing.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-20211203_100151.jpg-08dea819.jpg",
+      "alt": "Statslos Karl Helge Haagensen var med da nye digitale verktøy ble testet i Tjeldsundet.",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/48c644a0767141549b1b023e896ef296/20211203_100151.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-49c40c8e9ad8437f8159b1b963a3fd04-losbording_83-6dd051a6.jpg",
+      "alt": "Los går om bord på lasteskip via leider",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/49c40c8e9ad8437f8159b1b963a3fd04/losbording_8360332947_o-1.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-94fecbb89e844029a00f260ca17208e9-pa-losoppdrag-630ff727.jpg",
+      "alt": "Losoppdrag i Rekefjord",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/94fecbb89e844029a00f260ca17208e9/pa-losoppdrag_rekefjord_rune-larsen_liggende.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-2cbe052d908a489084925451ed8136af-gamle-oksoy_f-76090e00.jpg",
+      "alt": "Fartøyet Gamle Oksøy under seilas",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/2cbe052d908a489084925451ed8136af/gamle-oksoy_foto-jan-robert-jore.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-9be19d221f924b7997887d57278cf16c-norsk-loskart.png",
+      "alt": "Kart over lostjenesten",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/9be19d221f924b7997887d57278cf16c/norsk-loskart.png",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-bfd026e9d9d6491f8e118b895117ff4a-norske-losstasjoner-besk.jpg",
+      "alt": "",
+      "caption": "Kart over norske losstasjoner og losoldermannskap",
+      "url": "https://www.kystverket.no/contentassets/bfd026e9d9d6491f8e118b895117ff4a/norske-losstasjoner-besk.jpg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/los/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-50495cf09e3c4b65b699226d4b5cf24c-navarea.jpg-169bbf91.png",
+      "alt": "Kart over de 21 NAVAREAS (eller METAREAS) som alle verdenshavene er delt inn i.",
+      "caption": "NAVAREA er de maritime geografiske områdene der ulike myndigheter er ansvarlige for navigasjon og værvarsler.",
+      "url": "https://www.kystverket.no/contentassets/50495cf09e3c4b65b699226d4b5cf24c/navarea.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/navigasjonsvarsling/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-78edc31e91804ae2aad9fa9decd32c1f-fiskerikrimin-77a94f86.jpg",
+      "alt": "",
+      "caption": "",
+      "url": null,
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/tjenester/analyseenheten-i-vardo/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-25d4ed9639144157862239636fe2ee6b-img_7894.jpg-08dea819.jpg",
+      "alt": "",
+      "caption": "",
+      "url": null,
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/tjenester/analyseenheten-i-vardo/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-navigasjon-og-overvaki-3ae94657.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/navigasjon-og-overvaking/vts/maritim-trafikkleder.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-bolgevarsel.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/tjenesteikoner-2026/bolgevarsel.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-06a9795b0ca04a42a2962a13169b8971-bat-maloybrua.jpg-08dea819.jpg",
+      "alt": "Båt på vei under Måløybrua",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/06a9795b0ca04a42a2962a13169b8971/bat-maloybrua.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-d5a0346542ad431dae25b5ff9727ecef-kart-fra-kyst-a18a1d2e.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/d5a0346542ad431dae25b5ff9727ecef/kart-fra-kystinfo-kinn-tjenesteomrade.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-8623c9b798c6461091ce6016ab25efe9-notice-to-mariners.jpg-08dea819.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/8623c9b798c6461091ce6016ab25efe9/notice-to-mariners.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-dc975578fe354d41be7c52e959983e99-ais-seatex-2.jpg-08dea819.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/dc975578fe354d41be7c52e959983e99/ais-seatex-2.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-bestille_los.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/tjenesteikoner-2026/bestille_los.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-digitale_referanseruter.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/tjenesteikoner-2026/digitale_referanseruter.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-navarea.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/tjenesteikoner-2026/navarea.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-navigasjonsvarsler.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/tjenesteikoner-2026/navigasjonsvarsler.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-ikoner-tjenester-slukkede-fyrlys-2.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/ikoner-tjenester/slukkede-fyrlys-2.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-kystinfo_kart.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/tjenesteikoner-2026/kystinfo_kart.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-arcticinfo.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/tjenesteikoner-2026/arcticinfo.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-safeseanet.svg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/tjenesteikoner-2026/safeseanet.svg",
+      "page_url": "https://www.kystverket.no/navigasjonstjenester/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-20211203_100151.jpg-169bbf91.jpg",
+      "alt": "Statslos Karl Helge Haagensen var med da nye digitale verktøy ble testet i Tjeldsundet.",
+      "caption": "Statslos Karl Helge Haagensen var med da nye digitale verktøy ble testet i Tjeldsundet. Foto: Svein Skjæveland, ECC.",
+      "url": "https://www.kystverket.no/contentassets/48c644a0767141549b1b023e896ef296/20211203_100151.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/nyheter/2020/losen-tester-nye-digitale-verktoy/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-losing-av-far-46337d35.jpg",
+      "alt": "20211203_110612.jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/48c644a0767141549b1b023e896ef296/losing-av-fartoy-i-tjeldsundet.jpg",
+      "page_url": "https://www.kystverket.no/nyheter/2020/losen-tester-nye-digitale-verktoy/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-kartbilde-fra-s100demonstator.png",
+      "alt": "Tide1038d95.png",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/48c644a0767141549b1b023e896ef296/Kartbilde-fra-S100demonstator.png",
+      "page_url": "https://www.kystverket.no/nyheter/2020/losen-tester-nye-digitale-verktoy/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-testing-av-el-d25fc5d8.jpg",
+      "alt": "20211203_092909.jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/48c644a0767141549b1b023e896ef296/testing-av-elektroniske-sjokart.jpg",
+      "page_url": "https://www.kystverket.no/nyheter/2020/losen-tester-nye-digitale-verktoy/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-94fecbb89e844029a00f260ca17208e9-pa-losoppdrag-b8d30e93.jpg",
+      "alt": "Losoppdrag i Rekefjord",
+      "caption": "Losoppdrag i Rekefjord. Foto: Rune Larsen",
+      "url": "https://www.kystverket.no/contentassets/94fecbb89e844029a00f260ca17208e9/pa-losoppdrag_rekefjord_rune-larsen_liggende.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/nyheter/2020/ny-bok-om-navigasjon-i-lostjenesten/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-94fecbb89e844029a00f260ca17208e9-forside_-navi-3a592bbc.png",
+      "alt": "forside_ navigasjon for lostjenesten.PNG",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/94fecbb89e844029a00f260ca17208e9/forside_-navigasjon-for-lostjenesten.png",
+      "page_url": "https://www.kystverket.no/nyheter/2020/ny-bok-om-navigasjon-i-lostjenesten/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-lykt-4.jpg-169bbf91.jpg",
+      "alt": "Fyrlykt Horten",
+      "caption": "Horten fyrlykt var siste lykt som ble lagt om til å følge IALA-standarden. Foran fyrlykten står fra venstre: seniorrådgiver Guttorm Tomren, ekspedisjonssjef Ottar Ostnes (Nærings- og fiskeridepartementet), avdelingsleder Trond Røren, seksjonssjef Tatjana Eriksen, avdelingsdirektør Sylvia Beate Kregnes (NFD), avdelingsdirektør Anita Christoffersen (NFD), direktør for transport, havn og farlei Sven Martin Tønnessen og elektriker Marius Krakereid.",
+      "url": "https://www.kystverket.no/contentassets/7cb6ce40eba74610999b4fd7e6f0523d/lykt-4.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/nyheter/2024/iala-omleggingen-av-sjomerking-langs-norskekysten-er-fullfort/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-etter-iala-omlegging.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/7cb6ce40eba74610999b4fd7e6f0523d/etter-iala-omlegging.jpg",
+      "page_url": "https://www.kystverket.no/nyheter/2024/iala-omleggingen-av-sjomerking-langs-norskekysten-er-fullfort/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-iala-2-lykter-a6d072c7.jpg",
+      "alt": "",
+      "caption": "Horten fyrlykt var siste lykt som ble lagt om til å følge IALA-standarden. Til høyre står den gamle fyrlykten som er byttet ut, og i bakgrunnen ligger Kystverkets OV Ryvingen. Foran den nye fyrlykten står fra venstre: seniorrådgiver Guttorm Tomren, ekspedisjonssjef Ottar Ostnes (Nærings- og fiskeridepartementet), avdelingsleder Trond Røren, seksjonssjef Tatjana Eriksen, avdelingsdirektør Sylvia Beate Kregnes (NFD), avdelingsdirektør Anita Christoffersen (NFD), direktør for transport, havn og farlei Sven Martin Tønnessen og elektriker Marius Krakereid. Foto: Anders Røeggen/Kystverket",
+      "url": "https://www.kystverket.no/contentassets/7cb6ce40eba74610999b4fd7e6f0523d/iala-2-lykter---foto-anders-roeggen---kystverket.jpg",
+      "page_url": "https://www.kystverket.no/nyheter/2024/iala-omleggingen-av-sjomerking-langs-norskekysten-er-fullfort/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-iala-skjermin-9276f65f.jpg",
+      "alt": "",
+      "caption": "Nautiker Stein Jarle Løvik forklarer hvordan de nye sektorene som følger IALA-standarden fungerer i praksis. Foto: Anders Røeggen/Kystverket",
+      "url": "https://www.kystverket.no/contentassets/7cb6ce40eba74610999b4fd7e6f0523d/iala-skjerming---foto-anders-roeggen---kystverket.jpg",
+      "page_url": "https://www.kystverket.no/nyheter/2024/iala-omleggingen-av-sjomerking-langs-norskekysten-er-fullfort/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-om-kystverket-klimamal.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/om-kystverket/klimamal.jpg",
+      "page_url": "https://www.kystverket.no/nyheter/2024/kystverket-setter-kurs-og-kutter-egne-klimagassutslipp/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-skip-i-innseilingen-ti-140a2ba3.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/skip-i-innseilingen-til-haugesund-1-foto-kystverket-2.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/nyheter/2024/kystverket-setter-kurs-og-kutter-egne-klimagassutslipp/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-98d156def7ad4171b02428a4a1b9ad1e-iona-i-aalesu-e7407a2a.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/98d156def7ad4171b02428a4a1b9ad1e/iona-i-aalesund-havn_foto-lill-haugen_kystverket.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/nyheter/2024/kystverket-setter-kurs-og-kutter-egne-klimagassutslipp/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-batfart-annonse-rs.png-578f8d08.png",
+      "alt": "Båter som kjører på sjøen",
+      "caption": "Med gratisappen BåtFart er det enklere å følge fartsgrensa til sjøs. Last den ned, og nyt sommeren på sjøen. Foto: Leif Andersen / Kystverket",
+      "url": "https://www.kystverket.no/contentassets/83a0b6266ded4154b49d025152c558cf/batfart-annonse-rs.png?mode=crop&quality=90&width=2000&height=1125",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/batfart/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-batfart_app_symbol.png",
+      "alt": "Båtfart_app_symbol.png",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/83a0b6266ded4154b49d025152c558cf/batfart_app_symbol.png",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/batfart/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-badge-apple-app-store.png",
+      "alt": "badge-app-store.png",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/83a0b6266ded4154b49d025152c558cf/badge-apple-app-store.png",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/batfart/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-badge-google-play-app.png",
+      "alt": "badge-google-play.png",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/83a0b6266ded4154b49d025152c558cf/badge-google-play-app.png",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/batfart/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-sorg-for-at-s-6b66debc.jpg",
+      "alt": "Sørg for at sommeren på sjøen blir trygg og sikker for alle_foto Foto Leif Andersen Kystverket (2).jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/83a0b6266ded4154b49d025152c558cf/sorg-for-at-sommeren-pa-sjoen-blir-trygg-og-sikker-for-alle_foto-foto-leif-andersen-kystverket-2.jpg",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/batfart/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-6d4548cdddbc422ba1fcc698cec1d906-kv-nornen.jpg-169bbf91.jpg",
+      "alt": "Fritidsbåter i mange varianter.",
+      "caption": "En tryggere tur på sjøen i sommer er et mål for Kystverkets mange roller knyttet til fritidsbåter. Foto: KV Nornen/Kystvakten.",
+      "url": "https://www.kystverket.no/contentassets/6d4548cdddbc422ba1fcc698cec1d906/kv-nornen.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-fotoware-2021-5-trygg-til-sjos2.jpg",
+      "alt": "trygg på sjøen",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/fotoware/2021/5/trygg-til-sjos2.jpg",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-71b43d67cef14cebb0d2505e1804556a-batliv-lyngor.jpg-08dea819.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/71b43d67cef14cebb0d2505e1804556a/batliv-lyngor.jpg?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-batfart-annonse-rs.png-08dea819.png",
+      "alt": "Båter som kjører på sjøen",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/83a0b6266ded4154b49d025152c558cf/batfart-annonse-rs.png?mode=crop&quality=90&width=400&height=275",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-sjovegen-fritidsbat_nyttige-tjenester-for-batfolk_forside.jpg",
+      "alt": "Fritidsbåt_Nyttige tjenester for båtfolk_forside.jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/sjovegen/fritidsbat_nyttige-tjenester-for-batfolk_forside.jpg",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-98d273962a8f45f4baaf8796caa64469-sakte-fart.jpg",
+      "alt": "sakte-fart.jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/98d273962a8f45f4baaf8796caa64469/sakte-fart.jpg",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-datakatalog.svg",
+      "alt": "Kystdatahuset",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/tjenesteikoner-2026/datakatalog.svg",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/test-kystdatahuset/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-9fd4b54b6045413889a7ac34ea091a6d-illustrasjon--1bb9bc36.jpg",
+      "alt": "kystdatahuset-infografikk-1.jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/9fd4b54b6045413889a7ac34ea091a6d/illustrasjon-skip-og-datadelingsportal.jpg",
+      "page_url": "https://www.kystverket.no/sjotransport-og-havn/test-kystdatahuset/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---annen-fare.jpg",
+      "alt": "V - Annen fare.jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/500c21fbddba470da38576216140a390/v---annen-fare.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---annen-fare---gul.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/500c21fbddba470da38576216140a390/v---annen-fare---gul.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-n105_horisontal_klaring_ikon.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/500c21fbddba470da38576216140a390/n105_horisontal_klaring_ikon.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-n102_vertikal_klaring_ikon.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/500c21fbddba470da38576216140a390/n102_vertikal_klaring_ikon.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---bevegelig-bru.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/500c21fbddba470da38576216140a390/v---bevegelig-bru.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---kabelferge.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/500c21fbddba470da38576216140a390/v---kabelferge.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-500c21fbddba470da38576216140a390-v---livsfarlig-ledning.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/500c21fbddba470da38576216140a390/v---livsfarlig-ledning.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---ankring-forbudt.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/69de6d4f23ba4eb087a05ca79ba20bb2/f---ankring-forbudt.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---dykking-forbudt.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/69de6d4f23ba4eb087a05ca79ba20bb2/f---dykking-forbudt.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/69de6d4f23ba4eb087a05ca79ba20bb2/f---fartsgrense.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense-opphorer.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/69de6d4f23ba4eb087a05ca79ba20bb2/f---fartsgrense-opphorer.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---sjotrafikk-forbudt.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/69de6d4f23ba4eb087a05ca79ba20bb2/f---sjotrafikk-forbudt.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ab8285c9e1374a88b4fcb3e91324fbac-o---anropskanal-vhf.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/ab8285c9e1374a88b4fcb3e91324fbac/o---anropskanal-vhf.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ab8285c9e1374a88b4fcb3e91324fbac-o---sakte-fart.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/ab8285c9e1374a88b4fcb3e91324fbac/o---sakte-fart.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---dato.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/40acb89530754b12bbf27a5869281ab2/u---dato.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---kabel.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/40acb89530754b12bbf27a5869281ab2/u---kabel.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lav-bru.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/40acb89530754b12bbf27a5869281ab2/u---lav-bru.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lengde-bortenfor-meter.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/40acb89530754b12bbf27a5869281ab2/u---lengde-bortenfor-meter.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lengde-bo-f0081758.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/40acb89530754b12bbf27a5869281ab2/u---lengde-bortenfor-nautiske-mil.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---lengde-fra-meter.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/40acb89530754b12bbf27a5869281ab2/u---lengde-fra-meter.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---tid.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/40acb89530754b12bbf27a5869281ab2/u---tid.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-40acb89530754b12bbf27a5869281ab2-u---virkeomrade.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/40acb89530754b12bbf27a5869281ab2/u---virkeomrade.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---beste-punkt-for-passasje.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/ccef7b42abae4fb2a0b7f0ae000a3780/m---beste-punkt-for-passasje.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---overett.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/ccef7b42abae4fb2a0b7f0ae000a3780/m---overett.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---sidemarkering-babord.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/ccef7b42abae4fb2a0b7f0ae000a3780/m---sidemarkering-babord.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-ccef7b42abae4fb2a0b7f0ae000a3780-m---sidemarkering-styrbord.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/ccef7b42abae4fb2a0b7f0ae000a3780/m---sidemarkering-styrbord.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/farvannsskilt/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3ace3ec8.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/kardinalmerker.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3531b831.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/nord-kardinalmerke.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-2ab44bb4.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/syd-kardinalmerke.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a67ae32f.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/ost-kardinalmerke.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-e495ce75.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/vest-kardinalmerke.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-fc2c9bd2.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/babord-lateralmerke.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a4eee04b.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/styrbord-lateralmerke.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-1436d7ea.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/spesialmerke.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-9db6004e.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/frittliggende-grunne.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-ab0cc6eb.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerkeillustrasjoner/senterledsmerke.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-fotoware-2021-5-merd-fyrlykt---arendal_28008912243_o.jpg-169bbf91.jpg",
+      "alt": "Bilde av ei fyrlykt",
+      "caption": "Typisk eksempel på ei fyrlykt, med sine karakteristikker. Bildet er av Merdø fyrlykt ved Arendal Foto: Kystverket",
+      "url": "https://www.kystverket.no/globalassets/fotoware/2021/5/merd-fyrlykt---arendal_28008912243_o.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/fyrlykter/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-0cdf44808b804bcfbe32912ae78e972c-eksempel-pa-s-d80e5d08.jpg",
+      "alt": "Eksempel på sektorinndeling i sjøkart.",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/0cdf44808b804bcfbe32912ae78e972c/eksempel-pa-sektorinndeling-i-sjokart.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/fyrlykter/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-c5e6c1c999f74dd8804e664b6b5213b7-eksempel-paa-et-overettmerke.jpg",
+      "alt": "Overettmerke.jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/c5e6c1c999f74dd8804e664b6b5213b7/eksempel-paa-et-overettmerke.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/fyrlykter/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-32f6868dadcc49769e5c15d5493a0d3a-indirekte-bel-c7d18db5.jpg",
+      "alt": "HIB-er i møre. Hurtigbåtmerker med indirekte belysning.",
+      "caption": "Indirekte belysning gir veiledning i mørket. Her er såkalte HIB-er, som er hurtigbåtmerker med indirekte belysning. Foto: Kystverket",
+      "url": "https://www.kystverket.no/contentassets/32f6868dadcc49769e5c15d5493a0d3a/indirekte-belysning-hoved.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/indirekte-belysning/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-0b80a2dbe65f44e1ae00778185f88402-65668m-baroyg-3de4f92e.jpg",
+      "alt": "",
+      "caption": "Stang med hvit krekse.",
+      "url": "https://www.kystverket.no/contentassets/0b80a2dbe65f44e1ae00778185f88402/65668m-baroygrunnen-stang-hvit-krekse.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/merkingen-av-norskeskysten/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-3738bbd8a9d94a4699d51b57aac07e78-bake.jpg",
+      "alt": "Båke.jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/3738bbd8a9d94a4699d51b57aac07e78/bake.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/merkingen-av-norskeskysten/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-fotoware-2021-5-dji_0008.jpg-169bbf91.jpg",
+      "alt": "Alnes fyr",
+      "caption": "Alnes fyr. Ligger på Godøy i Giske kommune, Møre og Romsdal. Foto: Olav Helge Matvik/Kystverket",
+      "url": "https://www.kystverket.no/globalassets/fotoware/2021/5/dji_0008.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-f863a8a0.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/bildervedleggfaktabokser/sjovegen/fyr-lykter-og-sjomerker/sjomerker-oversikt.png",
+      "page_url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-b8cee263e01143bd919a220484da89df-ov-hekkingen--01c04a01.jpg",
+      "alt": "To fartøy ligg side om side.",
+      "caption": "OV Hekkingen og OV Ryvingen til kai ved Kystverkets havneanlegg i Ålesund. Foto: Alf Arne Borgund/Kystverket",
+      "url": "https://www.kystverket.no/contentassets/b8cee263e01143bd919a220484da89df/ov-hekkingen-og-ov-ryvingen---foto-alf-arne-borgund---kystverket.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-fotoware-2021-5-ov-hekkingen-342---foto-tor-erik-kvalsvik.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/fotoware/2021/5/ov-hekkingen-342---foto-tor-erik-kvalsvik.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-ov-ryvingen---foto-alf-ar-2ed153cf.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/om-kystverket/fartoya/ov-ryvingen---foto-alf-arne-borgund---kystverket.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-bokfjord.jpg",
+      "alt": "Bøkfjord.jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/om-kystverket/fartoya/bokfjord.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-skomvar.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/om-kystverket/fartoya/skomvar.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-ov-utvar---foto-alf-arne--b8e35645.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/om-kystverket/fartoya/ov-utvar---foto-alf-arne-borgund---kystverket.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-lindesnes.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/om-kystverket/fartoya/lindesnes.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-ms-ona.jpg",
+      "alt": "MS Ona.jpg",
+      "caption": "",
+      "url": "https://www.kystverket.no/globalassets/om-kystverket/fartoya/ms-ona.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-fotoware-2021-5-tilsyn-p-hib_15606624684_o.jpg-169bbf91.jpg",
+      "alt": "Vedlikehald på sjømerke",
+      "caption": "Oksøy vedlikehaldslag utfører vedlikehald på ein HIB (Hurtigbåtmerke med indirekte belysning). I bakgrunnen er ein varde, som fremleis er et viktig sjømerke for sjøfarande langs kysten. Foto: Gro Kibsgaard-Petersen/Kystverket",
+      "url": "https://www.kystverket.no/globalassets/fotoware/2021/5/tilsyn-p-hib_15606624684_o.jpg?mode=crop&quality=95&width=400&height=225",
+      "page_url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-375f105219ce4166bf22fa304c7c154c-litus-luxsmorsund.jpg",
+      "alt": "Litus Lux",
+      "caption": "",
+      "url": "https://www.kystverket.no/contentassets/375f105219ce4166bf22fa304c7c154c/litus-luxsmorsund.jpg",
+      "page_url": "https://www.kystverket.no/sjovegen/overgang-til-iala-standard/"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/personvern",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kartverkets personvernerklæring | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:23 GMT",
+  "checksum_sha256": "5766ea37cc915774b12b9b88076801a1b2444cbc457506fbff42e8cb2efd4ff6",
+  "fetched_at": "2026-06-02T11:07:24.266921+00:00",
+  "depth": 1,
+  "text_chars": 9945,
+  "n_links": 43,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-personvern.html",
+    "text": "pages/om-kartverket-personvern.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kartverkets personvernerklæring",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+Søk om farledsbevis
+Du kan søke om nytt, utvidet eller endret farledsbevis i systemet SafeSeaNet Norway.
+Du kan søke om nytt, utvidet eller endret farledsbevis i systemet SafeSeaNet Norway.
+Før du kan søke om farledsbevis må du lage en personlig brukerkonto i SafeSeaNet Norway.
+På påloggingssiden finner du en brukermanual. Rett under innloggingsfeltet kan du klikke på teksten "Register here". Da vil du få opp de nødvendige sidene for å kunne lage egen "bruker". Fyll inn nødvendige data.
+Når du har opprettet en bruker, kan du logge inn. Epostadressen du la inn er ditt brukernavn. Når du er pålogget må du først oppdatere din personlige informasjon. Sjekk at alt er korrekt, legg inn din bostedsadresse og trykk "Update".
+I menyen til venstre på siden kan du nå klikke på "Pec Admin". Da får du flere valg for hva du ønsker å se på og gjøre med ditt e-Farledsbevis. Bruk noen minutter til å utforske portalen.
+[Videoguide for hvordan man lager søknad om farledsbevis i SafeSeaNet Norway](https://www.youtube.com/watch?v=no3K9f5x0aw&index=1&list=PLQ3VqW26gKgQQb0i4zvfdE9wWBdTg-ko-)
+[Erfaringslogg Svalbard](https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/experience-log-svalbard.xlsx)- Føres for å vise til oversikt over erfaring fra polare farvann / Svalbard
+- Legge smed som vedlegg ved søknad om farledsbevis på Svalbard
+[Kontrakt systematisk opplæring kadettfarledsbevis (Norsk)](https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/systematisk-opplaring-kontrakt.docx)[Kontrakt systematisk opplæring kadettfarledsbevis (Engelsk)](https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/systematic-training-contract.docx)- Legges som vedlegg til søknad om nytt kadettfarledsbevis / ny mentor
+[Opplæringslogg farledsbevis klasse 3 / kadettfarledsbevis (Norsk)](https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/opplarimgslogg-norsk.pdf)[Opplæringslogg farledsbevis klasse 3 / kadettfarledsbevis (Engelsk)](https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/opplaringslogg-english.pdf)- Opplæringslogg ved søknad om farledsbevis klasse 3 eller ved fullført opplæring etter kadettfarledsbevisordningen
+[Erklæring fullført opplæring kadettfarledsbevis](https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/erklaring-fullfort-opplaring-kyststeilas-norsk.docx)
+[Evalueringsskjema assessor / sensorlos (Norsk)](https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/evalueringsskjema-norsk.pdf)[Evalueringsskjema assessor / sensorlos (Engelsk)](https://www.kystverket.no/contentassets/f7ac4f9d5a6f49af8b31b3e0d838cc0f/evalueringsskjema-english.pdf)- Evalueringsskjema i bruk ved farledsbevisprøve med los eller med assessor
+Navigatører kan søke om utvidet eller fornyet farledsbevis i SafeSeaNet Norway.
+- Farledsbevis klasse 2 og 3 gjelder i fem år etter utstedelsen.
+- Farledsbevis klasse 2 og 3 kan fornyes etter søknad dersom søkeren kan dokumentere at man i løpet av gyldighetsperioden har vedlikeholdt sin farvannskunnskap i det området det søkes fornyelse for. Kystverket kan tillate at farvannskunnskapen vedlikeholdes ved bruk av simulator. Fornyelsen gjelder for fem år.
+- Farledsbevis klasse 1 gjelder i to år etter utstedelsen.
+- Farledsbevis klasse 1 kan fornyes etter søknad dersom søkeren kan dokumentere at man i løpet av gyldighetsperioden har gjennomført minimum to seilaser i farleden. Unntaksvis kan Kystverket tillate at seilasene gjennomføres i simulator. Fornyelsen gjelder for to år. Farledsbevis som ikke blir fornyet kan reaktiveres i inntil tre år etter det utløp, dersom kravene til vedlikehold av farvannskunnskap bil oppfylt i løpet av treårsperioden.
+- Når din søknad om farledsbevis er behandlet, vil du få svar fra Kystverket. I svarbrevet kan du bli pålagt å gjennomføre en farledsbevisprøve før beviset utstedes / utvides. Du kan ikke gjennomføre farledsbevisprøve før du har fått et svarbrev (vedtak) fra Kystverket.
+- Se
+[19 i Lospliktforskriften](https://lovdata.no/forskrift/2014-12-17-1808/§19)
+Farledsbeviset kan etter søknad endres til å gjelde et eller flere andre bestemte angitte fartøy av liknende type og størrelse som det eller de farledsbeviset gjelder for, uten at dette medfører ny prøve. Se [§ 18 i lospliktforskriften](https://lovdata.no/forskrift/2014-12-17-1808/§18)
+Gå til "My account" i SafeSeaNet Norway og koble kontoen din sammen med farledsbeviset ditt.
+[Videoguide for hvordan du kobler din SafeSeaNet-konto med ditt eksisterende farledsbevis](https://www.youtube.com/watch?v=eQWktNNGT4A&list=PLQ3VqW26gKgQQb0i4zvfdE9wWBdTg-ko-&index=2)
+-
+Hvordan søke om farledsbevis
+- For klasse 1 og 2 må navigatører søke om farledsbevis i meldingssystemet
+[SafeSeaNet Norway](http://www.shiprep.no). Deretter må man ta en farledsbevisprøve med en statslos - For klasse 3 trenger man ikke å søke i forkant. Man tar en farledsbevisprøve med en assessor. Dokumentasjon om seilingserfaring og evaluering fra assessor blir sendt til Kystverket
+[Se videoguide for hvordan man oppretter en personlig brukerkonto i SafeSeaNet Norway](https://www.youtube.com/watch?v=NW4_p_IZ3oo&index=4&list=PLQ3VqW26gKgQQb0i4zvfdE9wWBdTg-ko-) - For klasse 1 og 2 må navigatører søke om farledsbevis i meldingssystemet
+-
+Krav til erfaring
+All relevant erfaring / fartstid blir vurdert når navigatører søker om nytt, utvidet eller fornyet farledsbevis. Navigatørens erfaring fra de siste fem årene er en viktig del av vurderingen om man får nye områder eller kan beholde eksisterende områder.
+- Det er KUN seilingserfaring ved bruk av dekksoffiser sertifikat klasse 5 eller høyere som regnes som fartstid for farledsbevis.
+Se krav til erfaring i
+[lospliktforskriften](https://lovdata.no/dokument/SF/forskrift/2014-12-17-1808)§§ 10, 11, 12 og 19 -
+Vilkår for bruk av farledsbevis
+Alle seilaser med farledsbevis skal registreres i meldingssystemet SafeSeaNet Norway før seilasen starter. I tillegg er det bestemte vilkår som gjelder for seilaser som blir gjennomført med farledsbevis.
+-
+Farledsbevisprøve
+Navigatører må avlegge prøve for å få farledsbevis klasse 1, 2 eller 3. Under farledsbevisprøven skal søkeren vise at han/hun har tilstrekkelig navigasjonskunnskap- og ferdigheter for leden / området det søkes for.
+-
+Representativ prøve
+Dette er en prøve som dekker et gitt område der det er navigatørens seilingserfaring som avgjør hvor mye av dette området som innvilges på bakgrunn av bestått prøve. Prøven gjelder kun for klasse 2 og klasse 3 farledsbevis.
+-
+Representativ prøve - offshore
+Navigatører som har tatt en prøve som er representativ for offshorebasene kan utvide til andre offshorebaser.
+-
+Prøve med los
+Farledsbevisprøver for klasse 1 og 2 må gjennomføres med en statslos. Dette er farledsbevis som gir større rettigheter enn klasse 3.
+-
+Prøve med assessor
+Farledsbevisprøver for klasse 3 farledsbevis kan gjennomføres av en farledsbevisassessor.
+-
+Assessorkurs
+Rederier kan ha egne farledsbevisassessorer til å gjennomføre farledsbevisprøver for klasse 3 for rederiets navigatører. Klasse 3 gjelder fartøy opp til 100 meter og som ikke fører farlig eller forurensende last. Navigatører som deltar på Kystverkets assessorkurs får innføring i myndighetsutøvelse og hvordan man gjennomfører en farledsbevisprøve i tråd med regelverket.
+-
+Farledsbevisavgift
+Man må betale farledsbevisavgift for å ta farledsbevisprøve, fornye, endre eller utvidet et farledsbevis.
+- Farledsbevisavgiften gjelder ved gjennomføring av en praktisk og teoretisk prøve for utstedelse av nytt farledsbevis, og ved fornying, endring eller utvidelse av farledsbevis.
+- Den praktiske og teoretiske prøven som kreves for utstedelse eller utvidelse av farledsbevis medfører en avgift på kr 4 471,- pr. prøve.
+- Dersom prøven ikke bestås, må det betales ny avgift for ny prøve. Hvis navigatøren søker om farledsbevis for et stort område som krever mer enn en prøve, betales kr 4 471,- pr prøve.
+- Utstedelse, fornying eller endring av farledsbeviset medfører en avgift på kr. 1 117,-. Summen av farledsbevisavgift for en prøve og utstedelse av nytt/utvidet farledsbevis er kr 5 588,-.
+Farledsbevisavgift blir fakturert automatisk i SafeSeaNet Norway.

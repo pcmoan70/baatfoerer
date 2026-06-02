@@ -1,0 +1,69 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/historie/historiske-kart",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Historiske kart | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "d2f930d8e43f840b6afac0b25810e0b53c6afca231285d9f57738b5bb8cc0897",
+  "fetched_at": "2026-06-02T11:07:54.427164+00:00",
+  "depth": 2,
+  "text_chars": 541,
+  "n_links": 40,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-om-kartverket-historie-geografisk-visning-histo-5b2d0e48.jpg",
+      "alt": "Lenke til kartbasert visning av historiske kart"
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket-historie-historiske-kart.html",
+    "text": "pages/om-kartverket-historie-historiske-kart.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Historiske kart",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Nyttig",
+      "id": "TeaserListBlockProxy-15547"
+    },
+    {
+      "level": 3,
+      "text": "Kvalitet, GeoTIFF og trykk",
+      "id": "TeaserListBlockProxy-15547-0"
+    },
+    {
+      "level": 3,
+      "text": "Historisk arkiv",
+      "id": "TeaserListBlockProxy-15547-1"
+    },
+    {
+      "level": 3,
+      "text": "Utviklinga i kartografien",
+      "id": "TeaserListBlockProxy-15547-2"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

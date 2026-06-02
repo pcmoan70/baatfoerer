@@ -1,0 +1,31 @@
+Vindstyrker og Beauforts skala
+Forståelse av meteorologiske begreper er essensielt for trygg ferdsel på sjøen. Her gjennomgår vi hvordan vindstyrke måles, Beauforts vindskala og hvordan vind vises i værmeldinger.
+Vindstyrke i meter per sekund (m/s)
+Vindstyrke angis ofte i meter per sekund (m/s) i Norge. Dette gir en presis måling av vindens hastighet.
+Beauforts vindskala
+Beauforts skala er en internasjonal standard for å beskrive vindstyrker basert på observerte forhold til sjøs og på land. Skalaen går fra 0 (stille) til 12 (orkan).
+| Beaufort | Betegnelse | Vindstyrke (m/s) | Beskrivelse til sjøs |
+|---|---|---|---|
+| 0 | Stille | 0,0–0,2 | Havoverflaten er speilblank |
+| 1 | Flau vind | 0,3–1,5 | Små krusninger på vannet, men ingen skumtopper |
+| 2 | Svak vind | 1,6–3,3 | Små bølger begynner å danne seg, men ingen skumtopper |
+| 3 | Lett bris | 3,4–5,4 | Små bølger med korte, men tydelige skumtopper |
+| 4 | Laber bris | 5,5–7,9 | Små bølger med hyppige skumtopper |
+| 5 | Frisk bris | 8,0–10,7 | Moderat bølgehøyde, mange skumtopper og noe sjøsprøyt |
+| 6 | Liten kuling | 10,8–13,8 | Store bølger begynner å danne seg, skumtopper overalt, noe sjøsprøyt |
+| 7 | Stiv kuling | 13,9–17,1 | Sjøen hoper seg opp, hvitt skum fra bølgetopper blåser i strimer i vindretningen |
+| 8 | Sterk kuling | 17,2–20,7 | Høye bølger med lange kammer, skum blåser i godt markerte strimer i vindretningen |
+| 9 | Liten storm | 20,8–24,4 | Høye bølger, tette skumstrimer driver i vindretningen, sjøen begynner å rulle, sjørokket kan minske synsvidden |
+| 10 | Full storm | 24,5–28,4 | Svært høye bølger med overhengende kammer, sjøen får et hvitt utseende, rullingen blir tung og støtende, synsvidden nedsettes |
+| 11 | Sterk storm | 28,5–32,6 | Ualminnelig høye bølger, små og mellomstore skip kan for en tid forsvinne i bølgedalene, sjøen er fullstendig dekket av lange, hvite skumflak, sjørokket nedsetter synsvidden |
+| 12 | Orkan | ≥32,7 | Lufta er fylt med skum og sjørokk, sjøen er helt hvit av skum, synsvidden er sterkt redusert |
+Vindpiler i værmeldinger
+Vindpiler er symboler som viser både vindretning og vindstyrke i værmeldinger og på værkart. De peker i retningen vinden blåser. På pilens hale er det streker eller symboler som indikerer vindstyrken:
+- En kort strek representerer 5 knop, d.v.s. ca. 2,5 m/s
+- En lang strek representerer 10 knop, d.v.s. ca. 5 m/s
+- En trekant representerer 50 knop, d.v.s. ca. 25 m/s
+For eksempel vil en vindpil med én lang strek og én kort strek indikere en vindstyrke på 15 knop, ca 7,5 m/s. Disse symbolene er nyttige for sjøfarende, da de gir rask informasjon om vindforholdene i et område.
+Relevante oppgaver
+| Nummer | Oppgave | Svarhistorie |
+|---|---|---|
+|

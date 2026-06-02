@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/regelverk/svalbardmiljoloven/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Svalbardmiljøloven | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "39356dac8537c135e430eb4d0135bdf762e6127947fab30ad1ca8c676676e659",
+  "fetched_at": "2026-06-02T11:03:47.566810+00:00",
+  "depth": 1,
+  "text_chars": 5225,
+  "n_links": 129,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/regelverk-svalbardmiljoloven.html",
+    "text": "pages/regelverk-svalbardmiljoloven.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Svalbardmiljøloven",
+      "id": "content-start"
+    }
+  ]
+}

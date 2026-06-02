@@ -1,0 +1,64 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-vestland",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kartverket Vestland | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:41 GMT",
+  "checksum_sha256": "0fb198aea33f390107ab5b945924cc96c6112ac7f3abd2882f94180623bec27e",
+  "fetched_at": "2026-06-02T11:07:42.493902+00:00",
+  "depth": 2,
+  "text_chars": 1708,
+  "n_links": 62,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-vestland.html",
+    "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-vestland.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kartverket Vestland",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Fag",
+      "id": "LinkListBlockProxy-6778"
+    },
+    {
+      "level": 2,
+      "text": "Geodatasamarbeid i fylket",
+      "id": "LinkListBlockProxy-11548"
+    },
+    {
+      "level": 2,
+      "text": "Geodataressurser",
+      "id": "LinkListBlockProxy-5723"
+    },
+    {
+      "level": 2,
+      "text": "Nyhende",
+      "id": "NewsListingBlockProxy-10422"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

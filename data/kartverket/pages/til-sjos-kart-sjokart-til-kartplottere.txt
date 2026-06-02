@@ -1,0 +1,14 @@
+Sjøkart til kartplottarar
+Elektroniske sjøkart (S-57-data) til kartplottarar, basert på sjøkartdata frå Kartverket, blir tilbydd via fleire distributørar. Sjå oversikt over kven distributørane er.
+Desse distributørane av elektroniske sjøkart (S-57-data) til kartplottarar, bruker sjøkartdata frå Kartverket:
+[Chartworld GmbH](https://www.chartworld.com)[Raymarine - LightHouse Charts](https://www.raymarine.com/en-gb/our-products/nautical-charts/lighthouse-charts)[Raymarine - Seapilot Charts](https://www.seapilot.com/features/chart-coverage/)[Olex AS](https://olex.no/)[East View Cartographic Incorporated dba East View Geospatial](https://geospatial.com/)- Renate Rosner Consult S.L.
+[OpenCPN](https://www.o-charts.org/?lng=en) [GARMIN](https://www.garmin.com/)Italy Technologies SRL- GEC srl
+[Aqua Map](https://www.aquamap.app/) - Bist LLC
+[NAVICO](https://www.navico.com/)Inc.[Savvy Navvy Ltd](https://www.savvy-navvy.com/no/hjem)[Electronic Chart Centre](https://www.ecc.no/)[Lloyd’s Register Voyage AS](https://www.lr.org/en/)- MaxSeaTimeZero –
+[Logiciel de Navigation Maritime](https://mytimezero.com/fr)
+Kartverkets standard
+Viss distributørane lastar ned oppdateringar to gonger i månaden kan kartinnhaldet i kartplottaren vere på nivå med Kartverkets standard.
+Kartverkets standard er at kartinnholdet er på nivå med de offisielle norske sjøkart på papir (POD-kart) som oppdaterast med rettingar frå [Etterretninger for sjøfarende (Efs)](https://www.kartverket.no/til-sjos/efs) kvar fjortande dag.
+ENC vs. kartplottar
+Produsentar av elektroniske sjøkart til kartplottarar kan få tilgang til kartdata frå Kartverket som dei nyttar i sin programvare. Desse kartløysingane er ikkje offisielle og er ikkje rekna som autoriserte sjøkart med unntak for mindre lasteskip. Se eiga forskrift: [Forskrift om bygging, utrustning og tilsyn av mindre lasteskip - Lovdata](https://lovdata.no/dokument/SF/forskrift/2025-12-16-2652?q=mindre%20lasteskip)
+E-posten er sendt

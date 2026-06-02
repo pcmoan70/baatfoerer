@@ -1,0 +1,90 @@
+Ofte stilte spørsmål
+-
+Tilfeller der farledsbevis ikke kan utstedes
+Tilfeller der farledsbevis ikke kan utstedes (lospliktforskriften §9)
+- Fartøy med en lengde på 150 meter eller mer (med visse unntak som følger av § 9 fjerde ledd, se mer informasjon under).
+- Atomdrevne fartøy.
+Tilfeller der farledsbevis ikke kan benyttes (lospliktforskriften §17)
+- Farledsbevis kan ikke benyttes ved frakt av stoffer som er regulert i INF-koden eller ved frakt av følgende flytende laster i bulk
+- kondenserte gasser, jf. IGC-koden, kapittel 19, unntatt fartøy opp til 110 meter som
+- er av IGC skipstype 3G, 2PG eller 2G,
+- er utstyrt med godkjent ECDIS, og
+- har redundant fremdrift
+- stoffer i forurensningskategori X som er regulert i MARPOL vedlegg II, jf. IBC-koden, kapittel 17
+- stoffer i forurensningskategori Y som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17, alle stoffer som er regulert i MARPOL vedlegg I og stoffer som har et lavere flammepunkt enn 60 °C, når fartøyet har enkelt skrog og en lengde på 70 meter eller mer
+- stoffer i forurensningskategori Y som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17, alle stoffer som er regulert i MARPOL vedlegg I og stoffer som har et lavere flammepunkt enn 60 °C, når fartøyet har dobbelt skrog og en lengde på 90 meter eller mer, unntatt fartøy opp til 110 meter som
+- er utstyrt med godkjent ECDIS,
+- har beskyttelse av bunkerstankene med dobbelhud hvis fartøyet bruker tungolje til fremdrift (gjelder ikke vegetabilsk olje og fiskeolje), og
+- har redundant framdrift (gjelder ikke vegetabilsk olje og fiskeolje).
+- Begrensningene i første ledd gjelder likevel ikke for fartøy som brukes i en støttefunksjon i offshorevirksomhet og fører begrensede mengder av farlig flytende stoff i bulk, som definert i forskrift 1. juli 2014 nr. 944 om farlig last på norske skip, § 6.
+- Fartøy som frakter stoff eller last som nevnt i første ledd anses å frakte stoffet eller lasten inntil tankene er rengjorte og fri for stoffet eller lasten.
+- I særlige tilfeller kan Kystverket etter søknad bestemme at farledsbevis likevel kan benyttes ved frakt av stoffer som nevnt i første ledd.
+-
+Unntak fra begrensningen i lospliktforskriften §17, første ledd
+Begrensning i §17. første ledd (a og d)
+- Før måtte det søkes unntak fra denne begrensningen, men fra og med 01.07.2020 er unntaket tatt inn i lospliktforskriften for fartøyer opp til 110 meter.
+- Farledsbevis kan ikke benyttes ved frakt av stoffer som er regulert i INF-koden eller ved frakt av følgende flytende laster i bulk
+- kondenserte gasser, jf. IGC-koden, kapittel 19, unntatt fartøy opp til 110 meter som
+- er av IGC skipstype 3G, 2PG eller 2G,
+- er utstyrt med godkjent ECDIS, og
+- har redundant fremdrift
+- stoffer i forurensningskategori Y som er regulert i MARPOL vedlegg II, jf. IBC-koden kapittel 17, alle stoffer som er regulert i MARPOL vedlegg I og stoffer som har et lavere flammepunkt enn 60 °C, når fartøyet har dobbelt skrog og en lengde på 90 meter eller mer, unntatt fartøy opp til 110 meter som
+- er utstyrt med godkjent ECDIS,
+- har beskyttelse av bunkerstankene med dobbelhud hvis fartøyet bruker tungolje til fremdrift (gjelder ikke vegetabilsk olje og fiskeolje), og
+- har redundant framdrift (gjelder ikke vegetabilsk olje og fiskeolje).
+- kondenserte gasser, jf. IGC-koden, kapittel 19, unntatt fartøy opp til 110 meter som
+- Farledsbevis kan ikke benyttes ved frakt av stoffer som er regulert i INF-koden eller ved frakt av følgende flytende laster i bulk
+- Fartøy som fører vegetabilsk olje og fiskeolje. (IBC navn rapeseed oil, fish oil) må kun oppfylle det første kriteriet om ECDIS. Det må i tillegg vurderes konkret om antall lastetanker gjør at konsekvensen ved et eventuelt uhell vil være begrenset.
+- Før måtte det søkes unntak fra denne begrensningen, men fra og med 01.07.2020 er unntaket tatt inn i lospliktforskriften for fartøyer opp til 110 meter.
+-
+Farledsbevis for fartøy over 150 meter i særlige tilfeller
+Unntak fra enkelte lengdebegrensninger for bruk av farledsbevis
+FB for fartøy over 150 meter i særlige tilfeller, §9 fjerde ledd i lospliktforskriften:
+- Dersom ditt fartøy er over 150 m og alle kriterier oppfylles kan du i henhold til lospliktforskriften § 9 fjerde ledd søke Kystverket om å kunne benytte farledsbevis til å ivareta losplikten selv om fartøyet er lengre enn 150 meter.
+Kriterier
+- regelmessig anløp av faste havner minimum to ganger per måned;
+- har en brobesetning og vaktordning som gjør det mulig å ha to dekksoffiser på broen under seilas i det aktuelle lospliktige farvannet og at minst en av dekksoffiserene har eller skaffer seg farledsbevis klasse 1, og
+- ikke fører farlig eller forurensende last (se lospliktforskriften §§ 3, 6, og 17).
+- det bør også foreligge en avtale om at ruten skal opprettholdes i mer enn 1 år
+Om søknadenDu må oppfylle kriteriene ovenfor for at Kystverket skal vurdere din søknad. Et unntak her vil gjelde fartøyet og søknaden må også utformes til å gjelde fartøyet (ikke farledsbevisinnehavere).
+Send søknad til:
+E-post:
+[post@kystverket.no](mailto:post@kystverket.no)
+Post: Kystverket, Postboks 1502, 6025 ÅlesundNB: husk å dokumentere at kriterier er oppfylt.
+-
+Slep av gjenstander, fiskemerder og rør
+§ 3 - annet ledd bokstav e) fritar slepefartøy fra losplikten under følgende vilkår:
+- slep av fiskemerder mellom lokaliteter når:
+- slepte gjenstanders totale lengde ikke overstiger 130m
+- slepets totale lengde ikke er lengre enn minste farledsbredde
+- fartøyet har på AIS, og har fastmontert VHF for kommunikasjon med VTS og andre fartøy
+- fartøyet informerer Kystverkets losformidling om slepet senest 1 time før oppdraget starter, dersom seilasen skjer i tjenesteområdet til en av Kystverkets VTSer skal meldingen rettes dit.
+§ 16 annet ledd lister følgende spesielle vilkår for slep for slepefartøy som har farledsbevis:
+- Farledsbevis kan ikke benyttes av fartøy som:
+- skyver eller sleper en eller flere gjenstander, dersom gjenstanden eller gjenstandene har en total lengde på 100 m eller mer, en bredde på 32 meter eller mer, en høyde på 10 meter eller mer eller en dypgang på 8 meter eller mer, eller
+- skyver eller sleper en eller flere gjenstander i en av de lokale farledene som står i vedlegg 3 til forskriften, dersom gjenstanden eller gjenstandene har en total lengde på 75 meter eller mer, en bredde på 30 meter eller mer, en høyde på 10 meter eller mer eller en dypgang på 8 meter eller mer.
+- Tross begrensningene i andre ledd kan fartøy med fartssertifikat som godkjent slepefartøy eller som har slepetillatelse likevel bruke farledsbeviset når de sleper:
+- flytende rør der totallengden på slepet ikke overstiger 505 meter og bredden på slepet ikke overstiger 12 meter og maksimal dypgang på slepet ikke overstiger 0,5 meter, eller
+- fiskemerder, der fiskemerdens eller fiskemerdenes totale lengde ikke overstiger 300 meter og maksimal dypgang ikke overstiger 0,7 meter.
+-
+Er fartøyet ferdig losset, men har vaskevann (Cargo-SLOP) om bord?
+Fartøy som fører stoff som er listet opp i lospliktforskriften §17 punkt 1 bokstaver b,c og d, kan ikke benytte farledsbevis, men må benytte los for seilas i norske farvann.
+Men når lasten er levert, tankene er rengjort og fartøyet kun holder ”vaskevann” kan fartøyet benytte farledsbevis som om de ikke var lastet. Vaskevannet må da inneholde minimum 98 prosent vann.
+-
+Med et farledsbevis kan du...
+seile uten los i de lospliktige farledene eller områdene som er angitt i farledsbeviset med de fartøyene som er inkludert i beviset. Det er visse vilkår og begrensninger for bruk av farledsbevis. Disse fremgår av selve farledsbeviset eller av lospliktforskriften §§ 15 til 17 og § 21 når det gjelder kadettfarledsbevis. Lokale begrensninger langs kysten fremgår av forskriftens Vedlegg 3.
+-
+Inndragning og kontroll av farledsbevis
+Kystverket kan inndra farledsbevis og kadettfarledsbevis for en bestemt tid eller for alltid i henhold til havne og farvannsloven § 47 og lospliktforskriften § 24 annet ledd dersom:
+- innehaveren overtrer bestemmelser i lov, forskrift eller enkeltvedtak som gjelder sikkerheten til sjøs eller
+- innehaveren bryter vilkår for å ha farledsbeviset eller kadettfarledsbeviset eller
+- innehaveren blir involvert i forhold, eller det foreligger omstendigheter, som gjør at han eller hun åpenbart ikke er skikket til å ha farledsbeviset eller kadettfarledsbeviset.
+- innehaveren ikke gir opplysninger eller dokumentasjon som er nødvendig for å kontrollere at han eller hun fyller vilkårene for å ha beviset, eller
+- vesentlige forhold som lå til grunn for utstedelsen av beviset er endret
+Kystverket er tilsynsmyndighet og kan foreta kontroll for å sikre at vilkårene for å inneha og benytte farledsbevis, kadettfarledsbevis eller kvalifikasjonsbevis som assessor foreligger. I henhold til havne og farvannsloven § 38 skal Kystverket ha uhindret adgang til fartøy som er lospliktige etter lospliktforskriften § 6 i den utstrekning det er nødvendig for gjennomføringen av tilsynet.
+Fartøy, rederi og innehaver av farledsbevis skal, når tilsynsmyndigheten krever det, fremlegge dokumentasjon som er relevant for å føre tilsyn med at bestemmelsene om plikt til å bruke los eller benytte navigatør med farledsbevis blir overholdt.
+-
+Farledsbevisavgift og priser
+Man må betale
+[farledsbevisavgift](https://www.kystverket.no/sjotransport-og-havn/avgifter/farledsbevisavgift/)ved gjennomføring av prøve, utstedelse, utvidelse, fornyelse, og ved endring av fartøy knyttet til farledsbevis.Farledsbevisavgiften må betales via
+[SafeSeaNet Norway](http://www.shiprep.no)

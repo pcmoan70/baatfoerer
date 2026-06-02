@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/regelverk/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Regelverk - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "93012f8669671cdc9cbeec29ce5d2085e165477522a8165a24482b108b0bcb58",
+  "fetched_at": "2026-06-02T10:55:43.078784+00:00",
+  "depth": 1,
+  "text_chars": 584,
+  "n_links": 33,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/regelverk.html",
+    "text": "pages/regelverk.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Regelverk",
+      "id": "main-content"
+    }
+  ]
+}

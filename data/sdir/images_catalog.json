@@ -1,0 +1,157 @@
+{
+  "site": "sdir",
+  "n_images": 10,
+  "images": [
+    {
+      "site": "sdir",
+      "source_id": "sdir",
+      "authority": "official",
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-jan-erik-nyga-ee2cc921.jpg",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/jan-erik-nygaard-2016-06---polarlys.jpg?width=1280&quality=80",
+      "alt": "En fritidsbåt og et passasjerskip på sjøen",
+      "caption": "",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/",
+      "relevance_score": 4,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest",
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "sdir",
+      "source_id": "sdir",
+      "authority": "official",
+      "file": "sdir\\images\\contentassets-fe586f6c8f3b4c828e2b2307c8ad8524-fisketurisme-1.jpg-fcfe1728.jpg",
+      "url": "https://www.sdir.no/contentassets/fe586f6c8f3b4c828e2b2307c8ad8524/fisketurisme-1.jpg?width=1280&quality=80",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.sdir.no/fritidsbat/sikkerhet-ved-utleie-av-bat/",
+      "relevance_score": 2,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "sdir",
+      "source_id": "sdir",
+      "authority": "official",
+      "file": "sdir\\images\\contentassets-b285e3980a764a2d837105ed90d8aeaf-hvordan-besti-5b06c0b4.png",
+      "url": "https://www.sdir.no/contentassets/b285e3980a764a2d837105ed90d8aeaf/hvordan-bestille-tilsyn1.png?width=1280&quality=80",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.sdir.no/naringsfartoy/tilsyn/bestill-tilsyn/",
+      "relevance_score": 2,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "sdir",
+      "source_id": "sdir",
+      "authority": "official",
+      "file": "sdir\\images\\contentassets-864cfed11ee945e9a35a46a52f050631-hvordan-besti-ef65ff6b.png",
+      "url": "https://www.sdir.no/contentassets/864cfed11ee945e9a35a46a52f050631/hvordan-bestille-tilsyn2.png?width=1280&quality=80",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.sdir.no/naringsfartoy/tilsyn/bestill-tilsyn/",
+      "relevance_score": 2,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "sdir",
+      "source_id": "sdir",
+      "authority": "official",
+      "file": "sdir\\images\\contentassets-864cfed11ee945e9a35a46a52f050631-hvordan-besti-34058bf8.png",
+      "url": "https://www.sdir.no/contentassets/864cfed11ee945e9a35a46a52f050631/hvordan-bestille-tilsyn3.png?width=1280&quality=80",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.sdir.no/naringsfartoy/tilsyn/bestill-tilsyn/",
+      "relevance_score": 2,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "sdir",
+      "source_id": "sdir",
+      "authority": "official",
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-hakon-seim-2017-03.jpg-fcfe1728.jpg",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/hakon-seim-2017-03.jpg?width=1280&quality=80",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/",
+      "relevance_score": 2,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "sdir",
+      "source_id": "sdir",
+      "authority": "official",
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-nasjonal-hand-a3f38acb.png",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/nasjonal-handlingsplan-for-sjosikkerhet-1.0.1_side_01.png?width=1280&quality=80",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/",
+      "relevance_score": 2,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "sdir",
+      "source_id": "sdir",
+      "authority": "official",
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-onepager-null-d05c33ab.png",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/onepager-nullvisjonen-rederi-illustrasjon-til-web.png?width=1280&quality=80",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/",
+      "relevance_score": 2,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "sdir",
+      "source_id": "sdir",
+      "authority": "official",
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-christian-bra-4a0e76de.jpg",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/christian-brathen---fotokonkurransen-for-sjofolk-2024.jpg?width=1280&quality=80",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/",
+      "relevance_score": 2,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "sdir",
+      "source_id": "sdir",
+      "authority": "official",
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-cog.jpg-fcfe1728.jpg",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/cog.jpg?width=1280&quality=80",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/",
+      "relevance_score": 2,
+      "topic_hits": [
+        "fart|knop|sjovett|sj\\xf8vett|sikkerhet|redningsvest"
+      ],
+      "analyze": false
+    }
+  ]
+}

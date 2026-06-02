@@ -1,0 +1,62 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/dybdedata-og-datakvalitet-i-norske-sjokart",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Norgeskart.no viser kvalitet på sjøkartdybder | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:49 GMT",
+  "checksum_sha256": "bdfa55d8f0f90ced504e16fcd12f6c6ab3cec8c4d45f6052d6cbebd0db428924",
+  "fetched_at": "2026-06-02T11:08:54.225628+00:00",
+  "depth": 2,
+  "text_chars": 2693,
+  "n_links": 37,
+  "n_pdf_links": 0,
+  "n_images": 3,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-illustrasjon.jpg-37269907.jpg",
+      "alt": "Illustrasjon som viser gammel og ny metode for dybdem&aring;ling."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg",
+      "alt": "Halten fyr ved Fr&oslash;ya, med mange staker og ei oppdrettsmerde."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-kartutsnitt-sognesjoen.png-cb0df5e4.png",
+      "alt": "Kartutsnitt over Sognesj&oslash;en som angir kvaliteten p&aring; dybdedata med r&oslash;d farge"
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket-nyheter-til-sjos-2026-april-dybdedata-og-datak-3972b34a.html",
+    "text": "pages/om-kartverket-nyheter-til-sjos-2026-april-dybdedata-og-datak-3972b34a.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Nye Norgeskart.no viser datakvalitet på dybder",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Mer informasjon",
+      "id": "LinkListBlockProxy-226129"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

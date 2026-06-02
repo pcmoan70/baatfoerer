@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/norges-beste-gjestehavner/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Norges beste gjestehavner - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "cd740dba35813e0585447716bf9b13efda2b85984fe29c247e9cc1de1943edf7",
+  "fetched_at": "2026-06-02T11:13:01.970581+00:00",
+  "depth": 2,
+  "text_chars": 6200,
+  "n_links": 114,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-norges-beste-gjestehavner.html",
+    "text": "pages/sikker-til-sjos-norges-beste-gjestehavner.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Norges beste gjestehavner",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

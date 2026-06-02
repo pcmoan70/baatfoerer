@@ -1,0 +1,39 @@
+{
+  "url": "https://www.sdir.no/en/Leisure-boat/Certificates/Boat-driver_46s-license/Curriculum-for-the-boat-driving-test/",
+  "site": "sdir",
+  "source_id": "sdir_pensum",
+  "title": "Syllabus for the boating exam - Norwegian Maritime Authority",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "f6c4ccbf99c2294296420159dfb610ffefc622ece4e64b0b989918ddd2d7394f",
+  "fetched_at": "2026-06-02T10:51:55.787541+00:00",
+  "depth": 1,
+  "text_chars": 474,
+  "n_links": 24,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/en-leisure-boat-certificates-boat-driver_46s-license-curricu-575fa7ac.html",
+    "text": "pages/en-leisure-boat-certificates-boat-driver_46s-license-curricu-575fa7ac.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Syllabus for the boating exam",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Jump to content",
+      "id": "content-anchors"
+    },
+    {
+      "level": 2,
+      "text": "The syllabus for the boating exam consists of four parts",
+      "id": "main-text-content"
+    }
+  ]
+}

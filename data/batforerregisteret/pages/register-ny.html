@@ -1,0 +1,686 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+
+<html lang="no" class="no-js  bs3 " dir="ltr">
+<head>
+    <!-- admindash/html5.html -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+    
+    <link rel="icon" sizes="any" href="https://static.datakortet.no/bfpregistration/norsktest-man.svg">
+    
+
+    <title>Registrer deg til båtførerprøven</title>
+
+    <script>  
+        // var dk_accepting_cookies_event = new Event('accepting-cookies');
+        window.dk_accepting_cookies = (function () {
+            let result;
+            return (result = new RegExp('(?:^|; )accepting_cookies=([^;]*)').exec(document.cookie)) ? result[1] === '1' : false;
+        })();
+    </script>
+    
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2743103-7"></script>
+    <script>
+    if (1 || window.dk_accepting_cookies) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-2743103-7', {cookie_flags: 'SameSite=None;Secure'});
+    }
+    </script>
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B8WEC6WT3L"></script>
+    <script>
+    if (1 || window.dk_accepting_cookies) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-B8WEC6WT3L', {cookie_flags: 'SameSite=None;Secure'});
+    }
+    </script>
+    
+  
+
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="320">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.datakortet.no/logo/svg/norsktest-man-180.png">
+    <!-- enable full-screen mode (only when launched from home screen) -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- controls the appearance of the status bar in full-screen mode -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+
+    
+
+<!-- datadog rum tag -->
+ 
+<script>
+  if (window.dk_accepting_cookies) {
+    (function(h,o,u,n,d) {
+      h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+      d=o.createElement(u);d.async=1;d.src=n
+      n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+    })(window,document,'script','https://www.datadoghq-browser-agent.com/datadog-rum-v4.js','DD_RUM')
+    DD_RUM.onReady(function() {
+      DD_RUM.init({
+        clientToken: 'pub22e870f4b665b4c3518c6726f6362b26',
+        applicationId: 'da5623fd-48e1-416f-a732-c01aec58deec',
+        site: 'datadoghq.com',
+        service: 'batforerregisteret-django',
+        env: 'prod',
+        
+        // Specify a version number to identify the deployed version of your application in Datadog 
+        // version: '1.0.0',
+        sessionSampleRate: 100,
+        sessionReplaySampleRate: 100,
+        trackInteractions: true,
+        trackResources: true,
+        trackLongTask: true,
+        trackFrustrations: true,
+        defaultPrivacyLevel: 'allow',
+        // enableExperimentalFeatures: ['feature_flags'],
+      });
+  
+      DD_RUM.startSessionReplayRecording();
+    })
+  }
+  </script>
+
+
+
+    
+    <!-- admindash/bootstrap3.html -->
+    <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+    
+    
+    
+    
+    
+    
+        
+
+
+
+<link rel="stylesheet" href="https://static.datakortet.no/font/fa470/css/font-awesome.css">
+
+
+<script crossorigin="anonymous" src="https://www.unpkg.com/@webcomponents/webcomponentsjs@2.2.6/webcomponents-bundle.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.min.js" integrity="sha256-F0O1TmEa4I8N24nY0bya59eP6svWcshqX1uzwaWC4F4=" crossorigin="anonymous"></script>
+<script src="https://js.pusher.com/7.0/pusher.min.js"></script>
+
+
+    
+
+    <script DEBUG LOGLEVEL="3" ICONS="fa4"  src="https://static.datakortet.no/dkdj/js/dkdj.min.js"></script>
+
+    
+
+
+
+      
+
+          
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=latin" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata&amp;subset=latin" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://static.datakortet.no/font/norsktest/style.css">
+    <style> * { font-family: 'Open Sans', sans-serif; } </style>
+    <style>
+        #ie-not-supported p + p {margin-top:15px;}
+        #ie-not-supported a { color:white !important; text-decoration: underline !important;}
+    </style>
+          
+              
+
+    
+    
+<!-- bfpregistration -->
+
+    
+
+
+
+<!-- bfpregistration (prod) -->
+
+    <script src="https://static.datakortet.no/bfpregistration/js/bfpregistration.9ed5ecf105fd9bcd78f4.min.js"></script>
+    <link rel="stylesheet" href="https://static.datakortet.no/bfpregistration/css/bfpregistration.a38e28d1d6480b602591.css" type="text/css">
+<!-- /bfpregistration (prod) -->
+
+
+<!-- /bfpregistration -->
+
+    
+<!-- dkforms -->
+
+    
+
+
+
+<!-- dkforms (prod) -->
+
+    <script src="https://static.datakortet.no/dkforms/js/dkforms.7fccc11af31822564929.min.js"></script>
+    <link rel="stylesheet" href="https://static.datakortet.no/dkforms/css/dkforms.870b08d08ac55a4af79e.css" type="text/css">
+<!-- /dkforms (prod) -->
+
+
+<!-- /dkforms -->
+
+           
+               
+
+    
+            
+                  
+                
+
+    
+ 
+    
+  
+    
+                
+    
+    <meta name="random" content="4ZH;o">
+</head>
+<body  id='body' class="bfp page" name="">
+ 
+
+    
+    
+    
+    <header role="banner" class="branding">
+        <a href="#main" class="sr-only">gå til innhold</a>
+        <div class="container">
+            <h1 class="batforerregisteret shadowed">
+                
+Registrering til båtførerprøven!
+
+            </h1>
+        </div>
+    </header>
+
+    <main id="main" class="container" role="main">
+        <div id="main-content">
+            
+
+
+            
+                <div id="site-content" class="row">
+                    <div class="col-xs-12">
+                        
+    <div style="margin:0 auto 30px;width: 50%;">
+        
+
+        <ul class="nav nav-pills progress">
+            <li title="navn" class="active first">
+                   <dk-icon class="check" value="dot-circle-o:fw"></dk-icon>
+                   <a>
+                       <dk-icon value="user:fw"></dk-icon>
+                       <span class="step-name">navn</span>
+                   </a>
+               </li>
+            
+<li title="tlf" class="">
+                   <dk-icon class="check" value="check:fw"></dk-icon>
+                   <a>
+                       <dk-icon value="phone:fw"></dk-icon>
+                       <span class="step-name">tlf</span>
+                   </a>
+               </li>
+            
+<li title="adresse" class="">
+                   <dk-icon class="check" value="check:fw"></dk-icon>
+                   <a>
+                       <dk-icon value="envelope-o:fw"></dk-icon>
+                       <span class="step-name">adresse</span>
+                   </a>
+               </li>
+            
+<li title="foto" class="">
+                   <dk-icon class="check" value="check:fw"></dk-icon>
+                   <a>
+                       <dk-icon value="camera:fw"></dk-icon>
+                       <span class="step-name">foto</span>
+                   </a>
+               </li>
+            
+<li title="betaling" class="last">
+                   <dk-icon class="check" value="check:fw"></dk-icon>
+                   <a>
+                       <dk-icon value="shopping-cart:fw"></dk-icon>
+                       <span class="step-name">betaling</span>
+                   </a>
+               </li>
+            
+        </ul>
+    
+
+    </div>
+
+    <div class="row">
+        <div class="col-lg-push-1 col-lg-5 col-md-6 col-sm-4 col-xs-12" style="xoutline:1px solid blue">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 hidden-xs">
+                    
+                        <img src="https://static.datakortet.no/bfpregistration/paper-boat.svg" class="img-responsive">
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-push-1 col-lg-5 col-md-5 col-sm-8 col-xs-12" style="xoutline:1px solid blue">
+
+            
+<style>
+    .initial-hide {
+        opacity: 0.3;
+    }
+
+    label.checkbox,
+    label[for="id_SiteConsentForm--innsamling-lagring-og-behandling"] {
+        font-weight: normal;
+    }
+
+    div[field="innsamling-lagring-og-behandling"] {
+        display: flex;
+        flex-direction: row;
+    }
+
+    div[field="innsamling-lagring-og-behandling"] .dvBooleanInput {
+        width: unset !important;
+        right: unset !important;
+    }
+
+    form legend {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+
+    form legend small {
+        color: #777;
+    }
+
+    .errordescr {
+        color: red
+    }
+</style>
+
+
+
+
+    
+        <form method="POST" autocomplete="off" name="ComboForm" id="ComboForm" action="" class="fForm form-horizontal dkform bootform3" role="form" data-layout="standard">
+                <input type="hidden" name="__cmd" value="ComboForm">
+                
+
+    <input type="hidden" name="csrfmiddlewaretoken"
+           value="vR461dUpRhVILmTel9uSHNZwJ32Z5H9bppYpvzhMmnftB6yxxaR2cZBmP0hfagIZ">
+
+
+    
+
+            <div field="innsamling-lagring-og-behandling" class="form-group">
+    <div class="col-sm-3 dvBooleanInput">
+<input class="vBooleanInput" id="id_SiteConsentForm--innsamling-lagring-og-behandling" name="SiteConsentForm--innsamling-lagring-og-behandling" tabindex="1" type="checkbox">
+    </div>
+    <div class="col-sm-9 dvBooleanInput">
+        <label>
+            Jeg samtykker til innsamling, lagring og behandling av personlige data i forbindelse med båtførerprøven og båtførerregisteret.
+        </label>
+    </div>
+</div>
+<br style="clear: both;">
+<div class="needs-consent initial-hide">
+    <p>
+        <strong>Alle felt er påkrevd såfremt vi ikke eksplisitt sier noe annet.</strong>
+    </p>
+    <hr>
+            <legend>Opplæring <small>(ikke påkrevd)</small></legend>
+                    <div class="_fDescr alert alert-info">
+                        Hvilken type opplæring har du planlagt/gjennomført?
+                    </div>
+<div field="prep"
+     class="bs3-form-row-multiselect-widget mb-3 row">
+    <label 
+       for="id_PreparationStatisticsForm--prep_klasseromskurs_0"
+       class="control-label hvMultiselectInput col-sm-1 lvMultiselectInput">
+</label>
+    <div class="dvMultiselectInput direction-block col-sm-9">
+            <div class="checkbox">
+                <label for="id_PreparationStatisticsForm--prep_klasseromskurs_0">
+                    <input class="vCheckboxInput form-check-input" id="id_PreparationStatisticsForm--prep_klasseromskurs_0" name="PreparationStatisticsForm--prep_klasseromskurs" tabindex="1" type="checkbox" value="klasseromskurs">
+                    klasseromskurs
+                </label>
+            </div>
+            <div class="checkbox">
+                <label for="id_PreparationStatisticsForm--prep_nettkurs_1">
+                    <input class="vCheckboxInput form-check-input" id="id_PreparationStatisticsForm--prep_nettkurs_1" name="PreparationStatisticsForm--prep_nettkurs" tabindex="1" type="checkbox" value="nettkurs">
+                    nettkurs
+                </label>
+            </div>
+            <div class="checkbox">
+                <label for="id_PreparationStatisticsForm--prep_selvstudie_2">
+                    <input class="vCheckboxInput form-check-input" id="id_PreparationStatisticsForm--prep_selvstudie_2" name="PreparationStatisticsForm--prep_selvstudie" tabindex="1" type="checkbox" value="selvstudie">
+                    selvstudie
+                </label>
+            </div>
+            <div class="checkbox">
+                <label for="id_PreparationStatisticsForm--prep_annet_3">
+                    <input class="vCheckboxInput form-check-input" id="id_PreparationStatisticsForm--prep_annet_3" name="PreparationStatisticsForm--prep_annet" tabindex="1" type="checkbox" value="annet">
+                    annet
+                </label>
+            </div>
+    </div>
+</div>
+    <hr>
+            <input class="form-control" id="id_AddRegistrationNO--country" name="AddRegistrationNO--country" required tabindex="1" type="hidden" value="NO">
+            <input class="form-control" id="id_AddRegistrationNO--dob" name="AddRegistrationNO--dob" tabindex="1" type="hidden">
+                    <div field="persnr" class="form-group required">
+                <label accesskey="&oslash;"
+                   for="id_AddRegistrationNO--persnr"
+                   class="control-label hvSSN col-sm-3 lvSSN">
+                F<span class="accesskey">&oslash;</span>dselsnr.
+            </label>
+            <div class="col-sm-9 dvSSN">
+            <input class="form-control vSSN" id="id_AddRegistrationNO--persnr" inputmode="numeric" maxlength="11" minlength="11" name="AddRegistrationNO--persnr" required tabindex="1" type="text">
+                <span class="helptext help-block">
+                </span>
+            </div>
+                    </div>
+                    <div field="first_name" class="form-group required">
+                <label accesskey="o"
+                   for="id_AddRegistrationNO--first_name"
+                   class="control-label hvFirstNameInput col-sm-3 lvFirstNameInput">
+                F<span class="accesskey">o</span>rnavn
+            </label>
+            <div class="col-sm-9 dvFirstNameInput">
+            <input autocomplete="given-name" class="form-control vFirstNameInput" id="id_AddRegistrationNO--first_name" maxlength="30" name="AddRegistrationNO--first_name" required tabindex="1" type="text">
+                <span class="helptext help-block">
+                </span>
+            </div>
+                    </div>
+                    <div field="last_name" class="form-group required">
+                <label accesskey="e"
+                   for="id_AddRegistrationNO--last_name"
+                   class="control-label hvLastNameInput col-sm-3 lvLastNameInput">
+                <span class="accesskey">E</span>tternavn
+            </label>
+            <div class="col-sm-9 dvLastNameInput">
+            <input autocomplete="family-name" class="form-control vLastNameInput" id="id_AddRegistrationNO--last_name" maxlength="30" name="AddRegistrationNO--last_name" required tabindex="1" type="text">
+                <span class="helptext help-block">
+                </span>
+            </div>
+                    </div>
+        <form method="POST" autocomplete="off" name="ComboForm" id="ComboForm" action="" class="fForm form-horizontal dkform bootform3" role="form" data-layout="standard">
+                <input type="hidden" name="__cmd" value="ComboForm">
+    <input type="hidden" name="csrfmiddlewaretoken"
+           value="vR461dUpRhVILmTel9uSHNZwJ32Z5H9bppYpvzhMmnftB6yxxaR2cZBmP0hfagIZ">
+            <div class="submit form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+        <button type="submit" name="ComboForm" tabindex="1"
+                class="btn submit btn-primary">
+            neste &raquo;
+        </button>
+    </div>
+</div>
+        </form>
+</div>
+
+    
+            
+        </form>
+        
+        
+    
+
+
+
+
+<script>
+    dk.ready(function () {
+        function samtykke(show) {
+
+            const inputs = dk.$('.initial-hide input');
+            const submit_btn = dk.$('button[type="submit"]')
+            const sections = dk.$('.needs-consent, .need-explanation');
+
+            if (show) {
+                inputs.prop('disabled', false);
+                submit_btn.prop('disabled', false);
+                sections.removeClass('initial-hide');
+            } else {
+                inputs.prop('disabled', true);
+                submit_btn.prop('disabled', true);
+                sections.addClass('initial-hide');
+            }
+        }
+
+        const samtykke_checkbox = $('#id_SiteConsentForm--innsamling-lagring-og-behandling');
+        samtykke(samtykke_checkbox.prop('checked'));
+
+        samtykke_checkbox.on('change', function () {
+            samtykke(this.checked);
+        });
+
+        $('#PreparationStatisticsForm ._fDescr').removeClass('alert alert-info').css({
+            marginTop: '1em'
+        });
+    });
+</script>
+
+
+            <div class="need-explanation">
+                
+<p>
+    <strong>Hvorfor ber vi om denne informasjonen?</strong><br>
+    Vi trenger fødselsnummeret ditt som unik identifikator for
+    å kunne utføre kontrolloppgaver i forbindelse med båtfører&shy;registeret.
+</p>
+
+<p>Vi bruker informasjon om opplæring, samt resultatene du oppnår, for å forbedre båtførerprøven.</p>
+
+            </div>
+
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            
+        </div>
+    </main>
+
+    
+
+<style>
+    footer div { xoutline: 2px dotted white; }
+
+    @media screen and (max-width: 768px) {
+        body.page > footer.footer,
+        body.home > footer.footer {
+            min-height: 710px;
+        }
+        footer.footer .nt-logo-combined img.u-logo.man {
+            margin-left: 36px;
+        }
+        footer.footer header .nt-logo-combined img.text {
+            margin-left: 30px;
+        }
+        html body.page,
+        html body.home {
+            margin-bottom:710px;
+        }
+    }
+</style>
+<footer class="footer" role="contentinfo">
+
+    <div class="container">
+        
+        
+        
+        
+
+        <div class="spacer row visible-xs-block">&nbsp;</div>
+        <div class="spacer row visible-sm-block">&nbsp;</div>
+        <div class="spacer row visible-md-block">&nbsp;</div>
+        <div class="spacer row visible-lg-block">&nbsp;</div>
+
+        <div class="row">
+            <div class="col-xs-push-1 col-sm-4 col-xs-11 first-col h-card vcard">
+                <header>
+                    <div class="sr-only p-name fn n">Norsk Test as</div>
+                    <div class="nt-logo-combined">
+                        <a class="u-url" href="http://www.norsktest.no">
+                            <img class="u-logo man" src="https://static.datakortet.no/bfpregistration/norsktest-man.svg" alt="Norsk Test logo">
+                            <img class="text"
+                                 src="https://static.datakortet.no/bfpregistration/norsktest-text-white.svg"
+                                 alt="Norsk Test">
+                        </a>
+                    </div>
+                </header>
+
+                
+                    <p class="p-adr h-adr">
+                        <span class="p-street-address sr-only">Storgt. 5</span>
+                        <dk-icon value="map-marker:fw"></dk-icon> <span class="p-postal-code">9917</span> <span class="p-locality">Kirkenes</span>
+                        <span class="p-country-name sr-only">NORGE</span>
+                    </p>
+                    <span>
+                        <dk-icon value="phone:fw"></dk-icon> <a href="tel:78973500" class="p-tel tel">7897 3500</a>
+                    </span>
+                    <p>
+                        <dk-icon value="envelope:fw"></dk-icon>
+                        <a class="u-email email" href="mailto:bat@norsktest.no">bat@norsktest.no</a>
+                    </p>
+                
+            </div>
+
+            <div class="col-xs-push-1 col-sm-7 col-xs-11">
+                <div class="row footer-menu">
+
+                    
+                        
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="legal">
+        <a href="/cookies.html">Hvordan vi bruker cookies</a>
+        <a href="/privacy-policy.html">Personvernerklæring</a>
+    </div>
+
+</footer>
+
+
+
+    
+    
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    
+            
+
+
+
+
+      
+
+ 
+
+    <div hidden id="dk-cookie-bar" 
+     style="background-color:black;color:white;position:fixed;bottom:0;left:0;right:0;padding-left:2em;padding-top:10px;padding-bottom:10px; z-index: 1;">
+    <p>
+        Norsk Test benytter informasjonskapsler (cookies) slik at vi kan 
+        yte vår service (Norsk Test uses cookies).
+        <a href="/cookies.html" style="text-decoration:none;cursor:pointer;margin:1ex;display:inline-block;background-color:green;color:white;border-radius:5px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">
+            Les&nbsp;mer
+        </a>
+        
+        <a id="dk-cookie-bar-ok-button" style="text-decoration:none;cursor:pointer;margin:1ex;display:inline-block;background-color:green;color:white;border-radius:5px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">
+            OK
+        </a>
+    </p>
+</div>
+<script>
+dk.ready(function () {
+    // vennligst behold denne koden som en enkel enhet.
+    /*
+            § 2-7b Bruk av informasjonskapsler/cookies
+
+        Lagring av opplysninger i brukers kommunikasjonsutstyr, eller å skaffe seg adgang til
+        slike, er ikke tillatt uten at brukeren er informert om hvilke opplysninger som
+        behandles, formålet med behandlingen, hvem som behandler opplysningene, og har
+        samtykket til dette. Første punktum er ikke til hinder for teknisk lagring av eller
+        adgang til opplysninger:
+
+        1. utelukkende for det formål å overføre kommunikasjon i et elektronisk
+           kommunikasjonsnett
+        2. som er nødvendig for å levere en informasjonssamfunnstjeneste etter
+           brukerens uttrykkelige forespørsel.
+
+    */
+    const _dk_accepting_cookies = dk.web.cookie.get('accepting_cookies');
+    window.dk_accepting_cookies = _dk_accepting_cookies === "1";     
+    if (_dk_accepting_cookies === null) {
+        const cookiebar = dk('#dk-cookie-bar');
+        cookiebar.hidden = false;
+        dk.$('#dk-cookie-bar-ok-button').on('click', function () {
+            var expiry = new Date();
+            expiry.setDate(expiry.getDate() + 365);
+
+            dk.web.cookie.set('accepting_cookies', "1", {
+                path: '/',
+                expires: expiry.toUTCString(),
+                samesite: 'Lax',
+            });
+            
+            window.dk_accepting_cookies = true;
+            dk.trigger(window, 'dk-accepting-cookies', true);
+            // window.dispatchEvent(dk_accepting_cookies_event);
+            dk.$('#dk-cookie-bar').fadeOut(300);
+        });
+    }
+});
+</script>
+
+        
+     
+
+
+<script src="https://norsktest.instatus.com/widget/script.js"></script>
+
+
+</body>
+</html>

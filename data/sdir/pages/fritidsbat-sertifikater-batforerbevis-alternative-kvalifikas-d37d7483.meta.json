@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/alternative-kvalifikasjonsbevis-til-batforerprove/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Alternative kvalifikasjonsbevis til båtførerprøve - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "3757750d9049d83523301d9a82a5b91e0b8e007b715f390dbe5c4b1f542faace",
+  "fetched_at": "2026-06-02T10:57:22.121383+00:00",
+  "depth": 2,
+  "text_chars": 943,
+  "n_links": 30,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-sertifikater-batforerbevis-alternative-kvalifikas-d37d7483.html",
+    "text": "pages/fritidsbat-sertifikater-batforerbevis-alternative-kvalifikas-d37d7483.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Alternative kvalifikasjonsbevis til båtførerprøve",
+      "id": "main-content"
+    }
+  ]
+}

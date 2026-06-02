@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/los/bestille-los/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Bestille los | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "65e68fb0833f157e6c41836ecefa4827a9a6cd132b5cfc19b4cc9e82d7d85167",
+  "fetched_at": "2026-06-02T11:05:52.074891+00:00",
+  "depth": 2,
+  "text_chars": 307,
+  "n_links": 132,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-los-bestille-los.html",
+    "text": "pages/navigasjonstjenester-los-bestille-los.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Bestille los",
+      "id": "content-start"
+    }
+  ]
+}

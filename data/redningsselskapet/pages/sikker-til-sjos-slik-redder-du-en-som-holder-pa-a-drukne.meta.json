@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/slik-redder-du-en-som-holder-pa-a-drukne/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Slik redder du en som holder på å drukne - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "9859dde4e55e626d98e0e19fbb40f5d32be709a9763c1218297c7f0bcf815398",
+  "fetched_at": "2026-06-02T11:12:44.511312+00:00",
+  "depth": 2,
+  "text_chars": 2731,
+  "n_links": 109,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-slik-redder-du-en-som-holder-pa-a-drukne.html",
+    "text": "pages/sikker-til-sjos-slik-redder-du-en-som-holder-pa-a-drukne.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Slik redder du en som holder på å drukne",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

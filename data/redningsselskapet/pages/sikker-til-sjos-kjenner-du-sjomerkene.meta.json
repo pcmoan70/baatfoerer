@@ -1,0 +1,95 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/kjenner-du-sjomerkene/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Kjenner du sjømerkene? - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "cb3fa0696947842de341f1727f7b41a58ecf69afa7989887f9dee53b601d9d1f",
+  "fetched_at": "2026-06-02T11:11:24.898953+00:00",
+  "depth": 1,
+  "text_chars": 5739,
+  "n_links": 112,
+  "n_pdf_links": 0,
+  "n_images": 15,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-08-nordmerk_m_bakgrunn.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-08-ostmerke_m_bakgrunn.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-08-sormerker_m_bakgrunn.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-08-vestmerke_m_bakgrunn.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-gront_merke.jpg",
+      "alt": "Grønn stake i Oslofjorden"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-sideavmerking_rod.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-frittliggende_grunne.jpg",
+      "alt": "Illustrasjon av sjømerket for frittliggende grunne. Sort og rødt"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-senterledsmerke-1024x731.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-badeboye_spesialmerke-1024x731.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-jernstake_m_arm.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-varde-1024x1024.png",
+      "alt": "Varde med arm"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-02-batforerproven-1-1024x564.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-03-7800681330_74b6995caf_k.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-kursjenter.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-medlem_rs_sommer2025.jpg",
+      "alt": "Bli RS-medlem og støtt beredskapen i Norge."
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-kjenner-du-sjomerkene.html",
+    "text": "pages/sikker-til-sjos-kjenner-du-sjomerkene.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kjenner du sjømerkene?",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

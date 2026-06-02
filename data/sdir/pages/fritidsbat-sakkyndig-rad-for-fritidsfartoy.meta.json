@@ -1,0 +1,34 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sakkyndig-rad-for-fritidsfartoy/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Sakkyndig Råd for Fritidsfartøy - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "148186a53c1866c9017617b4e857ec280ce756d853766608844457bd5706ca13",
+  "fetched_at": "2026-06-02T10:56:33.588585+00:00",
+  "depth": 2,
+  "text_chars": 1363,
+  "n_links": 27,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-sakkyndig-rad-for-fritidsfartoy.html",
+    "text": "pages/fritidsbat-sakkyndig-rad-for-fritidsfartoy.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Sakkyndig råd for fritidsfartøy",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Sakkyndig råd for fritidsfartøy består av:",
+      "id": "main-text-content"
+    }
+  ]
+}

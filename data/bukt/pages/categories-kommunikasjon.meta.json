@@ -1,0 +1,40 @@
+{
+  "url": "https://bukt.no/categories/KOMMUNIKASJON",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Kommunikasjon - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "59cb24d2bea048a5cb57d22ca4881d716e69007c86e24d15b6e667054847a62a",
+  "fetched_at": "2026-06-02T11:14:15.681286+00:00",
+  "depth": 2,
+  "text_chars": 2596,
+  "n_links": 45,
+  "n_pdf_links": 0,
+  "n_images": 4,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-30.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-145.gif",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-183.svg",
+      "alt": "Oppgavebilde"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-234.svg",
+      "alt": "Oppgavebilde"
+    }
+  ],
+  "files": {
+    "html": "pages/categories-kommunikasjon.html",
+    "text": "pages/categories-kommunikasjon.txt"
+  },
+  "anchors": []
+}

@@ -1,0 +1,134 @@
+{
+  "url": "https://www.kartverket.no/en/about-kartverket/contact-us/contact-form",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Contact form | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "9db40ca8db5470d0f4069316db1e6b8d4839003f37ea76784d35e97b694327d5",
+  "fetched_at": "2026-06-02T11:08:32.803232+00:00",
+  "depth": 2,
+  "text_chars": 832,
+  "n_links": 42,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/en-about-kartverket-contact-us-contact-form.html",
+    "text": "pages/en-about-kartverket-contact-us-contact-form.txt"
+  },
+  "anchors": [
+    {
+      "level": 2,
+      "text": "Contact us",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Kontaktskjema",
+      "id": "5fc178df-09a6-4552-8c0e-3df69e57a5d4"
+    },
+    {
+      "level": 3,
+      "text": "Trinn 2 av 3",
+      "id": "__field_176066"
+    },
+    {
+      "level": 3,
+      "text": "Trinn 3 av 3",
+      "id": "__field_176102"
+    },
+    {
+      "level": 3,
+      "text": "Tinglysing og eiendomsinformasjon",
+      "id": "b1ca164a-b473-42af-a5ac-ea46d00c40ff"
+    },
+    {
+      "level": 3,
+      "text": "Kart og tjenester",
+      "id": "a1da8988-2c7f-457f-858e-8891579bd1de"
+    },
+    {
+      "level": 3,
+      "text": "Fakturanummer",
+      "id": "3d9d9e79-014c-404b-b034-73c5cc4c3ea0"
+    },
+    {
+      "level": 3,
+      "text": "Tinglysing og eigedomsinformasjon",
+      "id": "8cd8d288-c973-4f71-ad7a-8f3d8f3f8baa"
+    },
+    {
+      "level": 3,
+      "text": "Kart og tenester",
+      "id": "1b506182-5287-4afa-b254-7859192e907c"
+    },
+    {
+      "level": 3,
+      "text": "Fakturanummer",
+      "id": "78913651-724b-449f-90f2-ff8d60c17f27"
+    },
+    {
+      "level": 3,
+      "text": "Property and ownership registration",
+      "id": "a726d44b-b1bc-47b2-b368-7e03e39820bd"
+    },
+    {
+      "level": 2,
+      "text": "Maps, charts, APIs and data, CPOS, and other services",
+      "id": "77dbe6e9-9be2-48f6-91c3-a51fb9f2810f"
+    },
+    {
+      "level": 2,
+      "text": "Invoice",
+      "id": "e2c06cd4-25a5-46f9-ac0f-f5b5ed12dbe3"
+    },
+    {
+      "level": 3,
+      "text": "Egenregistrering av eiendomsopplysninger",
+      "id": "37d947af-be4d-4b59-9580-6abb3f23d68a"
+    },
+    {
+      "level": 3,
+      "text": "Eigenregistrering av eigedomsopplysningar",
+      "id": "aa0a0863-06d8-4b89-a820-ea35c901f84b"
+    },
+    {
+      "level": 3,
+      "text": "Self-registration of property details",
+      "id": "57b46777-4fe2-44f9-aea1-25ea00343f2f"
+    },
+    {
+      "level": 3,
+      "text": "Informasjon om opplastning av vedlegg",
+      "id": "3226277f-3e49-4ceb-88c0-3e1769c37d45"
+    },
+    {
+      "level": 3,
+      "text": "Informasjon om opplasting av vedlegg",
+      "id": "749f5513-b6ce-451b-9f84-b9b2a903794e"
+    },
+    {
+      "level": 3,
+      "text": "Information about uploading attachements",
+      "id": "99a38f39-6ec9-4f36-8413-c5347dc44424"
+    },
+    {
+      "level": 2,
+      "text": "Send page by Email",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Contact us",
+      "id": "footerheading-contactus"
+    },
+    {
+      "level": 4,
+      "text": "Resources",
+      "id": "footerheading-resources"
+    }
+  ]
+}

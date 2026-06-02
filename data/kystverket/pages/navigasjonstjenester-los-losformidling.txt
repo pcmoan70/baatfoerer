@@ -1,0 +1,16 @@
+Kystverkets tre losformidlingssentraler er lokalisert i Horten, Kvitsøy og Lødingen. Losformidlingssentralene planlegger, koordinerer innmeldte losoppdrag og følger oppdraget fra losbestillingen mottas i det elektroniske meldingssystemet [SafeSeaNet Norway](https://shiprep.no/ShipRepWebUI/SignIn.aspx?ReturnUrl=%2fShipRepWebUI), til losen sendes videre til nytt fartøy etter gjennomført oppdrag.
+Losformidlingens hovedoppgaver
+• Registrere og journalføre losbestillinger.
+• Planlegge disponering av loser på vakt og prioritere oppdrag.
+• Koordinere transport av los til og fra skip, tilbake til stasjon, hjem eller til nytt oppdrag.
+• Føre oversikt over brukt arbeidstid og sertifikatdekning for den enkelte los.
+• Informasjon og veiledning til losoldermann, los og lossøkende fartøy innenfor eget geografiske ansvarsområde.
+Geografiske ansvarsområder
+• Lødingen Losformidling, Nordland, Troms, Finnmark og Svalbard
+- Fra Grense Jakobselv til Rørvik
+• Kvitsøy Losformidling, Rogaland, Vestlandet, Møre og Trøndelag
+- Fra Rørvik til Feistein
+• Horten Losformidling, Skagerak og Oslofjorden
+- Fra Feistein til Svenskegrensa
+Losformidlingssentralene har til enhver tid oversikt over alle tilgjengelige loser og fordeler oppdrag basert på mottatte losbestillinger, fartøyets frister for levering/mottak av last, samt losens sertifikatområder og arbeidstidsbestemmelser.
+Losformidlingssentralenes primæroppgave er å unngå lang ventetid og tilrettelegge for skipenes behov på en best mulig miljøsikker, effektiv og økonomisk måte.

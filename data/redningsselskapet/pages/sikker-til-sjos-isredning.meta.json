@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/isredning/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Isredning - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "271a37bf65742406f865b67af441f5b936e61e47531d1ab783a3a0674cc397fe",
+  "fetched_at": "2026-06-02T11:12:43.094736+00:00",
+  "depth": 2,
+  "text_chars": 2944,
+  "n_links": 128,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-isredning.html",
+    "text": "pages/sikker-til-sjos-isredning.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Isredning",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

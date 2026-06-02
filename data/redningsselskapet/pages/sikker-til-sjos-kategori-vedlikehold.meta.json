@@ -1,0 +1,52 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/kategori/vedlikehold/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Vedlikehold Arkiver - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "a627b6c26a0ae57784629f1aa03eee34377ee601b7ea55aebffd28085884e0fb",
+  "fetched_at": "2026-06-02T11:10:35.091287+00:00",
+  "depth": 1,
+  "text_chars": 2246,
+  "n_links": 156,
+  "n_pdf_links": 0,
+  "n_images": 7,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-10-landstrom-om-vinteren-trond-j-hansen.jpg",
+      "alt": "Vinterbåthavn sett ovenfra"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2018-08-opplag_3.jpg",
+      "alt": "Bildet viser en båt er tatt på opplag og som er klar for vinterlagring"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2018-09-opplag.jpg",
+      "alt": "Bildet viser båtopplag, som forberedelse til vinterlagring"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-12-kalesje_sno.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-08-ferdere_skitne.jpg",
+      "alt": "Bildet viser skitne fendere."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-06-09_eddik_speil.jpg",
+      "alt": "Bildet viser hvordan du kan vaske speil med eddik."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-05-verktoy_tjh_topp19201080-e1625141624485.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-kategori-vedlikehold.html",
+    "text": "pages/sikker-til-sjos-kategori-vedlikehold.txt"
+  },
+  "anchors": []
+}

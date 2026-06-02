@@ -1,0 +1,65 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/kartberedskap-som-totalforsvar-kartverket-og-totalforsvarsaret",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kartberedskap som en del av totalforsvaret | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:13 GMT",
+  "checksum_sha256": "99120b835fdcb2443fb78d2f651361533e9636ec0d4453ad64589888120006ea",
+  "fetched_at": "2026-06-02T11:08:20.052515+00:00",
+  "depth": 2,
+  "text_chars": 6935,
+  "n_links": 38,
+  "n_pdf_links": 0,
+  "n_images": 5,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-kartrikets-tilstand-bereds-a23dbbd5.jpg",
+      "alt": "R&oslash;de Kors-patrulje i refleksvester dr&oslash;fter over et kart. (Foto: Nora Sandberg/ R&oslash;de Kors)"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-om-kartverket-foto-kartverkssjef_johnny_-57cfe073.jpg",
+      "alt": "Kartverkssjef Johnny Welle, en mann i dress fotografert mot en m&oslash;rk bakgrunn."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-statusrapport-2026-serverr-6cbaded3.jpg",
+      "alt": "En person står foran et rack med dataservere montert i en reol, mens han ser ned på en bærbar PC."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-nyheter-roarol-1.jpg-5efe3723.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-nyheter-forsvaret_ovelse_kart_2026.01.17-c59aa09c.jpg",
+      "alt": "To personer i militær vinterkamuflasje diskuterer og peker på et kart."
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket-nyheter-alle-2026-april-kartberedskap-som-tota-14276c7a.html",
+    "text": "pages/om-kartverket-nyheter-alle-2026-april-kartberedskap-som-tota-14276c7a.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kartberedskap som en del av totalforsvaret",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

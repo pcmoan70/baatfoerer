@@ -1,0 +1,24 @@
+Information in English
+The Norwegian Maritime Authority (Sjøfartsdirektoratet) has awarded Norsk Test a.s. a five year contract to manage the Norwegian Boating License (Båtførerprøven), starting February 8 2019.
+There is an English version of the [curriculum for the boating licence](http://static.datakortet.no/fup/The_curriculum_for_the_boating_licence_2015.pdf).
+Regulation
+See [requirements for minimum age and boating licence, etc. for masters of recreational craft](https://www.sdir.no/en/shipping/legislation/regulations/requirements-for-minimum-age-and-boating-licence-etc-for-masters-of-recreational-craft/).
+When do you need a båtførerbevis/boating licence?
+You must obtain a Boating License if you plan to operate a boat that is longer than 8 meters or has an engine with more than 25 hp.
+You can operate pleasure crafts with lh max. 15 meter (49' 2") with a Boating License. If this applies to you, please contact The Norwegian Maritime Autoriy for information regarding which certificate/license you will need ([postmottak@sjofartsdir.no](mailto:postmottak@sjofartsdir.no)).
+I have a foreign boating licence, can I use this licence in Norway?
+Norway honors foreign boating licenses, provided that:
+- you carry the original license with you
+- the license includes an English description of the license
+- you have an English translation of the syllabus covered by your license
+- the syllabus covers the curriculum for the Norwegian Boating License. Please don't hesitate to contact us (
+[bat@norsktest.no](mailto:bat@norsktest.no)) or the Norwegian Maritime Authority ([post@sdir.no](mailto:post@sdir.no)) if you're uncertain about your license
+General information
+If you do not have a norwegian SSN, you will need to contact one of our test centers to register for the exam.
+The exam for boating licence is automated and computerized. Upon passing the exam for boating licence, the boating licence is issued.
+The boating licence is required for persons born after January 1st 1980 managing a recreational craft of more than 8 meters, or with more than 25 hp. The boating licence is valid for recreational crafts that has length haul less than 15 meters.
+There is no requirement for taking a course. The exam for boating licence can therefore be taken as an external candidate after completion of a self-study. Courses are normally given in Norwegian, but some providers give their courses in English as well. You can ask the provider directly or contact us for help finding courses held in English.
+You can find available exams in your area from our [testcalendar](https://båtførerregisteret.no/dkcal/0/calendar/2/search/), reachable from our main page. If you cannot find an exam in your area or desired time frame, you can contact a test center directly. We have an overview of [approved test centers](https://båtførerregisteret.no/tctr-search/) on our website.
+The website also lists course centers/providers, online courses, books, requirements for passing and a curriculum list. See our website for more information.
+Information video
+Please view this [information video in english](https://static-norsktest.s3.amazonaws.com/video/bfp_202203_eng.mp4) for more information.

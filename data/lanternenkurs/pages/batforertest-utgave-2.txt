@@ -1,0 +1,41 @@
+Test deg selv - Admiraltesten
+Results
+Gratulerer! Du er i rute til å bestå båtførerprøven.
+Meld deg på båtførerkurs her:
+Oida. Du bør definitivt ta båtførerkurs for å kunne bestå eksamen.
+Meld deg på her:
+#1. Hvor mange meter er en nautisk mil (nm)?
+Ikke korrekt! En nautisk mil er det samme som ett breddeminutt, eller 1852 meter og brukes til å måle avstand innen navigasjon til sjøs.
+#2. Hva er en kaskoforsikring på båt?
+Ikke riktig! Ansvarsdekning dekker skade du evt. skulle påføre andre, men kaskodekning dekker skade du påfører eget fartøy.
+#3. Hva slags knute er dette?
+Ikke riktig!
+#4. Hva kalles bakenden av båten?
+Ikke korrekt!
+#5. Du har falt i sjøen et godt stykke utpå havet, og det er kaldt i vannet. Hvordan holder du best på varmen?
+#6. Du fører en båt med CE-merking kategori C. Hva betyr dette?
+Ikke korrekt!
+#7. Hva er dette?
+Ikke korrekt!
+#8. Hva betyr dette lydsignalet?
+Ikke korrekt! Ett tut er styrbord, to tut er babord, tre tut er bakking
+#9. Hvilken båt skal vike, og hvorfor det?
+#10. Hvilken båt har retten til veien?
+Ikke korrekt! Om en seilbåt har styrbord eller babord halser kommer an på hvilken side de har vinden inn fra.
+#11. Hva slags båt er dette?
+Ikke korrekt!
+#12. Hva betyr dette?
+#13. Hva slags båt er dette?
+#14. Hva slags båt er dette?
+Ikke korrekt!
+#15. Et fyr har lyktearakteristikk F. Hvilken illustrasjon er riktig?
+Ikke korrekt! F står for “fixed” eller fast lys, og har ett, jevnt lys.
+#16. Hvilken lyktekarakteristikk er dette?
+Ikke korrekt!
+#17. Hva slags kardinalmerke er dette?
+Ikke korrekt!
+#18. Hvilken vei er riktig?
+#19. Hva betyr dette merket i kartet?
+Ikke korrekt!
+#20. Hva slags sjømerke er dette?
+Ikke korrekt!

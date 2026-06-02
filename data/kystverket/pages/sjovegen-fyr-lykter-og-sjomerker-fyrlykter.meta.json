@@ -1,0 +1,42 @@
+{
+  "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/fyrlykter/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Fyrlykter | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "042662850e2980b56c1698a9dea9707dba3b9ff428dad8f5a51b1e1c5534ed29",
+  "fetched_at": "2026-06-02T11:04:33.146547+00:00",
+  "depth": 2,
+  "text_chars": 1528,
+  "n_links": 135,
+  "n_pdf_links": 2,
+  "n_images": 3,
+  "images": [
+    {
+      "file": "kystverket\\images\\globalassets-fotoware-2021-5-merd-fyrlykt---arendal_28008912243_o.jpg-169bbf91.jpg",
+      "alt": "Bilde av ei fyrlykt"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-0cdf44808b804bcfbe32912ae78e972c-eksempel-pa-s-d80e5d08.jpg",
+      "alt": "Eksempel på sektorinndeling i sjøkart."
+    },
+    {
+      "file": "kystverket\\images\\contentassets-c5e6c1c999f74dd8804e664b6b5213b7-eksempel-paa-et-overettmerke.jpg",
+      "alt": "Overettmerke.jpg"
+    }
+  ],
+  "files": {
+    "html": "pages/sjovegen-fyr-lykter-og-sjomerker-fyrlykter.html",
+    "text": "pages/sjovegen-fyr-lykter-og-sjomerker-fyrlykter.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Fyrlykter",
+      "id": "content-start"
+    }
+  ]
+}

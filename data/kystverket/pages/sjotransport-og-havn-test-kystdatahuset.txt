@@ -1,0 +1,22 @@
+Kystdatahuset
+Sjøtrafikkdata er tilgjengelig og søkbar for alle i Kystverkets datavarehus, Kystdatahuset.
+Sjøtrafikkdata er tilgjengelig og søkbar for alle i Kystverkets datavarehus, Kystdatahuset.
+Søk og last ned sjøtrafikkdata om skipsbevegelser, seilingsmønster, trafikktyper og skipsanløp.
+I Kystdatahuset finner du historiske data om anløp til norske havner, seilingsmønster og trafikktyper. Det inneholder høyoppløselige AIS-data og informasjon fra anløpsmeldinger fra skip til SafeSeaNet Norway.
+Dataene er strukturert, vasket og beriket med skipsinformasjon for å gi rask og fyldig informasjon om skip og deres bevegelser. Vaskingen av data er gjort uten at presisjonsnivå og detaljnivå er forringet.
+Nye brukere av Kystdatahuset må lage eget brukernavn og passord. Hvis du har en bruker i Kystverkets kartløsning Kystinfo, kan du benytte denne ved pålogging.
+Kystdatahuset fungerer på de fleste nyere versjoner av ulike internettlesere.
+Data kan hentes på to ulike måter:
+- Kystdatahuset – Menypunkt «Tall og statistikk». Inneholder ulike dashbord/spørringer med sjøtrafikkdata, hvor du får dataene presenterer i kart, figurer og datatabell. I dashbordene kan du filtrere og analysere dataene. Skjermbilder kan lagres og tabell med data eksporteres til Excel. Posisjonsdata kan i flere dashbord lastes ned som geodata (GeoJSON).
+- Datadelingsportal – Menypunkt «Data og tjenester». Portal for nedlasting av større datasett. Bruk og presentasjon av dataene gjøres i mottakers egne verktøy og løsninger. Portalen inneholder et utvalg av datasett både om sjøtrafikk og andre maritime data.
+I Kystdatahuset er det et variert utvalg av dashbord/spørringer hvor du får presentert resultatet i kart, diagram og/eller tabeller. Du kan filtrere og analysere data på skjermen uten bruk av egne dataverktøy. Til slutt kan du laste ned kartvisningen, diagrammer eller datasett i egnet filformat eller lagre/skrive ut hele dashbord med kartvisning, diagrammer og tabeller.
+I datadelingsportalen tilbys det 30-40 datasett. Her finner du en kobling til en nedlastingsløsning for AIS-data for valgt periode og område. Du har også tilgang til filer per år (2014-2020) med alle ankomster til norske lokasjoner (havner og steder i norsk farvann) som er rapportert i SafeSeaNet. I tillegg har Kystverket lagt ut en rekke datasett med geografisk informasjon som for eksempel losbordingsfelt, ISPS havneanlegg, fiskerihavner, ankringsområder, hovedleder og bi-leder, samt nødhavner.
+Datadelingsportalen passer for de som ønsker store datasett og/eller ønsker å bruke dataene i egne dataverktøy.
+Kystdatahuset kan være et nyttig arbeidsverktøy for mange, deriblant journalister, havner, kommunale planleggere og saksbehandlere, beredskapsplanleggere, politiet, forskere og studenter.
+- Når du planlegger plassering av en ny installasjon i et sjøområde, kan du sjekke og dokumentere sjøtrafikken i det aktuelle området ved å bruke AIS-data.
+- Hvis du trenger å vite mengde og type trafikk som anløper ei havn, en kommune eller et egendefinert område, kan du hente ut informasjon fra de rapporterte anløpsmeldingene.
+- Hvis du vil rekonstruere og analysere seilasene til noen få skip eller alle skip i et område i en periode, kan du gjøre det med sporingsdashbordene.
+- Ønsker du informasjon om utviklingen i skipstrafikken over tid eller for spesifikke skipstyper, skipsstørrelser eller områder som fylke eller kommune, kan du bruke anløpsmeldingene.
+Er du på jakt etter tall om sjøtransporten, eller statistikker og prognoser knyttet til Kystverkets virksomhet og ansvarsområder?
+I SafeSeaNet Norway kan skipsfarten sende pliktige ankomst- og avgangsopplysninger til myndigheter og havner.
+Det nasjonale AIS-nettverket AIS Norge gjør det mulig for myndigheter å følge skipstrafikken i sanntid. Kystverket deler AIS data med andre myndigheter og publikum.

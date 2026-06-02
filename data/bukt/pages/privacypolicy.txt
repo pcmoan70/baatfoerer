@@ -1,0 +1,12 @@
+Personvern og cookies
+Loggfiler
+Som de fleste andre nettsteder bruker dette nettstedet loggfiler. Informasjonen i loggfilene inkluderer IP-adresser, browser type, ISP, tidspunkter, refererende sider m.m. Denne informasjonen er ikke personlig identifiserbar.
+Cookies (informasjonskapsler)
+Vi bruker cookies/informasjonskapsler til å identifisere deg som bruker. Dette gjør at vi kan holde oversikt over hvilke oppgaver som er besvart riktig og galt. Svar-historikk på oppgavene slettes fra serveren omtrent en uke etter at du sist var aktiv.
+Du kan skru av cookies ved å endre personverninnstillinger direkte i din nettleser. Dette vil hindre at informasjonskapsler
+lagres på datamaskinen. Se hvordan du administrerer cookies for din nettleser på
+[nettvett.no](https://nettvett.no/slik-administrer-du-informasjonskapsler/).
+Vi bruker også cookies for å vise annonser fra Google AdSense. Åpn egne innstillinger for annonser under "Innstillinger for personvern og informasjonskapsler".
+Sletting av data
+Du har rett til innsyn i personopplysninger som er lagret. Du har også rett til å få dem slettet. [Ta kontakt](https://bukt.no/contact), så får du svar innen rimelig tid.
+Hvis du trenger mere informasjon eller har spørsmål angående personvern, vær vennlig og [ta kontakt](https://bukt.no/contact).

@@ -1,0 +1,28 @@
+{
+  "url": "https://bukt.no/tasks/24",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oppgave 24 - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "8c09c19599a531d7114a1db9155c55ef32f013f7e6726e5a584456e6de80fa25",
+  "fetched_at": "2026-06-02T11:13:54.862097+00:00",
+  "depth": 2,
+  "text_chars": 271,
+  "n_links": 12,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-24.svg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/tasks-24.html",
+    "text": "pages/tasks-24.txt"
+  },
+  "anchors": []
+}

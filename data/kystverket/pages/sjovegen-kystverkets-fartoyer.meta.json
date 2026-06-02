@@ -1,0 +1,66 @@
+{
+  "url": "https://www.kystverket.no/sjovegen/kystverkets-fartoyer/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Kystverkets reiarlag og fartøy  | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "631277470d102fb404a287abd65590a84f558fb87b81fcb0d5a8522624969a03",
+  "fetched_at": "2026-06-02T11:02:42.960589+00:00",
+  "depth": 1,
+  "text_chars": 6295,
+  "n_links": 129,
+  "n_pdf_links": 0,
+  "n_images": 9,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-b8cee263e01143bd919a220484da89df-ov-hekkingen--01c04a01.jpg",
+      "alt": "To fartøy ligg side om side."
+    },
+    {
+      "file": "kystverket\\images\\globalassets-fotoware-2021-5-ov-hekkingen-342---foto-tor-erik-kvalsvik.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-ov-ryvingen---foto-alf-ar-2ed153cf.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-bokfjord.jpg",
+      "alt": "Bøkfjord.jpg"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-skomvar.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-ov-utvar---foto-alf-arne--b8e35645.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-lindesnes.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-om-kystverket-fartoya-ms-ona.jpg",
+      "alt": "MS Ona.jpg"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-fotoware-2021-5-tilsyn-p-hib_15606624684_o.jpg-169bbf91.jpg",
+      "alt": "Vedlikehald på sjømerke"
+    }
+  ],
+  "files": {
+    "html": "pages/sjovegen-kystverkets-fartoyer.html",
+    "text": "pages/sjovegen-kystverkets-fartoyer.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kystverkets reiarlag og fartøy",
+      "id": "content-start"
+    }
+  ]
+}

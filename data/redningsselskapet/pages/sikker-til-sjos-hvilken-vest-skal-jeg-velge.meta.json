@@ -1,0 +1,75 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/hvilken-vest-skal-jeg-velge/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Hvilken vest skal jeg velge? - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "7fac4a86e1e8ab4b883733a7aa3427c86d77154a7aeeb88045dc8e7396d300ba",
+  "fetched_at": "2026-06-02T11:10:46.803563+00:00",
+  "depth": 1,
+  "text_chars": 3761,
+  "n_links": 131,
+  "n_pdf_links": 0,
+  "n_images": 10,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-crewsaver-banner-4.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-04-milla_kristoffer_tar_batforerproven.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-elias-redningsvest-rosa-1024x683.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-flytesvester2-1024x743.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-redningsvest-1024x743.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-regatta-rs-flytedrakt-1024x743.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-redningsvest-hund-2-1024x743.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-sjekk-vesten-1-1024x743.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-03-kim_goran.jpg",
+      "alt": "Kim Gøran er maskinsjef på RS «Inge Steensland»"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-vestpakking_montasje.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-hvilken-vest-skal-jeg-velge.html",
+    "text": "pages/sikker-til-sjos-hvilken-vest-skal-jeg-velge.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Hvilken vest skal jeg velge?",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

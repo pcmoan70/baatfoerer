@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/norsk-fyrliste/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Norsk fyrliste | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "413752197c3e1051a3919efbb5b2d439b7a54dc325993ff9359860d588bbe105",
+  "fetched_at": "2026-06-02T11:05:05.311553+00:00",
+  "depth": 2,
+  "text_chars": 1185,
+  "n_links": 136,
+  "n_pdf_links": 5,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sjovegen-fyr-lykter-og-sjomerker-norsk-fyrliste.html",
+    "text": "pages/sjovegen-fyr-lykter-og-sjomerker-norsk-fyrliste.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Norsk fyrliste",
+      "id": "content-start"
+    }
+  ]
+}

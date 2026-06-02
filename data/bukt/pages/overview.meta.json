@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/overview",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oversikt og innstillinger - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "b5e1f578eeaf7e6f2b0b9f1c0229a9042ed3428abe159d5e26c6f98bb0e9eaab",
+  "fetched_at": "2026-06-02T11:13:24.065154+00:00",
+  "depth": 1,
+  "text_chars": 1136,
+  "n_links": 27,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/overview.html",
+    "text": "pages/overview.txt"
+  },
+  "anchors": []
+}

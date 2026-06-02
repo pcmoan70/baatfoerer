@@ -1,0 +1,34 @@
+{
+  "url": "https://xn--btfrerregisteret-dob85a.no/dkcal/0/calendar/2/search/",
+  "site": "batforerregisteret",
+  "source_id": "batforerregisteret",
+  "title": "Testkalender søk",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "W/\"6be840d96ebe2d672b242e64e075e44d\"",
+  "last_modified": null,
+  "checksum_sha256": "8764981b15242ee2dea5a5d4b832ace8884050c3f95eb53cab32237e38e2f972",
+  "fetched_at": "2026-06-02T10:57:29.996331+00:00",
+  "depth": 1,
+  "text_chars": 118,
+  "n_links": 16,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/dkcal-0-calendar-2-search.html",
+    "text": "pages/dkcal-0-calendar-2-search.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Båtfører­registeret",
+      "id": "body"
+    },
+    {
+      "level": 1,
+      "text": "Testkalender søk",
+      "id": "site_content"
+    }
+  ]
+}

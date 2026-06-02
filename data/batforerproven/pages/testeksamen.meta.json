@@ -1,0 +1,113 @@
+{
+  "url": "https://www.xn--btfrerprven-x8a3wf.no/testeksamen/",
+  "site": "batforerproven",
+  "source_id": "batforerproven",
+  "title": "Testeksamen - Båtførerprøven.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:19:55 GMT",
+  "checksum_sha256": "3b3203e8dd0a0195aa3c8eef089838a71ea5688639814d10036187052260f6c2",
+  "fetched_at": "2026-06-02T11:19:59.144506+00:00",
+  "depth": 1,
+  "text_chars": 2730,
+  "n_links": 94,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2026-03-slik-tar-du-batforerproven-1.jpg",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-04-frame-20321.png",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/testeksamen.html",
+    "text": "pages/testeksamen.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Testeksamen",
+      "id": "post-53524"
+    },
+    {
+      "level": 2,
+      "text": "Velg ønsket alternativ for testeksamen",
+      "id": "kom-igang"
+    },
+    {
+      "level": 5,
+      "text": "Testeksamen",
+      "id": "athemes-blocks-block-31e9f791"
+    },
+    {
+      "level": 2,
+      "text": "Kundevurderinger",
+      "id": "athemes-blocks-block-3f5ceb9d"
+    },
+    {
+      "level": 2,
+      "text": "Slik tar du båtførerbeviset",
+      "id": "athemes-blocks-block-5711468e"
+    },
+    {
+      "level": 2,
+      "text": "Last ned appen",
+      "id": "athemes-blocks-block-59ebaa56"
+    },
+    {
+      "level": 2,
+      "text": "Navigasjonsutstyr",
+      "id": "athemes-blocks-block-bb401613"
+    },
+    {
+      "level": 2,
+      "text": "Forklaringer",
+      "id": "athemes-blocks-block-2c43fd07"
+    },
+    {
+      "level": 2,
+      "text": "Spesielt viktige emner",
+      "id": "athemes-blocks-block-4976e508"
+    },
+    {
+      "level": 2,
+      "text": "Gratis kundeservice",
+      "id": "athemes-blocks-block-48cc6538"
+    },
+    {
+      "level": 2,
+      "text": "Hurtiglenker",
+      "id": "nav_menu-2"
+    },
+    {
+      "level": 2,
+      "text": "Kundeservice",
+      "id": "nav_menu-5"
+    },
+    {
+      "level": 2,
+      "text": "Follow us",
+      "id": "nav_menu-4"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "content-report"
+    },
+    {
+      "level": 4,
+      "text": "Block Member?",
+      "id": "block-member"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "reported-content"
+    }
+  ]
+}

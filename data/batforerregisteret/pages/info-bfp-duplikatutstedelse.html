@@ -1,0 +1,677 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+
+<html lang="no" class="no-js  bs3 " dir="ltr">
+<head>
+    <!-- admindash/html5.html -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+    
+    <link rel="icon" sizes="any" href="https://static.datakortet.no/bfpregistration/norsktest-man.svg">
+    
+
+    <title>Utstedelse av Duplikat</title>
+
+    <script>  
+        // var dk_accepting_cookies_event = new Event('accepting-cookies');
+        window.dk_accepting_cookies = (function () {
+            let result;
+            return (result = new RegExp('(?:^|; )accepting_cookies=([^;]*)').exec(document.cookie)) ? result[1] === '1' : false;
+        })();
+    </script>
+    
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2743103-7"></script>
+    <script>
+    if (1 || window.dk_accepting_cookies) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-2743103-7', {cookie_flags: 'SameSite=None;Secure'});
+    }
+    </script>
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B8WEC6WT3L"></script>
+    <script>
+    if (1 || window.dk_accepting_cookies) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-B8WEC6WT3L', {cookie_flags: 'SameSite=None;Secure'});
+    }
+    </script>
+    
+  
+
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="320">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.datakortet.no/logo/svg/norsktest-man-180.png">
+    <!-- enable full-screen mode (only when launched from home screen) -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- controls the appearance of the status bar in full-screen mode -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+
+    
+
+<!-- datadog rum tag -->
+ 
+<script>
+  if (window.dk_accepting_cookies) {
+    (function(h,o,u,n,d) {
+      h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+      d=o.createElement(u);d.async=1;d.src=n
+      n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+    })(window,document,'script','https://www.datadoghq-browser-agent.com/datadog-rum-v4.js','DD_RUM')
+    DD_RUM.onReady(function() {
+      DD_RUM.init({
+        clientToken: 'pub22e870f4b665b4c3518c6726f6362b26',
+        applicationId: 'da5623fd-48e1-416f-a732-c01aec58deec',
+        site: 'datadoghq.com',
+        service: 'batforerregisteret-django',
+        env: 'prod',
+        
+        // Specify a version number to identify the deployed version of your application in Datadog 
+        // version: '1.0.0',
+        sessionSampleRate: 100,
+        sessionReplaySampleRate: 100,
+        trackInteractions: true,
+        trackResources: true,
+        trackLongTask: true,
+        trackFrustrations: true,
+        defaultPrivacyLevel: 'allow',
+        // enableExperimentalFeatures: ['feature_flags'],
+      });
+  
+      DD_RUM.startSessionReplayRecording();
+    })
+  }
+  </script>
+
+
+
+    
+    <!-- admindash/bootstrap3.html -->
+    <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+    
+    
+    
+    
+    
+    
+        
+
+
+
+<link rel="stylesheet" href="https://static.datakortet.no/font/fa470/css/font-awesome.css">
+
+
+<script crossorigin="anonymous" src="https://www.unpkg.com/@webcomponents/webcomponentsjs@2.2.6/webcomponents-bundle.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.min.js" integrity="sha256-F0O1TmEa4I8N24nY0bya59eP6svWcshqX1uzwaWC4F4=" crossorigin="anonymous"></script>
+<script src="https://js.pusher.com/7.0/pusher.min.js"></script>
+
+
+    
+
+    <script DEBUG LOGLEVEL="3" ICONS="fa4"  src="https://static.datakortet.no/dkdj/js/dkdj.min.js"></script>
+
+    
+
+
+
+      
+
+          
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=latin" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata&amp;subset=latin" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://static.datakortet.no/font/norsktest/style.css">
+    <style> * { font-family: 'Open Sans', sans-serif; } </style>
+    <style>
+        #ie-not-supported p + p {margin-top:15px;}
+        #ie-not-supported a { color:white !important; text-decoration: underline !important;}
+    </style>
+          
+              
+
+    
+    
+<!-- bfpregistration -->
+
+    
+
+
+
+<!-- bfpregistration (prod) -->
+
+    <script src="https://static.datakortet.no/bfpregistration/js/bfpregistration.9ed5ecf105fd9bcd78f4.min.js"></script>
+    <link rel="stylesheet" href="https://static.datakortet.no/bfpregistration/css/bfpregistration.a38e28d1d6480b602591.css" type="text/css">
+<!-- /bfpregistration (prod) -->
+
+
+<!-- /bfpregistration -->
+
+    
+<!-- dkforms -->
+
+    
+
+
+
+<!-- dkforms (prod) -->
+
+    <script src="https://static.datakortet.no/dkforms/js/dkforms.7fccc11af31822564929.min.js"></script>
+    <link rel="stylesheet" href="https://static.datakortet.no/dkforms/css/dkforms.870b08d08ac55a4af79e.css" type="text/css">
+<!-- /dkforms (prod) -->
+
+
+<!-- /dkforms -->
+
+           
+    
+    <!-- Start of norsktesthelp Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a6988e6a-3744-4d9b-82e7-26dcf2112720"> </script>
+    <!-- End of norsktesthelp Zendesk Widget script -->
+           
+
+    
+            
+    
+    
+        <style>
+    .skjema {
+      margin:14px 14px 14px 50px;
+      text-align: left;
+      font-size: 105%;
+      background-color: #fafafa;
+      width: 150px; height: 170px;
+      padding: 28px;
+      box-sizing: borderbox;
+      position: relative;
+    }
+    .note {
+        float:right;
+        padding: 14px;
+        margin-left: 28px; margin-bottom: 28px;
+        background-color: #fefefe;
+        width: 30%;
+    }
+    blockquote {
+        width: 50%;
+        margin: 14px 14px 18px 28px;
+        padding: 7px; 
+        background: #fafafa;
+    }
+    .info-inline {
+            display: inline-block;
+            vertical-align: middle;
+        }
+        .info-inline summary {
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background-color: #0066cc;
+            color: white;
+            text-align: center;
+            font-size: 13px;
+            font-weight: bold;
+            cursor: pointer;
+            line-height: 18px;
+            list-style: none;
+        }
+        .info-inline summary::-webkit-details-marker {
+            display: none;
+        }
+        .info-inline[open] .info-tekst {
+            display: block;
+            background-color: #f0f7ff;
+            border-left: 3px solid #0066cc;
+            padding: 8px 12px;
+            margin-top: 8px;
+            font-size: 14px;
+            border-radius: 4px;
+        }
+        details.klikkbar {
+            margin: 15px 0;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            padding: 12px 16px;
+            background-color: #fafafa;
+        }
+        details.klikkbar summary {
+            cursor: pointer;
+            list-style: none;
+            user-select: none;
+        }
+        details.klikkbar summary::-webkit-details-marker {
+            display: none;
+        }
+        details.klikkbar summary::before {
+            content: "▶ ";
+            display: inline-block;
+            font-size: 11px;
+            transition: transform 0.2s;
+        }
+        details.klikkbar[open] summary::before {
+            transform: rotate(90deg);
+        }
+        details.klikkbar[open] summary {
+            margin-bottom: 10px;
+        }
+</style>
+    
+              
+                
+
+    
+ 
+    
+  
+    
+                
+    
+    <meta name="random" content="GFDAY7shSA343;c29Vv3l%lqz6}9ZKC:h6HnF(ugK09s$9{_HxHsl+|rAQh1E">
+</head>
+<body  id='body' class="bfp page" name="">
+ 
+
+    
+    
+    
+
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="navbar-brand"><a href="/">Båtførerregisteret</a></div>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                
+                    
+                
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right member-actions">
+                
+                    
+                        <li><a title="min side" href="/min-side/" class="login-btn">
+                            <dk-icon value="key:lg"></dk-icon>&nbsp;Logg inn
+                        </a></li>
+                    
+                
+            </ul>
+        </div>
+        <!--/.navbar-collapse -->
+    </div>
+</nav>
+
+
+    <header class="branding">
+        <a href="#main" class="sr-only">gå til innhold</a>
+        <div class="container">
+            <a class="batforerregisteret" href="/">
+                <h1 class="batforerregisteret shadowed">Båtfører&shy;registeret</h1>
+            </a>
+        </div>
+    </header>
+
+    
+
+    
+        <main id="main" class="container">
+            
+
+
+            
+                <div id="site_content" class="row">
+                    <div class="col-xs-12">
+                        
+    
+    <div>
+      
+      <h1>Nyutstedelse eller duplikat av Båtførerbevis</h1>
+
+    
+    
+
+
+<style>
+h4 {padding-top: 10px;}
+.skjema {width: 280px!important;}
+</style>
+
+    <p>Har du behov for et duplikat av ditt båtførerbevis eller ICC?</p>
+
+    <hr>
+
+    <h4>Slik bestiller du et duplikat</h4>
+    <ol>
+        <li>Logg inn på <strong>båtførerregisteret.no</strong>. Har du ikke minside? <a href="https://xn--btfrerregisteret-dob85a.no/register/ny/">Opprett en profil her</a>.</li>
+        <li>Klikk «Bestill duplikat» på profilsiden din.</li>
+        <li>Følg stegene i søknaden.</li>
+        <li>Du får beskjed på epost og sms når betaling kan gjennomføres.</li>
+    </ol>
+
+<p> Data slettes etter søknaden er behandlet.</p>
+
+
+    <hr>
+
+    <h4>Følgende må lastes opp i søknaden:</h4>
+    <ul>
+        <li><strong>Legitimasjon</strong> - Bilde av gyldig legitimasjon – pass, nasjonalt ID-kort eller førerkort.</li>
+        <li><strong>Bilde</strong> - Last opp et ansiktsfoto som skal brukes på båtførerbeviset. Bildet må være tatt mot en hvit eller lys bakgrunn, rett forfra, uten forstyrrende effekter.</li>
+        <li><strong>Dokumentasjon på bestått båtførerprøve eller tilsvarende kompetanse</strong> - Dette er kun nødvendig hvis du ikke allerede er registrert med bestått prøve i båtførerregisteret. <details class="info-inline">
+            <summary>?</summary>
+            <div class="info-tekst">Er du usikker på om du er registrert i båtførerregisteret? Vi sjekker registeret når vi har mottatt søknaden din. Du vil få beskjed dersom du må laste opp dokumentasjon når behandlingen er gjennomført.</div>
+        </details></li>
+      <li><strong>Navneendring</strong> - Dersom du har endret navn etter du gjennomførte båtførerprøven, må du også laste opp bekreftelse på navneendring.</li>
+    </ul>
+    <hr>
+
+<h4>Pris og betaling</h4>
+<p>Duplikat koster <strong>kr 531,-</strong>. Du betaler via Min side når søknaden er godkjent – beviset settes i produksjon når betaling er registrert.</p>
+
+<hr>
+
+<h4>Leveringstid</h4>
+<p>Normalt 2–3 uker etter godkjent søknad og mottatt betaling. Beviset sendes per post.</p>
+
+<hr>
+
+<details class="klikkbar">
+     <summary>Dersom du ikke er registrert i båtførerregisteret, godkjenner vi følgende dokumentasjon</summary>
+    <ol>
+        <li>Kopi av gammelt båtførerbevis</li>
+        <li>Kopi av vitnemål der Sjøfart eller Båtførerprøven er valgfag</li>
+        <li>Båtførerkort utstedt av Norske Båtskoler</li>
+        <li>Båtførerdiplom</li>
+        <li>Stemplet og signert utskrift av sensorsprotokoll/bekreftelse fra sensor</li>
+        <li>Bekreftelse på bestått eksamen ved Statens sjøaspirantskoler</li>
+        <li>Fritidsskippersertifikat eller fritidsbåtskippersertifikat (D5L/D5LA)</li>
+        <li>Dekksoffisersertifikat</li>
+        <li>Militære maritime sertifikater av tilsvarende grad</li>
+        <li>Anerkjent utenlandsk båtfører- eller kvalifikasjonsbevis, som har like eller høyere førerrettigheter som det norske båtførerbeviset. Verifikasjon på at beviset er et nasjonalt anerkjent bevis må vedlegges. </li>
+    </ol>
+
+<p>Ved søknad om utstedelse av Båtførerbevis på grunnlag av annen teoretisk kompetanse enn det som er nevnt over, er søkeren ansvarlig for oversending av tilstrekkelig dokumentasjon. Søkeren er nødt til å dokumentere at gjennomført utdanning/opplæring tilsvarer pensum til Båtførerprøven. Dette innebærer at innsendte papirer dokumenterer at hovedelementene i pensum til båtførerprøven er dekket.
+Det er, for eksempel, ikke tilstrekkelig å henvise til vitnemål/karakterutskrift hvor søkeren har bestått “Prosjekt til fordypning” eller “Tverrfaglig eksamen”. Det må også legges ved fagplan/læringskrav som beskriver innholdet i  faget.
+</details></p>
+
+
+<hr>
+<p><strong>Spørsmål?</strong> Ta kontakt med oss på <a href="mailto:bat@norsktest.no">bat@norsktest.no.</a><p>
+    
+
+    </div>
+    
+
+
+                    </div>
+                </div>
+            
+        </main>
+    
+    
+
+<style>
+    footer div { xoutline: 2px dotted white; }
+
+    @media screen and (max-width: 768px) {
+        body.page > footer.footer,
+        body.home > footer.footer {
+            min-height: 710px;
+        }
+        footer.footer .nt-logo-combined img.u-logo.man {
+            margin-left: 36px;
+        }
+        footer.footer header .nt-logo-combined img.text {
+            margin-left: 30px;
+        }
+        html body.page,
+        html body.home {
+            margin-bottom:710px;
+        }
+    }
+</style>
+<footer class="footer" role="contentinfo">
+
+    <div class="container">
+        
+        
+        
+        
+
+        <div class="spacer row visible-xs-block">&nbsp;</div>
+        <div class="spacer row visible-sm-block">&nbsp;</div>
+        <div class="spacer row visible-md-block">&nbsp;</div>
+        <div class="spacer row visible-lg-block">&nbsp;</div>
+
+        <div class="row">
+            <div class="col-xs-push-1 col-sm-4 col-xs-11 first-col h-card vcard">
+                <header>
+                    <div class="sr-only p-name fn n">Norsk Test as</div>
+                    <div class="nt-logo-combined">
+                        <a class="u-url" href="http://www.norsktest.no">
+                            <img class="u-logo man" src="https://static.datakortet.no/bfpregistration/norsktest-man.svg" alt="Norsk Test logo">
+                            <img class="text"
+                                 src="https://static.datakortet.no/bfpregistration/norsktest-text-white.svg"
+                                 alt="Norsk Test">
+                        </a>
+                    </div>
+                </header>
+
+                
+                    <p class="p-adr h-adr">
+                        <span class="p-street-address sr-only">Storgt. 5</span>
+                        <dk-icon value="map-marker:fw"></dk-icon> <span class="p-postal-code">9917</span> <span class="p-locality">Kirkenes</span>
+                        <span class="p-country-name sr-only">NORGE</span>
+                    </p>
+                    <span>
+                        <dk-icon value="phone:fw"></dk-icon> <a href="tel:78973500" class="p-tel tel">7897 3500</a>
+                    </span>
+                    <p>
+                        <dk-icon value="envelope:fw"></dk-icon>
+                        <a class="u-email email" href="mailto:bat@norsktest.no">bat@norsktest.no</a>
+                    </p>
+                
+            </div>
+
+            <div class="col-xs-push-1 col-sm-7 col-xs-11">
+                <div class="row footer-menu">
+
+                    
+                        
+                            <div class="col-sm-6">
+                                <h4>Kandidatinfo..</h4>
+                                <ul>
+                                    <li>
+                                        <dk-icon value="info-circle:fw"></dk-icon> <a href="/candidate-information/">Kandidatinformasjon</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="video-camera:fw"></dk-icon> <a href="https://static-norsktest.s3.amazonaws.com/video/bfp_202203_no.mp4">Informasjonsvideo</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="question-circle:fw"></dk-icon> <a href="/info/bfp/spørmål-og-svar/">Ofte stilte spørsmål</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="map:fw"></dk-icon> <a href="https://static-norsktest.s3-eu-west-1.amazonaws.com/fup/Skolekart_A_B_C_D.pdf">Kartsamling</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="info-circle:fw"></dk-icon> <a href="/info/bfp/english-info/">Information in English</a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <dk-icon value="globe:fw"></dk-icon>
+                                        <a href="/info/bfp/icc/">
+                                            Internasjonalt båtførersertifikat (ICC)
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="list-ul:fw"></dk-icon>
+                                        <a href="/terms/">
+                                            Salgsbetingelser
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6">
+                                <h4>Testlederinfo..</h4>
+                                <ul>
+                                    <li>
+                                        <a href="/testleder/">
+                                            <dk-icon value="university:fw"></dk-icon> Testledersiden
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="" style="color:#d7d7d7;" href="/start-exam/redirect/">
+                                            <dk-icon value="clock-o:fw"></dk-icon> Start eksamen (testleder)
+                                        </a>
+                                    </li>
+                                    <!-- <li>
+                                        <a class="" href="/info/bfp/start-eksamen/">
+                                            <dk-icon value="folder-open:fw"></dk-icon> Start eksamen ved KID-betaling (midlertidig utilgjengelig)
+                                        </a>
+
+                                    </li> -->
+                                    <!-- <li>
+                                        <a href="https://static.datakortet.no/files/bfp_brukermanual_testleder.pdf">
+                                            <dk-icon value="book:fw"></dk-icon> Brukermanual (testleder)
+                                        </a>
+                                    </li> -->
+                                    
+                                </ul>
+                            </div>
+                        
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="legal">
+        <a href="/cookies.html">Hvordan vi bruker cookies</a>
+        <a href="/privacy-policy.html">Personvernerklæring</a>
+    </div>
+
+</footer>
+
+
+
+    
+    
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    
+            
+
+
+
+
+      
+
+ 
+
+    <div hidden id="dk-cookie-bar" 
+     style="background-color:black;color:white;position:fixed;bottom:0;left:0;right:0;padding-left:2em;padding-top:10px;padding-bottom:10px; z-index: 1;">
+    <p>
+        Norsk Test benytter informasjonskapsler (cookies) slik at vi kan 
+        yte vår service (Norsk Test uses cookies).
+        <a href="/cookies.html" style="text-decoration:none;cursor:pointer;margin:1ex;display:inline-block;background-color:green;color:white;border-radius:5px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">
+            Les&nbsp;mer
+        </a>
+        
+        <a id="dk-cookie-bar-ok-button" style="text-decoration:none;cursor:pointer;margin:1ex;display:inline-block;background-color:green;color:white;border-radius:5px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">
+            OK
+        </a>
+    </p>
+</div>
+<script>
+dk.ready(function () {
+    // vennligst behold denne koden som en enkel enhet.
+    /*
+            § 2-7b Bruk av informasjonskapsler/cookies
+
+        Lagring av opplysninger i brukers kommunikasjonsutstyr, eller å skaffe seg adgang til
+        slike, er ikke tillatt uten at brukeren er informert om hvilke opplysninger som
+        behandles, formålet med behandlingen, hvem som behandler opplysningene, og har
+        samtykket til dette. Første punktum er ikke til hinder for teknisk lagring av eller
+        adgang til opplysninger:
+
+        1. utelukkende for det formål å overføre kommunikasjon i et elektronisk
+           kommunikasjonsnett
+        2. som er nødvendig for å levere en informasjonssamfunnstjeneste etter
+           brukerens uttrykkelige forespørsel.
+
+    */
+    const _dk_accepting_cookies = dk.web.cookie.get('accepting_cookies');
+    window.dk_accepting_cookies = _dk_accepting_cookies === "1";     
+    if (_dk_accepting_cookies === null) {
+        const cookiebar = dk('#dk-cookie-bar');
+        cookiebar.hidden = false;
+        dk.$('#dk-cookie-bar-ok-button').on('click', function () {
+            var expiry = new Date();
+            expiry.setDate(expiry.getDate() + 365);
+
+            dk.web.cookie.set('accepting_cookies', "1", {
+                path: '/',
+                expires: expiry.toUTCString(),
+                samesite: 'Lax',
+            });
+            
+            window.dk_accepting_cookies = true;
+            dk.trigger(window, 'dk-accepting-cookies', true);
+            // window.dispatchEvent(dk_accepting_cookies_event);
+            dk.$('#dk-cookie-bar').fadeOut(300);
+        });
+    }
+});
+</script>
+
+        
+     
+
+
+<script src="https://norsktest.instatus.com/widget/script.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,3487 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+
+<html lang="no" class="no-js  bs3 " dir="ltr">
+<head>
+    <!-- admindash/html5.html -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+    
+    <link rel="icon" sizes="any" href="https://static.datakortet.no/bfpregistration/norsktest-man.svg">
+    
+
+    <title>
+    Testkalender søk
+</title>
+
+    <script>  
+        // var dk_accepting_cookies_event = new Event('accepting-cookies');
+        window.dk_accepting_cookies = (function () {
+            let result;
+            return (result = new RegExp('(?:^|; )accepting_cookies=([^;]*)').exec(document.cookie)) ? result[1] === '1' : false;
+        })();
+    </script>
+    
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2743103-7"></script>
+    <script>
+    if (1 || window.dk_accepting_cookies) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-2743103-7', {cookie_flags: 'SameSite=None;Secure'});
+    }
+    </script>
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B8WEC6WT3L"></script>
+    <script>
+    if (1 || window.dk_accepting_cookies) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-B8WEC6WT3L', {cookie_flags: 'SameSite=None;Secure'});
+    }
+    </script>
+    
+  
+
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="320">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.datakortet.no/logo/svg/norsktest-man-180.png">
+    <!-- enable full-screen mode (only when launched from home screen) -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- controls the appearance of the status bar in full-screen mode -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+
+    
+
+<!-- datadog rum tag -->
+ 
+<script>
+  if (window.dk_accepting_cookies) {
+    (function(h,o,u,n,d) {
+      h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+      d=o.createElement(u);d.async=1;d.src=n
+      n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+    })(window,document,'script','https://www.datadoghq-browser-agent.com/datadog-rum-v4.js','DD_RUM')
+    DD_RUM.onReady(function() {
+      DD_RUM.init({
+        clientToken: 'pub22e870f4b665b4c3518c6726f6362b26',
+        applicationId: 'da5623fd-48e1-416f-a732-c01aec58deec',
+        site: 'datadoghq.com',
+        service: 'batforerregisteret-django',
+        env: 'prod',
+        
+        // Specify a version number to identify the deployed version of your application in Datadog 
+        // version: '1.0.0',
+        sessionSampleRate: 100,
+        sessionReplaySampleRate: 100,
+        trackInteractions: true,
+        trackResources: true,
+        trackLongTask: true,
+        trackFrustrations: true,
+        defaultPrivacyLevel: 'allow',
+        // enableExperimentalFeatures: ['feature_flags'],
+      });
+  
+      DD_RUM.startSessionReplayRecording();
+    })
+  }
+  </script>
+
+
+
+    
+    <!-- admindash/bootstrap3.html -->
+    <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+
+
+<link rel="stylesheet" href="https://static.datakortet.no/font/fa440/css/font-awesome.css">
+
+
+<script crossorigin="anonymous" src="https://www.unpkg.com/@webcomponents/webcomponentsjs@2.2.6/webcomponents-bundle.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.min.js" integrity="sha256-F0O1TmEa4I8N24nY0bya59eP6svWcshqX1uzwaWC4F4=" crossorigin="anonymous"></script>
+<script src="https://js.pusher.com/7.0/pusher.min.js"></script>
+
+
+    
+
+    <script DEBUG LOGLEVEL="3"  src="https://static.datakortet.no/dkdj/js/dkdj.min.js"></script>
+
+    
+
+
+
+
+
+  
+
+          
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=latin" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata&amp;subset=latin" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://static.datakortet.no/font/norsktest/style.css">
+    <style> * { font-family: 'Open Sans', sans-serif; } </style>
+    <style>
+        #ie-not-supported p + p {margin-top:15px;}
+        #ie-not-supported a { color:white !important; text-decoration: underline !important;}
+    </style>
+          
+              
+
+    
+    
+<!-- bfpregistration -->
+
+    
+
+
+
+<!-- bfpregistration (prod) -->
+
+    <script src="https://static.datakortet.no/bfpregistration/js/bfpregistration.9ed5ecf105fd9bcd78f4.min.js"></script>
+    <link rel="stylesheet" href="https://static.datakortet.no/bfpregistration/css/bfpregistration.a38e28d1d6480b602591.css" type="text/css">
+<!-- /bfpregistration (prod) -->
+
+
+<!-- /bfpregistration -->
+
+    
+<!-- dkforms -->
+
+    
+
+
+
+<!-- dkforms (prod) -->
+
+    <script src="https://static.datakortet.no/dkforms/js/dkforms.7fccc11af31822564929.min.js"></script>
+    <link rel="stylesheet" href="https://static.datakortet.no/dkforms/css/dkforms.870b08d08ac55a4af79e.css" type="text/css">
+<!-- /dkforms (prod) -->
+
+
+<!-- /dkforms -->
+
+           
+    
+    <!-- Start of norsktesthelp Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a6988e6a-3744-4d9b-82e7-26dcf2112720"> </script>
+    <!-- End of norsktesthelp Zendesk Widget script -->
+           
+
+    
+            
+    
+    
+
+<!-- dkcal:start -->
+    
+    <link href='https://www.unpkg.com/@fullcalendar/core@4.0.2/main.min.css' rel='stylesheet'>
+    <link href='https://www.unpkg.com/@fullcalendar/daygrid@4.0.1/main.min.css' rel='stylesheet'>
+    <link href='https://www.unpkg.com/@fullcalendar/timegrid@4.0.1/main.min.css' rel='stylesheet'>
+
+    
+<!-- dkcal -->
+
+    
+
+
+
+<!-- dkcal (prod) -->
+
+    <script src="https://static.datakortet.no/dkcal/js/dkcal.bd37008445ce74ad6d0b.min.js"></script>
+    <link rel="stylesheet" href="https://static.datakortet.no/dkcal/css/dkcal.baacb6d9639cd0342204.css" type="text/css">
+<!-- /dkcal (prod) -->
+
+
+<!-- /dkcal -->
+
+
+<!-- dkcal:end -->
+
+    <style>
+        body.bfp > nav:first-child {
+            margin-bottom: 0;
+        }
+
+        .dkcal-buttons {
+            float: right;
+        }
+
+        .dkcal-buttons .button-cell a {
+            height: 50px;
+            width: 50px;
+            padding: 5px 5px 8px;
+        }
+
+        .dkcal-buttons .button-cell a .title {
+            display: none;
+        }
+
+        .dkcal-buttons .button-cell .selected {
+            background-color: #eee;
+            border-color: #888;
+            border-width: 2px;
+            box-shadow: inset 0 0 5px 2px #aaa;
+        }
+
+        .dkcal-page-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+        }
+
+        .dkcal-buttons img.dkcal-nav-icon {
+            width: 66px;
+            height: 76px;
+        }
+        .dkcal-nav-info > .dkcal-buttons img.dkcal-nav-icon {
+            width: 23px;
+            height: 26px;
+        }
+    </style>
+
+    
+    
+<!-- dktestcenter -->
+
+    
+
+
+
+<!-- dktestcenter (prod) -->
+
+    <script src="https://static.datakortet.no/dktestcenter/js/dktestcenter.1f16ab53b7f5c611b810.min.js"></script>
+    <link rel="stylesheet" href="https://static.datakortet.no/dktestcenter/css/dktestcenter.8c5b220bf6f482881a90.css" type="text/css">
+<!-- /dktestcenter (prod) -->
+
+
+<!-- /dktestcenter -->
+
+    <style type="text/css">
+        #map-canvas {
+            height: 750px;
+            width: 100%
+        }
+
+        .hilite * {
+            background: yellow !important;
+        }
+
+        .restable {
+            width: auto !important;
+        }
+
+        #acsearch:hover {
+            cursor: pointer;
+        }
+
+        div.gm-style-iw {
+            min-height: 46px;
+        }
+
+        #searchcalendar .hilite-cal {
+            background-color: yellow;
+        }
+
+        .filterbutton.active {
+            background-color: #DFF0D8;
+        }
+    </style>
+    <script type="text/javascript"
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC1PDI9HzI7DNJItpwa3rgVvIoRXwJ0wr8&libraries=places&language=no">
+    </script>
+    <script type="text/javascript"
+            src="https://www.unpkg.com/@google/markerclustererplus@4.0.1/dist/markerclustererplus.min.js">
+    </script>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/OverlappingMarkerSpiderfier/1.0.3/oms.js">
+    </script>
+
+              
+                
+
+    
+ 
+    
+  
+    
+                
+    
+    <meta name="random" content="5U3*6yac4$Jcp@">
+</head>
+<body  id='body' class="bfp page" name="examcalendar">
+ 
+
+    
+    
+    
+
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="navbar-brand"><a href="/">Båtførerregisteret</a></div>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                
+                    
+                
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right member-actions">
+                
+                    
+                        <li><a title="min side" href="/min-side/" class="login-btn">
+                            <dk-icon value="key:lg"></dk-icon>&nbsp;Logg inn
+                        </a></li>
+                    
+                
+            </ul>
+        </div>
+        <!--/.navbar-collapse -->
+    </div>
+</nav>
+
+
+    <header class="branding">
+        <a href="#main" class="sr-only">gå til innhold</a>
+        <div class="container">
+            <a class="batforerregisteret" href="/">
+                <h1 class="batforerregisteret shadowed">Båtfører&shy;registeret</h1>
+            </a>
+        </div>
+    </header>
+
+    / Eksamenskalender
+
+    
+        <main id="main" class="container">
+            
+
+
+            
+                <div id="site_content" class="row">
+                    <div class="col-xs-12">
+                        
+    <section class="xdebug">
+        <header class="dkcal-page-header">
+            <div class="page-h1">
+                
+    <h1>Testkalender søk</h1>
+    
+
+            </div>
+            <div class="dkcal-nav-info">
+                
+
+
+
+
+
+                <div></div>
+            </div>
+        </header>
+
+        
+    <div class="first row">
+        <div class="col-md-4 col-sm-6">
+            <div id="search-bar" style="margin-bottom: 20px;">
+                <input id="autocomplete" class="form-control typeahead" id="t" name="t" type="text" placeholder="Søk">
+            </div>
+
+            
+
+
+
+
+            <input type="hidden" value="" id="centerx">
+            <input type="hidden" value="" id="centery">
+            <input type="hidden" value="" id="autnrs">
+
+            <div style="display:none">
+                
+            </div>
+
+            <div id='map-canvas'></div>
+        </div>
+
+        <div class="calendar-box col-md-8">
+            
+            <div id="searchcalendar"></div>
+            
+<script>
+    const theCalendar = dkcal.search_widget('#searchcalendar', '../events/');
+</script>
+
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            var tctr = "";
+            var all_locations = [
+    {
+        "autnr": "N-999",
+        "id": 1,
+        "lat": 69.72702035680996,
+        "lng": 30.04344068518068,
+        "name": "NorskTest a.s"
+    },
+    {
+        "autnr": "N-043",
+        "id": 2,
+        "lat": 62.740054,
+        "lng": 7.169846,
+        "name": "PLUSS it-skole"
+    },
+    {
+        "autnr": "N-050",
+        "id": 25,
+        "lat": 61.1163196,
+        "lng": 10.4622794,
+        "name": "Karriere Oppland Lillehammer"
+    },
+    {
+        "autnr": "N-730",
+        "id": 57,
+        "lat": 59.2804054,
+        "lng": 11.1209670000001,
+        "name": "AOF \u00d8stlandet"
+    },
+    {
+        "autnr": "N-305",
+        "id": 99,
+        "lat": 68.1199176,
+        "lng": 13.5534709,
+        "name": "Nordland Maritime Sikkhetssenter FKF"
+    },
+    {
+        "autnr": "N-423",
+        "id": 126,
+        "lat": 59.1182667,
+        "lng": 11.4119297,
+        "name": "Halden Arbeid og Vekst as"
+    },
+    {
+        "autnr": "N-507",
+        "id": 141,
+        "lat": 70.978173,
+        "lng": 25.970232,
+        "name": "Nordkapp maritime fagskole og videreg\u00e5ende skole"
+    },
+    {
+        "autnr": "N-630",
+        "id": 183,
+        "lat": 68.2289316,
+        "lng": 14.5562896,
+        "name": "LIAS"
+    },
+    {
+        "autnr": "N-667",
+        "id": 199,
+        "lat": 59.649996,
+        "lng": 6.356327,
+        "name": "Rysteg A/S "
+    },
+    {
+        "autnr": "N-673",
+        "id": 205,
+        "lat": 59.9300513,
+        "lng": 10.9528893,
+        "name": "NITOR AS"
+    },
+    {
+        "autnr": "N-689",
+        "id": 217,
+        "lat": 59.6043684,
+        "lng": 5.8080047,
+        "name": "\u00d8len Vidareg\u00e5ande Skule"
+    },
+    {
+        "autnr": "NT-011",
+        "id": 279,
+        "lat": 58.157206,
+        "lng": 8.029218,
+        "name": "HK Motorservice AS"
+    },
+    {
+        "autnr": "NT-025",
+        "id": 292,
+        "lat": 58.1531665,
+        "lng": 8.0023508,
+        "name": "Fagskolen i Agder"
+    },
+    {
+        "autnr": "NT-026",
+        "id": 293,
+        "lat": 59.838508,
+        "lng": 10.7960986,
+        "name": "Norsk Maritimt Kurssenter"
+    },
+    {
+        "autnr": "NT-030",
+        "id": 297,
+        "lat": 58.654773,
+        "lng": 9.144382,
+        "name": "Ris\u00f8y Folkeh\u00f8yskole"
+    },
+    {
+        "autnr": "NT-034",
+        "id": 301,
+        "lat": 59.2699386,
+        "lng": 5.1938603,
+        "name": "Ole Mannes Holding AS/Karm\u00f8y B\u00e5tskole "
+    },
+    {
+        "autnr": "NT-035",
+        "id": 302,
+        "lat": 59.136552,
+        "lng": 10.407799,
+        "name": "B\u00e5tf\u00f8rerskolen"
+    },
+    {
+        "autnr": "NT-045",
+        "id": 312,
+        "lat": 59.20763081466135,
+        "lng": 10.277564606607047,
+        "name": "Jacmar As"
+    },
+    {
+        "autnr": "NT-048",
+        "id": 315,
+        "lat": 69.6520758,
+        "lng": 18.9615877,
+        "name": "Redningsselskapet, Region Nord Troms\u00f8"
+    },
+    {
+        "autnr": "NT-051",
+        "id": 318,
+        "lat": 60.3996334,
+        "lng": 5.3115627,
+        "name": "Redningsselskapet, Region Vest Bergen"
+    },
+    {
+        "autnr": "NT-053",
+        "id": 320,
+        "lat": 58.9738584,
+        "lng": 5.732486199999999,
+        "name": "Redningsselskapet, Region Vest Stavanger"
+    },
+    {
+        "autnr": "NT-055",
+        "id": 322,
+        "lat": 59.39210660000001,
+        "lng": 10.474779,
+        "name": "RS Noatun"
+    },
+    {
+        "autnr": "NT-056",
+        "id": 323,
+        "lat": 70.6636427,
+        "lng": 23.6810599,
+        "name": "OK Barents"
+    },
+    {
+        "autnr": "NT-057",
+        "id": 324,
+        "lat": 58.101085,
+        "lng": 7.971618,
+        "name": "Hansen Consult A/S"
+    },
+    {
+        "autnr": "NT-061",
+        "id": 328,
+        "lat": 63.964871,
+        "lng": 10.220204,
+        "name": "\u00c5fjord videreg\u00e5ende skole og ressurssenter"
+    },
+    {
+        "autnr": "NT-062",
+        "id": 329,
+        "lat": 62.47060870000001,
+        "lng": 6.221933700000001,
+        "name": "Redningsselskapet Region Vest, \u00c5lesund"
+    },
+    {
+        "autnr": "NT-066",
+        "id": 333,
+        "lat": 61.0740153,
+        "lng": 4.840370099999999,
+        "name": "Solund barne- og ungdomskule"
+    },
+    {
+        "autnr": "NT-072",
+        "id": 339,
+        "lat": 63.72553499999999,
+        "lng": 8.834004199999999,
+        "name": "Guri Kunna vgs"
+    },
+    {
+        "autnr": "NT-074",
+        "id": 341,
+        "lat": 59.0661048,
+        "lng": 5.914583299999999,
+        "name": "Strand videreg\u00e5ende skole"
+    },
+    {
+        "autnr": "NT-076",
+        "id": 343,
+        "lat": 58.718163,
+        "lng": 9.212219,
+        "name": "VIRK, Voksenoppl\u00e6ringen i Ris\u00f8r"
+    },
+    {
+        "autnr": "NT-077",
+        "id": 344,
+        "lat": 58.501001,
+        "lng": 8.863682,
+        "name": "Tommy Gjerland Oppl\u00e6ringssenter"
+    },
+    {
+        "autnr": "NT-081",
+        "id": 348,
+        "lat": 61.365851,
+        "lng": 5.342815,
+        "name": "Dale Vidareg\u00e5ande skule"
+    },
+    {
+        "autnr": "NT-083",
+        "id": 350,
+        "lat": 59.9135254,
+        "lng": 10.6453979,
+        "name": "Redningsselskapet, Region \u00d8st Lysaker"
+    },
+    {
+        "autnr": "NT-091",
+        "id": 358,
+        "lat": 60.241791,
+        "lng": 5.744439,
+        "name": "Fusa vidareg\u00e5ande skule"
+    },
+    {
+        "autnr": "NT-093",
+        "id": 360,
+        "lat": 60.391948,
+        "lng": 5.23254,
+        "name": "Dykkerutdanningen V/H\u00f8gskolen I Bergen"
+    },
+    {
+        "autnr": "NT-094",
+        "id": 361,
+        "lat": 60.1591287,
+        "lng": 5.5836568,
+        "name": "Vinnes B\u00e5tlag"
+    },
+    {
+        "autnr": "NT-095",
+        "id": 362,
+        "lat": 69.40576,
+        "lng": 18.595619,
+        "name": "Folkeh\u00f8gskolen 69 Grader Nord"
+    },
+    {
+        "autnr": "NT-096",
+        "id": 363,
+        "lat": 59.2916818,
+        "lng": 10.419602,
+        "name": "Speed Trafikkoppl\u00e6ring AS"
+    },
+    {
+        "autnr": "NT-101",
+        "id": 374,
+        "lat": 60.2885624,
+        "lng": 5.31651169999998,
+        "name": "Bergen Sj\u00f8skole"
+    },
+    {
+        "autnr": "NT-104",
+        "id": 381,
+        "lat": 70.027859,
+        "lng": 20.973003,
+        "name": "Nord Troms videreg\u00e5ende skole \u2013 skolested Skjerv\u00f8y"
+    },
+    {
+        "autnr": "NT-114",
+        "id": 399,
+        "lat": 70.94576959999999,
+        "lng": 27.3467913,
+        "name": "Nordkyn Kompetansesenter"
+    },
+    {
+        "autnr": "NT-115",
+        "id": 400,
+        "lat": 58.098359,
+        "lng": 6.692293,
+        "name": "Lister Oppl\u00e6ring A/S"
+    },
+    {
+        "autnr": "NT-119",
+        "id": 409,
+        "lat": 69.353467,
+        "lng": 18.07397,
+        "name": "Senja Videreg\u00e5ende Skole"
+    },
+    {
+        "autnr": "NT-124",
+        "id": 415,
+        "lat": 62.344183,
+        "lng": 5.634684,
+        "name": "Her\u00f8y Vidareg\u00e5ande Skule"
+    },
+    {
+        "autnr": "NT-125",
+        "id": 416,
+        "lat": 63.629702,
+        "lng": 10.073363,
+        "name": "Rissa Ressurssenter"
+    },
+    {
+        "autnr": "NT-128",
+        "id": 419,
+        "lat": 59.6610173,
+        "lng": 6.4081079,
+        "name": "Bergsbakk Maskin"
+    },
+    {
+        "autnr": "NT-130",
+        "id": 421,
+        "lat": 67.033801,
+        "lng": 14.027548,
+        "name": "Kunnskapsssenteret i Gildesk\u00e5l"
+    },
+    {
+        "autnr": "NT-136",
+        "id": 424,
+        "lat": 59.66523729999999,
+        "lng": 10.7762897,
+        "name": "Sven Marin Service, Lysaker"
+    },
+    {
+        "autnr": "NT-135",
+        "id": 425,
+        "lat": 68.21234559999999,
+        "lng": 14.4861454,
+        "name": "Lofoten Folkeh\u00f8gskole"
+    },
+    {
+        "autnr": "NT-134",
+        "id": 426,
+        "lat": 59.90764999661948,
+        "lng": 10.695238298919678,
+        "name": "Kongelig Norsk Seilforening"
+    },
+    {
+        "autnr": "NT-137",
+        "id": 431,
+        "lat": 59.913573,
+        "lng": 10.647407,
+        "name": "Livredd (Monstro bok)"
+    },
+    {
+        "autnr": "NT-138",
+        "id": 432,
+        "lat": 59.05238019999999,
+        "lng": 9.6974051,
+        "name": "Brevik Og Omegn Sj\u00f8mandsforening"
+    },
+    {
+        "autnr": "NT-139",
+        "id": 433,
+        "lat": 66.01428,
+        "lng": 12.600563,
+        "name": "Sandnessj\u00f8en vgs"
+    },
+    {
+        "autnr": "NT-122",
+        "id": 445,
+        "lat": 60.086355,
+        "lng": 5.2632831,
+        "name": "Austevoll Videreg\u00e5ande Skule"
+    },
+    {
+        "autnr": "NT-148",
+        "id": 446,
+        "lat": 59.9238264,
+        "lng": 10.7293592,
+        "name": "Sj\u00f8akademiet AS "
+    },
+    {
+        "autnr": "NT-149",
+        "id": 447,
+        "lat": 58.145479,
+        "lng": 7.999427,
+        "name": "Aftenskolen Agder"
+    },
+    {
+        "autnr": "NT-151",
+        "id": 450,
+        "lat": 61.80537,
+        "lng": 6.146067,
+        "name": "Nordfjord Folkeh\u00f8gskule"
+    },
+    {
+        "autnr": "NT-154",
+        "id": 452,
+        "lat": 59.19952589999999,
+        "lng": 10.3260184,
+        "name": "SailOn"
+    },
+    {
+        "autnr": "NT-155",
+        "id": 453,
+        "lat": 60.428233,
+        "lng": 5.183634,
+        "name": "Hegland Consulting"
+    },
+    {
+        "autnr": "NT-157",
+        "id": 456,
+        "lat": 58.989583,
+        "lng": 5.724475,
+        "name": "Unge Sj\u00f8menns Kristelige Forening"
+    },
+    {
+        "autnr": "NT-159",
+        "id": 458,
+        "lat": 58.86459,
+        "lng": 5.755769,
+        "name": "2. Sandnes Sj\u00f8speidergruppe Av NSF"
+    },
+    {
+        "autnr": "NT-161",
+        "id": 460,
+        "lat": 58.149898,
+        "lng": 7.994737,
+        "name": "Menigheten Samfundet Kristiansand"
+    },
+    {
+        "autnr": "NT-162",
+        "id": 461,
+        "lat": 58.622833,
+        "lng": 8.929774,
+        "name": "Hansens Dykkekompetanse"
+    },
+    {
+        "autnr": "NT-164",
+        "id": 462,
+        "lat": 59.489608,
+        "lng": 8.640048,
+        "name": "Prosjektservice"
+    },
+    {
+        "autnr": "NT-168",
+        "id": 468,
+        "lat": 58.970741,
+        "lng": 5.718013,
+        "name": "Baatskolen Poseidon"
+    },
+    {
+        "autnr": "NT-171",
+        "id": 471,
+        "lat": 58.6579788,
+        "lng": 5.5542172,
+        "name": "J\u00e6ren Kystlag"
+    },
+    {
+        "autnr": "NT-175",
+        "id": 475,
+        "lat": 64.869684,
+        "lng": 11.233335,
+        "name": "Ytre Namdal videreg\u00e5ende skole"
+    },
+    {
+        "autnr": "NT-181",
+        "id": 484,
+        "lat": 58.125986,
+        "lng": 7.95479,
+        "name": "Fisk\u00e5 Skole"
+    },
+    {
+        "autnr": "NT-182",
+        "id": 485,
+        "lat": 63.701108,
+        "lng": 11.186882,
+        "name": "S\u00f8r-Inntr\u00f8ndelag H\u00f8gskolelag"
+    },
+    {
+        "autnr": "NT-190",
+        "id": 494,
+        "lat": 58.45,
+        "lng": 8.76,
+        "name": "SMI-skolen i Arendal"
+    },
+    {
+        "autnr": "NT-192",
+        "id": 496,
+        "lat": 68.696816,
+        "lng": 15.409416,
+        "name": "Sortland Videreg\u00e5ende Skole"
+    },
+    {
+        "autnr": "NT-194",
+        "id": 498,
+        "lat": 63.606148,
+        "lng": 8.972054,
+        "name": "Fillan Skole"
+    },
+    {
+        "autnr": "NT-198",
+        "id": 502,
+        "lat": 58.2495626,
+        "lng": 8.3792438,
+        "name": "Lillesand Sj\u00f8mannsforening"
+    },
+    {
+        "autnr": "NT-200",
+        "id": 505,
+        "lat": 62.47176,
+        "lng": 6.148687,
+        "name": "\u00c5lesund videreg\u00e5ende skole"
+    },
+    {
+        "autnr": "NT-203",
+        "id": 510,
+        "lat": 67.285576,
+        "lng": 14.553749,
+        "name": "Bodin Videreg\u00e5ende Skole og Maritime skole"
+    },
+    {
+        "autnr": "NT-204",
+        "id": 511,
+        "lat": 59.279324,
+        "lng": 9.270856300000002,
+        "name": "Nome voksenoppl\u00e6ring og flyktningtjeneste"
+    },
+    {
+        "autnr": "NT-208",
+        "id": 517,
+        "lat": 63.118727,
+        "lng": 7.749492,
+        "name": "R\u00f8de Kors"
+    },
+    {
+        "autnr": "NT-209",
+        "id": 518,
+        "lat": 59.168211,
+        "lng": 10.39002,
+        "name": "R\u00f8de Kors Tj\u00f8me og Hvasser"
+    },
+    {
+        "autnr": "NT-220",
+        "id": 530,
+        "lat": 59.413311,
+        "lng": 5.26339,
+        "name": "Stiftelsen Haugesj\u00f8en"
+    },
+    {
+        "autnr": "NT-231",
+        "id": 545,
+        "lat": 60.981383,
+        "lng": 5.073649,
+        "name": "Eivindvik Skule"
+    },
+    {
+        "autnr": "NT-229",
+        "id": 547,
+        "lat": 59.773988,
+        "lng": 10.803229,
+        "name": "H\u00f8gh Trafikkskole AS"
+    },
+    {
+        "autnr": "NT-232",
+        "id": 548,
+        "lat": 58.65525,
+        "lng": 9.14586,
+        "name": "Kystleirskolen Tvedestrand A/S"
+    },
+    {
+        "autnr": "NT-236",
+        "id": 555,
+        "lat": 61.8355331,
+        "lng": 4.938105999999999,
+        "name": "Torvanger Maritime"
+    },
+    {
+        "autnr": "NT-240",
+        "id": 559,
+        "lat": 58.191448,
+        "lng": 8.033999,
+        "name": "Havlimyra Skole"
+    },
+    {
+        "autnr": "NT-241",
+        "id": 560,
+        "lat": 58.162836,
+        "lng": 8.002532,
+        "name": "Universitetet i Agder"
+    },
+    {
+        "autnr": "NT-245",
+        "id": 564,
+        "lat": 66.313712,
+        "lng": 14.141975,
+        "name": "Frikult AS"
+    },
+    {
+        "autnr": "NT-259",
+        "id": 583,
+        "lat": 63.333951,
+        "lng": 10.058875,
+        "name": "Trondheimsfjord folkeh\u00f8gskole"
+    },
+    {
+        "autnr": "NT-261",
+        "id": 585,
+        "lat": 59.2267057,
+        "lng": 10.4078289,
+        "name": "Skoms\u00f8y Trafikkskole"
+    },
+    {
+        "autnr": "NT-268",
+        "id": 592,
+        "lat": 58.9980378,
+        "lng": 5.7828966,
+        "name": "Vass\u00f8y Skyss"
+    },
+    {
+        "autnr": "NT-277",
+        "id": 604,
+        "lat": 59.057516,
+        "lng": 10.0510944,
+        "name": "Vestfold Seilskole"
+    },
+    {
+        "autnr": "NT-281",
+        "id": 609,
+        "lat": 60.391374,
+        "lng": 5.254798,
+        "name": "Nemo Classic Diving"
+    },
+    {
+        "autnr": "NT-282",
+        "id": 610,
+        "lat": 58.096193,
+        "lng": 7.809354,
+        "name": "Tangvall skole"
+    },
+    {
+        "autnr": "NT-293",
+        "id": 616,
+        "lat": 63.463442,
+        "lng": 8.013878,
+        "name": "Sm\u00f8la N\u00e6rings- Og Kultursenter KF"
+    },
+    {
+        "autnr": "NT-285",
+        "id": 619,
+        "lat": 59.485984,
+        "lng": 6.251556,
+        "name": "Comitto V/Odd \u00c5ge Aas"
+    },
+    {
+        "autnr": "NT-297",
+        "id": 622,
+        "lat": 59.73922,
+        "lng": 10.197571,
+        "name": "Odd Jensen Trafikkskole AS"
+    },
+    {
+        "autnr": "NT-301",
+        "id": 626,
+        "lat": 59.7950629,
+        "lng": 5.7097567,
+        "name": "\u00d8yatun Skule"
+    },
+    {
+        "autnr": "NT-305",
+        "id": 631,
+        "lat": 59.279537,
+        "lng": 5.312411,
+        "name": "Karm\u00f8y R\u00f8de Kors"
+    },
+    {
+        "autnr": "NT-307",
+        "id": 634,
+        "lat": 58.893997,
+        "lng": 5.665542,
+        "name": "Sola videreg\u00e5ende skole"
+    },
+    {
+        "autnr": "NT-308",
+        "id": 636,
+        "lat": 59.605,
+        "lng": 5.21139,
+        "name": "B\u00f8mlo B\u00e5tlag"
+    },
+    {
+        "autnr": "NT-310",
+        "id": 638,
+        "lat": 60.2386611,
+        "lng": 5.2955498,
+        "name": "Fjordfun"
+    },
+    {
+        "autnr": "nT-315",
+        "id": 643,
+        "lat": 59.9175178,
+        "lng": 10.7581429,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-317",
+        "id": 645,
+        "lat": 64.4654249,
+        "lng": 12.3149092,
+        "name": "Grong Videreg\u00e5ende skole"
+    },
+    {
+        "autnr": "NT-318",
+        "id": 646,
+        "lat": 59.77619259999999,
+        "lng": 5.490218,
+        "name": "Stord Ungdomsskole"
+    },
+    {
+        "autnr": "NT-324",
+        "id": 654,
+        "lat": 59.6807804,
+        "lng": 10.5283809,
+        "name": "S\u00e6tre Maritime Skole"
+    },
+    {
+        "autnr": "NT-326",
+        "id": 656,
+        "lat": 62.8551769,
+        "lng": 7.1551007,
+        "name": "Hustadvika vidareg\u00e5ande skole"
+    },
+    {
+        "autnr": "NT-327",
+        "id": 657,
+        "lat": 59.9227928,
+        "lng": 10.7212662,
+        "name": "Be\u200brgen Sj\u00f8skole"
+    },
+    {
+        "autnr": "NT-350",
+        "id": 659,
+        "lat": 58.1657857,
+        "lng": 8.25863830000003,
+        "name": "Maritime Tjenester V/Svend Svendsen"
+    },
+    {
+        "autnr": "NT-348",
+        "id": 661,
+        "lat": 63.4379903,
+        "lng": 10.412302,
+        "name": "Tr\u00f8ndelag Brann Og Redningstjeneste iks"
+    },
+    {
+        "autnr": "NT-353",
+        "id": 663,
+        "lat": 58.1500042,
+        "lng": 8.0305625,
+        "name": "Redningsselskapet Kristiansand"
+    },
+    {
+        "autnr": "NT-354",
+        "id": 664,
+        "lat": 68.40556839999999,
+        "lng": 16.6617877,
+        "name": "Navigare B\u00e5tskole"
+    },
+    {
+        "autnr": "NT-355",
+        "id": 666,
+        "lat": 59.1518719,
+        "lng": 11.1913202000001,
+        "name": "Sarpsborg Seilforening"
+    },
+    {
+        "autnr": "NT-356",
+        "id": 667,
+        "lat": 60.3776609,
+        "lng": 5.23154629999999,
+        "name": "Bergen vannscooter utleie AS"
+    },
+    {
+        "autnr": "NT-361",
+        "id": 673,
+        "lat": 63.4074437,
+        "lng": 10.4721261,
+        "name": "Sven Marin Service Avd Trondheim"
+    },
+    {
+        "autnr": "NT-368",
+        "id": 681,
+        "lat": 58.9480622,
+        "lng": 5.7127542,
+        "name": "Kordelen AS"
+    },
+    {
+        "autnr": "NT-369",
+        "id": 682,
+        "lat": 58.9935127,
+        "lng": 5.7302261,
+        "name": "Sj\u00f8kurs AS"
+    },
+    {
+        "autnr": "NT-376",
+        "id": 684,
+        "lat": 78.2457554435,
+        "lng": 15.4957572295,
+        "name": "B ergen Sj\u00f8skole, Svalbard"
+    },
+    {
+        "autnr": "NT-381",
+        "id": 688,
+        "lat": 63.42039519999999,
+        "lng": 10.4861051,
+        "name": "Charlottenlund Vgs Trondheim"
+    },
+    {
+        "autnr": "NT-315-04",
+        "id": 713,
+        "lat": 59.743843,
+        "lng": 10.191771,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-02",
+        "id": 715,
+        "lat": 58.1443738,
+        "lng": 7.992848100000001,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-01",
+        "id": 716,
+        "lat": 59.2072418,
+        "lng": 9.61134,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-05",
+        "id": 717,
+        "lat": 59.0511578,
+        "lng": 10.0296246,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-06",
+        "id": 718,
+        "lat": 58.8691876,
+        "lng": 9.4089617,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-08",
+        "id": 720,
+        "lat": 63.4309982,
+        "lng": 10.3913219999999,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-09",
+        "id": 721,
+        "lat": 58.96771219999999,
+        "lng": 5.7273681,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-10",
+        "id": 722,
+        "lat": 60.39704260000001,
+        "lng": 5.3255947,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-13",
+        "id": 724,
+        "lat": 59.4098091,
+        "lng": 5.2714591,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-14",
+        "id": 725,
+        "lat": 59.2130087,
+        "lng": 10.9387148,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-17",
+        "id": 728,
+        "lat": 60.7925824,
+        "lng": 11.0744878,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-407",
+        "id": 729,
+        "lat": 62.5007767,
+        "lng": 6.1345185,
+        "name": "R.A Marine Training"
+    },
+    {
+        "autnr": "NT-408",
+        "id": 731,
+        "lat": 61.9187192,
+        "lng": 5.1706874,
+        "name": "M\u00e5l\u00f8y vgs, avd Naturbruk"
+    },
+    {
+        "autnr": "NT-217-02",
+        "id": 732,
+        "lat": 58.2972806,
+        "lng": 6.6617585,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-04",
+        "id": 733,
+        "lat": 58.1470386,
+        "lng": 7.9899551,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-03",
+        "id": 734,
+        "lat": 60.1663494,
+        "lng": 10.2573864,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-06",
+        "id": 736,
+        "lat": 60.628656,
+        "lng": 6.413313,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-07",
+        "id": 737,
+        "lat": 60.7933036295,
+        "lng": 11.0747983933,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-05",
+        "id": 738,
+        "lat": 60.0071743,
+        "lng": 5.203601799999999,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-409",
+        "id": 739,
+        "lat": 58.8303568,
+        "lng": 9.3021887,
+        "name": "Kiil-Sandtangen AS"
+    },
+    {
+        "autnr": "NT-217-13",
+        "id": 744,
+        "lat": 59.732434,
+        "lng": 5.9315326,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-12",
+        "id": 746,
+        "lat": 59.743883,
+        "lng": 10.191591,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-11",
+        "id": 747,
+        "lat": 59.8154351,
+        "lng": 5.2694002,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-19",
+        "id": 752,
+        "lat": 59.9194571,
+        "lng": 5.3198229,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-17",
+        "id": 754,
+        "lat": 58.8702703,
+        "lng": 9.406842,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-15",
+        "id": 756,
+        "lat": 58.4613539,
+        "lng": 8.7633119,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-14",
+        "id": 757,
+        "lat": 59.2629443,
+        "lng": 10.4039253,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-26",
+        "id": 758,
+        "lat": 61.3464656,
+        "lng": 5.0620526,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-28",
+        "id": 760,
+        "lat": 59.174421,
+        "lng": 5.8728993,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-30",
+        "id": 761,
+        "lat": 60.3698936,
+        "lng": 6.1465071,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-23",
+        "id": 764,
+        "lat": 59.6490122,
+        "lng": 6.3540831,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-22",
+        "id": 765,
+        "lat": 58.9974649,
+        "lng": 10.0392526,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-20",
+        "id": 767,
+        "lat": 58.121557,
+        "lng": 7.058554,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-154-01",
+        "id": 768,
+        "lat": 58.9920884,
+        "lng": 10.0245999,
+        "name": "SailOn"
+    },
+    {
+        "autnr": "NT-417",
+        "id": 770,
+        "lat": 59.345359,
+        "lng": 5.79459099999997,
+        "name": "Leirong Kystlag"
+    },
+    {
+        "autnr": "NT-217-35",
+        "id": 771,
+        "lat": 61.2299267,
+        "lng": 7.0990326,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-34",
+        "id": 772,
+        "lat": 61.4499286,
+        "lng": 5.8506627,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-25",
+        "id": 774,
+        "lat": 58.0876545,
+        "lng": 6.7963652,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-36",
+        "id": 780,
+        "lat": 60.3756766,
+        "lng": 6.7224791,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-419",
+        "id": 806,
+        "lat": 69.6792739,
+        "lng": 18.9799314,
+        "name": "Ishavsbyen VGS"
+    },
+    {
+        "autnr": "NT-217-38",
+        "id": 808,
+        "lat": 60.0530643,
+        "lng": 6.0191717,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-315-29",
+        "id": 809,
+        "lat": 59.2682413,
+        "lng": 10.4045985,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-28",
+        "id": 810,
+        "lat": 58.8703037,
+        "lng": 5.74159229999998,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-26",
+        "id": 812,
+        "lat": 59.2833815,
+        "lng": 11.1089443,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-22",
+        "id": 816,
+        "lat": 58.3426044,
+        "lng": 8.5931491,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-21",
+        "id": 818,
+        "lat": 60.7944335,
+        "lng": 10.6941559,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-18",
+        "id": 819,
+        "lat": 58.4589214,
+        "lng": 8.7669244,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-19",
+        "id": 820,
+        "lat": 59.83466,
+        "lng": 10.440857,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-422",
+        "id": 823,
+        "lat": 58.896869,
+        "lng": 6.01865509999993,
+        "name": "H\u00f8le Barne- Og Ungdomsskole"
+    },
+    {
+        "autnr": "NT-217-31",
+        "id": 831,
+        "lat": 59.4343994,
+        "lng": 10.6531245,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-40",
+        "id": 840,
+        "lat": 61.1707948,
+        "lng": 5.2934748,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-44",
+        "id": 842,
+        "lat": 59.727311,
+        "lng": 5.2274131,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-429",
+        "id": 848,
+        "lat": 59.4089328,
+        "lng": 9.0595719,
+        "name": "H\u00f8gskolen I S\u00f8r\u00f8st-Norge, Campus B\u00f8"
+    },
+    {
+        "autnr": "NT-217-41",
+        "id": 850,
+        "lat": 60.1981425,
+        "lng": 5.4429935,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-42",
+        "id": 851,
+        "lat": 60.1988326,
+        "lng": 5.61963549999996,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-442",
+        "id": 867,
+        "lat": 61.9214505888994,
+        "lng": 5.1548935230926,
+        "name": "Team Trafikkskole AS"
+    },
+    {
+        "autnr": "NT-440",
+        "id": 873,
+        "lat": 60.0070987,
+        "lng": 11.0405061,
+        "name": "Forberedt AS"
+    },
+    {
+        "autnr": "NT-444",
+        "id": 875,
+        "lat": 63.8838144,
+        "lng": 9.86457940000003,
+        "name": "Torbj\u00f8rn Byberg"
+    },
+    {
+        "autnr": "NT-217-48",
+        "id": 876,
+        "lat": 59.8677,
+        "lng": 5.7604599,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-50",
+        "id": 878,
+        "lat": 59.1243723,
+        "lng": 11.3857456000001,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-52",
+        "id": 880,
+        "lat": 59.4172016,
+        "lng": 9.0635949,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-53",
+        "id": 881,
+        "lat": 59.6617051,
+        "lng": 10.6281,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-55",
+        "id": 882,
+        "lat": 59.9965665,
+        "lng": 5.49146270000006,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-445",
+        "id": 884,
+        "lat": 64.4682559,
+        "lng": 11.4923745999999,
+        "name": "Cactus Hans Martin Flasnes"
+    },
+    {
+        "autnr": "NT-217-56",
+        "id": 887,
+        "lat": 58.4510411,
+        "lng": 5.9999396,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-57",
+        "id": 890,
+        "lat": 67.1033694,
+        "lng": 15.3914367,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-447",
+        "id": 891,
+        "lat": 58.0253997,
+        "lng": 7.45620250000002,
+        "name": "Mandal bibliotek"
+    },
+    {
+        "autnr": "NT-217-59",
+        "id": 913,
+        "lat": 59.3902249,
+        "lng": 5.3228014,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-60",
+        "id": 914,
+        "lat": 66.0218571,
+        "lng": 12.6330795,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-329",
+        "id": 915,
+        "lat": 58.3405737,
+        "lng": 8.5805346,
+        "name": "Dahlske Videreg\u00e5ende Skole"
+    },
+    {
+        "autnr": "NT-315-32",
+        "id": 955,
+        "lat": 59.91380705129452,
+        "lng": 10.72105930734025,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-154-03",
+        "id": 956,
+        "lat": 58.9928912,
+        "lng": 10.037053,
+        "name": "SailOn"
+    },
+    {
+        "autnr": "NT-315-34",
+        "id": 967,
+        "lat": 59.13302189999999,
+        "lng": 10.2240926,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-38",
+        "id": 972,
+        "lat": 59.9101662,
+        "lng": 10.7250783,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-455",
+        "id": 973,
+        "lat": 59.913852767574255,
+        "lng": 10.721461638692483,
+        "name": "Lanternen kurs/Humlesekken AS"
+    },
+    {
+        "autnr": "NT-315-40",
+        "id": 976,
+        "lat": 59.73995669558563,
+        "lng": 10.2010660459633,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-39",
+        "id": 977,
+        "lat": 58.9687505,
+        "lng": 5.73559030000001,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-315-41",
+        "id": 979,
+        "lat": 63.4347467,
+        "lng": 10.4141393,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-457",
+        "id": 985,
+        "lat": 60.96530519999999,
+        "lng": 9.3082161,
+        "name": "Aastveit Maritime ENK"
+    },
+    {
+        "autnr": "NT-315-43",
+        "id": 986,
+        "lat": 59.9143217,
+        "lng": 10.7492723,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-459",
+        "id": 990,
+        "lat": 59.0091916,
+        "lng": 9.74502380000001,
+        "name": "Engelstad Marine AS"
+    },
+    {
+        "autnr": "NT-217-63",
+        "id": 1000,
+        "lat": 60.3989387,
+        "lng": 5.30905000000007,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-64",
+        "id": 1001,
+        "lat": 67.2590486,
+        "lng": 15.3979575,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-65",
+        "id": 1004,
+        "lat": 66.3119192573635,
+        "lng": 14.1351796227539,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-465-01",
+        "id": 1008,
+        "lat": 58.4471578,
+        "lng": 8.75023420000002,
+        "name": "Brann Og Sikkerhetstjenesten AS"
+    },
+    {
+        "autnr": "N-073-01",
+        "id": 2827,
+        "lat": 58.871339,
+        "lng": 9.39518250000003,
+        "name": "Krager\u00f8 L\u00e6ringssenter "
+    },
+    {
+        "autnr": "NT-467-01",
+        "id": 2833,
+        "lat": 59.3710641,
+        "lng": 10.7923284,
+        "name": "Ipoa As"
+    },
+    {
+        "autnr": "NT-217-66",
+        "id": 2834,
+        "lat": 61.7773498,
+        "lng": 6.21575870000004,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-67",
+        "id": 2836,
+        "lat": 61.7662476,
+        "lng": 5.28630429999998,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-468",
+        "id": 2894,
+        "lat": 60.01310580000001,
+        "lng": 10.103426,
+        "name": "A.K B\u00e5t og Bil AS"
+    },
+    {
+        "autnr": "NT-469-01",
+        "id": 2959,
+        "lat": 58.3040992,
+        "lng": 6.6654066,
+        "name": "Flekkefjord Vgs"
+    },
+    {
+        "autnr": "NT-217-68",
+        "id": 3038,
+        "lat": 58.5560681,
+        "lng": 8.972435,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-69",
+        "id": 3039,
+        "lat": 63.1100655,
+        "lng": 7.7595961,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-70",
+        "id": 3078,
+        "lat": 59.9199957,
+        "lng": 10.6739147,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-154-05",
+        "id": 3183,
+        "lat": 59.9313616,
+        "lng": 10.71402,
+        "name": "SailOn"
+    },
+    {
+        "autnr": "NT-315-55",
+        "id": 3284,
+        "lat": 63.4024591,
+        "lng": 10.3984212,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-473-01",
+        "id": 3373,
+        "lat": 60.3524595,
+        "lng": 5.1872657,
+        "name": "Bergen Kompetansesenter For L\u00e6ringsmilj\u00f8"
+    },
+    {
+        "autnr": "N-999-04",
+        "id": 3395,
+        "lat": 69.727009,
+        "lng": 30.043828,
+        "name": "NorskTest a.s"
+    },
+    {
+        "autnr": "N-730-1",
+        "id": 3405,
+        "lat": 59.2134931,
+        "lng": 10.9365349,
+        "name": "AOF \u00d8stlandet"
+    },
+    {
+        "autnr": "NT-478",
+        "id": 3460,
+        "lat": 67.298166,
+        "lng": 14.3910919,
+        "name": "Nordland Maritime Sikkerhetssenter FKF"
+    },
+    {
+        "autnr": "NT-479-01",
+        "id": 3466,
+        "lat": 58.2448485,
+        "lng": 8.37729,
+        "name": "Lillesand Explorer AS"
+    },
+    {
+        "autnr": "NT-480",
+        "id": 3472,
+        "lat": 69.6797934,
+        "lng": 18.9895836,
+        "name": "Komplettkurs as"
+    },
+    {
+        "autnr": "NT-217-71",
+        "id": 3492,
+        "lat": 60.87582,
+        "lng": 5.5842318,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-482",
+        "id": 3524,
+        "lat": 65.4706596,
+        "lng": 12.1352462,
+        "name": "Campus Bl\u00e5 Kurs og Konferanse"
+    },
+    {
+        "autnr": "NT-217-72",
+        "id": 3609,
+        "lat": 60.5088145,
+        "lng": 5.0770429,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-490",
+        "id": 3650,
+        "lat": 60.47481449999999,
+        "lng": 5.3397275,
+        "name": "Villanger Trafikkskole AS"
+    },
+    {
+        "autnr": "NT-490-01",
+        "id": 3651,
+        "lat": 60.5477559,
+        "lng": 5.2878796,
+        "name": "Villanger Trafikkskole AS"
+    },
+    {
+        "autnr": "NT-491",
+        "id": 3653,
+        "lat": 60.0409143,
+        "lng": 5.5375516,
+        "name": "Tysnes Skule"
+    },
+    {
+        "autnr": "NT-494-01",
+        "id": 3667,
+        "lat": 67.442,
+        "lng": 13.8953,
+        "name": "Skolen i V\u00e6ran"
+    },
+    {
+        "autnr": "NT-471-1",
+        "id": 3673,
+        "lat": 59.41304110221601,
+        "lng": 5.266922869311537,
+        "name": "Haugaland B\u00e5tkompetanse AS"
+    },
+    {
+        "autnr": "NT-321-01",
+        "id": 3688,
+        "lat": 60.3600379,
+        "lng": 5.3521385,
+        "name": "Positiv Trafikkskole AS"
+    },
+    {
+        "autnr": "NT-455-02",
+        "id": 3699,
+        "lat": 59.73999454129448,
+        "lng": 10.201334266864789,
+        "name": "Lanternen kurs/Humlesekken AS"
+    },
+    {
+        "autnr": "NT-148-02",
+        "id": 3701,
+        "lat": 59.89078479999999,
+        "lng": 10.5257737,
+        "name": "Sj\u00f8akademiet AS "
+    },
+    {
+        "autnr": "NT-217-73",
+        "id": 3704,
+        "lat": 58.4745794,
+        "lng": 7.224334199999999,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-213-02",
+        "id": 3712,
+        "lat": 59.9117465,
+        "lng": 10.7234555,
+        "name": "Oslo Seilskole as"
+    },
+    {
+        "autnr": "NT-217-74",
+        "id": 3714,
+        "lat": 59.6690686,
+        "lng": 9.6496067,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-75",
+        "id": 3715,
+        "lat": 59.228146,
+        "lng": 10.9546781,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-217-76",
+        "id": 3716,
+        "lat": 59.1226717,
+        "lng": 10.2329788,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-498",
+        "id": 3720,
+        "lat": 59.832353,
+        "lng": 6.821085399999999,
+        "name": "Bratteteig Aktiv AS"
+    },
+    {
+        "autnr": "NT-217-77",
+        "id": 3729,
+        "lat": 59.57435779999999,
+        "lng": 11.2801881,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-499",
+        "id": 3730,
+        "lat": 58.9681723,
+        "lng": 5.6070521,
+        "name": "Smiodden Skole"
+    },
+    {
+        "autnr": "NT-503",
+        "id": 3759,
+        "lat": 60.0648466,
+        "lng": 6.5399214,
+        "name": "Hardanger Kompetansesenter"
+    },
+    {
+        "autnr": "NT-505",
+        "id": 3779,
+        "lat": 58.9263863,
+        "lng": 5.8462036,
+        "name": "Riska Ungdomsskole"
+    },
+    {
+        "autnr": "NT-508",
+        "id": 3782,
+        "lat": 70.0754475,
+        "lng": 29.7419148,
+        "name": "Maritim Facilitator Norway AS"
+    },
+    {
+        "autnr": "NT-509",
+        "id": 3785,
+        "lat": 59.6754725,
+        "lng": 10.622347,
+        "name": "Vindfangerbukta B\u00e5tforening"
+    },
+    {
+        "autnr": "NT-503-02",
+        "id": 3788,
+        "lat": 59.81542649999999,
+        "lng": 5.2691609,
+        "name": "Hardanger Kompetansesenter"
+    },
+    {
+        "autnr": "NT-048-01",
+        "id": 3794,
+        "lat": 69.9678703,
+        "lng": 19.6261574,
+        "name": "Redningsselskapet, Region Nord Troms\u00f8"
+    },
+    {
+        "autnr": "NT-511-01",
+        "id": 3808,
+        "lat": 60.1769089,
+        "lng": 5.377655,
+        "name": "Askeladden Boats AS"
+    },
+    {
+        "autnr": "NT-513",
+        "id": 3819,
+        "lat": 58.08700649999999,
+        "lng": 6.806863799999999,
+        "name": "Farsund Motorb\u00e5tforening"
+    },
+    {
+        "autnr": "NT-516",
+        "id": 3840,
+        "lat": 58.1481628,
+        "lng": 8.2155284,
+        "name": "H\u00f8v\u00e5g Skole"
+    },
+    {
+        "autnr": "NT-519",
+        "id": 3843,
+        "lat": 58.3341071,
+        "lng": 6.2858312,
+        "name": "Thomsen Consult"
+    },
+    {
+        "autnr": "NT-518",
+        "id": 3849,
+        "lat": 60.3681253,
+        "lng": 6.1278372,
+        "name": "Norcert"
+    },
+    {
+        "autnr": "NT-522",
+        "id": 3875,
+        "lat": 63.6385649,
+        "lng": 8.995527,
+        "name": "HH Kompetanse"
+    },
+    {
+        "autnr": "NT-217-78",
+        "id": 3876,
+        "lat": 78.2209799,
+        "lng": 15.6471584,
+        "name": "Waypoint Maritime AS"
+    },
+    {
+        "autnr": "NT-523",
+        "id": 3879,
+        "lat": 60.27699140000001,
+        "lng": 5.2330103,
+        "name": "Atlantix AS"
+    },
+    {
+        "autnr": "NT-524",
+        "id": 3886,
+        "lat": 59.9015202,
+        "lng": 10.6004476,
+        "name": "Fagervik Invest AS"
+    },
+    {
+        "autnr": "NT-136-02",
+        "id": 3894,
+        "lat": 69.68202078693994,
+        "lng": 18.97776852503663,
+        "name": "Sven Marin Service, Lysaker"
+    },
+    {
+        "autnr": "NT-525",
+        "id": 3928,
+        "lat": 60.3830983,
+        "lng": 5.3266672,
+        "name": "T\u00f8sse Kompetanse"
+    },
+    {
+        "autnr": "NT-526",
+        "id": 3936,
+        "lat": 58.93507489999999,
+        "lng": 5.5780585,
+        "name": "1 Tananger Sj\u00f8speidergruppe"
+    },
+    {
+        "autnr": "NT-527",
+        "id": 3947,
+        "lat": 59.9472347,
+        "lng": 10.6425709,
+        "name": "B\u00e5tf\u00f8rerkurset AS"
+    },
+    {
+        "autnr": "NT-154-07",
+        "id": 3959,
+        "lat": 59.11459360000001,
+        "lng": 9.6870958,
+        "name": "SailOn"
+    },
+    {
+        "autnr": "NT-528",
+        "id": 3960,
+        "lat": 58.25687929999999,
+        "lng": 8.3617645,
+        "name": "Lillesand Ungdomsskole"
+    },
+    {
+        "autnr": "NT-529",
+        "id": 3962,
+        "lat": 58.2296486,
+        "lng": 6.675473800000001,
+        "name": "Jc Syvertsen Maritim Oppl\u00e6ring"
+    },
+    {
+        "autnr": "NT-525-01",
+        "id": 3969,
+        "lat": 60.7999062,
+        "lng": 8.8877782,
+        "name": "T\u00f8sse Kompetanse"
+    },
+    {
+        "autnr": "NT-531",
+        "id": 3976,
+        "lat": 61.90799579999999,
+        "lng": 6.736974399999999,
+        "name": "Stryn Ungdomsskule"
+    },
+    {
+        "autnr": "NT-498-01",
+        "id": 3977,
+        "lat": 59.424449,
+        "lng": 5.449296299999999,
+        "name": "Bratteteig Aktiv AS"
+    },
+    {
+        "autnr": "NT-515-01",
+        "id": 3983,
+        "lat": 58.3462281,
+        "lng": 8.5889328,
+        "name": "Grimstad Ungdomsskole"
+    },
+    {
+        "autnr": "NT-532",
+        "id": 3986,
+        "lat": 59.7384336,
+        "lng": 10.2080852,
+        "name": "B\u00e5tkompetanse AS"
+    },
+    {
+        "autnr": "NT-533",
+        "id": 3992,
+        "lat": 68.12990169999999,
+        "lng": 13.5810898,
+        "name": "Havbruksakademiet Nord"
+    },
+    {
+        "autnr": "NT-534",
+        "id": 3993,
+        "lat": 60.78793399999999,
+        "lng": 4.9381024,
+        "name": "Austrheim Vgs"
+    },
+    {
+        "autnr": "NT-535-01",
+        "id": 3996,
+        "lat": 59.779981498897655,
+        "lng": 5.499346552778608,
+        "name": "Sj\u00f8kompetanse AS"
+    },
+    {
+        "autnr": "NT-535-02",
+        "id": 3997,
+        "lat": 59.78152410000001,
+        "lng": 5.503435899999999,
+        "name": "Sj\u00f8kompetanse AS"
+    },
+    {
+        "autnr": "NT-536",
+        "id": 4000,
+        "lat": 59.484000257718286,
+        "lng": 10.798100518385331,
+        "name": "Viken Kompetanse AS"
+    },
+    {
+        "autnr": "NT-537",
+        "id": 4030,
+        "lat": 59.8094914,
+        "lng": 10.4857394,
+        "name": "Ghostmedia Kurs Og Event AS"
+    },
+    {
+        "autnr": "NT-171-02",
+        "id": 4041,
+        "lat": 58.93086289999999,
+        "lng": 5.8463394,
+        "name": "J\u00e6ren Kystlag"
+    },
+    {
+        "autnr": "NT-538",
+        "id": 4070,
+        "lat": 63.76585060000001,
+        "lng": 9.8195119,
+        "name": "Fosen Vgs"
+    },
+    {
+        "autnr": "NT-539",
+        "id": 4072,
+        "lat": 59.676344,
+        "lng": 10.6058701,
+        "name": "Stiftelsen Soon Sj\u00f8skole"
+    },
+    {
+        "autnr": "NT-540",
+        "id": 4078,
+        "lat": 70.5923249,
+        "lng": 22.3016664,
+        "name": "Hasvik Kommune, Breivikbotn skole"
+    },
+    {
+        "autnr": "NT-541",
+        "id": 4094,
+        "lat": 60.39870639999999,
+        "lng": 5.326226699999999,
+        "name": "Shiptraining"
+    },
+    {
+        "autnr": "NT-542",
+        "id": 4097,
+        "lat": 68.4469543,
+        "lng": 17.4304528,
+        "name": "KleppeHR Jon Runar Kleppe"
+    },
+    {
+        "autnr": "NT-543",
+        "id": 4100,
+        "lat": 58.85348949999999,
+        "lng": 5.7495062,
+        "name": "Vannsprut AS"
+    },
+    {
+        "autnr": "NT-525-04",
+        "id": 4108,
+        "lat": 60.353153,
+        "lng": 5.276759999999999,
+        "name": "T\u00f8sse Kompetanse"
+    },
+    {
+        "autnr": "NT-444-01",
+        "id": 4114,
+        "lat": 66.02301299999999,
+        "lng": 12.6378966,
+        "name": "Torbj\u00f8rn Byberg"
+    },
+    {
+        "autnr": "NT-544-01",
+        "id": 4115,
+        "lat": 58.4771318,
+        "lng": 8.8246532,
+        "name": "KC Trading AS"
+    },
+    {
+        "autnr": "NT-444-02",
+        "id": 4116,
+        "lat": 66.30876239999999,
+        "lng": 14.1391845,
+        "name": "Torbj\u00f8rn Byberg"
+    },
+    {
+        "autnr": "NT-315-56",
+        "id": 4117,
+        "lat": 59.97936029999999,
+        "lng": 11.0002665,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-546",
+        "id": 4146,
+        "lat": 65.0861314,
+        "lng": 12.3680016,
+        "name": "Terr\u00e5k skole"
+    },
+    {
+        "autnr": "NT-547-01",
+        "id": 4150,
+        "lat": 62.47222840000001,
+        "lng": 6.149482,
+        "name": "Nydal Kompetanse ENK"
+    },
+    {
+        "autnr": "NT-548",
+        "id": 4151,
+        "lat": 62.3423391,
+        "lng": 5.850981500000001,
+        "name": "Sunnm\u00f8re Maritime Harald Skarb\u00f8"
+    },
+    {
+        "autnr": "NT-549-01",
+        "id": 4165,
+        "lat": 59.77312949999999,
+        "lng": 5.483434099999999,
+        "name": "Sunnhordaland Trafikkoppl\u00e6ring AS"
+    },
+    {
+        "autnr": "NT-444-03",
+        "id": 4167,
+        "lat": 63.434758596699346,
+        "lng": 10.414502106815323,
+        "name": "Torbj\u00f8rn Byberg"
+    },
+    {
+        "autnr": "NT-444-04",
+        "id": 4168,
+        "lat": 62.67351660000001,
+        "lng": 8.5661121,
+        "name": "Torbj\u00f8rn Byberg"
+    },
+    {
+        "autnr": "NT-444-05",
+        "id": 4170,
+        "lat": 64.3239479,
+        "lng": 10.4536633,
+        "name": "Torbj\u00f8rn Byberg"
+    },
+    {
+        "autnr": "NT-550-01",
+        "id": 4173,
+        "lat": 59.92557170000001,
+        "lng": 10.6763009,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-550-02",
+        "id": 4174,
+        "lat": 64.0238889,
+        "lng": 11.4911111,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-550-03",
+        "id": 4175,
+        "lat": 58.1443738,
+        "lng": 7.992848100000001,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-550-04",
+        "id": 4176,
+        "lat": 60.38788859999999,
+        "lng": 5.327958,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-550-05",
+        "id": 4177,
+        "lat": 63.4347502,
+        "lng": 10.414081,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-455-07",
+        "id": 4179,
+        "lat": 59.92646009999999,
+        "lng": 10.7214874,
+        "name": "Lanternen kurs/Humlesekken AS"
+    },
+    {
+        "autnr": "NT-455-08",
+        "id": 4180,
+        "lat": 59.9094833,
+        "lng": 10.7532056,
+        "name": "Lanternen kurs/Humlesekken AS"
+    },
+    {
+        "autnr": "NT-550-06",
+        "id": 4181,
+        "lat": 59.212894,
+        "lng": 10.939155,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-550-07",
+        "id": 4182,
+        "lat": 58.8703321,
+        "lng": 5.7415983,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-550-08",
+        "id": 4183,
+        "lat": 58.4588823,
+        "lng": 8.7667175,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-551-01",
+        "id": 4184,
+        "lat": 59.5490576,
+        "lng": 10.5641166,
+        "name": "Tofte Ungdomsskole"
+    },
+    {
+        "autnr": "NT-527-02",
+        "id": 4185,
+        "lat": 59.6614598,
+        "lng": 10.6283232,
+        "name": "B\u00e5tf\u00f8rerkurset AS"
+    },
+    {
+        "autnr": "NT-444-06",
+        "id": 4186,
+        "lat": 63.6952857,
+        "lng": 9.6035071,
+        "name": "Torbj\u00f8rn Byberg"
+    },
+    {
+        "autnr": "NT-550-09",
+        "id": 4187,
+        "lat": 59.26809889093979,
+        "lng": 10.404512328207032,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-552",
+        "id": 4191,
+        "lat": 62.4732546,
+        "lng": 6.1535896,
+        "name": "Sj\u00f8tind AS"
+    },
+    {
+        "autnr": "NT-553-01",
+        "id": 4195,
+        "lat": 59.25742279999999,
+        "lng": 6.001424600000001,
+        "name": "Marvik Kompetanse"
+    },
+    {
+        "autnr": "NT-554",
+        "id": 4198,
+        "lat": 62.4237828,
+        "lng": 6.2802542,
+        "name": "JA Kalland Invest"
+    },
+    {
+        "autnr": "NT-550-10",
+        "id": 4199,
+        "lat": 68.7972122,
+        "lng": 16.5456574,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-550-11",
+        "id": 4200,
+        "lat": 59.9553966,
+        "lng": 11.0435229,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-555-01",
+        "id": 4201,
+        "lat": 59.29020240000001,
+        "lng": 10.3468594,
+        "name": "MTK Skolen AS"
+    },
+    {
+        "autnr": "NT-550-13",
+        "id": 4202,
+        "lat": 59.9280583,
+        "lng": 10.6064681,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-315-57",
+        "id": 4203,
+        "lat": 62.47004,
+        "lng": 6.1463551,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-557-01",
+        "id": 4211,
+        "lat": 69.0643084,
+        "lng": 18.5385152,
+        "name": "Akademiet AOF Norge AS Bardufoss"
+    },
+    {
+        "autnr": "NT-556-01",
+        "id": 4212,
+        "lat": 59.8981839,
+        "lng": 10.5240917,
+        "name": "Flyt Kunnskap"
+    },
+    {
+        "autnr": "NT-558",
+        "id": 4215,
+        "lat": 58.9859571,
+        "lng": 5.6909044,
+        "name": "Tastarust\u00e5 skole"
+    },
+    {
+        "autnr": "NT-559",
+        "id": 4216,
+        "lat": 69.9035549,
+        "lng": 24.9994443,
+        "name": "Akademiet AOF Norge AS"
+    },
+    {
+        "autnr": "NT-560",
+        "id": 4218,
+        "lat": 59.0779489,
+        "lng": 10.8708976,
+        "name": "Kalnes vgs"
+    },
+    {
+        "autnr": "NT-561",
+        "id": 4219,
+        "lat": 59.2610706,
+        "lng": 10.4128273,
+        "name": "Loggen Kystlag"
+    },
+    {
+        "autnr": "NT-562",
+        "id": 4223,
+        "lat": 68.7717748,
+        "lng": 16.1760742,
+        "name": "Kv\u00e6fjord R\u00f8de Kors"
+    },
+    {
+        "autnr": "NT-550-14",
+        "id": 4224,
+        "lat": 59.83599197912403,
+        "lng": 10.477547292095934,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-563",
+        "id": 4232,
+        "lat": 59.1252516,
+        "lng": 11.4432228,
+        "name": "Skattejakten AS"
+    },
+    {
+        "autnr": "NT-564",
+        "id": 4233,
+        "lat": 62.14790900000001,
+        "lng": 6.082571499999999,
+        "name": "H\u00f8gskulen I Volda"
+    },
+    {
+        "autnr": "NT-565-01",
+        "id": 4246,
+        "lat": 59.9537094,
+        "lng": 10.9056551,
+        "name": "Wright Trafikkskole"
+    },
+    {
+        "autnr": "NT-566-01",
+        "id": 4268,
+        "lat": 62.76771470000001,
+        "lng": 7.2741523,
+        "name": "Langset Maritime AS"
+    },
+    {
+        "autnr": "NT-566-02",
+        "id": 4272,
+        "lat": 58.4307971,
+        "lng": 8.7485583,
+        "name": "Langset Maritime AS"
+    },
+    {
+        "autnr": "NT-148-03",
+        "id": 4274,
+        "lat": 63.7273107,
+        "lng": 8.8320048,
+        "name": "Sj\u00f8akademiet AS "
+    },
+    {
+        "autnr": "NT-566-03",
+        "id": 4277,
+        "lat": 60.3999761,
+        "lng": 5.3039502,
+        "name": "Langset Maritime AS"
+    },
+    {
+        "autnr": "NT-550-15",
+        "id": 4278,
+        "lat": 64.07715929999999,
+        "lng": 11.2306056,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-567-01",
+        "id": 4279,
+        "lat": 59.90536760000001,
+        "lng": 10.4799575,
+        "name": "B\u00e5tf\u00f8rerpr\u00f8ven Vr AS"
+    },
+    {
+        "autnr": "NT-568-01",
+        "id": 4284,
+        "lat": 60.38319799999999,
+        "lng": 5.3352264,
+        "name": "Laksev\u00e5g og Bergen maritime vgs"
+    },
+    {
+        "autnr": "NT-569",
+        "id": 4286,
+        "lat": 68.7856333,
+        "lng": 16.5422267,
+        "name": "Redningsselskapet"
+    },
+    {
+        "autnr": "NT-550-16",
+        "id": 4296,
+        "lat": 59.9170676,
+        "lng": 10.5894327,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-550-18",
+        "id": 4297,
+        "lat": 59.8599275,
+        "lng": 10.4978003,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-570-01",
+        "id": 4299,
+        "lat": 58.29792719999999,
+        "lng": 6.662914799999999,
+        "name": "Flekkefjord Searaft AS"
+    },
+    {
+        "autnr": "NT-550-17",
+        "id": 4300,
+        "lat": 59.91034560000001,
+        "lng": 10.7472907,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-571",
+        "id": 4303,
+        "lat": 58.14914699999999,
+        "lng": 8.031920399999999,
+        "name": "Maritim Kompetanse S\u00f8rlandet"
+    },
+    {
+        "autnr": "NT-572",
+        "id": 4304,
+        "lat": 66.5024798,
+        "lng": 12.094751,
+        "name": "Hus\u00f8y Skole"
+    },
+    {
+        "autnr": "NT-550-19",
+        "id": 4308,
+        "lat": 69.6481108,
+        "lng": 18.9576181,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-550-20",
+        "id": 4309,
+        "lat": 58.96771219999999,
+        "lng": 5.7273681,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-566-04",
+        "id": 4315,
+        "lat": 69.6437042,
+        "lng": 18.9486154,
+        "name": "Langset Maritime AS"
+    },
+    {
+        "autnr": "NT-154-09",
+        "id": 4318,
+        "lat": 58.760503,
+        "lng": 9.074683499999999,
+        "name": "SailOn"
+    },
+    {
+        "autnr": "NT-148-04",
+        "id": 4323,
+        "lat": 63.4315453,
+        "lng": 10.3739877,
+        "name": "Sj\u00f8akademiet AS "
+    },
+    {
+        "autnr": "NT-490-02",
+        "id": 4328,
+        "lat": 60.7008034,
+        "lng": 4.9285387,
+        "name": "Villanger Trafikkskole AS"
+    },
+    {
+        "autnr": "NT-573",
+        "id": 4332,
+        "lat": 62.4624536,
+        "lng": 6.2928557,
+        "name": "BakRoret AS"
+    },
+    {
+        "autnr": "NT-574-01",
+        "id": 4334,
+        "lat": 62.11187049999999,
+        "lng": 5.3322401,
+        "name": "Stadlandet Skule"
+    },
+    {
+        "autnr": "NT-575",
+        "id": 4335,
+        "lat": 60.34163229999999,
+        "lng": 5.2203104,
+        "name": "KNM Thor Heyerdahl"
+    },
+    {
+        "autnr": "NT-565-02",
+        "id": 4336,
+        "lat": 59.8327613,
+        "lng": 10.4370624,
+        "name": "Wright Trafikkskole"
+    },
+    {
+        "autnr": "NT-550-21",
+        "id": 4337,
+        "lat": 60.26678999999999,
+        "lng": 8.945411,
+        "name": "Kystskolen"
+    },
+    {
+        "autnr": "NT-576-01",
+        "id": 4338,
+        "lat": 64.49508399999999,
+        "lng": 11.1408597,
+        "name": "Statland Vestre"
+    },
+    {
+        "autnr": "NT-444-07",
+        "id": 4340,
+        "lat": 67.28285869999999,
+        "lng": 14.3882657,
+        "name": "Torbj\u00f8rn Byberg"
+    },
+    {
+        "autnr": "NT-565-03",
+        "id": 4341,
+        "lat": 59.2704429,
+        "lng": 10.4108097,
+        "name": "Wright Trafikkskole"
+    },
+    {
+        "autnr": "NT-490-03",
+        "id": 4342,
+        "lat": 60.62088279999999,
+        "lng": 5.173219,
+        "name": "Villanger Trafikkskole AS"
+    },
+    {
+        "autnr": "NT-577",
+        "id": 4344,
+        "lat": 67.1032671,
+        "lng": 15.3941229,
+        "name": "Saltdal Kystlag"
+    },
+    {
+        "autnr": "NT-315-58",
+        "id": 4347,
+        "lat": 59.64418610000001,
+        "lng": 6.3384512,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-578-01",
+        "id": 4348,
+        "lat": 66.0207397,
+        "lng": 12.6272447,
+        "name": "Aspirantes Holding"
+    },
+    {
+        "autnr": "NT-315-59",
+        "id": 4352,
+        "lat": 60.4010157,
+        "lng": 5.7312409,
+        "name": "Wave Kompetanse AS"
+    },
+    {
+        "autnr": "NT-579",
+        "id": 4355,
+        "lat": 58.4450726,
+        "lng": 8.7653234,
+        "name": "His\u00f8y skole"
+    },
+    {
+        "autnr": "NT-580",
+        "id": 4357,
+        "lat": 60.539234,
+        "lng": 5.1754692,
+        "name": "Falke"
+    },
+    {
+        "autnr": "NT-148-05",
+        "id": 4368,
+        "lat": 58.9715372,
+        "lng": 5.74411,
+        "name": "Sj\u00f8akademiet AS "
+    },
+    {
+        "autnr": "NT-565-04",
+        "id": 4378,
+        "lat": 59.9022395,
+        "lng": 10.7555051,
+        "name": "Wright Trafikkskole"
+    },
+    {
+        "autnr": "NT-581-01",
+        "id": 4379,
+        "lat": 62.3167,
+        "lng": 6.9,
+        "name": "Stranda Vidareg\u00e5ande Skule"
+    },
+    {
+        "autnr": "NT-162-02",
+        "id": 4385,
+        "lat": 59.43240290000001,
+        "lng": 10.6680964,
+        "name": "Hansens Dykkekompetanse"
+    },
+    {
+        "autnr": "NT-582",
+        "id": 4389,
+        "lat": 60.3504039,
+        "lng": 5.1593407,
+        "name": "Fjord \u00c6ra"
+    },
+    {
+        "autnr": "NT-583",
+        "id": 4395,
+        "lat": 59.81589629999999,
+        "lng": 5.2712739,
+        "name": "B\u00f8mlo Vgs"
+    },
+    {
+        "autnr": "NT-584",
+        "id": 4397,
+        "lat": 64.4669653,
+        "lng": 11.5078709,
+        "name": "Sj\u00f8sikker AS"
+    },
+    {
+        "autnr": "NT-584-02",
+        "id": 4398,
+        "lat": 63.3994718,
+        "lng": 10.4362765,
+        "name": "Sj\u00f8sikker AS"
+    },
+    {
+        "autnr": "NT-584-03",
+        "id": 4399,
+        "lat": 78.2253231,
+        "lng": 15.6256365,
+        "name": "Sj\u00f8sikker AS"
+    },
+    {
+        "autnr": "NT-584-04",
+        "id": 4400,
+        "lat": 63.1042839,
+        "lng": 7.744859600000001,
+        "name": "Sj\u00f8sikker AS"
+    },
+    {
+        "autnr": "NT-034-02",
+        "id": 4407,
+        "lat": 59.28126899999999,
+        "lng": 5.284195299999999,
+        "name": "Ole Mannes Holding AS/Karm\u00f8y B\u00e5tskole "
+    },
+    {
+        "autnr": "NT-585-01",
+        "id": 4410,
+        "lat": 63.39997289999999,
+        "lng": 9.5019565,
+        "name": "\u00c6gir Maritime Academy AS"
+    },
+    {
+        "autnr": "NT-566-05",
+        "id": 4412,
+        "lat": 62.8270405,
+        "lng": 6.8038069,
+        "name": "Langset Maritime AS"
+    },
+    {
+        "autnr": "NT-586",
+        "id": 4425,
+        "lat": 59.4199807,
+        "lng": 10.6628214,
+        "name": "Moss R\u00f8de Kors"
+    },
+    {
+        "autnr": "NT-587",
+        "id": 4426,
+        "lat": 60.4370661,
+        "lng": 5.3167637,
+        "name": "All In G\u00f8y P\u00e5 Vannet AS"
+    },
+    {
+        "autnr": "NT-548-02",
+        "id": 4428,
+        "lat": 62.4710978,
+        "lng": 6.155816799999999,
+        "name": "Sunnm\u00f8re Maritime Harald Skarb\u00f8"
+    },
+    {
+        "autnr": "NT-588-01",
+        "id": 4429,
+        "lat": 60.03025929999999,
+        "lng": 6.008662,
+        "name": "AFAS 130326-10 AS"
+    },
+    {
+        "autnr": "NT-589-01",
+        "id": 4431,
+        "lat": 68.1455421,
+        "lng": 13.6229382,
+        "name": "Vest-Lofoten Vgs"
+    },
+    {
+        "autnr": "NT-590",
+        "id": 4432,
+        "lat": 59.25349729999999,
+        "lng": 10.4154825,
+        "name": "Sj\u00f8lappen AS"
+    },
+    {
+        "autnr": "NT-590-02",
+        "id": 4433,
+        "lat": 58.09433070000001,
+        "lng": 7.779456799999999,
+        "name": "Sj\u00f8lappen AS"
+    },
+    {
+        "autnr": "NT-590-03",
+        "id": 4434,
+        "lat": 58.1412826,
+        "lng": 8.223326,
+        "name": "Sj\u00f8lappen AS"
+    },
+    {
+        "autnr": "NT-590-04",
+        "id": 4436,
+        "lat": 58.4503394,
+        "lng": 5.997510399999999,
+        "name": "Sj\u00f8lappen AS"
+    },
+    {
+        "autnr": "NT-590-05",
+        "id": 4437,
+        "lat": 68.7974752,
+        "lng": 16.5449627,
+        "name": "Sj\u00f8lappen AS"
+    },
+    {
+        "autnr": "NT-590-06",
+        "id": 4438,
+        "lat": 68.6973352,
+        "lng": 15.4184459,
+        "name": "Sj\u00f8lappen AS"
+    },
+    {
+        "autnr": "NT-590-07",
+        "id": 4439,
+        "lat": 68.30974270000002,
+        "lng": 15.6415023,
+        "name": "Sj\u00f8lappen AS"
+    },
+    {
+        "autnr": "NT-591",
+        "id": 4441,
+        "lat": 59.83545299999999,
+        "lng": 10.429605,
+        "name": "B\u00f8lgetopp AS"
+    }
+];
+            var location_dict = {};
+            all_locations.forEach(loc => location_dict[loc.id] = loc);
+
+            console.log('all_locations: ', all_locations);
+
+            window.tctr_map = new dktestcenter.DkGoogleMaps("#map-canvas", []);
+            dktestcenter.SearchBar(tctr_map.map);
+
+            all_locations.forEach(loc => loc.marker = 'noevent');
+            tctr_map.display_location_markers(Object.values(location_dict));
+
+            // Focus on tctr if clicked, else show entire map
+            if (tctr) {
+                const center = new google.maps.LatLng(tctr.address.lat, tctr.address.lng);
+                tctr_map.map.setCenter(center);
+                tctr_map.map.setZoom(13);
+            } else {
+                tctr_map.map.setZoom(4);
+            }
+
+            //highlighting map and events
+            dk.on(tctr_map, 'hilight-on', autnr => {
+                $('#searchcalendar a').each(function () {
+                    if ($(this).data('loc_autnr') === autnr) {
+                        $("[loc_autnr=" + $(this).data('loc_autnr') + "]").addClass('hilite-cal');
+                    }
+                });
+            });
+
+            dk.on(tctr_map, 'hilight-off', autnr => {
+                $('#searchcalendar a').each(function () {
+                    if ($(this).data('loc_autnr') === autnr) {
+                        $("[loc_autnr=" + $(this).data('loc_autnr') + "]").removeClass('hilite-cal');
+                    }
+                });
+            });
+
+            dk.on(theCalendar, 'hilight-marker-on', autnr => {
+                tctr_map.hilight_map_marker_on(autnr);
+            });
+
+            dk.on(theCalendar, 'hilight-marker-off', autnr => {
+                tctr_map.hilight_map_marker_off(autnr);
+            });
+
+            function set_bounds() {
+                console.log('setting bounds..');
+                const bounds = tctr_map.map.getBounds();
+                // getBounds() is undefined until the map's first idle event;
+                // the calendar can fire 'new-data' before that. The map's
+                // own bounds_changed listener will re-invoke us once ready.
+                if (!bounds) return;
+                const evts = theCalendar.events.filter(e => {
+                    return e.is_vot || bounds.contains(new google.maps.LatLng(e.position.lat, e.position.lng));
+                });
+                theCalendar.setEvents(evts);
+
+                const start = theCalendar.calendar.view.activeStart;
+                const end = theCalendar.calendar.view.activeEnd;
+
+                all_locations.forEach(function (loc) {
+                    tctr_map.set_marker_icon(loc.autnr, 'noevent');
+                });
+
+                const period_events = evts.filter(e => start <= e.event_start._value && e.event_start._value <= end);
+                period_events.forEach(function (e) {
+                    tctr_map.set_marker_icon(location_dict[e.location.id].autnr, 'regular');
+                });
+            }
+
+            dk.on(theCalendar, 'new-data', () => {
+                console.log('new data..');
+                set_bounds();
+            });
+
+            let timer = null;
+            tctr_map.map.addListener('bounds_changed', function () {
+                if (timer) {
+                    clearTimeout(timer);
+                }
+                timer = setTimeout(function () {
+                    set_bounds();
+                }, 500);
+            });
+
+            $('.filterbutton').on('click', function () {
+                var ftype = $(this).data('name');
+                $('.filterbutton').removeClass('active');
+                $(this).addClass('active');
+                theCalendar.set_filter({'type_available': ftype});
+            });
+        });
+    </script>
+
+    </section>
+
+                    </div>
+                </div>
+            
+        </main>
+    
+    
+
+<style>
+    footer div { xoutline: 2px dotted white; }
+
+    @media screen and (max-width: 768px) {
+        body.page > footer.footer,
+        body.home > footer.footer {
+            min-height: 710px;
+        }
+        footer.footer .nt-logo-combined img.u-logo.man {
+            margin-left: 36px;
+        }
+        footer.footer header .nt-logo-combined img.text {
+            margin-left: 30px;
+        }
+        html body.page,
+        html body.home {
+            margin-bottom:710px;
+        }
+    }
+</style>
+<footer class="footer" role="contentinfo">
+
+    <div class="container">
+        
+        
+        
+        
+
+        <div class="spacer row visible-xs-block">&nbsp;</div>
+        <div class="spacer row visible-sm-block">&nbsp;</div>
+        <div class="spacer row visible-md-block">&nbsp;</div>
+        <div class="spacer row visible-lg-block">&nbsp;</div>
+
+        <div class="row">
+            <div class="col-xs-push-1 col-sm-4 col-xs-11 first-col h-card vcard">
+                <header>
+                    <div class="sr-only p-name fn n">Norsk Test as</div>
+                    <div class="nt-logo-combined">
+                        <a class="u-url" href="http://www.norsktest.no">
+                            <img class="u-logo man" src="https://static.datakortet.no/bfpregistration/norsktest-man.svg" alt="Norsk Test logo">
+                            <img class="text"
+                                 src="https://static.datakortet.no/bfpregistration/norsktest-text-white.svg"
+                                 alt="Norsk Test">
+                        </a>
+                    </div>
+                </header>
+
+                
+                    <p class="p-adr h-adr">
+                        <span class="p-street-address sr-only">Storgt. 5</span>
+                        <dk-icon value="map-marker:fw"></dk-icon> <span class="p-postal-code">9917</span> <span class="p-locality">Kirkenes</span>
+                        <span class="p-country-name sr-only">NORGE</span>
+                    </p>
+                    <span>
+                        <dk-icon value="phone:fw"></dk-icon> <a href="tel:78973500" class="p-tel tel">7897 3500</a>
+                    </span>
+                    <p>
+                        <dk-icon value="envelope:fw"></dk-icon>
+                        <a class="u-email email" href="mailto:bat@norsktest.no">bat@norsktest.no</a>
+                    </p>
+                
+            </div>
+
+            <div class="col-xs-push-1 col-sm-7 col-xs-11">
+                <div class="row footer-menu">
+
+                    
+                        
+                            <div class="col-sm-6">
+                                <h4>Kandidatinfo..</h4>
+                                <ul>
+                                    <li>
+                                        <dk-icon value="info-circle:fw"></dk-icon> <a href="/candidate-information/">Kandidatinformasjon</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="video-camera:fw"></dk-icon> <a href="https://static-norsktest.s3.amazonaws.com/video/bfp_202203_no.mp4">Informasjonsvideo</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="question-circle:fw"></dk-icon> <a href="/info/bfp/spørmål-og-svar/">Ofte stilte spørsmål</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="map:fw"></dk-icon> <a href="https://static-norsktest.s3-eu-west-1.amazonaws.com/fup/Skolekart_A_B_C_D.pdf">Kartsamling</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="info-circle:fw"></dk-icon> <a href="/info/bfp/english-info/">Information in English</a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <dk-icon value="globe:fw"></dk-icon>
+                                        <a href="/info/bfp/icc/">
+                                            Internasjonalt båtførersertifikat (ICC)
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="list-ul:fw"></dk-icon>
+                                        <a href="/terms/">
+                                            Salgsbetingelser
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6">
+                                <h4>Testlederinfo..</h4>
+                                <ul>
+                                    <li>
+                                        <a href="/testleder/">
+                                            <dk-icon value="university:fw"></dk-icon> Testledersiden
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="" style="color:#d7d7d7;" href="/start-exam/redirect/">
+                                            <dk-icon value="clock-o:fw"></dk-icon> Start eksamen (testleder)
+                                        </a>
+                                    </li>
+                                    <!-- <li>
+                                        <a class="" href="/info/bfp/start-eksamen/">
+                                            <dk-icon value="folder-open:fw"></dk-icon> Start eksamen ved KID-betaling (midlertidig utilgjengelig)
+                                        </a>
+
+                                    </li> -->
+                                    <!-- <li>
+                                        <a href="https://static.datakortet.no/files/bfp_brukermanual_testleder.pdf">
+                                            <dk-icon value="book:fw"></dk-icon> Brukermanual (testleder)
+                                        </a>
+                                    </li> -->
+                                    
+                                </ul>
+                            </div>
+                        
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="legal">
+        <a href="/cookies.html">Hvordan vi bruker cookies</a>
+        <a href="/privacy-policy.html">Personvernerklæring</a>
+    </div>
+
+</footer>
+
+
+
+    
+    
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    
+            
+
+
+
+
+      
+
+ 
+
+    <div hidden id="dk-cookie-bar" 
+     style="background-color:black;color:white;position:fixed;bottom:0;left:0;right:0;padding-left:2em;padding-top:10px;padding-bottom:10px; z-index: 1;">
+    <p>
+        Norsk Test benytter informasjonskapsler (cookies) slik at vi kan 
+        yte vår service (Norsk Test uses cookies).
+        <a href="/cookies.html" style="text-decoration:none;cursor:pointer;margin:1ex;display:inline-block;background-color:green;color:white;border-radius:5px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">
+            Les&nbsp;mer
+        </a>
+        
+        <a id="dk-cookie-bar-ok-button" style="text-decoration:none;cursor:pointer;margin:1ex;display:inline-block;background-color:green;color:white;border-radius:5px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">
+            OK
+        </a>
+    </p>
+</div>
+<script>
+dk.ready(function () {
+    // vennligst behold denne koden som en enkel enhet.
+    /*
+            § 2-7b Bruk av informasjonskapsler/cookies
+
+        Lagring av opplysninger i brukers kommunikasjonsutstyr, eller å skaffe seg adgang til
+        slike, er ikke tillatt uten at brukeren er informert om hvilke opplysninger som
+        behandles, formålet med behandlingen, hvem som behandler opplysningene, og har
+        samtykket til dette. Første punktum er ikke til hinder for teknisk lagring av eller
+        adgang til opplysninger:
+
+        1. utelukkende for det formål å overføre kommunikasjon i et elektronisk
+           kommunikasjonsnett
+        2. som er nødvendig for å levere en informasjonssamfunnstjeneste etter
+           brukerens uttrykkelige forespørsel.
+
+    */
+    const _dk_accepting_cookies = dk.web.cookie.get('accepting_cookies');
+    window.dk_accepting_cookies = _dk_accepting_cookies === "1";     
+    if (_dk_accepting_cookies === null) {
+        const cookiebar = dk('#dk-cookie-bar');
+        cookiebar.hidden = false;
+        dk.$('#dk-cookie-bar-ok-button').on('click', function () {
+            var expiry = new Date();
+            expiry.setDate(expiry.getDate() + 365);
+
+            dk.web.cookie.set('accepting_cookies', "1", {
+                path: '/',
+                expires: expiry.toUTCString(),
+                samesite: 'Lax',
+            });
+            
+            window.dk_accepting_cookies = true;
+            dk.trigger(window, 'dk-accepting-cookies', true);
+            // window.dispatchEvent(dk_accepting_cookies_event);
+            dk.$('#dk-cookie-bar').fadeOut(300);
+        });
+    }
+});
+</script>
+
+        
+     
+
+
+<script src="https://norsktest.instatus.com/widget/script.js"></script>
+
+
+</body>
+</html>

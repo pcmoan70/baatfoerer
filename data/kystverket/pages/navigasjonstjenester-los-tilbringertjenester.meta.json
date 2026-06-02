@@ -1,0 +1,34 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/los/tilbringertjenester/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Transport av los | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "1d7f6e043d0ae98ad7f7127de4295fc9540322a77ff3f6b583de23356dfbfc6a",
+  "fetched_at": "2026-06-02T11:06:10.213727+00:00",
+  "depth": 2,
+  "text_chars": 2092,
+  "n_links": 129,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-49c40c8e9ad8437f8159b1b963a3fd04-losbording_83-0b5ed33c.jpg",
+      "alt": "Los går om bord på lasteskip via leider"
+    }
+  ],
+  "files": {
+    "html": "pages/navigasjonstjenester-los-tilbringertjenester.html",
+    "text": "pages/navigasjonstjenester-los-tilbringertjenester.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Transport av los",
+      "id": "content-start"
+    }
+  ]
+}

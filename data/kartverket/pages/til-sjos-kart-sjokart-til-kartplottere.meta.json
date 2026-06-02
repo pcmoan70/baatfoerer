@@ -1,0 +1,69 @@
+{
+  "url": "https://www.kartverket.no/til-sjos/kart/sjokart-til-kartplottere",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Sjøkartdata i kartplottarar | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:44 GMT",
+  "checksum_sha256": "edaba1a982d6662de949e09dcbf429435f3943618b75ceb6036cb20435e415b3",
+  "fetched_at": "2026-06-02T11:07:46.764728+00:00",
+  "depth": 2,
+  "text_chars": 1966,
+  "n_links": 50,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-seilbat-gps-adobestock.jpg-3b9cbf77.jpg",
+      "alt": "Mann i seilbåt peker på sjøkart i sin kartplotter. Foto: Adobestock"
+    }
+  ],
+  "files": {
+    "html": "pages/til-sjos-kart-sjokart-til-kartplottere.html",
+    "text": "pages/til-sjos-kart-sjokart-til-kartplottere.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Sjøkart til kartplottarar",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Les mer",
+      "id": "TeaserListBlockProxy-20277"
+    },
+    {
+      "level": 3,
+      "text": "Nautiske publikasjonar",
+      "id": "TeaserListBlockProxy-20277-0"
+    },
+    {
+      "level": 3,
+      "text": "Flo, fjære og vannstand",
+      "id": "TeaserListBlockProxy-20277-1"
+    },
+    {
+      "level": 3,
+      "text": "Bruk sjøkart – få en betre oppleving på sjøen",
+      "id": "TeaserListBlockProxy-20277-2"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

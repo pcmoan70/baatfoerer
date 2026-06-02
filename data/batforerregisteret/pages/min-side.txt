@@ -1,0 +1,9 @@
+Vi har oppdaget at du bruker Internet Explorer (IE). Internett Explorer (IE) er en veldig gammel nettleser (2013) som ikke støtter nåværende web-standarder for sikkerhet og funksjonalitet.
+Dette nettstedet støtter derfor ikke noen Internet Explorer (IE) versjoner.
+Microsoft selv [støtter heller ikke Internet Explorer på sine nye nettsider](https://docs.microsoft.com/en-us/lifecycle/announcements/internet-explorer-11-support-end-dates).
+Vi støtter alle nyere nettlesere.
+Logg inn med mobilen (enklest):
+Send meg et nytt passord på sms.
+Du må ha tilgang til mobilen du brukte når du registrerte deg.
+Send meg et nytt passord på sms.
+Du må ha tilgang til mobilen du brukte når du registrerte deg.

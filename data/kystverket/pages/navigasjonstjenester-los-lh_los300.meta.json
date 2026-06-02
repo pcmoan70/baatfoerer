@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/los/lh_los300/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Lostenesta 300 år | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "20cd632c9825663bfaa1b14529779d7401094480d3cad9aa69275382ab22a24a",
+  "fetched_at": "2026-06-02T11:06:19.677852+00:00",
+  "depth": 2,
+  "text_chars": 799,
+  "n_links": 131,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-los-lh_los300.html",
+    "text": "pages/navigasjonstjenester-los-lh_los300.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Lostenesta 300 år",
+      "id": "content-start"
+    }
+  ]
+}

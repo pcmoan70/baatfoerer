@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/changeDevice",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Fortsett på en annen enhet - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "b65f2a16e8d8b136625fc83ec6c5bf4a92bcfb07998d2d8c046710ec303a031e",
+  "fetched_at": "2026-06-02T11:13:46.730501+00:00",
+  "depth": 1,
+  "text_chars": 282,
+  "n_links": 12,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/changedevice.html",
+    "text": "pages/changedevice.txt"
+  },
+  "anchors": []
+}

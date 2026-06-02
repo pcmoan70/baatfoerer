@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/info",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Info - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "f51c4ef72b099dfe1a4161fd349eb1da09fda77de5a1d1886d41de8b14f0f0a1",
+  "fetched_at": "2026-06-02T11:13:25.195282+00:00",
+  "depth": 1,
+  "text_chars": 1772,
+  "n_links": 17,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/info.html",
+    "text": "pages/info.txt"
+  },
+  "anchors": []
+}

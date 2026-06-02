@@ -1,0 +1,52 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/nyheter",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Nyheter | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:07 GMT",
+  "checksum_sha256": "dd65d313c7aa8fe27afedda1fdd38124b3a95c5318463f74f67e2dddd4651dfe",
+  "fetched_at": "2026-06-02T11:07:11.811322+00:00",
+  "depth": 1,
+  "text_chars": 1383,
+  "n_links": 31,
+  "n_pdf_links": 0,
+  "n_images": 3,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-geodataarbeid-nrl-mp16037292-electric-po-d631847a.jpg",
+      "alt": "Ei høyspentmast og kraftlinjer fotografert fra lufta. Masta står midt i en åker der det vokser grønne spirer, mens det er gule blomster rundt sokkelen til masta."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-kartutsnitt-sognesjoen.png-5efe3723.png",
+      "alt": "Kartutsnitt som ved hjelp av rosa farger viser kvaliteten på dybdedata."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-saltstraumen-kari-thoresen.jpg-5efe3723.jpg",
+      "alt": "Oversiktsbilde av Saltstraumen, med en sterk sjøstrøm som renner mellom holmer og skjær. I forgrunnen skimtes noen personer."
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket-nyheter.html",
+    "text": "pages/om-kartverket-nyheter.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Nyheter",
+      "id": "primarycontent"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

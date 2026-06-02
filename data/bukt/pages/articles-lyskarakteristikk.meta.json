@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/articles/lyskarakteristikk",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Lyskarakteristikk – Hvordan tolke blinkemonstrene? - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "e09efc544956585a993505ad40aa4ca847a72fc1b67564d652534bb79c6fd3bd",
+  "fetched_at": "2026-06-02T11:16:44.038839+00:00",
+  "depth": 2,
+  "text_chars": 3004,
+  "n_links": 40,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/articles-lyskarakteristikk.html",
+    "text": "pages/articles-lyskarakteristikk.txt"
+  },
+  "anchors": []
+}

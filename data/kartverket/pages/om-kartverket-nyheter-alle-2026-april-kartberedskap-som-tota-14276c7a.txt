@@ -1,0 +1,45 @@
+Kartberedskap som en del av totalforsvaret
+Kartverket ivrer for et digitalt totalforsvar, der digital infrastruktur inngår i samfunnets forsvarsevne. Det handler ikke bare om teknologi, men også robusthet og felles situasjonsforståelse – der kart er en fundamental brikke.
+Kart har en nøkkelrolle i kriser. Det dokumenteres av lokale redningsaksjoner som Gjerdrumskredet, regionale katastrofer som flommen Hans og internasjonale konflikter som sabotasjen på Nord Stream-ledningen.
+– Kriser oppstår lokalt, raskt, og de krever beslutninger her og nå. Kart er selve ryggraden i felles situasjonsforståelse når en krise oppstår. De gjør kaos om til noe håndterbart – raskt, presist og på tvers av aktører, framhever kartverkssjef Johnny Welle.
+Da Totalberedskapsmeldingen ble lagt fram, uttalte statsminister Jonas Gahr Støre at vi ikke bare må bli bedre til å håndtere ras og flom. Vi må også forberede oss på sammensatte trusler og krig. I nasjonens forsvarsevne står totalforsvaret sentralt.
+Nord Stream – en vekker fra havdypet
+Sprengingen av Nord Stream flyttet sjøbunnen inn i det nasjonale sikkerhetsbildet. Undersjøisk infrastruktur er ikke lenger kun et teknisk og kommersielt anliggende. Det er en del av den samlede forsvarsevnen.
+– Hendelsen viste tydelig hvor sårbar samfunnskritisk infrastruktur til sjøs er, og hvor avgjørende gode data er for både forebygging og håndtering, sier Welle.
+Samtidig er han betenkt over at data om undersjøisk infrastruktur i dag er spredt mellom offentlige, private og internasjonale aktører, uten å være tilgjengelige og samordnet på tvers. Da blir også beredskapen fragmentert.
+Ny nordisk militær-doktrine
+Med Sveriges og Finlands inntreden i NATO har vi fått et skifte i militær doktrine. Norden har blitt et sammenhengende operasjonsområde. Dette endrer også kravene til informasjons- og kartgrunnlaget. Effektivt mottak av allierte styrker til et nordisk operasjonsområde forutsetter et felles kartgrunnlag som har:
+- Felles referansesystemer for posisjon, høyde og tid
+- Autoritative kart for havner, flyplasser, veier, jernbane og terreng
+- Entydige data om annen kritisk infrastruktur, eiendom og restriksjonsområder
+Kart og geodata er en viktig del av et nordisk totalforsvar. Kartverket samarbeider derfor tett med finske og svenske kollegaer for å standardisere og utvikle nye nordiske kartprodukter.
+Hva Ukraina-krigen lærer oss
+På vegne av Forsvaret samler Kartverket inn et bredt sett av data om samfunnskritisk infrastruktur fra en lang rekke sivile sektorer og etater. Forsvaret bruker informasjonen til å planlegge og gjennomføre operasjoner i et moderne operasjonsmiljø.
+Krigen i Ukraina viser hvordan moderne konflikter kan utspille seg i tettbygde områder. Når strømnett, vannforsyning og kommunikasjon slås ut, rammes ikke bare militære operasjoner, men også sivilbefolkningens evne til å leve, flykte og motta hjelp.
+– Med denne erkjennelsen har Kartverket utviklet nye kartprodukter i tett samarbeid med Forsvaret. Kartene inneholder informasjon om både synlige bygninger, veier, broer og terreng – og det mindre synlige, som kritisk infrastruktur og viktige samfunnsfunksjoner, sier Welle.
+Felles kart i Totalforsvaret
+Samtidig har disse kartdataene stor betydning for det digitale totalforsvaret: Politi, brann- og redningstjeneste, helsevesen og kommunal kriseledelse er førstelinja som håndterer kriser. Sammenstilling av deres data bidrar til et felles situasjonsbilde med bedre koordinering, riktigere prioriteringer og raskere beslutninger.
+– Siden kartene inneholder informasjon om samfunnskritisk infrastruktur, ønsker vi ikke at trusselaktører skal få tilgang til dem. Utfordringa framover er å dele informasjon på en trygg og planlagt måte, samtidig som vi balanserer hva som kan deles og hva som må skjermes. Kartverkets mantra nå er «dele der vi kan, skjerme der vi må», sier Welle og fortsetter:
+– Sammen med Forsvaret inviterer vi derfor aktørene i Totalforsvaret til å vurdere bruk av de nye kartproduktene, samtidig som vi håndterer kartinformasjonen ansvarlig: Vi må unngå at beredskapstiltaket i seg sjøl skaper nye sårbarheter.
+Må bygge digitale broer
+Det finnes i dag gode løsninger på sivil side som sikrer felles situasjonsforståelse på tvers av etater og sektorer. Tilsvarende har Forsvaret robuste og graderte løsninger.
+Utfordringen oppstår i krise når de samme fysiske objektene er relevante både for sivile og militære aktører. Da risikerer vi forsinkelser, misforståelser og redusert handlekraft.
+Skal vi lykkes med et digitalt totalforsvar, må vi bygge bro mellom åpne, sivile dataløsninger og Forsvarets graderte systemer. Dette er en kjerneutfordring i det digitale totalforsvaret.
+Statens graderte plattformer (SGP) kan være en viktig del av løsningen. SGP kobler i dag sammen om lag 200 virksomheter og 13 000 personer i totalforsvaret. SGP er helintegrert med Forsvarets IT-plattformer og kan bli en sentral brobygger på tvers av sektorer og forvaltningsnivåer.
+Med kart som fundament
+Målet må være reell samhandling: et totalforsvar der de riktige aktørene reagerer raskere og mer effektivt når en krise oppstår. Kartverket ønsker derfor å utforske mulighetene og bidra med karttjenester og data inn i disse plattformene.
+– Dette haster. Vi kan ikke vente til krisen er et faktum før samhandlingen fungerer. Et digitalt totalforsvar må bygges i fredstid, gjennom tett samarbeid mellom sivile og militære aktører, poengterer Welle før han avslutter:
+– Gode kart er ikke bare et støtteverktøy. De er selve fundamentet for felles situasjonsforståelse – og en forutsetning for at totalforsvaret fungerer i praksis. Uten dette mister vi tempo og handlekraft når det gjelder som mest.
+[
+](https://www.kartverket.no/geodataarbeid/kartverkets-statusrapport-om-kartdata)
+Statusrapport 2026: Kartdata i en urolig tid
+Kartverkets statusrapport 2026 er skrevet i ei tid der kravene til kartdata skjerpes på grunn av økt geopolitisk uro, raskere beslutningsprosesser og digitale løsninger som vi blir stadig mer avhengige av. Totalforsvarets år skjerper kravene til hvordan kart- og eiendomsdata deles.
+[
+](https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/samarbeidsavtale-mellom-kartverket-og-sgp)
+Styrker totalforsvaret med ny samarbeidsavtale
+Kartverket og Statens graderte plattformtjenester har inngått en samarbeidsavtale om kartdata og utvikling av sikre digitale løsninger. Avtalen skal gjøre det enklere for sivile og militære aktører å dele informasjon og få felles oversikt i kriser.
+[
+](https://www.kartverket.no/om-kartverket/nyheter/alle/2026/april/forsvaret-er-avhengige-av-palitelige-geodata)
+– Forsvaret er avhengige av pålitelige geodata
+All militær aktivitet skjer et sted, enten det handler om navigasjon eller å bygge situasjonsforståelse. Ifølge stabsoffiser Maximilian Leonard Rangel-Halvorssen ved Forsvarets operative hovedkvarter er felles kartgrunnlag essensielt for trygge operasjoner.
+E-posten er sendt

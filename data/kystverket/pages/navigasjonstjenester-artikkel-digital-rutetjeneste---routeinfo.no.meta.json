@@ -1,0 +1,58 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/artikkel-digital-rutetjeneste---routeinfo.no",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "digital rutetjeneste | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "6b6e76238cbb15965e08b6d0270146c7b13b621e57107a7842aa31750d8963e7",
+  "fetched_at": "2026-06-02T11:03:24.323909+00:00",
+  "depth": 1,
+  "text_chars": 9854,
+  "n_links": 155,
+  "n_pdf_links": 1,
+  "n_images": 7,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-46bd70903e664c698399b50ac9ae28cf-rute-skudefjo-185cf944.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-c42a13596a664f2da3ac0d75b7ced96f-anker---lodingen.jpg-08dea819.jpg",
+      "alt": "Skriftlig invitasjon til informasjonsmøter om ankring"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-navigasjon-og-overvakning-routeinfo-fartoy-med--173a9d55.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-fb246ed6cf1642e9be80b8c7f1b2f4bd-primar_rtz.png-08dea819.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-6e609364564540618843c0f79552dfff-liggende-rout-d40f0a7a.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-6e609364564540618843c0f79552dfff-infografikk-r-c5a420f0.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-6e609364564540618843c0f79552dfff-v4-infografik-fe0b5d6c.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/navigasjonstjenester-artikkel-digital-rutetjeneste---routeinfo.no.html",
+    "text": "pages/navigasjonstjenester-artikkel-digital-rutetjeneste---routeinfo.no.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Digital rutetjeneste - routeinfo.no",
+      "id": "content-start"
+    }
+  ]
+}

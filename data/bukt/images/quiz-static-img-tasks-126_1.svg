@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="100"
+   height="100"
+   id="svg8"
+   sodipodi:docname="signalflagg_a.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.70238397"
+     inkscape:cx="14.813063"
+     inkscape:cy="404.4759"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M 0.2072727,0.2072727 H 99.283622 L 74.618171,49.745447 99.283622,99.283622 H 0.2072727 Z"
+     fill="#ffffff"
+     id="path2"
+     style="stroke-width:0.165818" />
+  <path
+     d="M 49.745447,0.2072727 H 99.076349 L 74.410898,49.745447 99.076349,99.283622 H 49.745447 Z"
+     fill="#0000ff"
+     id="path4"
+     style="stroke-width:0.165818" />
+  <path
+     d="M 0.2072727,0.2072727 H 99.283622 L 74.618171,49.745447 99.283622,99.283622 H 0.2072727 Z"
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.414545"
+     id="path6" />
+</svg>

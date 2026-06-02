@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/om-kystverket/forskning-og-utvikling-fou/e-navigasjon-2/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "E-navigasjon | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "e81be57f27681aef3f44de8439b80c77903128052b4ea85c3afe7f3c35ed5733",
+  "fetched_at": "2026-06-02T11:05:49.865458+00:00",
+  "depth": 2,
+  "text_chars": 1395,
+  "n_links": 147,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kystverket-forskning-og-utvikling-fou-e-navigasjon-2.html",
+    "text": "pages/om-kystverket-forskning-og-utvikling-fou-e-navigasjon-2.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "E-navigasjon",
+      "id": "content-start"
+    }
+  ]
+}

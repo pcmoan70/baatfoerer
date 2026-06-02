@@ -1,0 +1,47 @@
+Bestill tilsyn
+Hopp til innhold
+Skjemaet kan også brukes ved bestilling av ISM/ISPS-revisjoner og verifikasjoner på fartøy.
+Fra 1. april 2025 vil årlig tilsyn av passasjersertifikat (PS) gjøres som fjerntilsyn.
+Selve tilsynet vil bli gjort via en videokonferanseløsning. I svarbrevet på begjæringen vil det være informasjon om gjennomføringen.
+Tilsynet begjæres som før, med «KS – 0115 Begjæring om tilsyn (elektronisk skjema)».
+Den nye ordningen omfatter ikke årlig tilsyn med dokking og utvidet inspeksjon 2./3. årsdag og fornyelse (5år), disse utføres fortsatt med fysisk tilsyn.
+Skal du begjære ISM-revisjon eller verifikasjon av rederiet, må du fortsatt bruke [det manuelle skjemaet KS-0834B.](https://www.sdir.no/skjemakatalog/begjaring-om-revisjon-og-verifikasjon/) Bruk samme skjema når det begjæres tilsyn av servicestasjon for oppblåsbart redningsutstyr.
+-
+Rederiet skal sende begjæring om tilsyn så snart som mulig når et skip eller en flyttbar innretning:
+- er avtalt bygget
+- skal ha utstedt eller opprettholdt sertifikat
+- skal ha tilsyn for arbeids- og levevilkår (MLC-tilsyn) uten utstedelse av sertifikat
+- ved havari, skade eller mangler
+- skal få eller har fått utført endringer av skrog, arrangement, maskineri, utstyr og andre komponenter
+- får slettet sin klasse i anerkjent klassifikasjonsselskap
+- overføres til et norsk skipsregister.
+-
+Bestillingen sendes til Sjøfartsdirektoratet på elektronisk skjema, unntatt i følgende tilfeller:
+- Når tilsynsmyndigheten er delegert til
+[anerkjent klasseselskap](https://www.sdir.no/naringsfartoy/tilsyn/klasseselskap/), sendes egen bestilling til klasseselskapet. - Når det gjelder radiotilsyn, sendes egen bestilling til
+[godkjent radioinspeksjonsforetak.](https://www.sdir.no/naringsfartoy/tilsyn/radioinspeksjonsforetak/) - år det gjelder tilsyn av elektrisk anlegg på lasteskip, lektere og fiskefartøy uten klasse i anerkjent klassifikasjonsselskap og på passasjerskip, sendes egen bestilling til
+[Direktoratet for samfunnssikkerhet og beredskap (DSB).](https://www.dsb.no/lover/elektriske-anlegg-og-elektrisk-utstyr/)
+- Når tilsynsmyndigheten er delegert til
+-
+For sertifikatinspeksjoner skal begjæringen sendes inn så snart som mulig før ønsket tilsynsdato.
+Sjøfartsdirektoratet garanterer at tilsynet kan utføres til ønsket dato når bestillingen mottas senest 14 dager før denne datoen.
+For revisjoner skal bestillingen sendes inn senest 3 måneder før ønsket dato for revisjon/verifikasjon.
+Rederiets egenkontroll
+Denne egenkontrollen kal sendes inn for skip med sertifikat for oljevernberedskap.
+Utfylt skjema kan legges til som vedlegg til begjæringen, eller sendes inn på e-post med referanse til begjæringen som er sendt inn.
+Sjøfartsdirektoratets sjekklister for risikobasert tilsyn er gjort tilgjengelig som et hjelpemiddel for næringen, [se siden om risikobasert tilsyn.](https://www.sdir.no/naringsfartoy/tilsyn/risikobasert-tilsyn/)
+Rederiets og skipsførers ansvar for å holde skip i forsvarlig stand følger av Skipssikkerhetsloven.
+Veiledning – hvordan bestille tilsyn
+- Velg skjema KS-0115B "Begjær tilsyn på fartøy"
+- Logg deg på med f.eks. MinID eller BankID.
+- Velg riktig aktør når du skal begjære på vegne av et rederi.
+Har du ikke tilgang til å begjære for rederiet må du kontakte en person i rederiet som har tilgang til rollene «Tilgangsstyring» og «Samferdsel» i Altinn.[Veiledning for å administrere rettigheter finnes i Altinn.](https://info.altinn.no/hjelp/profil/enkelttjenester-og-roller/hvordan-gi-en-enkelttjeneste-og-rolle-til-andre/) - Velg riktig fartøy
+- Fartøyet finner du under «Mine fartøy» når du har valgt riktig rederi.
+- Bruk «Fartøysøk» hvis du ikke finner fartøyet.
+- Registrer tilsynet du skal begjære.Merk: Dersom det kun er behov for et tilsyn som ikke er knyttet til et sertifikat, så trenger man ikke å foreta et valg i nedtrekksmenyen «Velg sertifikat»
+- Registrer kontaktinformasjon og eventuelle kommentarer
+- Trykk på knappen «Legg til begjæring klar til innsending» nederst på siden.
+Merk: Du kan begjære flere tilsyn på samme fartøy (lage en begjæringspakke) før du sender begjæringene inn til Sjøfartsdirektoratet. - Last opp vedlegg, hvis det er relevant
+- Trykk på knappen "Send alle begjæringer inn til Sjøfartsdirektoratet" når du har registrert alle begjæringene.
+Merk: Begjæringen blir ikke sendt inn før du har trykket på denne knappen. - Begjæringen(e) som du har sendt inn får tildelt et referansenummer (AR nr.)
+Dette referansenummeret er søkbart i offentlig postjournal og i «Min meldingsboks» i Altinn under «Arkivert».

@@ -1,0 +1,70 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/los/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Los | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "96d8bd74c8d36914da8d8d9b13e52af8e8c16977a744f224fafcfb5c047d5319",
+  "fetched_at": "2026-06-02T11:03:03.612665+00:00",
+  "depth": 1,
+  "text_chars": 4185,
+  "n_links": 149,
+  "n_pdf_links": 0,
+  "n_images": 10,
+  "images": [
+    {
+      "file": "kystverket\\images\\globalassets-ikoner-tjenester-se-losbestilling.svg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-ikoner-tjenester-avgiftskalkulator.svg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-08100f8d0980439b88c11bc5eb939c7e-losaspiranter-e179c273.jpg",
+      "alt": "Losaspiranter om bord losbåt"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-d511eeff79e84ec3a6878089c892299c-amerikansk-ha-20ddd555.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-20211203_100151.jpg-08dea819.jpg",
+      "alt": "Statslos Karl Helge Haagensen var med da nye digitale verktøy ble testet i Tjeldsundet."
+    },
+    {
+      "file": "kystverket\\images\\contentassets-49c40c8e9ad8437f8159b1b963a3fd04-losbording_83-6dd051a6.jpg",
+      "alt": "Los går om bord på lasteskip via leider"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-94fecbb89e844029a00f260ca17208e9-pa-losoppdrag-630ff727.jpg",
+      "alt": "Losoppdrag i Rekefjord"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-2cbe052d908a489084925451ed8136af-gamle-oksoy_f-76090e00.jpg",
+      "alt": "Fartøyet Gamle Oksøy under seilas"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-9be19d221f924b7997887d57278cf16c-norsk-loskart.png",
+      "alt": "Kart over lostjenesten"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-bfd026e9d9d6491f8e118b895117ff4a-norske-losstasjoner-besk.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/navigasjonstjenester-los.html",
+    "text": "pages/navigasjonstjenester-los.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Los",
+      "id": "content-start"
+    }
+  ]
+}

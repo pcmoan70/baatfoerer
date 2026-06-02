@@ -1,0 +1,80 @@
+{
+  "url": "https://bukt.no/articles",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Artikler - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "d83048b6a65035c0603ab5bf6a68ff499a0a89d9ec317879e9cf8f71124f489a",
+  "fetched_at": "2026-06-02T11:13:45.600293+00:00",
+  "depth": 1,
+  "text_chars": 2531,
+  "n_links": 25,
+  "n_pdf_links": 0,
+  "n_images": 14,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-person_test.png",
+      "alt": "Bilde av en person som tar prøve"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-forsikring.png",
+      "alt": "Bilde av forsikringspapirer"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-fyrlykt.jpg",
+      "alt": "Bilde av ei fyrlykt"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-ce_merke.svg",
+      "alt": "Bilde av CE-merke"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-baat.png",
+      "alt": "Bilde av en båt"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-kardinalmerke.png",
+      "alt": "Bilde av et kardinalmerke"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-sos.jpg",
+      "alt": "Bilde av livbøye, SOS"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-lateralmerke.png",
+      "alt": "Bilde av livbøye, SOS"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-lyskarakter_kart.png",
+      "alt": "Lyskarakteristikk"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-tasks-409.svg",
+      "alt": "Værpil"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-pensum.png",
+      "alt": "Bok som illustrerer pensum"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-sjokartet_index.png",
+      "alt": "Værpil"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-vikeplikt.svg",
+      "alt": "Værpil"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-spoersmaal_og_svar.png",
+      "alt": "Spørsmål og svar"
+    }
+  ],
+  "files": {
+    "html": "pages/articles.html",
+    "text": "pages/articles.txt"
+  },
+  "anchors": []
+}

@@ -1,0 +1,70 @@
+{
+  "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/flytende-merker/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Flytende merker - beskrivelser | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "9c1fad5b3143b9c3512fd9df9cf3573645b69aa4b81fc21c91d339c042d9ab51",
+  "fetched_at": "2026-06-02T11:04:55.850347+00:00",
+  "depth": 2,
+  "text_chars": 860,
+  "n_links": 132,
+  "n_pdf_links": 1,
+  "n_images": 10,
+  "images": [
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3ace3ec8.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3531b831.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-2ab44bb4.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a67ae32f.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-e495ce75.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-fc2c9bd2.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a4eee04b.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-1436d7ea.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-9db6004e.png",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-ab0cc6eb.png",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sjovegen-fyr-lykter-og-sjomerker-flytende-merker.html",
+    "text": "pages/sjovegen-fyr-lykter-og-sjomerker-flytende-merker.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Flytende merker - beskrivelser",
+      "id": "content-start"
+    }
+  ]
+}

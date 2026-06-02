@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/tasks/83/answers/markCorrect",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oppgave 20 - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "b02a3ae6b35e90ba3498e40eedd6a952ea478aee597692b5d33b801047cf0170",
+  "fetched_at": "2026-06-02T11:16:56.048815+00:00",
+  "depth": 2,
+  "text_chars": 438,
+  "n_links": 12,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/tasks-83-answers-markcorrect.html",
+    "text": "pages/tasks-83-answers-markcorrect.txt"
+  },
+  "anchors": []
+}

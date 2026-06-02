@@ -1,0 +1,126 @@
+[16](/tasks/16) |
+Hvilken maks bølgehøyde er båter med CE-merking kategori C beregnet for? |
+|
+[17](/tasks/17) |
+Hvilken maks vindstyrke er båter med CE-merking kategori C beregnet for? |
+|
+[40](/tasks/40) |
+Hvor lang båt kan du føre hvis du har båtførerbevis? |
+|
+[92](/tasks/92) |
+Hvilken CE-kategori gjelder for havgående fartøy? |
+|
+[93](/tasks/93) |
+Hvilken CE-kategori gjelder for utaskjærs/offshore, fartøy som kan gå utenfor kystlinjen og tåle en vindstyrke opp til 20,7 meter per sekund? |
+|
+[94](/tasks/94) |
+Hvilken CE-kategori gjelder for innaskjærs fartøy som kan tåle en vindstyrke opp til 13,8 meter per sekund? |
+|
+[95](/tasks/95) |
+Hvilken CE-kategori gjelder for fartøy som kun kan gå i beskyttet farvann? |
+|
+[96](/tasks/96) |
+Hvilken maks bølgehøyde er båter med CE-merking kategori B beregnet for? |
+|
+[97](/tasks/97) |
+Hvilken maks vindstyrke er båter med CE-merking kategori B beregnet for? |
+|
+[98](/tasks/98) |
+Hvilken maks bølgehøyde er båter med CE-merking kategori D beregnet for? |
+|
+[99](/tasks/99) |
+Hvilken maks vindstyrke er båter med CE-merking kategori D beregnet for? |
+|
+[103](/tasks/103) |
+Hva er vanligste grunn til at en dieselmotor stopper? |
+|
+[128](/tasks/128) |
+Hva er fribord? |
+|
+[141](/tasks/141) |
+Hva kalles skrogtypen der båten ligger dypt i vannet? |
+|
+[142](/tasks/142) |
+Hvilke av skrogtypene har lengst stoppdistanse? |
+|
+[143](/tasks/143) |
+Hvilken skrogtype er vanligst for hurtiggående fritidsbåter? |
+|
+[144](/tasks/144) |
+Når er dødmannsknapp påkrevd? |
+|
+[219](/tasks/219) |
+Hva kalles det når baugen ligger lengre nede i vannet enn akterenden? |
+|
+[220](/tasks/220) |
+Hva kalles det når akterenden ligger lengre nede i vannet enn baugen? |
+|
+[221](/tasks/221) |
+Hva menes med "trim"? |
+|
+[222](/tasks/222) |
+Hvordan kan du gjøre båten mer stabil? |
+|
+[223](/tasks/223) |
+Hvilken informasjon finner du i CE-merkingen? |
+|
+[244](/tasks/244) |
+Hvor er styrbord låring? |
+|
+[253](/tasks/253) |
+Hva kalles "høyre" til sjøs? |
+|
+[254](/tasks/254) |
+Hvor stor er sektoren til akterlanternen? |
+|
+[255](/tasks/255) |
+Hvor stor er sektoren til den grønne lanternen? |
+|
+[256](/tasks/256) |
+Hvor stor er sektoren til den røde lanternen? |
+|
+[257](/tasks/257) |
+Hvor stor er sektoren til topplanternen? |
+|
+[259](/tasks/259) |
+Hvordan sjekker du at det er nok olje på båten? |
+|
+[329](/tasks/329) |
+Hvilken oppgave har drivstoffilteret? |
+|
+[346](/tasks/346) |
+Hva er en deplacementbåt? |
+|
+[352](/tasks/352) |
+Det er påkrevd at båter produsert etter 16. juni 1998 med lengde mellom 2,5 og 24 meter er CE-merket med... |
+|
+[399](/tasks/399) |
+Hva betyr det at båten er rank? |
+|
+[401](/tasks/401) |
+Hvilken luktfri giftig gass kan dannes ved ufullstendig brenning av fosilt materiale blant annet i båtmotorer? |
+|
+[402](/tasks/402) |
+Hvilke utstyr for lydsignaler kreves for en 14 meter lang båt? |
+|
+[406](/tasks/406) |
+En småbåt er enhver flytende innretning som er beregnet på og i stand til å bevege seg på vann, og som har en største lengde på inntil... |
+|
+[416](/tasks/416) |
+Fritidsbåter er båter som ikke benyttes i næringsvirksomhet, og som er kortere enn... |
+|
+[422](/tasks/422) |
+Båter under ___ meter kan føre én rundtlysende lanterne med hvitt ubrutt lys i stedet for topplanterne og akterlanterne. |
+|
+[428](/tasks/428) |
+Hva kan skje hvis båten får negativ stabilitet? |
+|
+[430](/tasks/430) |
+Når skal lanternene være tent nar man er underveis? |
+|
+[431](/tasks/431) |
+Hva menes med "fokk" på en seilbåt? |
+|
+[432](/tasks/432) |
+Hvor dype er områder med blå bakgrunn i sjøkartet? |
+|

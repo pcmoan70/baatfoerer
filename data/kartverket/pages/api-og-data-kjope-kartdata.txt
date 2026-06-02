@@ -1,0 +1,17 @@
+Kjøpe kartdata
+Ønskjer du kartdata som ikkje er gratis, kan du sende oss ein e-post dersom det gjeld djupnedata eller sjørelaterte data. Gjeld det landbaserte data, må du kontakte ein av forhandlarane våre.
+Merk at mykje av Kartverkets data er gratis. Unntaket er grovt sett ortofoto og dei mest detaljerte kartdataa. Sjå kva for data vi har på [API og data-sida vår.](https://www.kartverket.no/api-og-data)
+Ønskjer du å kjøpe eit ferdig, trykt kart, kan du [bestille kartet her.](https://www.kartverket.no/sider/bestille-kart)
+Til havs
+Djupnedata og terrengmodellar av havbotnen er gratis [tilgjengeleg for nedlasting og gjennom API](https://www.kartverket.no/api-og-data/terrengdata). Detaljerte djupnedata må kjøpast. Dersom du ønskjer dette, kan du kontakte sjødivisjonen vår på e-post [sjo@kartverket.no](mailto:sjo@kartverket.no).
+Til lands
+Ortofoto og detaljerte kartdata for landjorda i større målestokkar enn 1: 50 000 (FKB-data, inkludert laserdata) kan kjøpast direkte frå den aktuelle kommunen eller frå ein av forhandlarane nedanfor.
+[Ambita AS](http://www.infoland.no/)[Arkeoplan AS](https://www.arkeoplan.no/)[Asplan Viak AS](http://www.asplanviak.no/)[Field Group AS](https://field.group)[Cappelen Damm AS](http://www.cappelendamm.no/)[Cowi AS](https://www.cowi.no/)[Dr. Techn Olav Olsen](http://www.olavolsen.no/)[Emap as](http://www.emap.no/)[Geodata AS](http://www.geodata.no/)[Kartfirma Anders Fossøy](https://kartfossoy.com/)[Luxsave AS](http://luxsave.com/luxsave/)[Mapping Industries AB](http://www.mappingindustries.com/)[Mesterkart](http://www.mesterkart.no/)[NGI – Stiftelsen Norges Geotekniske Institutt](https://www.ngi.no/)[Norconsult](http://www.nois.no/?did=9078675)- Nordeca AS
+[Norgeskart AS](https://norgeskart.net/#5/64.273/17.754/land)[Norkart AS](http://www.norkart.no/)- Prokart AS
+[Rambøll](https://www.ramboll.com/no-no)[Rejlers](https://rejlers.no/)[Scalgo Development APS](http://scalgo.com/)[Smallworld Systems](http://www.smallworld.no/)- Smartlab Hvaler AS
+[Spacemaker AS](https://spacemaker.ai/)
+Interessert i å vere forhandlar?
+Kontakt oss på e-post post@kartverket.no om du er interessert i å bli forhandlar av produkta våre.
+Noreg digitalt Utvida tilgang som Noreg digitalt-medlem
+Medlemar i Noreg digitalt har eigne ordningar med gratis tilgang til fleire og meir detaljerte data. Les meir om [Noreg digitalt og krav for å bli medlem (Geonorge).](https://www.geonorge.no/kartdata/tilgang-og-passord)
+E-posten er sendt

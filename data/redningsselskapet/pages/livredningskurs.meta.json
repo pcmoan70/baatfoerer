@@ -1,0 +1,39 @@
+{
+  "url": "https://rs.no/livredningskurs/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Livredningskurs - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c468897048406f6055da2e43e34a243de7b7fc7aa6f11f09bdb28e4a906ccd15",
+  "fetched_at": "2026-06-02T11:11:42.637912+00:00",
+  "depth": 2,
+  "text_chars": 1313,
+  "n_links": 117,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2017-04-kim_hagen_bertheussen_rs-150x150.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/livredningskurs.html",
+    "text": "pages/livredningskurs.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Livredningskurs",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Livredning ute",
+      "id": "video"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/sjovettreglene/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Sjøvettreglene - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "f681262a0c0c6ae4591a150378108b05dc6feb5fb579dfc12bfd6d3379a0445f",
+  "fetched_at": "2026-06-02T11:09:27.624469+00:00",
+  "depth": 0,
+  "text_chars": 1394,
+  "n_links": 117,
+  "n_pdf_links": 2,
+  "n_images": 15,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-05-microsoftteams-image__2_-1024x683.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2017-01-munkholm_radler_web.jpeg",
+      "alt": "Munkholm-logo"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-sjovettregler_plakat1_radler1-724x1024.webp",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-sjovettregler_plakat2_radler2-724x1024.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-02-innhentende_motorba-cc-8at-1024x668.jpg",
+      "alt": "Vik for båter fra styrbord : Når to motorbåter styrer kurser som skjærer hverandre og det er fare for sammenstøt, skal den som kommer fra babord vike for den som kommer fra styrbord."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2023-05-rs-redningsvest-2-e1743752414271.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-07-forstehjelpsputens_innhold.jpg",
+      "alt": "Førstehjelpspute og utstyr. Blant annet saks, gasbind, enkeltmannspakke, plaster, branngele etc"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-01-sjomerke_blindleia.jpg",
+      "alt": "Sjømerke i blindleia. Armen på sjømerket peker alltid mot trygt farvann.FOTO: Mads H. Randøy"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-ik.svg",
+      "alt": "Redningsselskapet på Innsamlingskontrollen"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-facebook.svg",
+      "alt": "Redningsselskapet på Facebook"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-flickr.svg",
+      "alt": "Redningsselskapet på"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-vimeo.svg",
+      "alt": "Redningsselskapet på"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-youtube.svg",
+      "alt": "Redningsselskapet på"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-instagram.svg",
+      "alt": "Redningsselskapet på"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-social-snapchat.svg",
+      "alt": "Redningsselskapet på"
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-sjovettreglene.html",
+    "text": "pages/sikker-til-sjos-sjovettreglene.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Sjøvettreglene",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/til-kursholdere/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Til kursholdere - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c32b4f6f97d68a1100e9e61eba8b66c9db46b495633c3c8626db2f76ab922d63",
+  "fetched_at": "2026-06-02T10:57:19.995384+00:00",
+  "depth": 2,
+  "text_chars": 3179,
+  "n_links": 32,
+  "n_pdf_links": 2,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-sertifikater-batforerbevis-til-kursholdere.html",
+    "text": "pages/fritidsbat-sertifikater-batforerbevis-til-kursholdere.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Til kursholdere",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Hopp til innhold",
+      "id": "content-anchors"
+    },
+    {
+      "level": 2,
+      "text": "Tilbakemeldinger båtførerprøven",
+      "id": "main-text-content"
+    }
+  ]
+}

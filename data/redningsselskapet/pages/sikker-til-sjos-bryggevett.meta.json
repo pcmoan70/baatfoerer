@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/bryggevett/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Bryggevett - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c38d4d9b97b0b878bf7879456949609009ac6013c9835765f91bb1ccb6e4b8e7",
+  "fetched_at": "2026-06-02T11:11:50.447249+00:00",
+  "depth": 2,
+  "text_chars": 1856,
+  "n_links": 115,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-01-hold_hodet_kaldt.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-bryggevett.html",
+    "text": "pages/sikker-til-sjos-bryggevett.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Bryggevett – små grep som redder liv",
+      "id": "main-content"
+    }
+  ]
+}

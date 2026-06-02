@@ -1,0 +1,44 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-nordland/norge-digitalt-nordland/norge-digitalt-fagsamling-nordland-2026",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Norge digitalt-fagsamling Nordland 2026",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "9dfb305f082b8aa54b6253b3ff3779f7b10a2caae2c181a15f726264dc7d3cee",
+  "fetched_at": "2026-06-02T11:08:38.881392+00:00",
+  "depth": 2,
+  "text_chars": 2590,
+  "n_links": 40,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-nordland-norge--d3064310.html",
+    "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-nordland-norge--d3064310.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Norge digitalt fagsamling 2026",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

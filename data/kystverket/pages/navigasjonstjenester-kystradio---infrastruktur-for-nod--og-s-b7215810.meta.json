@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/kystradio---infrastruktur-for-nod--og-sikkerhetskommunikasjon/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Kystradio - infrastruktur for nød- og sikkerhetskommunikasjon | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "e507171900c630983636992ddb8ca4d53f73f6a2886a5c6c12ea422396804985",
+  "fetched_at": "2026-06-02T11:03:28.534980+00:00",
+  "depth": 1,
+  "text_chars": 687,
+  "n_links": 130,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-kystradio---infrastruktur-for-nod--og-s-b7215810.html",
+    "text": "pages/navigasjonstjenester-kystradio---infrastruktur-for-nod--og-s-b7215810.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kystradio - infrastruktur for nød- og sikkerhetskommunikasjon",
+      "id": "content-start"
+    }
+  ]
+}

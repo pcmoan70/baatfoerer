@@ -1,0 +1,48 @@
+{
+  "url": "https://www.lanternenkurs.no/category/batforernytt/",
+  "site": "lanternenkurs",
+  "source_id": "lanternenkurs",
+  "title": "Båtførernytt - Lanternen",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "9a30f18c68d71b4dfa31162614f19d29e99a764ef1e220e95437b6ad0348a79a",
+  "fetched_at": "2026-06-02T11:18:24.982364+00:00",
+  "depth": 1,
+  "text_chars": 349,
+  "n_links": 59,
+  "n_pdf_links": 0,
+  "n_images": 6,
+  "images": [
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-sjofugl-scaled.jpeg",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-04-regatta-freesafe-location-girl-cropped-scaled.jpg",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-kruser.jpeg",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-sjomerke_blindleia-1.jpg",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-pexels-photo-1841709-min.jpeg",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2019-03-lee05542.jpg",
+      "alt": "Hvem omkommer på sjøen"
+    }
+  ],
+  "files": {
+    "html": "pages/category-batforernytt.html",
+    "text": "pages/category-batforernytt.txt"
+  },
+  "anchors": []
+}

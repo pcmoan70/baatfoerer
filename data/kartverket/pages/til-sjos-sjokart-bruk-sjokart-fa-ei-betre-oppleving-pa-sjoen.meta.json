@@ -1,0 +1,74 @@
+{
+  "url": "https://www.kartverket.no/til-sjos/sjokart/bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Bruk sjøkart – få ei betre oppleving på sjøen | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:56 GMT",
+  "checksum_sha256": "9925d13c320f14085fcfc760d30efaf1f2d8b8d03b812b6b2c824b066a9ec05f",
+  "fetched_at": "2026-06-02T11:07:59.225191+00:00",
+  "depth": 2,
+  "text_chars": 5430,
+  "n_links": 62,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-hero.jpg-3b9cbf77.jpg",
+      "alt": "Mann styrer motorbåt mens dame sjekker sjøkartet. Foto: Kartverket"
+    }
+  ],
+  "files": {
+    "html": "pages/til-sjos-sjokart-bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen.html",
+    "text": "pages/til-sjos-sjokart-bruk-sjokart-fa-ei-betre-oppleving-pa-sjoen.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Bruk sjøkart – få ei betre oppleving på sjøen",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Nyttig",
+      "id": "TeaserListBlockProxy-15598"
+    },
+    {
+      "level": 3,
+      "text": "Den norske los",
+      "id": "TeaserListBlockProxy-15598-0"
+    },
+    {
+      "level": 3,
+      "text": "Flod, fjære og vasstand",
+      "id": "TeaserListBlockProxy-15598-1"
+    },
+    {
+      "level": 3,
+      "text": "Skulekart",
+      "id": "TeaserListBlockProxy-15598-2"
+    },
+    {
+      "level": 2,
+      "text": "Snarvegar",
+      "id": "LinkListBlockProxy-15594"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

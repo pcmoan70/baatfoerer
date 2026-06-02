@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/ulykkesstatistikk/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Ulykkesstatistikk - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "2c007396baabe0036f1c9f90863f84973fff5431ef0ba7aa2f59b2d159162b1b",
+  "fetched_at": "2026-06-02T10:56:51.414667+00:00",
+  "depth": 2,
+  "text_chars": 558,
+  "n_links": 27,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/ulykker-risiko-og-sikkerhet-ulykkesstatistikk.html",
+    "text": "pages/ulykker-risiko-og-sikkerhet-ulykkesstatistikk.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Ulykkesstatistikk",
+      "id": "main-content"
+    }
+  ]
+}

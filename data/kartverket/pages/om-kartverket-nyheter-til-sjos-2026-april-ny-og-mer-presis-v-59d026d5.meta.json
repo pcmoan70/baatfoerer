@@ -1,0 +1,62 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-og-mer-presis-vannstandsmodell-for-saltstraumen",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Ny vannstandsmodell for Saltstraumen | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:26 GMT",
+  "checksum_sha256": "172e895a1bf6d0fb648f1b3a578217dbd699141d8e37d2e8ebc513f5051230a0",
+  "fetched_at": "2026-06-02T11:08:30.460725+00:00",
+  "depth": 2,
+  "text_chars": 2346,
+  "n_links": 38,
+  "n_pdf_links": 0,
+  "n_images": 3,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-saltstraumen-kari-thoresen.jpg-cb0df5e4.jpg",
+      "alt": "Saltstraumen i Bod&oslash; i Nordland, sett fra oven."
+    },
+    {
+      "file": "kartverket\\images\\contentassets-a595e51263f3465d92517f53e2644834-saltstraumeni-34b6d264.jpg",
+      "alt": "Graf som viser vannstandsm&aring;linger fra Bod&oslash; og Naurstad og hvordan floa kommer senere innenfor Saltstraumen, og at forskjellen mellom flo og fj&aelig;re er mindre."
+    },
+    {
+      "file": "kartverket\\images\\contentassets-a595e51263f3465d92517f53e2644834-vannstandsmod-8885ddb4.jpg",
+      "alt": "Kartusnitt av Skjerstadfjorden hvor permanent vannstandsm&aring;ler i Bod&oslash; er markert, samt omr&aring;dene Naurstad, Oldereid og Rognan hvor Kartverket har m&aring;lt vannstanden i perioden 2024&ndash;2025."
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket-nyheter-til-sjos-2026-april-ny-og-mer-presis-v-59d026d5.html",
+    "text": "pages/om-kartverket-nyheter-til-sjos-2026-april-ny-og-mer-presis-v-59d026d5.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Ny og mer presis vannstandsmodell for Saltstraumen",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Kontakt",
+      "id": "ContactListBlockProxy-148866"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

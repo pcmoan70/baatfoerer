@@ -1,0 +1,44 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/kategori/barn-i-bat/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Barn i båt Arkiver - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "930eb2a1bcc9638bbe355d82c852c4d5d2ed1bf44530233a6b5e29a91919b67f",
+  "fetched_at": "2026-06-02T11:11:40.256549+00:00",
+  "depth": 1,
+  "text_chars": 1480,
+  "n_links": 146,
+  "n_pdf_links": 0,
+  "n_images": 5,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2018-07-barn-i-ba-t.jpg",
+      "alt": "Bildet viser en mor med barn ombord i en båt."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2017-05-barnivest1.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-hrl_barn1920x718.jpg",
+      "alt": "Hjerte og lungerednings på småbarn."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-baby_svomming_sorthvitt.jpg",
+      "alt": "Bildet viser babysvømming."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-b9a6fbfc-b2b1-495a-8230-738e3b41dc39.jpeg",
+      "alt": "Barn og baby på båttur"
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-kategori-barn-i-bat.html",
+    "text": "pages/sikker-til-sjos-kategori-barn-i-bat.txt"
+  },
+  "anchors": []
+}

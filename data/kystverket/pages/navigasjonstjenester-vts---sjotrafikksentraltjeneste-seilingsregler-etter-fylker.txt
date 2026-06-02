@@ -1,0 +1,15 @@
+Seilingsregler i norsk økonomisk sone (TSS)
+Fartøy i internasjonal trafikk som kan representere en høy miljørisiko må følge rutetiltak som fører disse fartøyene lenger ut fra kysten.
+Rutetiltak som er etablert i norsk økonomisk sone er utarbeidet av Kystverket, og godkjent av FNs maritime sjøfartsorganisasjon, IMO. Norge har i dag ett rutesystem bestående av trafikkseparasjonssystem og tilhørende anbefalte seilingsrute på strekningene:
+- Vardø - Træna (trådte i kraft i 2007)
+- Halten - Utsira (trådte i kraft i 2011)
+- Egersund - Risør (trådte i kraft i 2011)
+IMO-godkjente trafikkseparasjonssystemer i norske farvann er tatt inn i [sjøtrafikkforskriftens kapittel 4](https://lovdata.no/dokument/SF/forskrift/2021-02-10-523#KAPITTEL_4)
+Kystverket forebygger ulykker på sjøen primært gjennom maritime tjenester som sjømerker, lostjeneste og trafikkovervåkning. Et annet viktig sjøsikkerhetstiltak er å utvikle og etablere seilingsregler i norske kyst- og havområder.
+Rutesystemet er et risikoreduserende tiltak som gir norske myndigheter bedre responstid dersom en uønsket situasjon skulle skje. Bedre responstid og en større avstand fra kysten vil også bidra til å redusere konsekvensene av et eventuelt oljesøl om en ulykke skulle skje.
+Rutetiltak gjelder for følgende kategorier fartøy:
+- oljetankfartøy som definert i MARPOL 73/78, vedlegg I
+- kjemikalietankfartøy som transporterer skadelige flytende stoffer i bulk når stoffene er vurdert eller foreløpig vurdert som Kategori X eller Y i henhold til MARPOL 73/78, vedlegg II,
+- fartøy som fører radioaktive stoffer som definert i den internasjonale koden for sikker transport av bestrålt nukleært brensel, plutonium og sterkt radioaktivt avfall i beholdere (INF-koden)
+- atomdrevne fartøy, og
+- fartøy på 5 000 brutto tonn og mer

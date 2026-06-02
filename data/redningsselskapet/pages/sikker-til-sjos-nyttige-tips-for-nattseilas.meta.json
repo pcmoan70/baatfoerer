@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/nyttige-tips-for-nattseilas/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Nyttige tips for nattseilas - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "bafc94a213337e03986ff14271518acf4df240251a4353a54a102c6a3082223b",
+  "fetched_at": "2026-06-02T11:12:34.325155+00:00",
+  "depth": 2,
+  "text_chars": 5299,
+  "n_links": 125,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-nyttige-tips-for-nattseilas.html",
+    "text": "pages/sikker-til-sjos-nyttige-tips-for-nattseilas.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "På sjøen i mørket",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

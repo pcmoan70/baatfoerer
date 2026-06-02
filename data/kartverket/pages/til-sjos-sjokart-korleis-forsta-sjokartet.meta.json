@@ -1,0 +1,44 @@
+{
+  "url": "https://www.kartverket.no/til-sjos/sjokart/korleis-forsta-sjokartet",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Korleis forstå sjøkartet | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:10 GMT",
+  "checksum_sha256": "916d46d96af0220f27aea6e658fdf5b1ddead74f36f0a506538fda66f660f011",
+  "fetched_at": "2026-06-02T11:08:11.368534+00:00",
+  "depth": 2,
+  "text_chars": 3307,
+  "n_links": 38,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/til-sjos-sjokart-korleis-forsta-sjokartet.html",
+    "text": "pages/til-sjos-sjokart-korleis-forsta-sjokartet.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Korleis forstå sjøkartet",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

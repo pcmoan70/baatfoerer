@@ -1,0 +1,29 @@
+{
+  "url": "https://xn--btfrerregisteret-dob85a.no/tctr-search/",
+  "site": "batforerregisteret",
+  "source_id": "batforerregisteret",
+  "title": "Finn testsenter",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "W/\"63f4327ae43ec6f619942b17bd632793\"",
+  "last_modified": null,
+  "checksum_sha256": "c747e4d5ad4bd1545568008c1c50b5e6395990e7b626a47a14ad0a0d77741fec",
+  "fetched_at": "2026-06-02T10:57:28.851792+00:00",
+  "depth": 1,
+  "text_chars": 552,
+  "n_links": 16,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/tctr-search.html",
+    "text": "pages/tctr-search.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Finn et testsenter nær deg",
+      "id": "body"
+    }
+  ]
+}

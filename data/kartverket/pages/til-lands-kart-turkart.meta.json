@@ -1,0 +1,73 @@
+{
+  "url": "https://www.kartverket.no/til-lands/kart/turkart",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Lag ditt eget turkart | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:04:29 GMT",
+  "checksum_sha256": "e0c7e219029aa47a8577cc6de912b6c88b92ea8a146fc316b69869a785443b55",
+  "fetched_at": "2026-06-02T11:07:49.874183+00:00",
+  "depth": 2,
+  "text_chars": 2371,
+  "n_links": 39,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-lands-foto-turkart-img_0269.jpg-3b9cbf77.jpg",
+      "alt": "Kvinne på tur med utskrift av \"Mitt turkart\". Foto: Hanna Hauan"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-lands-foto-turkart-kompass-og-turkar-e4e55741.jpg",
+      "alt": "Kart og kompass med på tur"
+    }
+  ],
+  "files": {
+    "html": "pages/til-lands-kart-turkart.html",
+    "text": "pages/til-lands-kart-turkart.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Turkart",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Les mer",
+      "id": "TeaserListBlockProxy-5362"
+    },
+    {
+      "level": 3,
+      "text": "Kartverket avslutter kartappen «Hvor?»",
+      "id": "TeaserListBlockProxy-5362-0"
+    },
+    {
+      "level": 3,
+      "text": "Rett i kartet og lag turkart",
+      "id": "TeaserListBlockProxy-5362-1"
+    },
+    {
+      "level": 3,
+      "text": "Lag din eigen nødplakat",
+      "id": "TeaserListBlockProxy-5362-2"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

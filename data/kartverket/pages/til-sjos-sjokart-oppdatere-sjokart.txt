@@ -1,0 +1,52 @@
+Korleis oppdatere sjøkart?
+Du kan sjølv halde sjøkarta dine oppdatert ved hjelp av Etterretninger for sjøfarende (Efs). Efs-tenesta er gratis, og sikkerheitskritiske oppdateringar og rettingar til sjøkart frå Kartverket blir publisert kvar fjortande dag.
+Eit sjøkart er oppdatert når alle rettingar som gjeld kartet er påført.
+Søk etter kartrettingar
+I Efs-tenesta på kartverket.no/efs kan du søke på ynskja kartnummer. Du kan avgrense søke ditt til å:
+- Vise meldingar frå siste Efs-utgåve
+- Meldingar sidan sist besøk
+- Alle meldingar knytt til det aktuelle sjøkartet sidan det blei utgjeve
+- Frå vald dato eller periode
+Søkeresultatet vil gje deg ei liste over aktuelle rettingar knytt til ditt kart.
+Rettingar til sjøkart Etterretninger for sjøfarende
+Etterretninger for sjøfarende (Efs) utgjev oppdateringar og rettingar til sjøkart kvar fjortande dag.
+Efs-tenesta gjev deg også:
+- Oversikt med trykkedatoar for sjøkart
+- Arkiv med Efs-utgåver
+Forskjellige typar meldingar i Efs
+Det blir publisert ulike type meldingar i Etterretninger for sjøfarende (Efs):
+- Meldingar om trykking av kart og nautiske publikasjonar
+- Permanente, midlertidige og foreløpige endringar
+- Åtvaringar
+- Anna relevant informasjon
+Permanente sjøkartendringar
+Permanente sjøkartendringar er meldingar som omhandlar varige endringar som er vurdert å vere av sikkerheitsmessig verdi.
+Permanente endringar kan vere:
+- Nye grunnar
+- Etablering og forandring i fyrbelysning
+- Faste og flytande sjømerke
+- Nye eller endra undervasskablar og røyrleidningar
+- Luftspenn
+- Vrak eller hefte som kan vere til hinder for fiske og skipsfart etc.
+Foreløpige meldingar (P-melding)
+Foreløpige meldingar er kunngjeringar av planlagde aktivitetar. Etter at planlagde aktivitetar er utført vil det kome ei ny melding om permanent sjøkartendring. P er ei forkorting for "Preliminary".
+P-meldingar kan vere:
+- Planlagde nye fyr og lykter
+- Planlagd byggeaktivitet
+- Mudring
+- Opplysningar om eventuelle påbod og forordningar om seilas i bestemte område etc.
+Midlertidige meldingar (T-melding)
+Midlertidige meldingar blir brukt når endringa berre er gyldig for ein avgrensa periode. T er ei forkorting for "Temporary".
+T-meldingar kan vere:
+- Lys og sjømerke som midlertidig er ute av drift
+- Etablering av havbruk
+- Byggeaktivitet
+- Flytting av rigg
+- Åtvaring og skyteøving
+- Seismikkundersøking
+- Prelegging av anker
+- Melding om skyteøving etc.
+- Forskjellige beskjeder
+"Forskjellige meddelelser" (Miscellaneous) referer ikkje til konkrete kart, men inneheld informasjon om andre forhold som kan vere viktig for sjøfarande. Det kan til dømes vere informasjon om reglar og forskrifter og trykkedato for sjøkart. Desse beskjedane finn du i handboka "Generell informasjon til Efs".
+Etterretninger for sjøfarende (Efs) gjeld norske sjøkart. Andre land sine sjøkart skal rettast ut frå meldingar i dette landet sin Notices to Mariners, og ikkje Etterretninger for sjøfarende.
+E-posten er sendt

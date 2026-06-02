@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/los/utkast-helsekrav-for-loser/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Helsekrav for loser | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "44ea843ce0abef535728e0d67a3aadc0a23049a68e9f08db8fb723b273e8ac8f",
+  "fetched_at": "2026-06-02T11:06:02.959841+00:00",
+  "depth": 2,
+  "text_chars": 1215,
+  "n_links": 138,
+  "n_pdf_links": 5,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-los-utkast-helsekrav-for-loser.html",
+    "text": "pages/navigasjonstjenester-los-utkast-helsekrav-for-loser.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Helsekrav for loser",
+      "id": "content-start"
+    }
+  ]
+}

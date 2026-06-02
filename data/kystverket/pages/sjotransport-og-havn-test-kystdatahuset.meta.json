@@ -1,0 +1,38 @@
+{
+  "url": "https://www.kystverket.no/sjotransport-og-havn/test-kystdatahuset/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "kystdatahuset | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "adb9449e5a6f06d2dfde106490ea0fc9ffb33d3acf44b216904b3b439e65fdf3",
+  "fetched_at": "2026-06-02T11:03:32.778922+00:00",
+  "depth": 1,
+  "text_chars": 3840,
+  "n_links": 135,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-datakatalog.svg",
+      "alt": "Kystdatahuset"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-9fd4b54b6045413889a7ac34ea091a6d-illustrasjon--1bb9bc36.jpg",
+      "alt": "kystdatahuset-infografikk-1.jpg"
+    }
+  ],
+  "files": {
+    "html": "pages/sjotransport-og-havn-test-kystdatahuset.html",
+    "text": "pages/sjotransport-og-havn-test-kystdatahuset.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kystdatahuset",
+      "id": "content-start"
+    }
+  ]
+}

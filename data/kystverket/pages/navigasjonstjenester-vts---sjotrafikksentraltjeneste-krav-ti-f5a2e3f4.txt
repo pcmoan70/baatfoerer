@@ -1,0 +1,8 @@
+Fartøy må ha tillatelse fra sjøtrafikksentralen før det bruker tjenesteområdet.
+Begrepet "bruker" omfatter:
+- Fartøy som seiler inn i et tjenesteområde
+- Fartøy som settes i bevegelse i et tjenesteområde
+- Fartøy som ankrer
+- Fartøy som vil gjøre endringer i seilasen i forhold til det som er bestemt av eller avtalt med sjøtrafikksentralen, herunder stopp underveis
+Søknad om tillatelse til å bruke sjøtrafikksentralens tjenesteområde skal formidles på sjøtrafikksentralens VHF-kanal før innseiling i tjenesteområdet eller før avgang fra kai eller ankringsplass i tjenesteområdet. Søknaden skal inneholde fartøyets internasjonale kjenningssignal, navn og planlagt seilingsrute. Søknad fra fartøy med større lengde enn 100 meter, eller fra fartøy med farlig eller forurensende last, skal formidles minst en time før antatt avgang.
+Fartøy som sleper eller skyver et fartøy som har tillatelse til bruk av tjenesteområdet, trenger ikke egen tillatelse.

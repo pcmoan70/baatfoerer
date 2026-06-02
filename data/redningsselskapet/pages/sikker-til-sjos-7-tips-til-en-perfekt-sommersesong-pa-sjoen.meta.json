@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/7-tips-til-en-perfekt-sommersesong-pa-sjoen/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "7 tips til en perfekt sommersesong på sjøen - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "553cb7134c44cf2d91865e837fcc8593e200aed3810859b00c045cd47c726bcc",
+  "fetched_at": "2026-06-02T11:12:29.966017+00:00",
+  "depth": 2,
+  "text_chars": 4333,
+  "n_links": 126,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-7-tips-til-en-perfekt-sommersesong-pa-sjoen.html",
+    "text": "pages/sikker-til-sjos-7-tips-til-en-perfekt-sommersesong-pa-sjoen.txt"
+  },
+  "anchors": [
+    {
+      "level": 2,
+      "text": "7 tips til en perfekt sommersesong på sjøen",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

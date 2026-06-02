@@ -1,0 +1,701 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+
+<html lang="no" class="no-js  bs3 " dir="ltr">
+<head>
+    <!-- admindash/html5.html -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+    
+    <link rel="icon" sizes="any" href="https://static.datakortet.no/bfpregistration/norsktest-man.svg">
+    
+
+    <title>Spørsmål og svar</title>
+
+    <script>  
+        // var dk_accepting_cookies_event = new Event('accepting-cookies');
+        window.dk_accepting_cookies = (function () {
+            let result;
+            return (result = new RegExp('(?:^|; )accepting_cookies=([^;]*)').exec(document.cookie)) ? result[1] === '1' : false;
+        })();
+    </script>
+    
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-2743103-7"></script>
+    <script>
+    if (1 || window.dk_accepting_cookies) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-2743103-7', {cookie_flags: 'SameSite=None;Secure'});
+    }
+    </script>
+    
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B8WEC6WT3L"></script>
+    <script>
+    if (1 || window.dk_accepting_cookies) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-B8WEC6WT3L', {cookie_flags: 'SameSite=None;Secure'});
+    }
+    </script>
+    
+  
+
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="320">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.datakortet.no/logo/svg/norsktest-man-180.png">
+    <!-- enable full-screen mode (only when launched from home screen) -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- controls the appearance of the status bar in full-screen mode -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+
+    
+
+<!-- datadog rum tag -->
+ 
+<script>
+  if (window.dk_accepting_cookies) {
+    (function(h,o,u,n,d) {
+      h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+      d=o.createElement(u);d.async=1;d.src=n
+      n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+    })(window,document,'script','https://www.datadoghq-browser-agent.com/datadog-rum-v4.js','DD_RUM')
+    DD_RUM.onReady(function() {
+      DD_RUM.init({
+        clientToken: 'pub22e870f4b665b4c3518c6726f6362b26',
+        applicationId: 'da5623fd-48e1-416f-a732-c01aec58deec',
+        site: 'datadoghq.com',
+        service: 'batforerregisteret-django',
+        env: 'prod',
+        
+        // Specify a version number to identify the deployed version of your application in Datadog 
+        // version: '1.0.0',
+        sessionSampleRate: 100,
+        sessionReplaySampleRate: 100,
+        trackInteractions: true,
+        trackResources: true,
+        trackLongTask: true,
+        trackFrustrations: true,
+        defaultPrivacyLevel: 'allow',
+        // enableExperimentalFeatures: ['feature_flags'],
+      });
+  
+      DD_RUM.startSessionReplayRecording();
+    })
+  }
+  </script>
+
+
+
+    
+    <!-- admindash/bootstrap3.html -->
+    <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+    
+    
+    
+    
+    
+    
+        
+
+
+
+<link rel="stylesheet" href="https://static.datakortet.no/font/fa470/css/font-awesome.css">
+
+
+<script crossorigin="anonymous" src="https://www.unpkg.com/@webcomponents/webcomponentsjs@2.2.6/webcomponents-bundle.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-migrate-3.0.1.min.js" integrity="sha256-F0O1TmEa4I8N24nY0bya59eP6svWcshqX1uzwaWC4F4=" crossorigin="anonymous"></script>
+<script src="https://js.pusher.com/7.0/pusher.min.js"></script>
+
+
+    
+
+    <script DEBUG LOGLEVEL="3" ICONS="fa4"  src="https://static.datakortet.no/dkdj/js/dkdj.min.js"></script>
+
+    
+
+
+
+      
+
+          
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;subset=latin" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata&amp;subset=latin" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://static.datakortet.no/font/norsktest/style.css">
+    <style> * { font-family: 'Open Sans', sans-serif; } </style>
+    <style>
+        #ie-not-supported p + p {margin-top:15px;}
+        #ie-not-supported a { color:white !important; text-decoration: underline !important;}
+    </style>
+          
+              
+
+    
+    
+<!-- bfpregistration -->
+
+    
+
+
+
+<!-- bfpregistration (prod) -->
+
+    <script src="https://static.datakortet.no/bfpregistration/js/bfpregistration.9ed5ecf105fd9bcd78f4.min.js"></script>
+    <link rel="stylesheet" href="https://static.datakortet.no/bfpregistration/css/bfpregistration.a38e28d1d6480b602591.css" type="text/css">
+<!-- /bfpregistration (prod) -->
+
+
+<!-- /bfpregistration -->
+
+    
+<!-- dkforms -->
+
+    
+
+
+
+<!-- dkforms (prod) -->
+
+    <script src="https://static.datakortet.no/dkforms/js/dkforms.7fccc11af31822564929.min.js"></script>
+    <link rel="stylesheet" href="https://static.datakortet.no/dkforms/css/dkforms.870b08d08ac55a4af79e.css" type="text/css">
+<!-- /dkforms (prod) -->
+
+
+<!-- /dkforms -->
+
+           
+    
+    <!-- Start of norsktesthelp Zendesk Widget script -->
+    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=a6988e6a-3744-4d9b-82e7-26dcf2112720"> </script>
+    <!-- End of norsktesthelp Zendesk Widget script -->
+           
+
+    
+            
+    
+    
+              
+                
+
+    
+ 
+    
+  
+    
+                
+    
+    <meta name="random" content="c^=">
+</head>
+<body  id='body' class="bfp page" name="">
+ 
+
+    
+    
+    
+
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="navbar-brand"><a href="/">Båtførerregisteret</a></div>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                
+                    
+                
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right member-actions">
+                
+                    
+                        <li><a title="min side" href="/min-side/" class="login-btn">
+                            <dk-icon value="key:lg"></dk-icon>&nbsp;Logg inn
+                        </a></li>
+                    
+                
+            </ul>
+        </div>
+        <!--/.navbar-collapse -->
+    </div>
+</nav>
+
+
+    <header class="branding">
+        <a href="#main" class="sr-only">gå til innhold</a>
+        <div class="container">
+            <a class="batforerregisteret" href="/">
+                <h1 class="batforerregisteret shadowed">Båtfører&shy;registeret</h1>
+            </a>
+        </div>
+    </header>
+
+    
+
+    
+        <main id="main" class="container">
+            
+
+
+            
+                <div id="site_content" class="row">
+                    <div class="col-xs-12">
+                        
+    
+    <div>
+      
+      <h1>Spørsmål og svar</h1>
+
+    
+    
+
+
+
+        <style>
+            section.faq { counter-reset:totfax; }
+            section.faq ol ol li { list-style: decimal outside none; }
+            section.faq ol ol { margin-top:6px; margin-bottom:14px; }
+            section.faq h3:before {
+               counter-increment:totfax;
+               content:"" counter(totfax) ". ";
+            }
+            section.faq .questions { counter-reset:faq; }
+            section.faq .question { font-weight:bold; margin-top:18px; }
+            section.faq .question:before { 
+               counter-increment: faq;
+               content:counter(totfax) "." counter(faq); 
+            }
+            section.faq .answer { margin:7px 14px; }
+            section.faq a[name]:hover { text-decoration:none; }
+        </style>
+    
+
+
+
+<section class="faq">
+  
+
+  <div class="faq-index">
+    <ol>
+      
+         <li><a href="#1">Generell informasjon</a>
+	   <ol>
+	      <li> <a href="#1.1"> Er båtførerprøven obligatorisk? </a> </li>
+	      <li> <a href="#1.2"> Hvor kan jeg avlegge båtførerprøven? </a> </li>
+	      <li> <a href="#1.3"> Hvor stor båt kan jeg føre med båtførerbeviset? </a> </li>
+	      <li> <a href="#1.4"> Hvor gammel må jeg være for å avlegge båtførerprøven? </a> </li>
+	      <li> <a href="#1.5"> Hvilke regler gjelder for å føre en fritidsbåt? </a> </li>
+	   </ol>
+	 </li>
+      
+         <li><a href="#2">Om eksamen</a>
+	   <ol>
+	      <li> <a href="#2.1"> Hva er pensum? </a> </li>
+	      <li> <a href="#2.2"> Kan jeg ta det som privatist? </a> </li>
+	      <li> <a href="#2.3"> Hvilke bøker kan jeg bruke for opplæringen? </a> </li>
+	      <li> <a href="#2.4"> Hva koster båtførerprøven? </a> </li>
+	      <li> <a href="#2.5"> Hva lærer jeg ved å ta båtførerprøven? </a> </li>
+	      <li> <a href="#2.6"> Hvor finner jeg lovverket om båtførerprøven og fritidsbåter? </a> </li>
+	      <li> <a href="#2.7"> Hva er kravet til bestått båtførerprøve? </a> </li>
+	   </ol>
+	 </li>
+      
+         <li><a href="#3">Om båtførerbeviset</a>
+	   <ol>
+	      <li> <a href="#3.1"> Når mottar jeg mitt båtførerbevis? </a> </li>
+	      <li> <a href="#3.2"> Jeg trenger engelsk tekst på båtførerbeviset. Hva gjør jeg? </a> </li>
+	      <li> <a href="#3.3"> Jeg har mistet båtførerbeviset. Hva gjør jeg? </a> </li>
+	   </ol>
+	 </li>
+      
+         <li><a href="#4">Annet</a>
+	   <ol>
+	      <li> <a href="#4.1"> Hvor store bildefiler kan jeg sende på epost? </a> </li>
+	   </ol>
+	 </li>
+      
+    </ol>
+  </div>
+
+  <hr>
+
+  
+    <section class="faq-section">
+      <h3><a name="1">Generell informasjon</a></h3>
+      
+      <dl class="questions">
+	
+	   <dt class="question"><a name="1.1"> Er båtførerprøven obligatorisk? </a></dt>
+	   <dd class="answer"> Bestått båtførerprøve er obligatorisk for alle som er født 1.1.1980 eller
+    senere og skal føre båt over 25 hk, eller 8 meter. Ved bestått båtførerprøve mottar du båtførerbeviset.</dd>
+	
+	   <dt class="question"><a name="1.2"> Hvor kan jeg avlegge båtførerprøven? </a></dt>
+	   <dd class="answer"> Båtførerprøven kan avlegges på ett av våre testsenter landet rundt. Du kan søke i <a class="internal" href="/tctr-search/">testsenterlisten</a> for å finne et
+    testsenter nær deg.</dd>
+	
+	   <dt class="question"><a name="1.3"> Hvor stor båt kan jeg føre med båtførerbeviset? </a></dt>
+	   <dd class="answer"> Du kan føre fritidsbåt inntil 15 meter. Hvis du er usikker på om du
+    har lov til å føre en båt, skal du kontakte Sjøfartsdirektoratet for
+    nærmere veiledning angående sertifkatkrav til fritidsbåter.</dd>
+	
+	   <dt class="question"><a name="1.4"> Hvor gammel må jeg være for å avlegge båtførerprøven? </a></dt>
+	   <dd class="answer"> Fra 1. mai 2009 må du ha fylt 14 år før du kan avlegge båtførerprøven.
+    Du vil da få utstedt ditt båtførerbevis når du fyller 16 år.</dd>
+	
+	   <dt class="question"><a name="1.5"> Hvilke regler gjelder for å føre en fritidsbåt? </a></dt>
+	   <dd class="answer"> Du må ha fylt 16 år dersom du skal føre en fritidsbåt med en
+    motorytelse over 10 hk eller som er lengre enn 8 meter. Hvis båten er over 8 meter
+    eller over 25 hk må du ha båtførerbevis hvis du er født etter
+    1.1.1980.  For å føre fritidsbåt over 15 meter, må du ha minimum fritidsbåtskippersertifikat.
+    Les mer om fritidsskippersertifikat her: <a href="https://www.sdir.no/fritidsbat/sertifikater/fritidsskippersertifikat/">Fritidsskippersertifikat</a>,
+    eller kontakt <a href="mailto:post@sdir.no">post@sdir.no</a>
+    for regler om Fritidsskippersertifikat.</dd>
+	
+      </dl>
+    </section>
+  
+    <section class="faq-section">
+      <h3><a name="2">Om eksamen</a></h3>
+      
+      <dl class="questions">
+	
+	   <dt class="question"><a name="2.1"> Hva er pensum? </a></dt>
+	   <dd class="answer"> <a href="https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/" target="_blank">Pensum til båtførerprøven</a>
+    innholder krav til kurs og innhold i båtførerkurs.</dd>
+	
+	   <dt class="question"><a name="2.2"> Kan jeg ta det som privatist? </a></dt>
+	   <dd class="answer"> Ja, ta kontakt med et av våre godkjente <a class="internal" href="/tctr-search/">testsentere</a> for å avtale tidspunkt.</dd>
+	
+	   <dt class="question"><a name="2.3"> Hvilke bøker kan jeg bruke for opplæringen? </a></dt>
+	   <dd class="answer"> <a class="internal" href="/info/bfp/b&oslash;ker/">Her</a> finner du et utvalg av bøker og nettbaserte kurs som kan benyttes til opplæring før avleggelse av båtførerprøven.</dd>
+	
+	   <dt class="question"><a name="2.4"> Hva koster båtførerprøven? </a></dt>
+	   <dd class="answer"> Fra 1. januar  2026 koster det 940 kr. for båtførerprøven. Hvis du ikke består ved første forsøk, koster de neste prøveforsøkene 495 kr. per forsøk.</dd>
+	
+	   <dt class="question"><a name="2.5"> Hva lærer jeg ved å ta båtførerprøven? </a></dt>
+	   <dd class="answer"> Gjennom båtførerprøven får du en innføring i navigasjon og bruk av
+    navigasjonsinstrumenter. Du lærer om lanterner, nødsignal og sjøens
+    trafikkregler. Videre får du en innføring i sjømannskap, sikker bruk
+    av båt og håndtering av nødsituasjoner.</dd>
+	
+	   <dt class="question"><a name="2.6"> Hvor finner jeg lovverket om båtførerprøven og fritidsbåter? </a></dt>
+	   <dd class="answer"> <a class="external" href="http://www.lovdata.no/ltavd1/filer/sf-20090303-0259.html#7">Lovteksten i sin helhet</a>.</dd>
+	
+	   <dt class="question"><a name="2.7"> Hva er kravet til bestått båtførerprøve? </a></dt>
+	   <dd class="answer"> Kravet til bestått er todelt. Du må ha 80% eller høyere på «Totalt resultat», og resultatet i emne 4 «Særskilt viktige emner», må være 80% eller høyere.</dd>
+	
+      </dl>
+    </section>
+  
+    <section class="faq-section">
+      <h3><a name="3">Om båtførerbeviset</a></h3>
+      
+      <dl class="questions">
+	
+	   <dt class="question"><a name="3.1"> Når mottar jeg mitt båtførerbevis? </a></dt>
+	   <dd class="answer"> Du vil motta båtførerbeviset i posten ca. 2-4 uker etter at du har bestått båtførerprøven og vi har mottatt godkjent bilde av deg.</dd>
+	
+	   <dt class="question"><a name="3.2"> Jeg trenger engelsk tekst på båtførerbeviset. Hva gjør jeg? </a></dt>
+	   <dd class="answer"> Teksten på baksiden av båtførerbeviset gir en bekreftelse av kunnskap på
+    norsk og engelsk.</dd>
+	
+	   <dt class="question"><a name="3.3"> Jeg har mistet båtførerbeviset. Hva gjør jeg? </a></dt>
+	   <dd class="answer"> Dersom du mister ditt bevis kan du søke om
+    <a class="internal" href="/info/bfp/duplikatutstedelse/">utstedelse av duplikat</a>. Her finner du instruks
+    for hvordan du søker om nytt bevis.</dd>
+	
+      </dl>
+    </section>
+  
+    <section class="faq-section">
+      <h3><a name="4">Annet</a></h3>
+      
+      <dl class="questions">
+	
+	   <dt class="question"><a name="4.1"> Hvor store bildefiler kan jeg sende på epost? </a></dt>
+	   <dd class="answer"> Samlet størrelse på alle bilder og tekst i eposten må være under 100 MB. Hvis du skal
+     sende flere bilder, og dette er et problem, så kan du dele opp eposten og sende bildene
+     i flere runder.</dd>
+	
+      </dl>
+    </section>
+  
+  
+</section>
+
+    
+
+    </div>
+    
+
+
+                    </div>
+                </div>
+            
+        </main>
+    
+    
+
+<style>
+    footer div { xoutline: 2px dotted white; }
+
+    @media screen and (max-width: 768px) {
+        body.page > footer.footer,
+        body.home > footer.footer {
+            min-height: 710px;
+        }
+        footer.footer .nt-logo-combined img.u-logo.man {
+            margin-left: 36px;
+        }
+        footer.footer header .nt-logo-combined img.text {
+            margin-left: 30px;
+        }
+        html body.page,
+        html body.home {
+            margin-bottom:710px;
+        }
+    }
+</style>
+<footer class="footer" role="contentinfo">
+
+    <div class="container">
+        
+        
+        
+        
+
+        <div class="spacer row visible-xs-block">&nbsp;</div>
+        <div class="spacer row visible-sm-block">&nbsp;</div>
+        <div class="spacer row visible-md-block">&nbsp;</div>
+        <div class="spacer row visible-lg-block">&nbsp;</div>
+
+        <div class="row">
+            <div class="col-xs-push-1 col-sm-4 col-xs-11 first-col h-card vcard">
+                <header>
+                    <div class="sr-only p-name fn n">Norsk Test as</div>
+                    <div class="nt-logo-combined">
+                        <a class="u-url" href="http://www.norsktest.no">
+                            <img class="u-logo man" src="https://static.datakortet.no/bfpregistration/norsktest-man.svg" alt="Norsk Test logo">
+                            <img class="text"
+                                 src="https://static.datakortet.no/bfpregistration/norsktest-text-white.svg"
+                                 alt="Norsk Test">
+                        </a>
+                    </div>
+                </header>
+
+                
+                    <p class="p-adr h-adr">
+                        <span class="p-street-address sr-only">Storgt. 5</span>
+                        <dk-icon value="map-marker:fw"></dk-icon> <span class="p-postal-code">9917</span> <span class="p-locality">Kirkenes</span>
+                        <span class="p-country-name sr-only">NORGE</span>
+                    </p>
+                    <span>
+                        <dk-icon value="phone:fw"></dk-icon> <a href="tel:78973500" class="p-tel tel">7897 3500</a>
+                    </span>
+                    <p>
+                        <dk-icon value="envelope:fw"></dk-icon>
+                        <a class="u-email email" href="mailto:bat@norsktest.no">bat@norsktest.no</a>
+                    </p>
+                
+            </div>
+
+            <div class="col-xs-push-1 col-sm-7 col-xs-11">
+                <div class="row footer-menu">
+
+                    
+                        
+                            <div class="col-sm-6">
+                                <h4>Kandidatinfo..</h4>
+                                <ul>
+                                    <li>
+                                        <dk-icon value="info-circle:fw"></dk-icon> <a href="/candidate-information/">Kandidatinformasjon</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="video-camera:fw"></dk-icon> <a href="https://static-norsktest.s3.amazonaws.com/video/bfp_202203_no.mp4">Informasjonsvideo</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="question-circle:fw"></dk-icon> <a href="/info/bfp/spørmål-og-svar/">Ofte stilte spørsmål</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="map:fw"></dk-icon> <a href="https://static-norsktest.s3-eu-west-1.amazonaws.com/fup/Skolekart_A_B_C_D.pdf">Kartsamling</a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="info-circle:fw"></dk-icon> <a href="/info/bfp/english-info/">Information in English</a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <dk-icon value="globe:fw"></dk-icon>
+                                        <a href="/info/bfp/icc/">
+                                            Internasjonalt båtførersertifikat (ICC)
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <dk-icon value="list-ul:fw"></dk-icon>
+                                        <a href="/terms/">
+                                            Salgsbetingelser
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6">
+                                <h4>Testlederinfo..</h4>
+                                <ul>
+                                    <li>
+                                        <a href="/testleder/">
+                                            <dk-icon value="university:fw"></dk-icon> Testledersiden
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="" style="color:#d7d7d7;" href="/start-exam/redirect/">
+                                            <dk-icon value="clock-o:fw"></dk-icon> Start eksamen (testleder)
+                                        </a>
+                                    </li>
+                                    <!-- <li>
+                                        <a class="" href="/info/bfp/start-eksamen/">
+                                            <dk-icon value="folder-open:fw"></dk-icon> Start eksamen ved KID-betaling (midlertidig utilgjengelig)
+                                        </a>
+
+                                    </li> -->
+                                    <!-- <li>
+                                        <a href="https://static.datakortet.no/files/bfp_brukermanual_testleder.pdf">
+                                            <dk-icon value="book:fw"></dk-icon> Brukermanual (testleder)
+                                        </a>
+                                    </li> -->
+                                    
+                                </ul>
+                            </div>
+                        
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="legal">
+        <a href="/cookies.html">Hvordan vi bruker cookies</a>
+        <a href="/privacy-policy.html">Personvernerklæring</a>
+    </div>
+
+</footer>
+
+
+
+    
+    
+        <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    
+            
+
+
+
+
+      
+
+ 
+
+    <div hidden id="dk-cookie-bar" 
+     style="background-color:black;color:white;position:fixed;bottom:0;left:0;right:0;padding-left:2em;padding-top:10px;padding-bottom:10px; z-index: 1;">
+    <p>
+        Norsk Test benytter informasjonskapsler (cookies) slik at vi kan 
+        yte vår service (Norsk Test uses cookies).
+        <a href="/cookies.html" style="text-decoration:none;cursor:pointer;margin:1ex;display:inline-block;background-color:green;color:white;border-radius:5px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">
+            Les&nbsp;mer
+        </a>
+        
+        <a id="dk-cookie-bar-ok-button" style="text-decoration:none;cursor:pointer;margin:1ex;display:inline-block;background-color:green;color:white;border-radius:5px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">
+            OK
+        </a>
+    </p>
+</div>
+<script>
+dk.ready(function () {
+    // vennligst behold denne koden som en enkel enhet.
+    /*
+            § 2-7b Bruk av informasjonskapsler/cookies
+
+        Lagring av opplysninger i brukers kommunikasjonsutstyr, eller å skaffe seg adgang til
+        slike, er ikke tillatt uten at brukeren er informert om hvilke opplysninger som
+        behandles, formålet med behandlingen, hvem som behandler opplysningene, og har
+        samtykket til dette. Første punktum er ikke til hinder for teknisk lagring av eller
+        adgang til opplysninger:
+
+        1. utelukkende for det formål å overføre kommunikasjon i et elektronisk
+           kommunikasjonsnett
+        2. som er nødvendig for å levere en informasjonssamfunnstjeneste etter
+           brukerens uttrykkelige forespørsel.
+
+    */
+    const _dk_accepting_cookies = dk.web.cookie.get('accepting_cookies');
+    window.dk_accepting_cookies = _dk_accepting_cookies === "1";     
+    if (_dk_accepting_cookies === null) {
+        const cookiebar = dk('#dk-cookie-bar');
+        cookiebar.hidden = false;
+        dk.$('#dk-cookie-bar-ok-button').on('click', function () {
+            var expiry = new Date();
+            expiry.setDate(expiry.getDate() + 365);
+
+            dk.web.cookie.set('accepting_cookies', "1", {
+                path: '/',
+                expires: expiry.toUTCString(),
+                samesite: 'Lax',
+            });
+            
+            window.dk_accepting_cookies = true;
+            dk.trigger(window, 'dk-accepting-cookies', true);
+            // window.dispatchEvent(dk_accepting_cookies_event);
+            dk.$('#dk-cookie-bar').fadeOut(300);
+        });
+    }
+});
+</script>
+
+        
+     
+
+
+<script src="https://norsktest.instatus.com/widget/script.js"></script>
+
+
+</body>
+</html>

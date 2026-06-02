@@ -1,0 +1,49 @@
+{
+  "url": "https://www.kartverket.no/api-og-data/kjope-kartdata",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kjøpe kartdata | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:54 GMT",
+  "checksum_sha256": "debfd163560f107894c5ea086aab326a2f7c6b5ec9c09a51a25df8afa68f0cc8",
+  "fetched_at": "2026-06-02T11:07:56.645038+00:00",
+  "depth": 2,
+  "text_chars": 2467,
+  "n_links": 60,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-api-er-og-data-foto-friluftsliv-vann-natur.jpg-0383442e.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/api-og-data-kjope-kartdata.html",
+    "text": "pages/api-og-data-kjope-kartdata.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kjøpe kartdata",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/maritim-sikring/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Maritim sikring - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "f8440189e41b7464f39361366f66489a9dc8b8b24b0bd5d6341fcdf1e253737f",
+  "fetched_at": "2026-06-02T10:56:50.333075+00:00",
+  "depth": 2,
+  "text_chars": 591,
+  "n_links": 37,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/ulykker-risiko-og-sikkerhet-maritim-sikring.html",
+    "text": "pages/ulykker-risiko-og-sikkerhet-maritim-sikring.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Maritim sikring",
+      "id": "main-content"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sertifikater/internasjonalt-batforersertifikat/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Internasjonalt båtførersertifikat - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "4650c84d3ac5bb2e5b75cefb06fe4420d8e67b013987f16b9a4b6fe26a6e4225",
+  "fetched_at": "2026-06-02T10:57:07.308131+00:00",
+  "depth": 2,
+  "text_chars": 10467,
+  "n_links": 43,
+  "n_pdf_links": 3,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-sertifikater-internasjonalt-batforersertifikat.html",
+    "text": "pages/fritidsbat-sertifikater-internasjonalt-batforersertifikat.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Internasjonalt båtførersertifikat",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Hopp til innhold",
+      "id": "content-anchors"
+    },
+    {
+      "level": 2,
+      "text": "Skjemaer",
+      "id": "main-text-content"
+    }
+  ]
+}

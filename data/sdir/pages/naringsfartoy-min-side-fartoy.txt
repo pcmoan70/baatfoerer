@@ -1,0 +1,7 @@
+Min side fartøy
+-
+Logg inn Radiolisens
+Her kan du administrere radiolisenser og eierskap for fartøy.
+-
+Logg inn Forsikringssertifikater
+Her kan du administrere forsikringssertifikatene CLB, WRC, CLC og PLR.

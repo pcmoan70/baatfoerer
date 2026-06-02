@@ -1,0 +1,1721 @@
+{
+  "site": "sdir",
+  "name": "Sjøfartsdirektoratet – skolekart",
+  "seed_url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/skolekart-til-batforerproven/",
+  "authority": "official",
+  "rebuilt": true,
+  "n_pages": 61,
+  "n_pdfs": 30,
+  "n_images": 10,
+  "pages": [
+    {
+      "url": "https://www.sdir.no/en/Leisure-boat/Certificates/Boat-driver_46s-license/Curriculum-for-the-boat-driving-test/",
+      "site": "sdir",
+      "source_id": "sdir_pensum",
+      "title": "Syllabus for the boating exam - Norwegian Maritime Authority",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "f6c4ccbf99c2294296420159dfb610ffefc622ece4e64b0b989918ddd2d7394f",
+      "fetched_at": "2026-06-02T10:51:55.787541+00:00",
+      "depth": 1,
+      "text_chars": 474,
+      "n_links": 24,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/en-leisure-boat-certificates-boat-driver_46s-license-curricu-575fa7ac.html",
+        "text": "pages/en-leisure-boat-certificates-boat-driver_46s-license-curricu-575fa7ac.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/en/Leisure-boat/Certificates/Boat-driver_46s-license/School-map-for-the-boat-driving-test/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Maps for the boating exam - Norwegian Maritime Authority",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "634f1ef366e0df35745319d5706e592bd005e9f344e36a3ddf7ce1d143606553",
+      "fetched_at": "2026-06-02T10:55:41.659048+00:00",
+      "depth": 1,
+      "text_chars": 335,
+      "n_links": 24,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/en-leisure-boat-certificates-boat-driver_46s-license-school--853ae8ec.html",
+        "text": "pages/en-leisure-boat-certificates-boat-driver_46s-license-school--853ae8ec.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/ce-merking/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "CE-merking - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "d7d2cb11f3be85288097d816ea097f31199f6c1f50efbd93cf89f2ba412c1eb3",
+      "fetched_at": "2026-06-02T10:56:32.514164+00:00",
+      "depth": 2,
+      "text_chars": 611,
+      "n_links": 30,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-ce-merking.html",
+        "text": "pages/fritidsbat-ce-merking.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/maritim-radio-for-fritidsbatbrukere/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Maritim radio for fritidsbåtbrukere - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "776171a29a213cf7c1a298143728758e7826ee19708fbc9433df110a7f80f10b",
+      "fetched_at": "2026-06-02T10:56:28.144117+00:00",
+      "depth": 2,
+      "text_chars": 502,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-maritim-radio-for-fritidsbatbrukere.html",
+        "text": "pages/fritidsbat-maritim-radio-for-fritidsbatbrukere.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/rapporter-og-utredninger/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Rapporter og utredninger - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "851a1bdc4918ad45e41eb05add0491c57b0d901ec4f502b07bc33c9714263a5e",
+      "fetched_at": "2026-06-02T10:56:35.819408+00:00",
+      "depth": 2,
+      "text_chars": 1645,
+      "n_links": 27,
+      "n_pdf_links": 9,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-rapporter-og-utredninger.html",
+        "text": "pages/fritidsbat-rapporter-og-utredninger.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/regelverk-for-fritidsbat/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Regelverk for fritidsbåt - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "9df61f18ac7bbdf55c6bee334ef667c118cbf54c5f00435cd600c92b09b664aa",
+      "fetched_at": "2026-06-02T10:56:31.418271+00:00",
+      "depth": 2,
+      "text_chars": 612,
+      "n_links": 29,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-regelverk-for-fritidsbat.html",
+        "text": "pages/fritidsbat-regelverk-for-fritidsbat.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sakkyndig-rad-for-fritidsfartoy/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Sakkyndig Råd for Fritidsfartøy - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "148186a53c1866c9017617b4e857ec280ce756d853766608844457bd5706ca13",
+      "fetched_at": "2026-06-02T10:56:33.588585+00:00",
+      "depth": 2,
+      "text_chars": 1363,
+      "n_links": 27,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sakkyndig-rad-for-fritidsfartoy.html",
+        "text": "pages/fritidsbat-sakkyndig-rad-for-fritidsfartoy.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/appen-mine-maritime-sertifikater/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Appen Mine maritime sertifikater - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "4129400e8f8caf9bd786877700100829f805d5aadd0326c1645e109f8b57e5cb",
+      "fetched_at": "2026-06-02T10:57:13.606089+00:00",
+      "depth": 2,
+      "text_chars": 547,
+      "n_links": 33,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-appen-mine-maritime-sertifikater.html",
+        "text": "pages/fritidsbat-sertifikater-appen-mine-maritime-sertifikater.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/alternative-kvalifikasjonsbevis-til-batforerprove/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Alternative kvalifikasjonsbevis til båtførerprøve - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "3757750d9049d83523301d9a82a5b91e0b8e007b715f390dbe5c4b1f542faace",
+      "fetched_at": "2026-06-02T10:57:22.121383+00:00",
+      "depth": 2,
+      "text_chars": 943,
+      "n_links": 30,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-batforerbevis-alternative-kvalifikas-d37d7483.html",
+        "text": "pages/fritidsbat-sertifikater-batforerbevis-alternative-kvalifikas-d37d7483.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/batforerbevis-som-valgfag-i-ungdomsskolen/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Båtførerbevis som valgfag i ungdomsskolen - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "d0f9851a1885588494d9fe8ac8aa58f4128762344c47828ffa93e4b01b2bdaf3",
+      "fetched_at": "2026-06-02T10:57:21.059567+00:00",
+      "depth": 2,
+      "text_chars": 2307,
+      "n_links": 33,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-batforerbevis-batforerbevis-som-valgfag-i-ungdomsskolen.html",
+        "text": "pages/fritidsbat-sertifikater-batforerbevis-batforerbevis-som-valgfag-i-ungdomsskolen.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/batforerbevis/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Informasjon om båtførerbevis og båtførerprøven - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "54a94cfa8f52a20879bc1c9847e27f1869a98965fddb27f7cc8279e84bcbfde9",
+      "fetched_at": "2026-06-02T10:57:16.824659+00:00",
+      "depth": 2,
+      "text_chars": 12676,
+      "n_links": 40,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-batforerbevis-batforerbevis.html",
+        "text": "pages/fritidsbat-sertifikater-batforerbevis-batforerbevis.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Pensum til båtførerprøven - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "d2ad5d3958202f348acbcafe668eef968e7c853494b5c2bc0c909055fbde4daf",
+      "fetched_at": "2026-06-02T10:57:17.897286+00:00",
+      "depth": 2,
+      "text_chars": 411,
+      "n_links": 29,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-batforerbevis-pensum-til-batforerproven.html",
+        "text": "pages/fritidsbat-sertifikater-batforerbevis-pensum-til-batforerproven.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/skolekart-til-batforerproven/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Skolekart til båtførerprøven - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "5ee19089d2ff0b08becc5414cfec1d3a1fc97ade17ad9ecc2ce6875041b8a77c",
+      "fetched_at": "2026-06-02T10:55:39.036646+00:00",
+      "depth": 0,
+      "text_chars": 341,
+      "n_links": 29,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-batforerbevis-skolekart-til-batforerproven.html",
+        "text": "pages/fritidsbat-sertifikater-batforerbevis-skolekart-til-batforerproven.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/til-kursholdere/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Til kursholdere - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c32b4f6f97d68a1100e9e61eba8b66c9db46b495633c3c8626db2f76ab922d63",
+      "fetched_at": "2026-06-02T10:57:19.995384+00:00",
+      "depth": 2,
+      "text_chars": 3179,
+      "n_links": 32,
+      "n_pdf_links": 2,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-batforerbevis-til-kursholdere.html",
+        "text": "pages/fritidsbat-sertifikater-batforerbevis-til-kursholdere.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Båtførerbevis - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "acb55fbc075cfa16bed7943fb5c1ce142d2879b95fb84e79e2976a1946a11794",
+      "fetched_at": "2026-06-02T10:55:50.327622+00:00",
+      "depth": 1,
+      "text_chars": 381,
+      "n_links": 35,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-batforerbevis.html",
+        "text": "pages/fritidsbat-sertifikater-batforerbevis.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/fritidsskippersertifikat/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Fritidsskippersertifikat D5L/D5LA - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "1ef50437820ae7ccf31ab92d51c77c80e5c77e5b5db6fd58fd82b1d94228a29e",
+      "fetched_at": "2026-06-02T10:57:06.219353+00:00",
+      "depth": 2,
+      "text_chars": 480,
+      "n_links": 31,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-fritidsskippersertifikat.html",
+        "text": "pages/fritidsbat-sertifikater-fritidsskippersertifikat.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/hoyhastighetsbevis/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Høyhastighetsbevis - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "022a8395234faeaec705c0c688d2298b8031999668e4927c16cecec4b0691760",
+      "fetched_at": "2026-06-02T10:57:11.455124+00:00",
+      "depth": 2,
+      "text_chars": 276,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-hoyhastighetsbevis.html",
+        "text": "pages/fritidsbat-sertifikater-hoyhastighetsbevis.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/internasjonalt-batforersertifikat/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Internasjonalt båtførersertifikat - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "4650c84d3ac5bb2e5b75cefb06fe4420d8e67b013987f16b9a4b6fe26a6e4225",
+      "fetched_at": "2026-06-02T10:57:07.308131+00:00",
+      "depth": 2,
+      "text_chars": 10467,
+      "n_links": 43,
+      "n_pdf_links": 3,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater-internasjonalt-batforersertifikat.html",
+        "text": "pages/fritidsbat-sertifikater-internasjonalt-batforersertifikat.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sertifikater/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Sertifikater - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "449af160442d707953852392c0139ecd1b49db01bc466e13c35058625d1cf494",
+      "fetched_at": "2026-06-02T10:55:48.966254+00:00",
+      "depth": 1,
+      "text_chars": 1303,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-sertifikater.html",
+        "text": "pages/fritidsbat-sertifikater.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/sikkerhet-ved-utleie-av-bat/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Båtutleie - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "81f0bdc28e34705cb0de6abdb1abef436901f17996ef2f32b09b05b06bcc3731",
+      "fetched_at": "2026-06-02T10:56:45.965677+00:00",
+      "depth": 2,
+      "text_chars": 1714,
+      "n_links": 30,
+      "n_pdf_links": 2,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "sdir\\images\\contentassets-fe586f6c8f3b4c828e2b2307c8ad8524-fisketurisme-1.jpg-fcfe1728.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/fritidsbat-sikkerhet-ved-utleie-av-bat.html",
+        "text": "pages/fritidsbat-sikkerhet-ved-utleie-av-bat.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/tilskuddsordningen-for-sjovett/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Tilskuddsordningen for sjøvett - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "8ca2747fe93e79f03e6d8d3815e77ca8ea62f86137c9b606cbea6cdfc110ebe1",
+      "fetched_at": "2026-06-02T10:56:30.339767+00:00",
+      "depth": 2,
+      "text_chars": 9131,
+      "n_links": 28,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-tilskuddsordningen-for-sjovett.html",
+        "text": "pages/fritidsbat-tilskuddsordningen-for-sjovett.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/vis-sjovett/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Vis Sjøvett - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "6eab13a83dda252be57f165f8d34dc84a4fba575c6257b436b6eeffb77f0797c",
+      "fetched_at": "2026-06-02T10:56:29.237577+00:00",
+      "depth": 2,
+      "text_chars": 706,
+      "n_links": 39,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat-vis-sjovett.html",
+        "text": "pages/fritidsbat-vis-sjovett.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/fritidsbat/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Fritidsbåt - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "43ecbc2be73a4473ce80e1561d2a067908a1d4473971e6123569cb7509c956f0",
+      "fetched_at": "2026-06-02T10:55:46.160384+00:00",
+      "depth": 1,
+      "text_chars": 883,
+      "n_links": 39,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/fritidsbat.html",
+        "text": "pages/fritidsbat.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/bemanning/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Bemanning av fartøy - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "730d1080ace9045fc1472213ddf1155e2ce628f93d19cda3873e2920cb41d40d",
+      "fetched_at": "2026-06-02T10:56:13.025972+00:00",
+      "depth": 2,
+      "text_chars": 894,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/naringsfartoy-bemanning.html",
+        "text": "pages/naringsfartoy-bemanning.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/fartoystyper/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Fartøytyper - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "b4e23955802b1a92136e2f0aca7c42b21582929b42d2f1df7ff3e532a5946ece",
+      "fetched_at": "2026-06-02T10:55:52.685137+00:00",
+      "depth": 2,
+      "text_chars": 324,
+      "n_links": 33,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/naringsfartoy-fartoystyper.html",
+        "text": "pages/naringsfartoy-fartoystyper.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/for-rederi/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "For rederi - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "065f35ab5b753d98319554098f3858ea5c282b1967443e76907c91c6c77c49d2",
+      "fetched_at": "2026-06-02T10:56:10.839106+00:00",
+      "depth": 2,
+      "text_chars": 598,
+      "n_links": 32,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/naringsfartoy-for-rederi.html",
+        "text": "pages/naringsfartoy-for-rederi.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/min-side-fartoy/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Min side fartøy fra Sjøfartsdirektoratet - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "2eec0b6f61487bc0498b52edb214e9ac703d742035ac752101f6ec5a97c940bb",
+      "fetched_at": "2026-06-02T10:56:08.666279+00:00",
+      "depth": 2,
+      "text_chars": 206,
+      "n_links": 32,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/naringsfartoy-min-side-fartoy.html",
+        "text": "pages/naringsfartoy-min-side-fartoy.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/operasjon-i-polare-farvann/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Operasjon i polare farvann - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "fb61688833767eed3f30b6fc0c39de0d8f01959f69eeb5ec00556324e845a21f",
+      "fetched_at": "2026-06-02T10:56:14.112311+00:00",
+      "depth": 2,
+      "text_chars": 359,
+      "n_links": 29,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/naringsfartoy-operasjon-i-polare-farvann.html",
+        "text": "pages/naringsfartoy-operasjon-i-polare-farvann.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/radiolisens-for-yrkesfartoy/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Radiolisens for yrkesfartøy - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "52e27ef80bd4426744211bddc11b2bfc0442854f0ac30a24c19ddda2fff9d318",
+      "fetched_at": "2026-06-02T10:56:15.212946+00:00",
+      "depth": 2,
+      "text_chars": 2925,
+      "n_links": 31,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/naringsfartoy-radiolisens-for-yrkesfartoy.html",
+        "text": "pages/naringsfartoy-radiolisens-for-yrkesfartoy.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/sertifikater-tillatelser-og-dokumenter-for-fartoy/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Sertifikater, tillatelser og dokumenter for fartøy - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "fa52ed3689e270000a9aeccf4c2ff78dd6c8e5dbfd1d1241793d75be5aa6e236",
+      "fetched_at": "2026-06-02T10:56:16.308116+00:00",
+      "depth": 2,
+      "text_chars": 1073,
+      "n_links": 41,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/naringsfartoy-sertifikater-tillatelser-og-dokumenter-for-fartoy.html",
+        "text": "pages/naringsfartoy-sertifikater-tillatelser-og-dokumenter-for-fartoy.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/tilsyn/bestill-tilsyn/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Bestill tilsyn - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "394653acbd1272c62d65932b048ee4d0100b0d010ecfba848ec6bce369e46d3f",
+      "fetched_at": "2026-06-02T10:56:06.561275+00:00",
+      "depth": 2,
+      "text_chars": 4555,
+      "n_links": 35,
+      "n_pdf_links": 1,
+      "n_images": 3,
+      "images": [
+        {
+          "file": "sdir\\images\\contentassets-b285e3980a764a2d837105ed90d8aeaf-hvordan-besti-5b06c0b4.png",
+          "alt": ""
+        },
+        {
+          "file": "sdir\\images\\contentassets-864cfed11ee945e9a35a46a52f050631-hvordan-besti-ef65ff6b.png",
+          "alt": ""
+        },
+        {
+          "file": "sdir\\images\\contentassets-864cfed11ee945e9a35a46a52f050631-hvordan-besti-34058bf8.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/naringsfartoy-tilsyn-bestill-tilsyn.html",
+        "text": "pages/naringsfartoy-tilsyn-bestill-tilsyn.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/tilsyn/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Tilsyn - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "4a2c8514102eaa7d5b597cb5bf47cdd32111867edc04eb73cebd13ccfeb1cc07",
+      "fetched_at": "2026-06-02T10:56:09.761526+00:00",
+      "depth": 2,
+      "text_chars": 699,
+      "n_links": 41,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/naringsfartoy-tilsyn.html",
+        "text": "pages/naringsfartoy-tilsyn.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/utstyr-og-tekniske-krav/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Utstyr og tekniske krav - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "49abd2969782c3a7a19337bd9d59e7385a7f062665d2cd24d7e9995c14e933b7",
+      "fetched_at": "2026-06-02T10:56:11.955696+00:00",
+      "depth": 2,
+      "text_chars": 491,
+      "n_links": 31,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/naringsfartoy-utstyr-og-tekniske-krav.html",
+        "text": "pages/naringsfartoy-utstyr-og-tekniske-krav.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/naringsfartoy/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Næringsfartøy - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "73f8ba87b272091e135034b2a603655d36650dda810662b9eeff5fec23f7283a",
+      "fetched_at": "2026-06-02T10:55:44.600125+00:00",
+      "depth": 1,
+      "text_chars": 567,
+      "n_links": 38,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/naringsfartoy.html",
+        "text": "pages/naringsfartoy.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/regelverk/forskriftsutlisting/gebyr-for-utstedelse-av-sertifikater-og-pategninger-til-maritimt-personell/",
+      "site": "sdir",
+      "source_id": "sdir_batforerbevis",
+      "title": "Gebyr for utstedelse av sertifikater og påtegninger til maritimt personell - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "8556409c0c6aacef4806d8ccaf7f5df8181d6f9f42fd676e5468a0b216f013a9",
+      "fetched_at": "2026-06-02T10:54:00.336699+00:00",
+      "depth": 1,
+      "text_chars": 721,
+      "n_links": 29,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-forskriftsutlisting-gebyr-for-utstedelse-av-sertif-49a4d07f.html",
+        "text": "pages/regelverk-forskriftsutlisting-gebyr-for-utstedelse-av-sertif-49a4d07f.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/regelverk/forskriftsutlisting/krav-til-minstealder-og-batforerbevis-mv.-for-forer-av-fritidsbat",
+      "site": "sdir",
+      "source_id": "sdir_batforerbevis",
+      "title": "Krav til minstealder og båtførerbevis mv. for fører av fritidsbåt - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "7c8515f4d872d51e71d36f5f1bb46144eab861e45b972a4d661a6c6de743c6ae",
+      "fetched_at": "2026-06-02T10:53:59.246486+00:00",
+      "depth": 1,
+      "text_chars": 689,
+      "n_links": 29,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-forskriftsutlisting-krav-til-minstealder-og-batfor-f72fc5f5.html",
+        "text": "pages/regelverk-forskriftsutlisting-krav-til-minstealder-og-batfor-f72fc5f5.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/regelverk/forskriftsutlisting/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Forskrifter - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "ec71c44a8958513fb72d8568085090350c9e6f8f8b3adc9d71d7673dd40ad0cb",
+      "fetched_at": "2026-06-02T10:55:59.129112+00:00",
+      "depth": 2,
+      "text_chars": 584,
+      "n_links": 28,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-forskriftsutlisting.html",
+        "text": "pages/regelverk-forskriftsutlisting.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/regelverk/horingsutlisting/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Høringer - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c59aa023d718432c942835422b6659a0015e521cb6f284e47946bda29642724e",
+      "fetched_at": "2026-06-02T10:56:00.228821+00:00",
+      "depth": 2,
+      "text_chars": 532,
+      "n_links": 28,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-horingsutlisting.html",
+        "text": "pages/regelverk-horingsutlisting.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/regelverk/internasjonale-konvensjoner/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Internasjonale konvensjoner - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "7508f64decabe0a49f13cc99982a1b3076745d5195336f8af6a7f4d7d5618ccc",
+      "fetched_at": "2026-06-02T10:55:56.955563+00:00",
+      "depth": 2,
+      "text_chars": 1026,
+      "n_links": 33,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-internasjonale-konvensjoner.html",
+        "text": "pages/regelverk-internasjonale-konvensjoner.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/regelverk/internasjonalt-arbeid/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Internasjonalt arbeid - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c9c98da5230f1ef024ff82e8f40bd397dddbcbab0d8923cd2389d2fd00a6cb5f",
+      "fetched_at": "2026-06-02T10:56:02.377548+00:00",
+      "depth": 2,
+      "text_chars": 295,
+      "n_links": 28,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-internasjonalt-arbeid.html",
+        "text": "pages/regelverk-internasjonalt-arbeid.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/regelverk/lover/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Lover - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "19f24dd9a78d45e24143788da2e65977210dcd5a259816495c24276935d9999c",
+      "fetched_at": "2026-06-02T10:55:58.045700+00:00",
+      "depth": 2,
+      "text_chars": 678,
+      "n_links": 41,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-lover.html",
+        "text": "pages/regelverk-lover.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/regelverk/rundskriv/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Rundskriv - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "dd3716790c8346f14d05df51992b1c0597efc5820f85876044593c87073952eb",
+      "fetched_at": "2026-06-02T10:56:01.310725+00:00",
+      "depth": 2,
+      "text_chars": 778,
+      "n_links": 28,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk-rundskriv.html",
+        "text": "pages/regelverk-rundskriv.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/regelverk/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Regelverk - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "93012f8669671cdc9cbeec29ce5d2085e165477522a8165a24482b108b0bcb58",
+      "fetched_at": "2026-06-02T10:55:43.078784+00:00",
+      "depth": 1,
+      "text_chars": 584,
+      "n_links": 33,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/regelverk.html",
+        "text": "pages/regelverk.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/sjofolk/sertifikater/elektroniske-sertifikater-for-sjofolk/",
+      "site": "sdir",
+      "source_id": "sdir_batforerbevis",
+      "title": "Elektroniske sertifikater for sjøfolk - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "4903553c7f9547ecf3f4f493f5e00aab9e6d84644d84668b4121b8384dd67197",
+      "fetched_at": "2026-06-02T10:55:36.330905+00:00",
+      "depth": 2,
+      "text_chars": 5735,
+      "n_links": 31,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sjofolk-sertifikater-elektroniske-sertifikater-for-sjofolk.html",
+        "text": "pages/sjofolk-sertifikater-elektroniske-sertifikater-for-sjofolk.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/sjofolk/sertifikater/generell-informasjon/12-pax/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Fritidsskippersertifikat brukt i næringsvirksomhet (12 PAX) - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "c663d48496b79edaf60460788ece45bebb7e8c7d4b818bbcd14940ab69c5516b",
+      "fetched_at": "2026-06-02T10:57:12.549091+00:00",
+      "depth": 2,
+      "text_chars": 2165,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sjofolk-sertifikater-generell-informasjon-12-pax.html",
+        "text": "pages/sjofolk-sertifikater-generell-informasjon-12-pax.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/sjofolk/sertifikater/Informasjon_om_maritime_sertifikater_og_kvalifikasjoner/radiosertifikat-for-vhf/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Radiosertifikat for VHF (SRC) - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "3437637bbc9ffbebec99d85aac3e100854f9bb89df824c62e56709b8d6159734",
+      "fetched_at": "2026-06-02T10:57:14.684355+00:00",
+      "depth": 2,
+      "text_chars": 1049,
+      "n_links": 34,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sjofolk-sertifikater-informasjon_om_maritime_sertifikater_og-7b826fe5.html",
+        "text": "pages/sjofolk-sertifikater-informasjon_om_maritime_sertifikater_og-7b826fe5.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/skipsregistrene/nyregistrering2/registrer-fritidsfartoy-i-nor/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Nyregistrering av fritidsfartøy i NOR - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "556896addfd2a77d26a8c7a4970c65b83934e315e900c51e5e10a52fe5b134ea",
+      "fetched_at": "2026-06-02T10:56:17.397150+00:00",
+      "depth": 2,
+      "text_chars": 737,
+      "n_links": 31,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/skipsregistrene-nyregistrering2-registrer-fritidsfartoy-i-nor.html",
+        "text": "pages/skipsregistrene-nyregistrering2-registrer-fritidsfartoy-i-nor.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/skjemakatalog/soknad-om-batforarbevis/",
+      "site": "sdir",
+      "source_id": "sdir_batforerbevis",
+      "title": "Søknad om båtførarbevis - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "aa30824f9d7f1c0a5fd34124719062b41285bf1ac625b5802381a82e63f8295b",
+      "fetched_at": "2026-06-02T10:54:01.444350+00:00",
+      "depth": 1,
+      "text_chars": 662,
+      "n_links": 27,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/skjemakatalog-soknad-om-batforarbevis.html",
+        "text": "pages/skjemakatalog-soknad-om-batforarbevis.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/skjemakatalog/soknad-om-duplikat-av-icc-og-batforarbevis/",
+      "site": "sdir",
+      "source_id": "sdir_batforerbevis",
+      "title": "Søknad om duplikat av ICC og båtførarbevis - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "8da4e7589df629b5cbc67b6b6de0fe550a2bc5bca593377a07cf42ed8a95c1f7",
+      "fetched_at": "2026-06-02T10:54:03.572068+00:00",
+      "depth": 1,
+      "text_chars": 719,
+      "n_links": 27,
+      "n_pdf_links": 1,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/skjemakatalog-soknad-om-duplikat-av-icc-og-batforarbevis.html",
+        "text": "pages/skjemakatalog-soknad-om-duplikat-av-icc-og-batforarbevis.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/maritim-sikring/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Maritim sikring - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "f8440189e41b7464f39361366f66489a9dc8b8b24b0bd5d6341fcdf1e253737f",
+      "fetched_at": "2026-06-02T10:56:50.333075+00:00",
+      "depth": 2,
+      "text_chars": 591,
+      "n_links": 37,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-maritim-sikring.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-maritim-sikring.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/melding-og-rapportering-av-ulykker-og-hendelser/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Rapporter en ulykke eller hendelse - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "1153ccef8a365a8b9c0093f9b13456cc90e3459cb332aff0c9e1cc04ac577d20",
+      "fetched_at": "2026-06-02T10:56:49.247332+00:00",
+      "depth": 2,
+      "text_chars": 6606,
+      "n_links": 39,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-melding-og-rapportering-av-ulykker-og-hendelser.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-melding-og-rapportering-av-ulykker-og-hendelser.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Dette er Nullvisjonen på sjøen, og slik kan du bidra - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "077816d3dba17ef469b2a2d9f4c895e091d6e779572a443c9e3a8787248975a3",
+      "fetched_at": "2026-06-02T10:57:00.793526+00:00",
+      "depth": 2,
+      "text_chars": 723,
+      "n_links": 26,
+      "n_pdf_links": 1,
+      "n_images": 6,
+      "images": [
+        {
+          "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-hakon-seim-2017-03.jpg-fcfe1728.jpg",
+          "alt": ""
+        },
+        {
+          "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-nasjonal-hand-a3f38acb.png",
+          "alt": ""
+        },
+        {
+          "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-onepager-null-d05c33ab.png",
+          "alt": ""
+        },
+        {
+          "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-christian-bra-4a0e76de.jpg",
+          "alt": ""
+        },
+        {
+          "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-jan-erik-nyga-ee2cc921.jpg",
+          "alt": "En fritidsbåt og et passasjerskip på sjøen"
+        },
+        {
+          "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-cog.jpg-fcfe1728.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-nullvisjonen.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-nullvisjonen.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/sikkerhet2/farlige-produkter/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Farlige produkter - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "9c8583012d0a9e8d1d43c0b43d5b4a96cbad475378b3e9bcfc8f75a100e9578d",
+      "fetched_at": "2026-06-02T10:56:27.058047+00:00",
+      "depth": 2,
+      "text_chars": 2162,
+      "n_links": 35,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-sikkerhet2-farlige-produkter.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-sikkerhet2-farlige-produkter.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/sikkerhet2/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Sikkerhet - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "8856a03c5176d372b127fdac29b4f3cb1c280f8d523ab4cf7770a1b89e59b96d",
+      "fetched_at": "2026-06-02T10:56:53.575228+00:00",
+      "depth": 2,
+      "text_chars": 793,
+      "n_links": 33,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-sikkerhet2.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-sikkerhet2.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/sjofartsdirektoratets-fokusomrader/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Sjøfartsdirektoratets fokusområde - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "fc2e8654cec21fd73943109363dfe67356aebad25a68ac3ad91ec0d8578dc60b",
+      "fetched_at": "2026-06-02T10:57:03.002257+00:00",
+      "depth": 2,
+      "text_chars": 1289,
+      "n_links": 35,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-sjofartsdirektoratets-fokusomrader.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-sjofartsdirektoratets-fokusomrader.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/sporreundersokelsen-maritim-sikkerhet/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Spørreundersøkelsen maritim sikkerhet - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "d726e3a2e48fdc72e84d71b09a9c023de85ad84d4317ffe14fccc043941acf80",
+      "fetched_at": "2026-06-02T10:57:04.060961+00:00",
+      "depth": 2,
+      "text_chars": 618,
+      "n_links": 26,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-sporreundersokelsen-maritim-sikkerhet.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-sporreundersokelsen-maritim-sikkerhet.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/ulykkesstatistikk/ulykkesstatistikk-for-fritidsfartoy/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Ulykkesstatistikk for fritidsfartøy - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "b7b7173049647e1192969252f3417dbf28b752906f84efdcef29709673c34d5c",
+      "fetched_at": "2026-06-02T10:56:18.798442+00:00",
+      "depth": 2,
+      "text_chars": 76004,
+      "n_links": 28,
+      "n_pdf_links": 7,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-ulykkesstatistikk-ulykkesstatist-e7184aad.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-ulykkesstatistikk-ulykkesstatist-e7184aad.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/ulykkesstatistikk/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Ulykkesstatistikk - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "2c007396baabe0036f1c9f90863f84973fff5431ef0ba7aa2f59b2d159162b1b",
+      "fetched_at": "2026-06-02T10:56:51.414667+00:00",
+      "depth": 2,
+      "text_chars": 558,
+      "n_links": 27,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-ulykkesstatistikk.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-ulykkesstatistikk.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/undersokelse-av-ulykker/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Undersøkelse av ulykker - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "4361686523d1cd2cdf6758ed657230e376f0b3b3db077a0f66504e0597dbcdc5",
+      "fetched_at": "2026-06-02T10:56:52.490829+00:00",
+      "depth": 2,
+      "text_chars": 3562,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-undersokelse-av-ulykker.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-undersokelse-av-ulykker.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/verktoy-for-risikovurdering/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Risikoverktøyet - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "d03e0906e803ea3b293f0312d2fe78561d44cfc31098a95362e77d057da96930",
+      "fetched_at": "2026-06-02T10:57:05.139473+00:00",
+      "depth": 2,
+      "text_chars": 3026,
+      "n_links": 32,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet-verktoy-for-risikovurdering.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet-verktoy-for-risikovurdering.txt"
+      }
+    },
+    {
+      "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/",
+      "site": "sdir",
+      "source_id": "sdir_skolekart",
+      "title": "Ulykker, risiko og sikkerhet - Sjøfartsdirektoratet",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "36274312c3fcc287abe813cee605e48ed7ca526f5756b698ee832378c15d7ff9",
+      "fetched_at": "2026-06-02T10:55:47.567591+00:00",
+      "depth": 1,
+      "text_chars": 830,
+      "n_links": 36,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/ulykker-risiko-og-sikkerhet.html",
+        "text": "pages/ulykker-risiko-og-sikkerhet.txt"
+      }
+    }
+  ],
+  "pdfs": [
+    {
+      "url": "https://www.sdir.no/contentassets/1d3145aa7dda43139db3d46ee42f9039/bekreftelsesbrev-pa-forerrettigheter---batforerbevis-icc-og-d5l.pdf",
+      "file": "sdir\\pdf\\contentassets-1d3145aa7dda43139db3d46ee42f9039-bekreftelsesb-61db5d7f.pdf",
+      "bytes": 144557,
+      "checksum_sha256": "ebed70e2f1d45a33fe0aa603bc83f2b82862aa94ae833dd41cf8ac531b591aa9",
+      "etag": "\"1dcf23cadaea7ad\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:34 GMT",
+      "fetched_at": "2026-06-02T10:57:09.368615+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/1d3145aa7dda43139db3d46ee42f9039/mal-for-bestatt-praktisk-prove.pdf",
+      "file": "sdir\\pdf\\contentassets-1d3145aa7dda43139db3d46ee42f9039-mal-for-besta-848ce2ea.pdf",
+      "bytes": 32031,
+      "checksum_sha256": "a4071b3ec2fcaa782abc249a65fc673aa75c16b4ea22a5849706150159358a2f",
+      "etag": "\"1dcf23cadacee1f\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:34 GMT",
+      "fetched_at": "2026-06-02T10:57:07.330037+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/1d3145aa7dda43139db3d46ee42f9039/retningslinjer-kvalitetssystem-icc---14.04.2023.pdf",
+      "file": "sdir\\pdf\\contentassets-1d3145aa7dda43139db3d46ee42f9039-retningslinje-08b0ae06.pdf",
+      "bytes": 139239,
+      "checksum_sha256": "85298aae7d0fe4a78cb17acd1dd7662bbc12f731b83a0cbf6374ecfda8a9d3ec",
+      "etag": "\"1dcf23cadae8ce7\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:34 GMT",
+      "fetched_at": "2026-06-02T10:57:08.340064+00:00"
+    },
+    {
+      "file": "sdir\\pdf\\contentassets-27b405aa87f047dc9ec54d876c4674d0-stcw.2-circ.1-19ec09a9.pdf",
+      "bytes": 245553
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/3c0847eee5934a4a8eedc1952c3f15d2/pensum-batforerproven-2014---justert-18.05.2017.pdf",
+      "file": "sdir\\pdf\\contentassets-3c0847eee5934a4a8eedc1952c3f15d2-pensum-batfor-a03b261c.pdf",
+      "bytes": 473355,
+      "checksum_sha256": "4833498db76f1cf9e53b47d15e59c89b25a9c570d21c4492a6db8d02c452a017",
+      "etag": "\"1dcf23cd039950b\"",
+      "last_modified": "Tue, 02 Jun 2026 03:06:32 GMT",
+      "fetched_at": "2026-06-02T10:57:17.918464+00:00"
+    },
+    {
+      "file": "sdir\\pdf\\contentassets-3c0847eee5934a4a8eedc1952c3f15d2-the-curriculu-d6489903.pdf",
+      "bytes": 640166
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/44fd3ca888bb46299c5fd11c4b9cfd5c/arsrapport-for-dodsulykker-med-fritidsfartoy-2022.pdf",
+      "file": "sdir\\pdf\\contentassets-44fd3ca888bb46299c5fd11c4b9cfd5c-arsrapport-fo-537012e6.pdf",
+      "bytes": 875093,
+      "checksum_sha256": "e67b2de01fd5be1b6effc703043bd26fcfb4c4f1d387363982184198d5d89ae6",
+      "etag": "\"1dcf23c9bc7aa55\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:04 GMT",
+      "fetched_at": "2026-06-02T10:56:21.897612+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/44fd3ca888bb46299c5fd11c4b9cfd5c/arsrapport-for-dodsulykker-med-fritidsfartoy-2023.pdf",
+      "file": "sdir\\pdf\\contentassets-44fd3ca888bb46299c5fd11c4b9cfd5c-arsrapport-fo-98cd7dd3.pdf",
+      "bytes": 483024,
+      "checksum_sha256": "3a86e76aa8421f9d593b276cd93501838b3d1033cc1d7f4ea30aed162ed735f3",
+      "etag": "\"1dcf23c9bcdaed0\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:04 GMT",
+      "fetched_at": "2026-06-02T10:56:20.867914+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/44fd3ca888bb46299c5fd11c4b9cfd5c/arsstatistikk-for-dodsulykker-med-fritidsfartoy-for-2020.pdf",
+      "file": "sdir\\pdf\\contentassets-44fd3ca888bb46299c5fd11c4b9cfd5c-arsstatistikk-04ce36ac.pdf",
+      "bytes": 427938,
+      "checksum_sha256": "7a7f3a4fecd70f01343b99da7fa0ce1076dec4e128bd5e01f55cd64aa1bbb10c",
+      "etag": "\"1dcf23c9b34de22\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:03 GMT",
+      "fetched_at": "2026-06-02T10:56:23.944870+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/44fd3ca888bb46299c5fd11c4b9cfd5c/arsstatistikk---dodsulykker-med-fritidsfartoy-for-2025.pdf",
+      "file": "sdir\\pdf\\contentassets-44fd3ca888bb46299c5fd11c4b9cfd5c-arsstatistikk-0721c7e2.pdf",
+      "bytes": 521268,
+      "checksum_sha256": "10b58ddfe60f33ec7170489d6d35dc48b4e4f58115b0e10fc22626bd8f1cb2a7",
+      "etag": "\"1dcf23c9bcd0434\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:04 GMT",
+      "fetched_at": "2026-06-02T10:56:18.822286+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/44fd3ca888bb46299c5fd11c4b9cfd5c/arsstatistikk-for-dodsulykker-med-fritidsfartoy-for-2021.pdf",
+      "file": "sdir\\pdf\\contentassets-44fd3ca888bb46299c5fd11c4b9cfd5c-arsstatistikk-557d70ef.pdf",
+      "bytes": 585034,
+      "checksum_sha256": "ce4fe5b82a4f0d862dda095a20d5625bcf6c7468ea7f5f58b2400c10d76ca420",
+      "etag": "\"1dcf23c9bc21d4a\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:04 GMT",
+      "fetched_at": "2026-06-02T10:56:22.922482+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/44fd3ca888bb46299c5fd11c4b9cfd5c/arsstatistikk-for-dodsulykker-med-fritidsfartoy-for-2019.pdf",
+      "file": "sdir\\pdf\\contentassets-44fd3ca888bb46299c5fd11c4b9cfd5c-arsstatistikk-86792414.pdf",
+      "bytes": 297850,
+      "checksum_sha256": "00e073ac2006d85ba219c53f7bda4e1eb96a124f0a9ced1be0978659c2baf534",
+      "etag": "\"1dcf23c9b36d2fa\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:03 GMT",
+      "fetched_at": "2026-06-02T10:56:24.978402+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/44fd3ca888bb46299c5fd11c4b9cfd5c/arsstatistikk---dodsulykker-med-fritidsfartoy-for-2024.pdf",
+      "file": "sdir\\pdf\\contentassets-44fd3ca888bb46299c5fd11c4b9cfd5c-arsstatistikk-9b0dba2a.pdf",
+      "bytes": 402989,
+      "checksum_sha256": "9b8d768be9f2808e6f68e471fb9925003ae3ab7df8a88420670f9774a76571f0",
+      "etag": "\"1dcf23c9bccd62d\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:04 GMT",
+      "fetched_at": "2026-06-02T10:56:19.845082+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/4b1d297bfd6b437384fc5f6527168710/evaluering-av-sertifikatstruktur-for-fritidsfartoy.pdf",
+      "file": "sdir\\pdf\\contentassets-4b1d297bfd6b437384fc5f6527168710-evaluering-av-e94f2696.pdf",
+      "bytes": 3401658,
+      "checksum_sha256": "801959226ef388c5ed7cfa6a3f98dc5da0d0bae7175c078659a9d4500fef4d77",
+      "etag": "\"1dcf23e00e0f23a\"",
+      "last_modified": "Tue, 02 Jun 2026 03:15:03 GMT",
+      "fetched_at": "2026-06-02T10:56:35.873009+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/896e17c3470741c7b4ff14aa47fb5609/bfp-kartsamlinga3-20200402.pdf",
+      "file": "sdir\\pdf\\contentassets-896e17c3470741c7b4ff14aa47fb5609-bfp-kartsamlinga3-20200402.pdf",
+      "bytes": 11518298,
+      "checksum_sha256": "1ebba8f3c6805d375b0ad2c17d505158b448fd17e4ef6b90712c44c9eb2b8a6f",
+      "etag": "\"1dcf23caab6cd5a\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:28 GMT",
+      "fetched_at": "2026-06-02T10:55:39.165378+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/nasjonal-handingsplan-for-sjosikkerhet.pdf",
+      "file": "sdir\\pdf\\contentassets-d5e5695353fc43acaa91b6b7878a930d-nasjonal-hand-6b042fe5.pdf",
+      "bytes": 3454326,
+      "checksum_sha256": "8bb9311eeee0c1a12951d9609d47081b2d19a751b838df80cb430b3dd4855215",
+      "etag": "\"1dcf23d74f45b76\"",
+      "last_modified": "Tue, 02 Jun 2026 03:11:08 GMT",
+      "fetched_at": "2026-06-02T10:56:37.177723+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/nasjonal-handlingsplan-for-sjosikkerhet-bruk.pdf",
+      "file": "sdir\\pdf\\contentassets-d5e5695353fc43acaa91b6b7878a930d-nasjonal-hand-ea16e1c7.pdf",
+      "bytes": 6594099,
+      "checksum_sha256": "03eced0f8480e06a5e3036cc89be65f4d1da053c832c3942634828ccf4f1b05b",
+      "etag": "\"1dcf23d753d1ab3\"",
+      "last_modified": "Tue, 02 Jun 2026 03:11:09 GMT",
+      "fetched_at": "2026-06-02T10:57:00.875829+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/f7783e70e9fd4a3e8e71b6aaa579a910/veiledning-simulator.pdf",
+      "file": "sdir\\pdf\\contentassets-f7783e70e9fd4a3e8e71b6aaa579a910-veiledning-simulator.pdf",
+      "bytes": 185615,
+      "checksum_sha256": "1c86d00886c96ee0884c946fa27205bff95a5330ad8d273e02efa948c3385806",
+      "etag": "\"1dcf23deb5f3e8f\"",
+      "last_modified": "Tue, 02 Jun 2026 03:14:27 GMT",
+      "fetched_at": "2026-06-02T10:57:14.720937+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/f8d2f6755de4488e9fdc68c09673f153/utredning_av_obligatorisk_smabatregister_-_omfang.pdf",
+      "file": "sdir\\pdf\\contentassets-f8d2f6755de4488e9fdc68c09673f153-utredning_av_-28a5fde6.pdf",
+      "bytes": 1168840,
+      "checksum_sha256": "50e89e97244f8e2b2bff08e7e6a37bf3d5c4ed264a027b4ea131cd4ca28ddaf4",
+      "etag": "\"1dcf23d476595c8\"",
+      "last_modified": "Tue, 02 Jun 2026 03:09:52 GMT",
+      "fetched_at": "2026-06-02T10:56:38.215277+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/fe586f6c8f3b4c828e2b2307c8ad8524/safe_at_sea_in_norway_english_juni_2025_final.pdf",
+      "file": "sdir\\pdf\\contentassets-fe586f6c8f3b4c828e2b2307c8ad8524-safe_at_sea_i-f4c5f677.pdf",
+      "bytes": 8155694,
+      "checksum_sha256": "f20db3073849677096c2d01ab4abf972535e9b115b701de185cee57e50542d8f",
+      "etag": "\"1dcf23cb13c682e\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:40 GMT",
+      "fetched_at": "2026-06-02T10:56:46.065633+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/contentassets/fe586f6c8f3b4c828e2b2307c8ad8524/sider-fra-safe_at_sea_in_norway_checklist_english_juni_2025.pdf",
+      "file": "sdir\\pdf\\contentassets-fe586f6c8f3b4c828e2b2307c8ad8524-sider-fra-saf-41737993.pdf",
+      "bytes": 2468803,
+      "checksum_sha256": "562c8078246cd0cb115e38a8167fc5f8cb239ffd3582cd5696fbbc044a14e0d8",
+      "etag": "\"1dcf23cb165b1c3\"",
+      "last_modified": "Tue, 02 Jun 2026 03:05:40 GMT",
+      "fetched_at": "2026-06-02T10:56:47.107668+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/globalassets/nasjonal-handingsplan-for-sjosikkerhet.pdf",
+      "file": "sdir\\pdf\\globalassets-nasjonal-handingsplan-for-sjosikkerhet.pdf",
+      "bytes": 49037,
+      "checksum_sha256": "ad74b7bce38c7898dc073423a92acabf5d54d1fb96a26cd0151cc87047975add",
+      "etag": null,
+      "last_modified": null,
+      "fetched_at": "2026-06-02T10:56:33.748538+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/siteassets/dokumenter-fas/fritidsfartoy/retningslinjer-for-batforerproven---oppdatert-2022-1.pdf",
+      "file": "sdir\\pdf\\siteassets-dokumenter-fas-fritidsfartoy-retningslinjer-for-b-6d4a956f.pdf",
+      "bytes": 209890,
+      "checksum_sha256": "d779990a53ee1b22d479d368b8db182828451d8e7bf5895b6b816a4c021c5be5",
+      "etag": "\"1da9a09c0bc69e2\"",
+      "last_modified": "Mon, 29 Apr 2024 07:49:24 GMT",
+      "fetched_at": "2026-06-02T10:55:50.351809+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/siteassets/publikasjoner-som-pdf/nasjonal-handlingsplan-mot-fritidsbatulykker2019.pdf",
+      "file": "sdir\\pdf\\siteassets-publikasjoner-som-pdf-nasjonal-handlingsplan-mot--5b36b8ab.pdf",
+      "bytes": 16160358,
+      "checksum_sha256": "1f1809eed54f97797da7bcad7a601a5d4d4dc3c8cd7ac52749ac3dcfb5c9a6d5",
+      "etag": "\"1daa538947861e6\"",
+      "last_modified": "Mon, 13 May 2024 13:22:19 GMT",
+      "fetched_at": "2026-06-02T10:56:42.871688+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/siteassets/publikasjoner-som-pdf/utredning-av-krav-til-hoyhastighetskompetanse-for-forer-av-fritidsbat.pdf",
+      "file": "sdir\\pdf\\siteassets-publikasjoner-som-pdf-utredning-av-krav-til-hoyha-954941eb.pdf",
+      "bytes": 25054135,
+      "checksum_sha256": "3a4c337ec0a1ea2ab2b9573350e188230fc201e9a18d84486db3b4ffff9bf0f7",
+      "etag": "\"1daa53955020f37\"",
+      "last_modified": "Mon, 13 May 2024 13:27:41 GMT",
+      "fetched_at": "2026-06-02T10:56:40.614744+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/siteassets/publikasjoner-som-pdf/utredning-om-automatisk-nodstopp-for-fritidsfartoy.pdf",
+      "file": "sdir\\pdf\\siteassets-publikasjoner-som-pdf-utredning-om-automatisk-nod-c1345e15.pdf",
+      "bytes": 1774769,
+      "checksum_sha256": "6c407584fe8c7cdf4e5265a03a349432fadc5a2913f11830cf9ee2a612f962df",
+      "etag": "\"1daa539565d1cb1\"",
+      "last_modified": "Mon, 13 May 2024 13:27:44 GMT",
+      "fetched_at": "2026-06-02T10:56:41.657922+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/siteassets/publikasjoner-som-pdf/utredning-til-nettside---sikkerhet-ved-utleie-av-fritidsfartoy-i-norge.pdf",
+      "file": "sdir\\pdf\\siteassets-publikasjoner-som-pdf-utredning-til-nettside---si-a8e39f06.pdf",
+      "bytes": 9778186,
+      "checksum_sha256": "5363d3c5ae5c596e719f0d7ea82380c68586efa84b8c3696ddee8f0effaae096",
+      "etag": "\"1daa5395114600a\"",
+      "last_modified": "Mon, 13 May 2024 13:27:36 GMT",
+      "fetched_at": "2026-06-02T10:56:39.332632+00:00"
+    },
+    {
+      "url": "https://www.sdir.no/siteassets/skjema/ks-0327-sjekkliste-for-oljevernsertifikat---egenkontroll-bm.pdf",
+      "file": "sdir\\pdf\\siteassets-skjema-ks-0327-sjekkliste-for-oljevernsertifikat--410f545d.pdf",
+      "bytes": 2074031,
+      "checksum_sha256": "6de281e3f085999106241dde906b583c4edcbdb3c4ec625f393f4ef0e59feb13",
+      "etag": "\"1da9f9dd72cfe2f\"",
+      "last_modified": "Mon, 06 May 2024 10:12:03 GMT",
+      "fetched_at": "2026-06-02T10:56:06.599231+00:00"
+    },
+    {
+      "file": "sdir\\pdf\\siteassets-skjema-ks-0352-soknad-om-duplikat-av-batforerbevis-bm.pdf",
+      "bytes": 358105
+    },
+    {
+      "file": "sdir\\pdf\\siteassets-skjema-ks-0353-soknad-om-batforerbevis-bm.pdf",
+      "bytes": 359666
+    }
+  ],
+  "images": [
+    {
+      "file": "sdir\\images\\contentassets-fe586f6c8f3b4c828e2b2307c8ad8524-fisketurisme-1.jpg-fcfe1728.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.sdir.no/contentassets/fe586f6c8f3b4c828e2b2307c8ad8524/fisketurisme-1.jpg?width=1280&quality=80",
+      "page_url": "https://www.sdir.no/fritidsbat/sikkerhet-ved-utleie-av-bat/"
+    },
+    {
+      "file": "sdir\\images\\contentassets-b285e3980a764a2d837105ed90d8aeaf-hvordan-besti-5b06c0b4.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.sdir.no/contentassets/b285e3980a764a2d837105ed90d8aeaf/hvordan-bestille-tilsyn1.png?width=1280&quality=80",
+      "page_url": "https://www.sdir.no/naringsfartoy/tilsyn/bestill-tilsyn/"
+    },
+    {
+      "file": "sdir\\images\\contentassets-864cfed11ee945e9a35a46a52f050631-hvordan-besti-ef65ff6b.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.sdir.no/contentassets/864cfed11ee945e9a35a46a52f050631/hvordan-bestille-tilsyn2.png?width=1280&quality=80",
+      "page_url": "https://www.sdir.no/naringsfartoy/tilsyn/bestill-tilsyn/"
+    },
+    {
+      "file": "sdir\\images\\contentassets-864cfed11ee945e9a35a46a52f050631-hvordan-besti-34058bf8.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.sdir.no/contentassets/864cfed11ee945e9a35a46a52f050631/hvordan-bestille-tilsyn3.png?width=1280&quality=80",
+      "page_url": "https://www.sdir.no/naringsfartoy/tilsyn/bestill-tilsyn/"
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-hakon-seim-2017-03.jpg-fcfe1728.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/hakon-seim-2017-03.jpg?width=1280&quality=80",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/"
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-nasjonal-hand-a3f38acb.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/nasjonal-handlingsplan-for-sjosikkerhet-1.0.1_side_01.png?width=1280&quality=80",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/"
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-onepager-null-d05c33ab.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/onepager-nullvisjonen-rederi-illustrasjon-til-web.png?width=1280&quality=80",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/"
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-christian-bra-4a0e76de.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/christian-brathen---fotokonkurransen-for-sjofolk-2024.jpg?width=1280&quality=80",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/"
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-jan-erik-nyga-ee2cc921.jpg",
+      "alt": "En fritidsbåt og et passasjerskip på sjøen",
+      "caption": "",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/jan-erik-nygaard-2016-06---polarlys.jpg?width=1280&quality=80",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/"
+    },
+    {
+      "file": "sdir\\images\\contentassets-d5e5695353fc43acaa91b6b7878a930d-cog.jpg-fcfe1728.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.sdir.no/contentassets/d5e5695353fc43acaa91b6b7878a930d/cog.jpg?width=1280&quality=80",
+      "page_url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/nullvisjonen/"
+    }
+  ]
+}

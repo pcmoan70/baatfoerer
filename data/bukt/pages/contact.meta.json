@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/contact",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Kontakt - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "2938c384b871fcff53c30a83038a86b44bc959cb2fa0a3ca0ba94520c692b4dc",
+  "fetched_at": "2026-06-02T11:13:52.492772+00:00",
+  "depth": 1,
+  "text_chars": 124,
+  "n_links": 11,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/contact.html",
+    "text": "pages/contact.txt"
+  },
+  "anchors": []
+}

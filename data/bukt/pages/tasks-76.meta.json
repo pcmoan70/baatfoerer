@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/tasks/76",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oppgave 76 - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "e8adfae23776767cf9084c0cbed1a29aa6624fbe6da976b2a2d84da6cd14a8ff",
+  "fetched_at": "2026-06-02T11:16:24.518176+00:00",
+  "depth": 2,
+  "text_chars": 218,
+  "n_links": 12,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/tasks-76.html",
+    "text": "pages/tasks-76.txt"
+  },
+  "anchors": []
+}

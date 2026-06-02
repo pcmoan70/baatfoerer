@@ -1,0 +1,26 @@
+Hensikten er først og fremst å gjøre fartøyet ditt til en sikrere arbeidsplass, men bruk av verktøyet kan også bidra til å oppfylle kravene om dokumenterte risikovurderinger.
+Hvordan logger jeg inn?
+For å gjøre innloggingen tryggere har Sjøfartsdirektoratet tatt i bruk ID-porten for innlogging, på lik linje med andre digitale tjenester og mine sider.
+Ved å oppgi samme e-postadresse som du logger inn med i det gamle verktøyet, får du muligheten til å overføre data fra det gamle verktøyet til det nye. Om du ikke har brukt det gamle verktøyet er det ingen problem, du kan likevel opprette nye risikovurderinger.
+Den gamle versjonen vil fremdeles være tilgjengelig en stund fremover, men vi anbefaler å ta det nye verktøyet i bruk så snart som mulig.
+Hvordan virker det nye risikoverktøyet?
+Ved hjelp av verktøyet kan du på en enkel og intuitiv måte, steg for steg, risikovurdere arbeidsoperasjonene om bord.
+Prosessen er slik:
+- Logg inn
+- Legg til et fartøy
+- Legg til arbeidsoppgaver
+- Legg til eventuelle farer
+- Legg til tiltak.
+- Lag sikkerhetsinstrukser som kan printes ut og henges opp.
+Mange av valgene er forhåndsdefinerte, men du kan også legge til nye som er tilpasset dine behov. Verktøyet lar deg videre vurdere risikoen både før og etter at tiltak er gjort.
+Du vil kunne redigere tidligere utførte risikovurderinger, slik at du alltid har oppdaterte risikovurderinger tilgjengelig.
+Hvilke krav har jeg til å gjennomføre risikovurderinger?
+Det skjer mange uhell, nestenulykker og ulykker på sjøen hver eneste uke, og vi ser av de innrapporterte hendelsene at mangelfull risikoforståelse er en årsak som går igjen.
+Det er krav til skriftlige risikovurderinger også for de minste fartøyene, og dette verktøyet ble i utgangspunktet laget for å hjelpe de mindre rederiene til å utføre risikoanalyser på en god og systematisk måte.
+Å gjennomføre risikovurderinger av arbeidsoperasjonene om bord på et fartøy er viktig for å skape en felles forståelse for farene man er utsatt for. Det er også viktig å vite hva man skal gjøre for å redusere både sannsynligheten for at en farlig hendelse oppstår, og alvorligheten av konsekvensene dersom hendelsen skulle inntreffe.
+Regelverk
+[Forskrift om arbeidsmiljø, sikkerhet og helse for de som har sitt arbeid om bord på skip, § 2-2.](https://www.sdir.no/regelverk/forskriftsutlisting/arbeidsmiljo-sikkerhet-og-helse-for-arbeidstakere-pa-skip/) (Er også omhandlet under flere andre kapittel i samme forskrift.)
+[Forskrift om sikkerhetsstyring for mindre lasteskip, passasjerskip og fiskefartøy mv., § 6.](https://www.sdir.no/regelverk/forskriftsutlisting/sikkerhetsstyring-for-mindre-lasteskip-passasjerskip-og-fiskefartoy/)
+Hvem har tilgang til mine risikovurderinger?
+Dataene blir lagret på en sikker server der bare du har lese- og redigeringstilgang. Du logger inn med ID-porten, så det er kun du som kan logge inn og redigere dine vurderinger.
+Mer info om ID-porten finner du her:[ ID-porten | Hjelpesider for fellesløsninger (difi.no)](https://eid.difi.no/nb/id-porten)

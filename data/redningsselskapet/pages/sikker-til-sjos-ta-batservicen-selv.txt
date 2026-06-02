@@ -1,0 +1,47 @@
+Slik tar du service på din eldre påhengsmotor selv
+Har du en eldre påhengsmotor, kan du spare penger ved å gjennomføre en båtservice hjemme. Disse eldre modellene skiller seg fra de nye ved at de ikke er like avanserte, eller har mye elektronikk. Her gir vi deg en god innføring i hvordan du kan klargjøre din motor.
+Enkel båtservice hjemme
+Nå er tiden for service på påhengsmotoren.
+Det meste kan du faktisk gjøre selv, så sant du har en eldre motor uten elektronikk. Vi anbefaler å bruke autorisert verksted dersom motoren er innenfor garantitiden. Større reparasjoner som bytte av undervannshus, impeller og registerreim bør du overlate til verkstedet ditt.
+Eldre påhengsmotorer, både store og små, skiller seg fra de nyere ved at de ikke er like avanserte, med egne serviceintervaller og mye elektronikk. Der de nyere maskinene legger begrensninger for hva du selv kan gjøre, er du friere til å gjøre mer vedlikehold selv på de eldre, og derfor også spare penger.
+Går du gjennom vår liste for enkel båtservice hjemme, blir påhengsmotoren klar for ny sesong. Ikke glem at høsten også er høysesong for motortyveri.
+Men først litt om utstyret du trenger til båtservice:
+- Tennplugger
+- Girolje
+[Spyleklokke](https://nettbutikk.rs.no/produkt/kraftig-motorspyler-for-storre-utenbordsmotorer/)- Nye sinkanoder (om de må skiftes)
+[Fuktdrivende spray](https://nettbutikk.rs.no/produkt/crc-6-66-marine-service-spray-250-ml/)([5-56](https://nettbutikk.rs.no/produkt/crc-5-56-universalspray/)/ WD-40 etc)- Hageslange for spyling
+- Mildt vaskemiddel
+- Boks/bøtte for spillolje
+- Smørefett/Grease
+- Pluggnøkkel
+- Fastnøkkel/pipenøkkel for propellmutter
+Motorservice på liten påhenger
+Slik tar du båtservice selv:
+FERSKVANN:
+Kjør motoren i ferskvann ved hjelp av spyleklokker, som du kobler på hageslange, i minimum 20 minutter. Disse klokkene får du fra en femtilapp på for eksempel Clas Ohlson og Biltema. Sjekk også at kontrollstrålen for kjølevannet har godt trykk. Spraystrået fra en fuktdrivende spray, som 5-56, eller lignende passer fint til å stake opp saltbelegg i kontrollstrålehullet. Dette er spesielt aktuelt om saltvann har stått i motoren siden oppstart. VED HØSTOPPLAG: Har du totaktsmotor, fjerner du motordekselet og sprayer konserveringsolje inn i forgasseren, til motoren avgir en tykk blågrå røyk. La motoren gå slik i noen sekunder før du slår av. Firetaktsmotorer og motorer med direkte bensininnsprøytning (EFI/DFI) skal konserveres med konserveringsolje som sprayes i plugghullene.
+TA AV PROPELLEN:
+Det er viktig å sjekke regelmessig at fiskesener eller tynt tauverk ikke har satt seg fast rundt propellakselen. Sener kan gnage seg inn på simringene og videre inn i girhuset. Sett en kloss eller en bordbit mellom propell og kavitasjonsplate for å unngå at propellen går rundt når du skrur løs mutteren. Tørk av gammelt fett og smør på nytt.
+SKIFT GIROLJE:
+Sett en bøtte eller isboks under motorstammen og skru ut den nederste skruen på stammen. Skru så ut den øverste skruen (nivåpluggen) for å frigjøre vakuumet slik at oljen renner fritt ut. Det kan være en svært billig forsikring å bytte pakningen på de to skruene. Hvis giroljen er grå eller lys brun (Baileys-farget), er det vann i den. Kontakt verksted. Når giroljen er tappet ut, er det på tide å fylle på ny. Har du en liten motor, klarer du å presse inn olje fra det nederste hullet bare ved hjelp av tuben. Har du en større påhenger, er det anbefalt å bruke en oljepumpe. Fyll på olje fra det nederste hullet til den kommer ut av det øverste skruehullet. Sett så i den øverste skruen, samtidig som du holder for det nederste hullet. Deretter skrur du den nederste skruen til så kjapt som mulig.
+SKIFT MOTOROLJE (Firtaktsmotorer):
+Dersom du har en firetaktsmotor smøres ikke motoren gjennom oljetilsetning i bensinen slik en totakter gjør. Du må derfor skifte olje med jevne mellomrom. I videoen over kan du se fremgangsmåten for å skifte olje på motoren. Det er lurt å kjøre motoren varm i ferskvann før du skifter oljen. Ved temperaturøkning vil oljen bli varmere og flyte lettere. På denne måten får du ut mer av den gamle oljen. Finn en passende dunk for spilloljen før du begynner å skru løs tappeskruen. Tappeskruens plassering vil du finne i bunnen av motoren et sted. Sjekk din servicemanual om du er usikker på hvilken skrue som er tappepluggen på din motor. Åpne oljepåfyllingslokket for å få oljen til å renne lettere ut. Bruk hansker og pass fingrene for varm olje. Sjekk om motoren har oljefilter. Dette bør i så fall byttes samtidig som oljen. Mange mindre påhengere har ikke oljefilter.
+FYLL PÅ NY OLJE:
+Skru igjen tappeskruen (med ny pakning) godt og fyll på ny olje av riktig viskositet og mengde. De fleste motorer skal ha syntetisk olje tilpasset temperaturen der de skal brukes. Oljens viskositet vil derfor kunne variere etter om motoren skal brukes sommerstid eller vinterstid. Dette vil være beskrevet i din servicemanual.
+SJEKK BRAKETT OG STYREKABEL:
+På braketten som forbinder motoren med båten er det x antall smørenipler. Klem inn nytt fett i disse niplene til det gamle er ute og det nye blir synlig i overgangen mellom brakett og undervannshus. Styrekabelen er viktig. Smører du opp denne på høsten, sitter den ikke fast når våren kommer, og du er klar for båtlivet. Fjern gammelt fett og skitt – bruk rustoppløser som CRC 6-66. Legg på nytt fett. Sving motoren så langt til siden at du får smurt mest mulig av styrewiren. Sitter kabelen fast, skal du ikke dra i rattet for å løsne den. Slå heller forsiktig i styrestaget med en hammer.
+SJEKK MOTOREN: Ta av motordekselet og se til at ledningene sitter ordentlig der de skal. Sjekk bensinfilteret. Dette kan ha forskjellig plassering fra motor til motor. De fleste er gjennomsiktige, slik at du kan se om det er kommet skitt inn. Er det skitt her, må du også sjekke tanken. Ta ut filteret og få det rent eller bytt. Tørk av gammelt fett på gir- og gasskoblinger og legg på nytt. Unngå å sette båten i gir når den ikke er i gang. Unngå særlig revers, da revers-låsen i verste fall går i stykker. Sjekk gummipakninger der kabler går inn i motoren. Spray over motorhodet med en [fuktfjernende spray.](https://nettbutikk.rs.no/produkt/crc-6-66-marine-service-spray-250-ml/)
+SJEKK/BYTT TENNPLUGG:
+Skru ut tennplugger med en pluggnøkkel og se om den eller disse er svarte. Skift eventuelt tennpluggene hvis du har opplevd feilslag eller disse er sotet.
+SJEKK SINKANODER:
+Sinkanoder eller offeranoder er bimetaller som korroderer lettere enn metallet på motoren. Disse bør byttes om halvparten eller mer er tæret bort. Skift også disse på høsten. Hvis offeranodene ikke har tæring, er det ikke fordi det er gode anoder. Da tæres det sannsynligvis på et annet og mindre heldig sted. Sjekk spesielt power-trimmen, da den er svært kostbar hvis den skulle ødelegges av korrosjon.
+SJEKK FILTER:
+Sjekk vannutskillingsfilteret om du har fast tank. Dette finner du mellom bensintank og motor. Her finnes mange varianter.
+VASK:
+Vask motoren utvendig med lunkent såpevann.
+Og vipps, så har du utført en enkel båtservice! Dersom du vil ta det enda lengre kan du [gjennomføre vårens båtpuss](https://www.redningsselskapet.no/sikker-til-sjos/tid-for-varpuss/) i samme sleng.
+Securmark gjør dine verdier verdiløse for tyvene!
+Securmark har utviklet produkter som er preventive mot tyveri, gir eiendelene dine en unik identitet og øker sannsynligheten for at du får tingene dine tilbake hvis du skulle være så uheldig å bli utsatt for tyveri.
+Bestselger i nettbutikken
+Inspectorcam inspeksjonskamera
+InspectorCam kobles til mobilen via kameraets egen Wifi-sender. Kompatibelt med alle mobiler (Apple/Android. Samt PC og Mac). Super-hendig for å sjekke i kriker og kroker i båten, og påhengsmotoren under båtservice.
+Ettersom linsen er vanntett (IP67) kan den også brukes under vannlinjen til å sjekke drev, kjøl, bau-propell e.l. også hendig til hus, hytte, bil o.l. Lades via USB (kabel følger med) og kommer i en hendig esken for praktisk oppbevaring.

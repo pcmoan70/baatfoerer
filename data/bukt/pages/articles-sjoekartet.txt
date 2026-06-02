@@ -1,0 +1,37 @@
+Hvordan lese sjøkartet?
+Et sjøkart er et detaljert kart over kyst og farvann. Det viser dybder, skjær, sjømerker, fyr og navigasjonsinformasjon, og er et viktig verktøy for trygg ferdsel til sjøs.
+Bredde- og lengdegrader
+Hele jorda er delt inn i et rutenett av breddegrader (horisontalt) og lengdegrader (vertikalt). Dette systemet brukes for å angi nøyaktige posisjoner.
+Minutter og sekunder
+På samme måte som en time er delt inn i minutter og sekunder, kan også en lengde- eller breddegrad deles inn i minutter og sekunder: Hver grad er delt i 60 minutter (kan kalles bueminutt), og hvert minutt er igjen delt inn i 60 sekunder (kan kalles buesekund).
+- Breddegrader går parallelt med ekvator (f.eks. 60°N).
+- Lengdegrader går fra pol til pol (f.eks. 5°Ø).
+Hva er en nautisk mil?
+En nautisk mil er enheten som brukes til sjøs for å måle avstand. Den er definert som:
+- 1 nautisk mil = 1 breddeminutt = 1852 meter
+En mindre brukt måleenhet er kabellengde som er en tidel av en nautisk mil, dvs ca 185 meter.
+Hvordan måle avstand mellom to punkter?
+For å måle avstanden mellom to posisjoner:
+- Bruk en passer eller et papirhjørne.
+- Mål avstanden mellom punktene på kartet.
+- Flytt passeren til breddeskalaen (langs kartets høyre eller venstre kant) og les av hvor mange breddeminutter det tilsvarer.
+- Husk: 1 breddeminutt = 1 nautisk mil
+Fart til sjøs
+Fart til sjøs måles i knop. Knop er det samme som nautiske mil per time. En knop som kjører med 10 knop, trenger 30 minutter på å kjøre 5 nautiske mil.
+Hvordan finne en posisjon på kartet?
+En posisjon angis som breddegrad og lengdegrad. Eksempel: 60°10,5'N 05°17,2'Ø
+- Start med breddegrad (horisontal): Finn 60° og tell minutter oppover.
+- Finn så lengdegrad (vertikal): Gå inn fra kartets nedre kant og les av lengden.
+Posisjoner kan være oppgitt i grader og desimalminutter (60°10,5'N
+) eller i grader, minutter og sekunder (60°10'30"N
+).
+Tips til båtførerprøven
+Du bør kunne:
+- Lese bredde- og lengdegrader fra sjøkart
+- Bruke breddeskalaen til å måle avstand
+- Finne posisjoner og forstå posisjonsangivelse i grader og minutter
+Øv deg med [Skolekart for Oslofjorden](https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_003_oslof.pdf).
+Relevante oppgaver
+| Nummer | Oppgave | Svarhistorie |
+|---|---|---|
+|

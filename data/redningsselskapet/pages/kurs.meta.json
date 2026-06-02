@@ -1,0 +1,67 @@
+{
+  "url": "https://rs.no/kurs/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Kurs - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "56d278e7be39a4b6b66ccfea9b2fdd14e807b2ca33bd0855ed64a07f1030cbec",
+  "fetched_at": "2026-06-02T11:09:37.479117+00:00",
+  "depth": 1,
+  "text_chars": 1231,
+  "n_links": 114,
+  "n_pdf_links": 0,
+  "n_images": 8,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2020-08-taroretjenter.jpg",
+      "alt": "Ta roret jenter"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-04-hoyhastighet_rib.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-11-sommerskole_2018.jpg",
+      "alt": "Sommerskole"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-09-livredningskurs.jpg",
+      "alt": "Livredningskurs. Mennesker i vannet som øver på livredning."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-02-50531175388_c0f5b339e6_o-scaled.jpg",
+      "alt": "Redningsmannskurs Noatun"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-02-vinteroya-kollasj.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2019-06-digitalt_livredningskurs.png",
+      "alt": "Bildet er en skjermdump fra det digitale livredningskurset"
+    }
+  ],
+  "files": {
+    "html": "pages/kurs.html",
+    "text": "pages/kurs.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kurs",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

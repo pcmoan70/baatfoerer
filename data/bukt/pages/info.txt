@@ -1,0 +1,20 @@
+Info
+Når du trykker "Neste oppgave" får du en tilfeldig oppgave. For å få oppgaver fra kun én enkelt kategori kan du velge kategorien under [Oversikt og innstillinger](https://bukt.no/overview). Du bytter
+kategori i dropdownen "Få oppgaver fra". Hvis ingen spesifikk kategori er valg, får du oppgaver fra alle kategorier.
+Du vil få oppgavene på nytt frem til de er besvart riktig.
+Hvis du får en oppgave om noe du vet du kan, kan du velge "Jeg kan dette - merk oppgaven som riktig >>",
+og gå videre til neste oppgave. Oppgaven regnes som riktig, og du vil ikke få den igjen før du eventuelt nullstiller historie.
+Ved å nullstille historie i [Oversikt og innstillinger](https://bukt.no/overview) blir alle svarene
+slettet, og du vil få alle oppgavene på nytt selv om de er besvart riktig tidligere.
+På [Oversikt og innstillinger](https://bukt.no/overview) ser du også statistikk på hvor mange oppgaver som er besvart,
+om de er besvart riktig, og om de ble besvart riktig på første forsøk. Etter at historien er nullstilt, vil all statistikken
+slettes.
+Hvis du ønsker å bytte enhet, for eksempel mobil til PC, uten å miste svarhistorikken, kan du gjøre det ved å scanne
+QR-koden du ser [her](https://bukt.no/changeDevice).
+Oppgaver
+Oppgaver med radioknapper , for eksempel [denne](https://bukt.no/tasks/13), har ett riktig
+svar. På PC kan du bruke tall-tastene for å svare, 1 for første alternativ, 2 for andre etc.
+Oppgaver med checkboxer , for eksempel [denne](https://bukt.no/tasks/24), har ukjent
+antall riktige alternativer. Det kan være alt fra at ingen er riktige til at alle er riktige. På PC kan du bruke
+tall-tastene til å markere og av-markere alternativer, 1 for første alternativ, 2 for andre etc. Du kan trykke
+ENTER for å svare når alternativene er avkrysset.

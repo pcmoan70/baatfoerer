@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/kart-over-tjenesteomrader/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Kart over tjenesteområder | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "912c0ff62642b3c341f3938ff188358f4127e66f58659a1dfb53415a41bc30e2",
+  "fetched_at": "2026-06-02T11:06:34.736219+00:00",
+  "depth": 2,
+  "text_chars": 1707,
+  "n_links": 129,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-kart-over-tjenesteomrader.html",
+    "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-kart-over-tjenesteomrader.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kart over tjenesteområder",
+      "id": "content-start"
+    }
+  ]
+}

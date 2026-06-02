@@ -1,0 +1,23 @@
+{
+  "url": "https://xn--btfrerregisteret-dob85a.no/cookies.html",
+  "site": "batforerregisteret",
+  "source_id": "batforerregisteret",
+  "title": "Cookie-policy",
+  "status_code": 200,
+  "content_type": "text/html",
+  "etag": "W/\"624cb70b-e68\"",
+  "last_modified": "Tue, 05 Apr 2022 21:39:23 GMT",
+  "checksum_sha256": "744fed5ae8b92494259b909bf204d3ac54d73c5f251cebbd375475807c06a304",
+  "fetched_at": "2026-06-02T10:57:39.715404+00:00",
+  "depth": 1,
+  "text_chars": 2219,
+  "n_links": 3,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/cookies.html.html",
+    "text": "pages/cookies.html.txt"
+  },
+  "anchors": []
+}

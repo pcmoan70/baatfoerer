@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/kledd-for-den-kalde-fine-tiden/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Kle deg riktig i vinter - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "21289f2cb1174d4509a6fed9da2ae5f7671ab5aabe566ded9737b2fc68250df2",
+  "fetched_at": "2026-06-02T11:12:53.259860+00:00",
+  "depth": 2,
+  "text_chars": 5318,
+  "n_links": 123,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-kledd-for-den-kalde-fine-tiden.html",
+    "text": "pages/sikker-til-sjos-kledd-for-den-kalde-fine-tiden.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kle deg riktig i kulden",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

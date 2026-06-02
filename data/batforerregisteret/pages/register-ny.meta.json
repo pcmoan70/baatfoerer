@@ -1,0 +1,29 @@
+{
+  "url": "https://xn--btfrerregisteret-dob85a.no/register/ny/",
+  "site": "batforerregisteret",
+  "source_id": "batforerregisteret",
+  "title": "Registrer deg til båtførerprøven",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "W/\"9e943ac6aa240273e3e59d711e529401\"",
+  "last_modified": null,
+  "checksum_sha256": "f997970d736acb37d194d2f69a298d41ccdfcd91574a66864fa03d9fda3981ca",
+  "fetched_at": "2026-06-02T10:57:25.511972+00:00",
+  "depth": 1,
+  "text_chars": 262,
+  "n_links": 5,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/register-ny.html",
+    "text": "pages/register-ny.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Registrering til båtførerprøven!",
+      "id": "body"
+    }
+  ]
+}

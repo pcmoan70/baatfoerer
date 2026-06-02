@@ -1,0 +1,54 @@
+{
+  "url": "https://www.kystverket.no/sjotransport-og-havn/fritidsbat2/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Tenk sikkerhet når du er ute i fritidsbåt | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "950c0c2cff6c38ff140613bef4142887e5471585455b3d30c852605f396573bd",
+  "fetched_at": "2026-06-02T11:03:40.066008+00:00",
+  "depth": 1,
+  "text_chars": 2008,
+  "n_links": 155,
+  "n_pdf_links": 2,
+  "n_images": 6,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-6d4548cdddbc422ba1fcc698cec1d906-kv-nornen.jpg-169bbf91.jpg",
+      "alt": "Fritidsbåter i mange varianter."
+    },
+    {
+      "file": "kystverket\\images\\globalassets-fotoware-2021-5-trygg-til-sjos2.jpg",
+      "alt": "trygg på sjøen"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-71b43d67cef14cebb0d2505e1804556a-batliv-lyngor.jpg-08dea819.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-83a0b6266ded4154b49d025152c558cf-batfart-annonse-rs.png-08dea819.png",
+      "alt": "Båter som kjører på sjøen"
+    },
+    {
+      "file": "kystverket\\images\\globalassets-sjovegen-fritidsbat_nyttige-tjenester-for-batfolk_forside.jpg",
+      "alt": "Fritidsbåt_Nyttige tjenester for båtfolk_forside.jpg"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-98d273962a8f45f4baaf8796caa64469-sakte-fart.jpg",
+      "alt": "sakte-fart.jpg"
+    }
+  ],
+  "files": {
+    "html": "pages/sjotransport-og-havn-fritidsbat2.html",
+    "text": "pages/sjotransport-og-havn-fritidsbat2.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Tenk sikkerhet når du er ute i fritidsbåt",
+      "id": "content-start"
+    }
+  ]
+}

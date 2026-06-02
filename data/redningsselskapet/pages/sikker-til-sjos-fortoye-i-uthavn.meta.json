@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/fortoye-i-uthavn/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Fortøye i uthavn - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "be7b1189ccba3cd6fdee3831293ecdb183a739ccb5fa05502703101b6661c866",
+  "fetched_at": "2026-06-02T11:12:40.082920+00:00",
+  "depth": 2,
+  "text_chars": 2033,
+  "n_links": 117,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-fortoye-i-uthavn.html",
+    "text": "pages/sikker-til-sjos-fortoye-i-uthavn.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Fortøye i uthavn",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

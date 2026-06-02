@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/hund-i-bat/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Hund i båt - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "2a051c94c1b98cd2ca2edeea44f439be6b16101f122a39feefc5dfe2b54011d7",
+  "fetched_at": "2026-06-02T11:12:31.435503+00:00",
+  "depth": 2,
+  "text_chars": 7170,
+  "n_links": 123,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-hund-i-bat.html",
+    "text": "pages/sikker-til-sjos-hund-i-bat.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Hund i båt",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

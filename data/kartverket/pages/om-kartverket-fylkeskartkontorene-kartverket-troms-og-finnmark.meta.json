@@ -1,0 +1,64 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-troms-og-finnmark",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kartverket Troms og Finnmark | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:36 GMT",
+  "checksum_sha256": "5a5f5738649055a7a9fd2d42b20575498e83db8c9d0ce42803cd32ecba991911",
+  "fetched_at": "2026-06-02T11:07:38.141863+00:00",
+  "depth": 2,
+  "text_chars": 2110,
+  "n_links": 62,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-troms-og-finnmark.html",
+    "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-troms-og-finnmark.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kartverket Troms og Finnmark",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Fagområder Troms og Finnmark",
+      "id": "LinkListBlockProxy-6497"
+    },
+    {
+      "level": 2,
+      "text": "Geodatasamarbeid i fylkene",
+      "id": "LinkListBlockProxy-6499"
+    },
+    {
+      "level": 2,
+      "text": "Geodataressurser",
+      "id": "LinkListBlockProxy-5723"
+    },
+    {
+      "level": 2,
+      "text": "Nyheter",
+      "id": "NewsListingBlockProxy-10425"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

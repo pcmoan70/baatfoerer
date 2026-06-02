@@ -1,0 +1,138 @@
+{
+  "url": "https://www.lanternenkurs.no/1-lanternen-batforerkurs-batforerproven/",
+  "site": "lanternenkurs",
+  "source_id": "lanternenkurs",
+  "title": "Lanternen Båtførerkurs til båtførerprøven - Lanternen",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "09dc4545593561a94c1a99c362f2d858eb319b02a44f86c7720697b128587b42",
+  "fetched_at": "2026-06-02T11:18:40.164899+00:00",
+  "depth": 2,
+  "text_chars": 4302,
+  "n_links": 45,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2020-01-img_0123-1024x1024.jpg",
+      "alt": "Båtførerprøven Erik Kavli\nKursinstruktør Vannscooter. Høyhastighetsbevis"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2022-03-skjermbilde-2022-04-21-kl.-16.49.43.png",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/1-lanternen-batforerkurs-batforerproven.html",
+    "text": "pages/1-lanternen-batforerkurs-batforerproven.txt"
+  },
+  "anchors": [
+    {
+      "level": 2,
+      "text": "Results",
+      "id": "hdq_33"
+    },
+    {
+      "level": 3,
+      "text": "#1. Hvor stor båt kan du føre dersom du har bestått båtførerprøven?",
+      "id": "hdq_question_2341"
+    },
+    {
+      "level": 3,
+      "text": "#2. Hva heter denne knuten?",
+      "id": "hdq_question_2343"
+    },
+    {
+      "level": 3,
+      "text": "#3. Hvilke forhold er en båt med CE-merking kategori C beregnet for?",
+      "id": "hdq_question_2347"
+    },
+    {
+      "level": 3,
+      "text": "#4. Hva betyr dette symbolet?",
+      "id": "hdq_question_2349"
+    },
+    {
+      "level": 3,
+      "text": "#5. Hva er den internasjonale nødkanalen på VHF?",
+      "id": "hdq_question_2352"
+    },
+    {
+      "level": 3,
+      "text": "#6. I førstehjelp har vi huskeregelen BLÅS. Hva står denne for?",
+      "id": "hdq_question_2354"
+    },
+    {
+      "level": 3,
+      "text": "#7. Hvordan måler vi bølgehøyde?",
+      "id": "hdq_question_2355"
+    },
+    {
+      "level": 3,
+      "text": "#8. Hvilken av motorbåtene har retten til veien?",
+      "id": "hdq_question_2357"
+    },
+    {
+      "level": 3,
+      "text": "#9. Hvilken av seilbåtene har retten til veien?",
+      "id": "hdq_question_2359"
+    },
+    {
+      "level": 3,
+      "text": "#10. Hvilken av seilbåtene har retten til veien?",
+      "id": "hdq_question_2361"
+    },
+    {
+      "level": 3,
+      "text": "#11. Hva betyr det om en båt flagger med signalflagg Alpha?",
+      "id": "hdq_question_2363"
+    },
+    {
+      "level": 3,
+      "text": "#12. Hva er promillegrensen når du fører fritidsbåt opptil 15 meter?",
+      "id": "hdq_question_2365"
+    },
+    {
+      "level": 3,
+      "text": "#13. En ferge tuter 3 ganger etter hverandre. Hva betyr dette?",
+      "id": "hdq_question_2367"
+    },
+    {
+      "level": 3,
+      "text": "#14. Du ser en fyrlykt som lyser grønt mot deg. Hvilken påstand er riktig?",
+      "id": "hdq_question_2370"
+    },
+    {
+      "level": 3,
+      "text": "#15. I kartet ser du en fyrlykt med lyktekarakteristikken Oc(2) 8s. Hva betyr dette?",
+      "id": "hdq_question_2372"
+    },
+    {
+      "level": 3,
+      "text": "#16. Hvilket kardinalmerke er dette?",
+      "id": "hdq_question_2374"
+    },
+    {
+      "level": 3,
+      "text": "#17. Du seiler med ledens retning og møter styrbordmerket. Hva er riktig?",
+      "id": "hdq_question_2376"
+    },
+    {
+      "level": 3,
+      "text": "#18. Hva betyr dette kartsymbolet?",
+      "id": "hdq_question_2379"
+    },
+    {
+      "level": 3,
+      "text": "#19. Du seiler mot en båt med disse lanternene. Hva betyr det?",
+      "id": "hdq_question_2381"
+    },
+    {
+      "level": 3,
+      "text": "#20. Hva blir avstanden om du kjører motorbåt med en fart på 30 knop i 3 timer?",
+      "id": "hdq_question_2383"
+    }
+  ]
+}

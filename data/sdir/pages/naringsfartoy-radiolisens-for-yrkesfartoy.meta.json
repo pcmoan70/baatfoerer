@@ -1,0 +1,34 @@
+{
+  "url": "https://www.sdir.no/naringsfartoy/radiolisens-for-yrkesfartoy/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Radiolisens for yrkesfartøy - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "52e27ef80bd4426744211bddc11b2bfc0442854f0ac30a24c19ddda2fff9d318",
+  "fetched_at": "2026-06-02T10:56:15.212946+00:00",
+  "depth": 2,
+  "text_chars": 2925,
+  "n_links": 31,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/naringsfartoy-radiolisens-for-yrkesfartoy.html",
+    "text": "pages/naringsfartoy-radiolisens-for-yrkesfartoy.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Radiolisens for yrkesfartøy",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Logg inn",
+      "id": "main-text-content"
+    }
+  ]
+}

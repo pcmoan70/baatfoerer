@@ -1,0 +1,36 @@
+Kardinalmerker
+Kardinalmerker er en type sjømerker som viser hvilken vei du skal passere en fare – basert på himmelretningene nord, sør, øst og vest. De brukes der det er skjær, grunner eller andre hindringer i sjøen, og er en viktig del av teorien til båtførerprøven.
+Hva er kardinalmerker?
+Et kardinalmerke forteller deg hvilken side av merket det er trygt å passere. Du skal altså navigere i retningen som merket peker mot – nord, sør, øst eller vest – og holde deg unna den siden faren befinner seg på.
+De fire typene kardinalmerker
+Det finnes fire kardinalmerker, og hver av dem har et unikt utseende basert på fargekombinasjon og toppmerker:
+- Nordmerke: Passer på nordsiden. Farger: svart over gult. Toppmerker: 🔼🔼
+- Sørmerke: Passer på sørsiden. Farger: gult over svart. Toppmerker: 🔽🔽
+- Østmerke: Passer på østsiden. Farger: svart – gul – svart. Toppmerker: 🔼 over 🔽
+- Vestmerke: Passer på vestsiden. Farger: gul – svart – gul. Toppmerker: 🔽 over 🔼
+Hvordan kjenne dem igjen?
+Hver type kardinalmerke har to svarte kjegleformede toppmerker, og fargene følger et bestemt mønster. Her er en enkel huskeregel:
+- Nord: Begge kjegler peker opp (som en pil mot nord)
+- Sør: Begge kjegler peker ned (som en pil mot sør)
+- Øst: Kjeglene peker fra hverandre (den ene opp, den andre ned). Huskeregel: Ser ut som en Ø (for øst) hvis legger pilene på skrå (og legger godvilja til 😅)
+- Vest: Kjeglene peker mot hverandre (ned og opp – danner en timeglassform). Huskeregel: Utsiden av pilene danner en V (for vest).
+Lys og kardinalmerker
+I mørket kan kardinalmerker være utstyrt med hvitt blinkende lys. Blinkemønstrene (lyskarakteren) følger retningene på kompasset:
+- Nord: Kontinuerlige raske blink (Q)
+- Sør: 6 korte blink + 1 langt blink (Q(6)+LFl)
+- Øst: 3 korte blink (Q(3))
+- Vest: 9 korte blink (Q(9))
+Huskeregel: Tenk på klokka. Øst på kartet er der 3-tallet er på klokka, sør på kartet er der 6-tallet er på klokka, og vest på kartet er der 9-tallet er på klokka.
+Hvordan bruke denne kunnskapen på båtførerprøven?
+På båtførerprøven blir du ofte testet i å gjenkjenne kardinalmerker – både visuelt og ut fra beskrivelse. Du bør kunne:
+- Forstå hva fargekombinasjonene betyr
+- Kjenne igjen toppmerkene
+- Vite hvilken retning det er trygt å passere
+- Forstå lyskarakteren i mørket
+Denne vidoen tester deg kardinalmerkene, og gir et par huskeregler:
+Øv gjerne med oppgavene i [kategorien "sjømerker"](https://bukt.no/categories/SJØMERKER). Der finner du både bilder og spørsmål som ligner dem du møter på eksamen.
+Vil du lære mer om sjømerker? Les også om [lateralmerker her](https://bukt.no/articles/lateralmerker).
+Relevante oppgaver
+| Nummer | Oppgave | Svarhistorie |
+|---|---|---|
+|

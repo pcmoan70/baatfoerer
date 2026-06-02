@@ -1,0 +1,29 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/fenderstikk/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Fenderstikk - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "faa7a8858a28b7418675b94e279b731b1ba0a3ea25576d6085b0cf8656f0e922",
+  "fetched_at": "2026-06-02T11:12:35.731312+00:00",
+  "depth": 2,
+  "text_chars": 657,
+  "n_links": 116,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-fenderstikk.html",
+    "text": "pages/sikker-til-sjos-fenderstikk.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Fenderstikk/Bøyestikk",
+      "id": "main-content"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/forstehjelp-ved-drukning/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Førstehjelp ved drukning - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "16bb360542ce833339a61878d77a3ec80d1e47fba3747d5efd39b88a6c1e72e8",
+  "fetched_at": "2026-06-02T11:12:46.024841+00:00",
+  "depth": 2,
+  "text_chars": 2230,
+  "n_links": 108,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-forstehjelp-ved-drukning.html",
+    "text": "pages/sikker-til-sjos-forstehjelp-ved-drukning.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Førstehjelp ved drukning",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

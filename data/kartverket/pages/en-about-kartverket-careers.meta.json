@@ -1,0 +1,44 @@
+{
+  "url": "https://www.kartverket.no/en/about-kartverket/careers",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Careers | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:54 GMT",
+  "checksum_sha256": "df98401f85afb6f47482f2b3c1c329716a1cea549df0d1eeace467599b794ab8",
+  "fetched_at": "2026-06-02T11:08:55.444800+00:00",
+  "depth": 2,
+  "text_chars": 2539,
+  "n_links": 34,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/en-about-kartverket-careers.html",
+    "text": "pages/en-about-kartverket-careers.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Become a part of the Norwegian Mapping Authority team!",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Send page by Email",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Contact us",
+      "id": "footerheading-contactus"
+    },
+    {
+      "level": 4,
+      "text": "Resources",
+      "id": "footerheading-resources"
+    }
+  ]
+}

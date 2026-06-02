@@ -1,0 +1,36 @@
+Sjøkart for norske sjø - og havområder
+Det finnes 235 forskjellige norske sjøkart i ulike målestokker og kartserier. Sjøkart på papir selges som POD (Print on Demand) fra våre forhandlere.
+Norske sjøkart på papir er organisert i ulike kartserier, hvor målestokk og innhold er tilpasset forskjellig skipsfart og brukerbehov. Ved navigering i trange farvann bør kart i største målestokk brukes, da disse gir de beste og mest detaljerte opplysningene. Kart i mindre målestokk er sterkt forenklet i innenskjærs farvann.
+Kjøpe kart
+Kartverket selger ikke papirkart, men lager kartfiler som forhandlere trykker for deg, såkalte Print on Demand-kart (POD).
+Se oversikt over [Kartverkets forhandlere som du kan bestille papirkart hos](https://www.kartverket.no/sider/bestille-kart).
+Havnekart
+Havnekartserien består av 45 kart i målestokk fra 1:5 000 til 1:25 000, og dekker havner og innseilinger langs norskekysten. En del havnekart har spesialer i ytterligere større målestokker over sentrale deler av havner eller trange farvann.
+På Svalbard er det ett havnekart. Sjøkart 513 som dekker flere steder på Svalbard i stor målestokk.
+Havnekart gir brukeren et detaljert bilde av dybdeforhold og kaianlegg i havnene og innseilinger i kyststrøkene.
+Hovedseriekart
+Hovedkartserien og hovedkartserien for Svalbard, Jan Mayen og Bouvetøya består av til sammen 167 sjøkart som dekker farvann i kyststrøkene.
+Hovedkartserien består av 143 sjøkart i målestokk 1:50 000 (med noen få målestokksunntak), og dekker hele norskekysten fra Svenskegrensen til Grense Jacobselv.
+Sjøkartene er ofte utstyrt med såkalte spesialer i større målestokker, over trange farvann. Topografien i mange av hovedseriekartene er overført fra [landkartserien N50](https://www.kartverket.no/til-lands/kart/kartbilder).
+Hovedkartserien for Svalbard, Jan Mayen og Bouvetøya består av 24 kart i målestokk 1:60 000 til 1:100 000, og dekker kystnære polare strøk. Store deler av Svalbard gjenstår før området er dekket av kart i målestokk 1:100 000.
+Hovedkartserien er i første rekke navigasjonskart for indre kyststrøk.
+Kystkart
+Kystkartserien består av 10 kart i målestokk 1:350 000, og dekker norskekysten fra svenskegrensen til Grense Jacobselv.
+Kartserien utgis i Mercators projeksjon.
+Kystkartene brukes til navigering i kyststrøk som ikke er dekket av hovedkartserien, i utenskjærs seilas langs kysten, samt på fiskebankene.
+Overseilingskart
+Overseilingskartserien består av 12 kart i målestokk fra 1:700 000 til 1: 10 000 000, og dekker Nordsjøen, Norskehavet, Svalbard, Barentshavet, Grønlandshavet, Island, Øst-Grønland, det nordlige Atlanterhavet og deler av Antarktis. Sjøkartserien er i Mercators projeksjon.
+De fleste av overseilingskartene inngår i internasjonale kartserier i regi av den internasjonale hydrografiske organisasjonen (IHO). Kartene har derfor også et internasjonalt kartnummer (INT-nummer).
+Konstruksjonsparallellen i sjøkartene vil ofte avvike fra kartets middelbredde.
+Overseilingskartene brukes til planlegging og navigering over store distanser.
+Format
+Sjøkart tilbys både på papir og plast (Tyvek). Tyvek er fiberplast som er rivesikkert, vannavstøtende, brettbart, og kan skrives på med myk blyant. Sjøkartene oppdateres hver 14. dag med rettelser meldt i Etterretninger for sjøfarende (Efs).
+Etter kjøp må brukeren selv holde kartet oppdatert ved hjelp av [Etterretninger for sjøfarende (Efs)](https://www.kartverket.no/til-sjos/efs), hvor alle sikkerhetskritiske oppdateringer og rettelser til Kartverkets sjøkart blir publisert.
+Enhver sjøfarende skal være oppmerksom på den risiko det medfører å ikke seile på oppdaterte sjøkart, og det ansvar de derved pådrar seg.
+Norske sjøkart blir utgitt ut som:
+POD-kart: Hele kartporteføljen blir gitt ut to ganger i måneden som POD-kart (Print on Demand). POD-kartene er oppdatert til dags dato med alle sikkerhetskritiske oppdateringer og rettelser som har blitt publisert i Efs. Kjøp et POD-kart når sjøkartet ditt er utslitt eller påført mange rettelser, f.eks. når det blir meldt omfattende lykte-omskjerminger på grunn av [overgang til IALA-systemet for sektorlykter](https://www.kystverket.no/sjovegen/overgang-til-iala-standard/). Da får du et oppdatert, rent kart. Du må kjøpe nytt POD-kart hvis kartet blir utgitt i ny utgave eller som nytt kart.
+Ny utgave: Ny utgave av et eksisterende sjøkart inneholder endringer av vesentlig betyding for navigasjon. Det gjør eksisterende utgave av sjøkartet ugyldig. Kartverket gir også ut nye utgaver av sjøkart når det har blitt meldt mange Efs-meldinger på kartet - og/eller det er mange år siden sist kartet kom som ny utgave.
+Nytt kart: Har store endringer i utforming, avgrensing eller innhold. Alle tidligere utgaver av sjøkartet blir gjort ugyldige.
+Kartbladoversikt
+Se kartbladoversikt på [Norgeskart](https://norgeskart.no/#!?project=dekning&layers=1003,8011,8016,8013,8014,8015&zoom=3&lat=7709676.00&lon=396722.00&p=searchOptionsPanel)
+E-posten er sendt

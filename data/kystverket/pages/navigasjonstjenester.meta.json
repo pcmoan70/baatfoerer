@@ -1,0 +1,62 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Navigasjonstjenester | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "2f8437794803b6b2cb61e694e24ad195a09655d809da21f2d4252803899eb3ce",
+  "fetched_at": "2026-06-02T11:02:52.243950+00:00",
+  "depth": 1,
+  "text_chars": 4361,
+  "n_links": 147,
+  "n_pdf_links": 0,
+  "n_images": 8,
+  "images": [
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-bestille_los.svg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-digitale_referanseruter.svg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-navarea.svg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-navigasjonsvarsler.svg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-ikoner-tjenester-slukkede-fyrlys-2.svg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-kystinfo_kart.svg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-arcticinfo.svg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-safeseanet.svg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/navigasjonstjenester.html",
+    "text": "pages/navigasjonstjenester.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Navigasjon",
+      "id": "content-start"
+    }
+  ]
+}

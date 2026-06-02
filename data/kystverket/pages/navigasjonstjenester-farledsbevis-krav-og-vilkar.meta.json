@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/farledsbevis/krav-og-vilkar/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Krav og vilkår for farledsbevis | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c4266d85da2e4ebdee5f255fa1ef925497c7b1c8bcdca8ed96f52358ebff52d0",
+  "fetched_at": "2026-06-02T11:06:26.224699+00:00",
+  "depth": 2,
+  "text_chars": 6195,
+  "n_links": 146,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-farledsbevis-krav-og-vilkar.html",
+    "text": "pages/navigasjonstjenester-farledsbevis-krav-og-vilkar.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Krav og vilkår for farledsbevis",
+      "id": "content-start"
+    }
+  ]
+}

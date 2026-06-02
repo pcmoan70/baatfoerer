@@ -1,0 +1,46 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/kunnskapen-trenger-ogsa-varpuss-bli-sesongklar-i-hodet-ogsa/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Kunnskapen trenger også vårpuss – bli sesongklar i hodet også - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "2135f4953eb995b15fe9d644f93d7d00a8653e78e5b5928aa0c6a6451e6439e2",
+  "fetched_at": "2026-06-02T11:11:48.049761+00:00",
+  "depth": 2,
+  "text_chars": 4144,
+  "n_links": 110,
+  "n_pdf_links": 0,
+  "n_images": 4,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-pa-cc-8al_virik_2.jpg",
+      "alt": "Pål Virik Nilsen er fagansvarlig kurs og fritidsbåt i RS"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-sjoliv_skjermdump.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2025-04-pa_l-784x1024.jpg",
+      "alt": "Pål Virik Nilsen i RS"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-cabincruiser_pa_grunn-1024x556.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-kunnskapen-trenger-ogsa-varpuss-bli-sesongklar-i-hodet-ogsa.html",
+    "text": "pages/sikker-til-sjos-kunnskapen-trenger-ogsa-varpuss-bli-sesongklar-i-hodet-ogsa.txt"
+  },
+  "anchors": [
+    {
+      "level": 2,
+      "text": "Kunnskapen trenger også vårpuss – bli sesongklar i hodet også",
+      "id": "main-content"
+    }
+  ]
+}

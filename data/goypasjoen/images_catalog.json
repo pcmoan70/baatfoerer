@@ -1,0 +1,34 @@
+{
+  "site": "goypasjoen",
+  "n_images": 2,
+  "images": [
+    {
+      "site": "goypasjoen",
+      "source_id": "goypasjoen",
+      "authority": "private",
+      "file": "goypasjoen\\images\\products-salepage-blocks-ythgnb-111.webp",
+      "url": "https://cdn.kursoria.no/products/salepage/blocks/ythgnb-111.webp",
+      "alt": "Båt som ligger fortøyd til en brygge.",
+      "caption": "",
+      "page_url": "https://xn--gypsjen-gxa2of.no/batforerproven",
+      "relevance_score": 2,
+      "topic_hits": [
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "goypasjoen",
+      "source_id": "goypasjoen",
+      "authority": "private",
+      "file": "goypasjoen\\images\\media-r-rxjjidkjzju.webp",
+      "url": "https://cdn.kursoria.no/media/r/rxjjidkjzju.webp",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://xn--gypsjen-gxa2of.no/batforerproven",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    }
+  ]
+}

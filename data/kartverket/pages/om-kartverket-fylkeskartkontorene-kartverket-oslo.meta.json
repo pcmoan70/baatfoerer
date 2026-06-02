@@ -1,0 +1,64 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-oslo",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kartverket Oslo | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:33 GMT",
+  "checksum_sha256": "20a404fd57d67ea06598d0f1e628e5d9c624393c2c076a752a69e85b21ed6036",
+  "fetched_at": "2026-06-02T11:07:35.315415+00:00",
+  "depth": 2,
+  "text_chars": 1329,
+  "n_links": 61,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-oslo.html",
+    "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-oslo.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kartverket Oslo",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Fagområder i fylkene",
+      "id": "LinkListBlockProxy-5667"
+    },
+    {
+      "level": 2,
+      "text": "Geodatasamarbeid i fylkene",
+      "id": "LinkListBlockProxy-5698"
+    },
+    {
+      "level": 2,
+      "text": "Geodataressurser",
+      "id": "LinkListBlockProxy-5723"
+    },
+    {
+      "level": 2,
+      "text": "Nyheter",
+      "id": "NewsListingBlockProxy-10421"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

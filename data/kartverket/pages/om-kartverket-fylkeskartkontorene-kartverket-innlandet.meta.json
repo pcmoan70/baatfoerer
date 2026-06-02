@@ -1,0 +1,64 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-innlandet",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kartverket Innlandet | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:29 GMT",
+  "checksum_sha256": "7974b8bd6f980486415972a8275ba2e98651294ae105b6127580feff0c7940d4",
+  "fetched_at": "2026-06-02T11:07:30.832634+00:00",
+  "depth": 2,
+  "text_chars": 1290,
+  "n_links": 61,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-innlandet.html",
+    "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-innlandet.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kartverket Innlandet",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Fagområder i fylket",
+      "id": "LinkListBlockProxy-6188"
+    },
+    {
+      "level": 2,
+      "text": "Geodatasamarbeid i fylket",
+      "id": "LinkListBlockProxy-6190"
+    },
+    {
+      "level": 2,
+      "text": "Geodataressurser",
+      "id": "LinkListBlockProxy-5723"
+    },
+    {
+      "level": 2,
+      "text": "Nyheter",
+      "id": "NewsListingBlockProxy-10358"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

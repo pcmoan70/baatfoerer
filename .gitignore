@@ -11,3 +11,9 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Scraped PDFs are large and mostly off-topic; we keep only the relevant ones
+# (skolekart, kartsymboler, bfp-kartsamling) via `git add -f`. The rest stay
+# local — their URLs are preserved in data/*/index.json for re-fetch/linking.
+data/**/*.pdf
+

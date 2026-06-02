@@ -1,0 +1,134 @@
+{
+  "url": "https://www.xn--btfrerprven-x8a3wf.no/klasseromskurs/",
+  "site": "batforerproven",
+  "source_id": "batforerproven",
+  "title": "Klasseromskurs - Båtførerprøven.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 10:28:25 GMT",
+  "checksum_sha256": "8e1e4b4dc2c3713354fb6385a971c1c66f1c9a4a2f648924416bda04e212535d",
+  "fetched_at": "2026-06-02T11:20:21.785319+00:00",
+  "depth": 2,
+  "text_chars": 2255,
+  "n_links": 97,
+  "n_pdf_links": 0,
+  "n_images": 6,
+  "images": [
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-b.png",
+      "alt": "logo"
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-klasseromskurs-2.jpg",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2026-03-venner-pa-tur-1-1-e1749468367703-edited-1.jpg",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2026-03-mobil-skratt-sjoveisreglene-2-1.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-img4.webp",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-hand-1-1.webp",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/klasseromskurs.html",
+    "text": "pages/klasseromskurs.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Klasseromskurs",
+      "id": "post-53542"
+    },
+    {
+      "level": 1,
+      "text": "Båtførekurs i klasserom",
+      "id": "meld-deg-paa"
+    },
+    {
+      "level": 2,
+      "text": "Kundevurderinger",
+      "id": "athemes-blocks-block-36996f38"
+    },
+    {
+      "level": 2,
+      "text": "Dagskurs / Kveldskurs",
+      "id": "athemes-blocks-block-0ccc2d96"
+    },
+    {
+      "level": 2,
+      "text": "Eksamen",
+      "id": "athemes-blocks-block-3ac7d7d9"
+    },
+    {
+      "level": 2,
+      "text": "20% Grupperabatt",
+      "id": "athemes-blocks-block-71aa2ca7"
+    },
+    {
+      "level": 2,
+      "text": "Nettkurs inkludert",
+      "id": "athemes-blocks-block-101f6e11"
+    },
+    {
+      "level": 2,
+      "text": "Navigasjonsutstyr",
+      "id": "athemes-blocks-block-25a4fe05"
+    },
+    {
+      "level": 2,
+      "text": "Kursforsikring",
+      "id": "athemes-blocks-block-f74d66d5"
+    },
+    {
+      "level": 2,
+      "text": "Tilgjengelighet",
+      "id": "athemes-blocks-block-beb3e5fb"
+    },
+    {
+      "level": 2,
+      "text": "Gratis kundeservice",
+      "id": "athemes-blocks-block-78b49a3d"
+    },
+    {
+      "level": 2,
+      "text": "Hurtiglenker",
+      "id": "nav_menu-2"
+    },
+    {
+      "level": 2,
+      "text": "Kundeservice",
+      "id": "nav_menu-5"
+    },
+    {
+      "level": 2,
+      "text": "Follow us",
+      "id": "nav_menu-4"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "content-report"
+    },
+    {
+      "level": 4,
+      "text": "Block Member?",
+      "id": "block-member"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "reported-content"
+    }
+  ]
+}

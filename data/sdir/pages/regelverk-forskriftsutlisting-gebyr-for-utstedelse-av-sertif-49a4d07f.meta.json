@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/regelverk/forskriftsutlisting/gebyr-for-utstedelse-av-sertifikater-og-pategninger-til-maritimt-personell/",
+  "site": "sdir",
+  "source_id": "sdir_batforerbevis",
+  "title": "Gebyr for utstedelse av sertifikater og påtegninger til maritimt personell - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "8556409c0c6aacef4806d8ccaf7f5df8181d6f9f42fd676e5468a0b216f013a9",
+  "fetched_at": "2026-06-02T10:54:00.336699+00:00",
+  "depth": 1,
+  "text_chars": 721,
+  "n_links": 29,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/regelverk-forskriftsutlisting-gebyr-for-utstedelse-av-sertif-49a4d07f.html",
+    "text": "pages/regelverk-forskriftsutlisting-gebyr-for-utstedelse-av-sertif-49a4d07f.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Gebyr for utstedelse av sertifikater og påtegninger til maritimt personell",
+      "id": "main-content"
+    }
+  ]
+}

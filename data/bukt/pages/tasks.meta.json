@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/tasks",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oppgaver - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "6893ea338cc0540cdd9d3c81b2862ee33d43c5780b14d675fe44494814b5104d",
+  "fetched_at": "2026-06-02T11:16:21.066146+00:00",
+  "depth": 2,
+  "text_chars": 7424,
+  "n_links": 400,
+  "n_pdf_links": 7,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/tasks.html",
+    "text": "pages/tasks.txt"
+  },
+  "anchors": []
+}

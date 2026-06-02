@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/naringsfartoy/min-side-fartoy/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Min side fartøy fra Sjøfartsdirektoratet - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "2eec0b6f61487bc0498b52edb214e9ac703d742035ac752101f6ec5a97c940bb",
+  "fetched_at": "2026-06-02T10:56:08.666279+00:00",
+  "depth": 2,
+  "text_chars": 206,
+  "n_links": 32,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/naringsfartoy-min-side-fartoy.html",
+    "text": "pages/naringsfartoy-min-side-fartoy.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Min side fartøy",
+      "id": "main-content"
+    }
+  ]
+}

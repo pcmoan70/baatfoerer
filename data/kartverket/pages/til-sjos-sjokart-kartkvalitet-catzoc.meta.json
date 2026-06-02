@@ -1,0 +1,90 @@
+{
+  "url": "https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kartkvalitet (CATZOC) | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:59 GMT",
+  "checksum_sha256": "60146b9bfe85505cb5ded24b26350f0b22cf22e8363d8b1effc5b2e31255e770",
+  "fetched_at": "2026-06-02T11:08:05.710869+00:00",
+  "depth": 2,
+  "text_chars": 6183,
+  "n_links": 40,
+  "n_pdf_links": 5,
+  "n_images": 5,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-til-sjos-sjokart-datakvalitet-dybder-norske-sjokart.jpg-37269907.jpg",
+      "alt": "Datakvalitet-dybder-norske-sjokart.jpg"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-zoc-diagram-kartustnitt-525.jpg-37269907.jpg",
+      "alt": "Eksempel p&aring; ZOC-diagram vist i papirsj&oslash;kart med sj&oslash;kart i bakgrunnen. Kilde: Kartverket"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-kart525medkildediagram.png-37269907.png",
+      "alt": "Papir-sj&oslash;kart med kildediagram"
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-maris-skjermdump.png-37269907.png",
+      "alt": "\" width="
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-sjomaling-for-naa.jpg-37269907.jpg",
+      "alt": "\" width="
+    }
+  ],
+  "files": {
+    "html": "pages/til-sjos-sjokart-kartkvalitet-catzoc.html",
+    "text": "pages/til-sjos-sjokart-kartkvalitet-catzoc.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Datakvalitet på dybdedata i norske sjøkart",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Standarder",
+      "id": "LinkListBlockProxy-5558"
+    },
+    {
+      "level": 2,
+      "text": "Les mer",
+      "id": "TeaserListBlockProxy-16129"
+    },
+    {
+      "level": 3,
+      "text": "Nautiske publikasjoner",
+      "id": "TeaserListBlockProxy-16129-0"
+    },
+    {
+      "level": 3,
+      "text": "Flo, fjære og vannstand",
+      "id": "TeaserListBlockProxy-16129-1"
+    },
+    {
+      "level": 3,
+      "text": "Bruk sjøkart – få en bedre opplevelse på sjøen",
+      "id": "TeaserListBlockProxy-16129-2"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

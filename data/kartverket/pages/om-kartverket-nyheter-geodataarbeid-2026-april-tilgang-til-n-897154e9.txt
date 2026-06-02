@@ -1,0 +1,15 @@
+Tilgang til NRL-data må godkjennes fra 1. juli
+Kartverket endrer tilgangen til Nasjonalt register over luftfartshindre (NRL): Fra 1. juli 2026 må du få godkjent en søknad for å laste ned eller bruke data om luftfartshindre.
+Frem til i år har NRL-data vært tilgjengelig for alle uten innlogging eller godkjenning. 1. juli 2026 stenger vi åpen nedlastning og WMS-tjenesten.
+Utover at datasettene da ikke lenger er allment tilgjengelige, vil det også innebære at luftfartshindre for eksempel ikke vises i Norgeskart.
+For å fortsatt ha tilgang til NRL-data må du søke om det. Dette gjelder enten du laster ned data manuelt eller henter dem automatisk via tjenestene våre.
+Hvorfor gjør vi endringen?
+NRL inneholder oversikt over luftfartshindre, og sammenstiller informasjon fra flere eiere innen blant annet telekom- og kraftbransjen.
+Den geopolitiske situasjonen gjør at Kartverket må skjerme data der det er nødvendig. Endringen gjøres for å få oversikt over hvem som bruker disse dataene, og å sørge for at de blir brukt til riktig formål.
+– Vi må sikre at NRL-data kommer til dem som har et legitimt behov, samtidig som vi ivaretar sikkerhet og kontroll. Den nye distribusjonsløsningen gjør at vi kan gi riktig tilgang til riktige brukere, uten at sensitive opplysninger ligger tilgjengelig, sier Lars Fredrik Gyland, avdelingsdirektør og produkteier for NRL.
+Slik får du tilgang
+Du kan søke om tilgang på Kartverkets nettsider fra starten av juni. Med godkjent søknad, kan du få tilgang til datasettene på to måter:
+- Manuell nedlastning av filer
+- Endringslogg-API, for deg som ønsker fortløpende oppdatering av data i egne systemer
+Dersom du har tekniske spørsmål omkring tilgang, kan du ta kontakt med [Kartverkets NRL-team på epost](mailto:nrl@kartverket.no).
+E-posten er sendt

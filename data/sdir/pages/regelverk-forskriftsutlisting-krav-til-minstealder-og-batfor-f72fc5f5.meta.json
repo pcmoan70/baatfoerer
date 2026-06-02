@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/regelverk/forskriftsutlisting/krav-til-minstealder-og-batforerbevis-mv.-for-forer-av-fritidsbat",
+  "site": "sdir",
+  "source_id": "sdir_batforerbevis",
+  "title": "Krav til minstealder og båtførerbevis mv. for fører av fritidsbåt - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "7c8515f4d872d51e71d36f5f1bb46144eab861e45b972a4d661a6c6de743c6ae",
+  "fetched_at": "2026-06-02T10:53:59.246486+00:00",
+  "depth": 1,
+  "text_chars": 689,
+  "n_links": 29,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/regelverk-forskriftsutlisting-krav-til-minstealder-og-batfor-f72fc5f5.html",
+    "text": "pages/regelverk-forskriftsutlisting-krav-til-minstealder-og-batfor-f72fc5f5.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Krav til minstealder og båtførerbevis mv. for fører av fritidsbåt",
+      "id": "main-content"
+    }
+  ]
+}

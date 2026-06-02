@@ -1,0 +1,32 @@
+Radiolisens for yrkesfartøy
+For å få oversikt over radiolisensene dine, gjøre endringer, registrere en ny radiolisens eller si opp en eksisterende, må du logge inn på Min side fartøy.
+Fra og med 1. januar 2026 er det Sjøfartsdirektoratet som tildeler maritime radiolisenser for norske fritids- og yrkesfartøy, offshoreinstallasjoner, maritime skoler og radiofirmaer. Lisens for bruk på land tildeles fortsatt av Nasjonal kommunikasjonsmyndighet (Nkom).
+- For fritidsbåtlisens logger du på som privatperson, og for yrkesbåtlisens velger du bedriften/foretaket du representerer.
+- Fartøy i NIS/NOR vil vise i når man logger inn. Der kan du velge fartøyet og søke om lisens.
+Hvilket maritimt radioutstyr krever lisens?
+Når en båt med VHF-radio eller annet utstyr som benytter maritime frekvenser, må eierskapet oppdateres hos Sjøfartsdirektoratet. Dette sikrer at riktig eier og kontaktinformasjon er registrert, noe som er lovpålagt og avgjørende for tryggheten til sjøs.
+Eksempler på registreringspliktig maritimt radioutstyr:
+- VHF-radio (fastmontert og/eller håndholdt)
+- AIS-sender
+- MF/HF-sender
+- Search And Rescue Transponder (SART)
+- Emergency Position Indicating Radio Beacon (EPIRB)
+- Mann over bord-utstyr (MOB device)
+Hvorfor må man ha lisens?
+I henhold til lov om elektronisk kommunikasjon og forskrift om konsesjon (lisens) er det påbudt å ha lisens for maritimt radioutstyr om bord i fartøy. Kravet gjelder for både fritidsfartøy og yrkesfartøy.
+Når du tegner lisens, får fartøyet tildelt et kallesignal og et MMSI-nummer (Maritime Mobile Service Identity). Dette nummeret er en unik kode på ni siffer som identifiserer fartøyets radioutstyr.
+Lisensdokumentet skal alltid oppbevares om bord. Dokumentet viser hvilket radioutstyr som brukes på fartøyet, og for yrkesfartøy er det en viktig del av radioinspeksjonen og utstedelsen av radiosikkerhetssertifikat.
+Sjøfartsdirektoratet oppdaterer samtidig det nasjonale Skipsradioregisteret, som brukes blant annet av Hovedredningssentralen.Oppdaterte opplysninger sendes også til Den internasjonale teleunionen (ITU) i Genève.
+Eierskifte
+Har du kjøpt eller solgt et fartøy med radio, er det viktig at eierskiftet blir meldt inn.
+Registrering av fartøy
+Om du har et nytt fartøy, ny håndholdt radio eller et brukt fartøy kjøpt utenfor Norge (og som aldri har vært registrert i Norge) må det registreres.
+Verifisering av radiolisens
+For å få en bekreftelse på at lisensen din er gyldig, kan du legge inn lisensnummer i Sjøfartsdirektoratets tjeneste verify.sdir.no. Du finner også informasjon om gyldighet ved å logge inn på Min side fartøy.
+Inmarsat
+For aktivering eller deaktivering av Inmarsat, ta kontakt med tjenesteleverandør.
+[En oversikt over tjenesteleverandører finnes på Inmarsat.com](https://www.inmarsat.com/customer-service/find-a-partner/)
+Priser
+Oppdatert januar 2026:
+- Årlig grunnlisens VHF og AIS: 200,-
+- Årlig utvidet lisens (A1, A2 A3 og A4): 500,-

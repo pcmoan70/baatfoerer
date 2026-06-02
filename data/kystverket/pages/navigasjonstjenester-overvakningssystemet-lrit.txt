@@ -1,0 +1,9 @@
+Alle LRIT sertifikater (Conformance Test Report) med norsk flaggskip skal sendes til [lrit@kystverket.no](mailto:lrit@kystverket.no)
+FNs sjøfartsorganisasjon IMO har vedtatt at havovervåkingssystemet LRIT (Long Range Identification and Tracking) kun er obligatorisk for følgende skip som går i internasjonal fart:
+- Passasjerskip, inkludert hurtiggående passasjerfartøyer (uansett bruttotonn)
+- Lasteskip, inkludert høyhastighetsfartøy, med 300 bruttotonn og oppover
+- Flyttbare offshore boreenheter
+Disse er unntatt LRIT:
+- Militære fartøy
+- Fiskerfartøy
+- Skip som opereres utelukkende innenfor havområdet A1 (liten kystfart).

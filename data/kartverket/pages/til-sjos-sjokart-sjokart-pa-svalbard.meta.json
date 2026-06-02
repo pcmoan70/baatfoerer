@@ -1,0 +1,58 @@
+{
+  "url": "https://www.kartverket.no/til-sjos/sjokart/sjokart-pa-svalbard",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Sjøkart på Svalbard | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:06 GMT",
+  "checksum_sha256": "9bc4b652a19b690b1e984716bf36d6a4e0723259f2839374d70770a566fdfdf2",
+  "fetched_at": "2026-06-02T11:08:10.146441+00:00",
+  "depth": 2,
+  "text_chars": 9246,
+  "n_links": 48,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-svalbard.jpg-3b9cbf77.jpg",
+      "alt": "Sjøis i farvann på Svalbard."
+    },
+    {
+      "file": "kartverket\\images\\contentassets-ce2530deaba649178db86152835ef981-catzoc-eksempel.jpg-cb0df5e4.jpg",
+      "alt": "ZOC-diagram.JPG"
+    }
+  ],
+  "files": {
+    "html": "pages/til-sjos-sjokart-sjokart-pa-svalbard.html",
+    "text": "pages/til-sjos-sjokart-sjokart-pa-svalbard.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Skal du ferdes i båt på Svalbard?",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Nyttige lenker",
+      "id": "LinkListBlockProxy-196152"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

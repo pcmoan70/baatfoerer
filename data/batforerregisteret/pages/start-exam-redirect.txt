@@ -1,0 +1,4 @@
+Du må nå benytte eksamenskalenderen fra [testledersiden](https://xn--btfrerregisteret-dob85a.no/testleder/) for start av båtførerprøven.
+Dokumentasjon som beskriver hvordan du oppretter aktiviteter, melder på kandidater og starter eksamen finner du også her.
+NB: KID-systemet er deaktivert og erstattet. Ny funksjonalitet
+for å opprette kandidater uten norsk fødselsnummer eller d-nummer finner du på [testledersiden](https://xn--btfrerregisteret-dob85a.no/testleder/).

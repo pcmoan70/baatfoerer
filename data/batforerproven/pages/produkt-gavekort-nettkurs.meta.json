@@ -1,0 +1,72 @@
+{
+  "url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/gavekort-nettkurs/",
+  "site": "batforerproven",
+  "source_id": "batforerproven",
+  "title": "Gavekort Nettkurs - Båtførerprøven.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": "Mon, 01 Jun 2026 11:18:46 GMT",
+  "checksum_sha256": "1f673ea7a54cd6d0de9f1ae9edf2fedc7dd36f784997157ad03ad9253d2eb341",
+  "fetched_at": "2026-06-02T11:20:03.346705+00:00",
+  "depth": 2,
+  "text_chars": 1592,
+  "n_links": 95,
+  "n_pdf_links": 0,
+  "n_images": 3,
+  "images": [
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2024-01-batforerproven.no_-452x319.png",
+      "alt": "Fysisk gavekort til mottaker av kurs, følger med."
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-app-presentasjonsbilde-4-3-452x339.jpg",
+      "alt": "Båtførerprøven nettkurs tilgjengelig på nett og som app. Levende videokurs med hundrevis av øvningsoppgaver som ligner den virkelige båtførerprøven."
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-app-forklaringsbilder-4-3-452x339.jpg",
+      "alt": "Nettkurset til båtførerprøven.no inkluderer navigasjonsutstyr, testeksamener og gir deg en pekepinn på når du er klar til eksamen."
+    }
+  ],
+  "files": {
+    "html": "pages/produkt-gavekort-nettkurs.html",
+    "text": "pages/produkt-gavekort-nettkurs.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Gavekort Nettkurs",
+      "id": "product-2710"
+    },
+    {
+      "level": 2,
+      "text": "Hurtiglenker",
+      "id": "nav_menu-2"
+    },
+    {
+      "level": 2,
+      "text": "Kundeservice",
+      "id": "nav_menu-5"
+    },
+    {
+      "level": 2,
+      "text": "Follow us",
+      "id": "nav_menu-4"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "content-report"
+    },
+    {
+      "level": 4,
+      "text": "Block Member?",
+      "id": "block-member"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "reported-content"
+    }
+  ]
+}

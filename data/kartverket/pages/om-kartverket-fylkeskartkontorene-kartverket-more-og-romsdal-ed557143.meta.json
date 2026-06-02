@@ -1,0 +1,44 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-more-og-romsdal/noreg-digitalt-more-og-romsdal/noreg-digitalt-samling-2026",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Noreg digitalt-samling 2026 | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "8177a745cba1989505b9aec4424e62102305521b1ea88541490df28ac94bf79c",
+  "fetched_at": "2026-06-02T11:08:41.039237+00:00",
+  "depth": 2,
+  "text_chars": 2732,
+  "n_links": 38,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-more-og-romsdal-ed557143.html",
+    "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-more-og-romsdal-ed557143.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Noreg digitalt-samling 2026",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

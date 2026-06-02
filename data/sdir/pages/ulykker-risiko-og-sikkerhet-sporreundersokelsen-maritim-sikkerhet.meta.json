@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/ulykker-risiko-og-sikkerhet/sporreundersokelsen-maritim-sikkerhet/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Spørreundersøkelsen maritim sikkerhet - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "d726e3a2e48fdc72e84d71b09a9c023de85ad84d4317ffe14fccc043941acf80",
+  "fetched_at": "2026-06-02T10:57:04.060961+00:00",
+  "depth": 2,
+  "text_chars": 618,
+  "n_links": 26,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/ulykker-risiko-og-sikkerhet-sporreundersokelsen-maritim-sikkerhet.html",
+    "text": "pages/ulykker-risiko-og-sikkerhet-sporreundersokelsen-maritim-sikkerhet.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Spørreundersøkelsen maritim sikkerhet",
+      "id": "main-content"
+    }
+  ]
+}

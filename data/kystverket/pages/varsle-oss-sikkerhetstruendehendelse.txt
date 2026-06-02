@@ -1,0 +1,20 @@
+Varsle om mistenkelig maritim aktivitet
+Varsle oss hvis du reagerer på aktivitet eller av andre årsaker mener maritime myndigheter bør gjøres kjent med noe du har sett og som du mener kan være til fare for rikets sikkerhet
+Mistenkelige observasjoner
+Ved akutt eller pågående hendelse: Ring Politiet på 112
+For ikke-akutte observasjoner: Send e-post til nor.vts@kystverket.no
+- Bruk emnefeltet: "Sikkerhetstrussel"
+- Beskriv: Hvem, hva, hvor, når, hvordan
+- Legg gjerne ved bilder, video eller annen dokumentasjon
+Hva skal meldes?
+Hva skal meldes?[Meldinger som gjelder observasjoner i direkte tilknytning til et havneanlegg skal gis her](https://www.kystverket.no/varsle-oss/isps-sikringshendelse/)
+Meld fra om du ser noe som kan tyde på at noen kartlegger, planlegger, eller holder på å gjennomføre noe som kan true sikkerheten i og ved sjøen. Tegn på dette kan for eksempel være:
+- uvanlig seilingsmønster eller ankring
+- uvanlige fartøysbevegelser i nærheten av viktig infrastruktur
+- enkeltpersoners adferd
+- droneaktivitet
+- filming/fotografering
+- at man opplever seg utsatt for påvirkning av digitale systemer (IT/OT).
+OBS! Meldinger som gjelder aktivitet direkte knyttet til et havneanlegg, skal rapporteres via [vår ISPS-varslingstjeneste](https://www.kystverket.no/varsle-oss/isps-sikringshendelse/)
+Det er bedre å melde én gang for mye enn én gang for lite.
+Mistenkelige maritime hendelser kan utvikle seg raskt og få alvorlige konsekvenser. Din observasjon kan utgjøre en viktig brikke i det store bildet.

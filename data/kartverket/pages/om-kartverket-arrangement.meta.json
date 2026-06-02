@@ -1,0 +1,39 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/arrangement",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Arrangement | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:05 GMT",
+  "checksum_sha256": "4f918c7ff7d25ddf73e555a1703a580fe6585198e0b3e19fe36b995551589aa8",
+  "fetched_at": "2026-06-02T11:07:07.718044+00:00",
+  "depth": 1,
+  "text_chars": 2550,
+  "n_links": 53,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-arrangement.html",
+    "text": "pages/om-kartverket-arrangement.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kartverkets arrangementer og kurs",
+      "id": "primarycontent"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.kystverket.no/nyheter/2024/iala-omleggingen-av-sjomerking-langs-norskekysten-er-fullfort/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Lys i riktig retning – IALA-omleggingen av sjømerking langs norskekysten er fullført | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "5122f604dd41c152570e231d8b16cf8b3aa998afb87de2f91ac35a6cb3552ac0",
+  "fetched_at": "2026-06-02T11:05:04.237622+00:00",
+  "depth": 2,
+  "text_chars": 3060,
+  "n_links": 130,
+  "n_pdf_links": 0,
+  "n_images": 4,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-lykt-4.jpg-169bbf91.jpg",
+      "alt": "Fyrlykt Horten"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-etter-iala-omlegging.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-iala-2-lykter-a6d072c7.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-7cb6ce40eba74610999b4fd7e6f0523d-iala-skjermin-9276f65f.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/nyheter-2024-iala-omleggingen-av-sjomerking-langs-norskekysten-er-fullfort.html",
+    "text": "pages/nyheter-2024-iala-omleggingen-av-sjomerking-langs-norskekysten-er-fullfort.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Lys i riktig retning – IALA-omleggingen av sjømerking langs norskekysten er fullført",
+      "id": "content-start"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/kategori/vaer-og-vind/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Vær og vind Arkiver - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "73a93eba2082ec43c725d0b845ec83df8119cb66d28d05c2d08a773f7cd8d3f5",
+  "fetched_at": "2026-06-02T11:11:33.536877+00:00",
+  "depth": 1,
+  "text_chars": 1925,
+  "n_links": 151,
+  "n_pdf_links": 0,
+  "n_images": 7,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-12-gjennom_isen.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2017-03-storm_rs.no_.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2022-11-trelags_klaer_gudbrand.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2016-10-vinter_hav.png",
+      "alt": "Varme i båt på vinteren."
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-10-storm_a_odman_toppbilde.jpg",
+      "alt": "Redningsskøyta i storm. Foto: Anders Ödman"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-vikeregler_mange_bater.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-11-forlenge_ba-tsesong-e1632317461644.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos-kategori-vaer-og-vind.html",
+    "text": "pages/sikker-til-sjos-kategori-vaer-og-vind.txt"
+  },
+  "anchors": []
+}

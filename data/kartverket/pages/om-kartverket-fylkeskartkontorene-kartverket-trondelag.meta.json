@@ -1,0 +1,64 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/fylkeskartkontorene/kartverket-trondelag",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Kartverket Trøndelag | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:07:38 GMT",
+  "checksum_sha256": "003a447bb571529b354436d5f99b2a2b1ce0c771d090c118f487c7802793f5bf",
+  "fetched_at": "2026-06-02T11:07:39.585826+00:00",
+  "depth": 2,
+  "text_chars": 2087,
+  "n_links": 60,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-fylkeskartkontorene-kartverket-trondelag.html",
+    "text": "pages/om-kartverket-fylkeskartkontorene-kartverket-trondelag.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kartverket Trøndelag",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Fagområder Trøndelag",
+      "id": "LinkListBlockProxy-6543"
+    },
+    {
+      "level": 2,
+      "text": "Geodatasamarbeid i fylket",
+      "id": "LinkListBlockProxy-6545"
+    },
+    {
+      "level": 2,
+      "text": "Geodataressurser",
+      "id": "LinkListBlockProxy-5723"
+    },
+    {
+      "level": 2,
+      "text": "Nyheter",
+      "id": "NewsListingBlockProxy-10426"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

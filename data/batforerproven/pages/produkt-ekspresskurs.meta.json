@@ -1,0 +1,68 @@
+{
+  "url": "https://www.xn--btfrerprven-x8a3wf.no/produkt/ekspresskurs/",
+  "site": "batforerproven",
+  "source_id": "batforerproven",
+  "title": "Ekspresskurs - Båtførerprøven.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:20:21 GMT",
+  "checksum_sha256": "cc6616cb1ab1b8618cba8f4fbb3c2571e5ceb9d7193364336e8208e01a744a8a",
+  "fetched_at": "2026-06-02T11:20:24.975654+00:00",
+  "depth": 2,
+  "text_chars": 1594,
+  "n_links": 104,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-05-ikoner_bfp_batforerproven.svg",
+      "alt": "Ekspresskurs"
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2020-09-testeksamen-forsidebilde-1-452x339.jpg",
+      "alt": "Jente gjennomfører testeksamen fra egen stue, og får en indikasjon på sitt kunnskapsnivå."
+    }
+  ],
+  "files": {
+    "html": "pages/produkt-ekspresskurs.html",
+    "text": "pages/produkt-ekspresskurs.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Ekspresskurs",
+      "id": "product-17146"
+    },
+    {
+      "level": 2,
+      "text": "Hurtiglenker",
+      "id": "nav_menu-2"
+    },
+    {
+      "level": 2,
+      "text": "Kundeservice",
+      "id": "nav_menu-5"
+    },
+    {
+      "level": 2,
+      "text": "Follow us",
+      "id": "nav_menu-4"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "content-report"
+    },
+    {
+      "level": 4,
+      "text": "Block Member?",
+      "id": "block-member"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "reported-content"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/categories/FØRSTEHJELP",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Førstehjelp - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c14a632220a280039f5afc8f782bf32a3e719e0f1a9021ae3ebff61457868b67",
+  "fetched_at": "2026-06-02T11:14:06.122403+00:00",
+  "depth": 2,
+  "text_chars": 1849,
+  "n_links": 34,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/categories-f-rstehjelp.html",
+    "text": "pages/categories-f-rstehjelp.txt"
+  },
+  "anchors": []
+}

@@ -1,0 +1,44 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/jobb-i-kartverket/karriere-og-utvikling",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Karriere og utvikling | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:55 GMT",
+  "checksum_sha256": "93a3f9f743fb486af04edb9d5e5468a249d61012a3dcabdf70440a836f735152",
+  "fetched_at": "2026-06-02T11:08:56.627308+00:00",
+  "depth": 2,
+  "text_chars": 2693,
+  "n_links": 36,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-jobb-i-kartverket-karriere-og-utvikling.html",
+    "text": "pages/om-kartverket-jobb-i-kartverket-karriere-og-utvikling.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Karriere og utvikling",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://bukt.no/articles/sjoekartet",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Hvordan lese sjøkartet? - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "efcab2bbe6e9440d534237ee3b67041693ca9231d83c1f9b4bec59c9ed2618d6",
+  "fetched_at": "2026-06-02T11:16:48.995787+00:00",
+  "depth": 2,
+  "text_chars": 2276,
+  "n_links": 21,
+  "n_pdf_links": 5,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-sjokartet.jpg",
+      "alt": "Sjøkart"
+    }
+  ],
+  "files": {
+    "html": "pages/articles-sjoekartet.html",
+    "text": "pages/articles-sjoekartet.txt"
+  },
+  "anchors": []
+}

@@ -1,0 +1,52 @@
+Frå det ytste verdsrommet til dei djupaste havbotnar
+Kartverkets arbeidsfelt er omfattande og mangfaldig.
+Fellesnemnaren for oppgåvene til Kartverket er geografisk eller stadfesta informasjon, enten det handlar om datamengdene som ligg til grunn for eit kart, om stadnamn, eigedomsgrenser eller tinglyste rettar knytt til ein stad.
+Statens kartverk, som er det fulle namnet i formelle samanhengar, samlar inn, systematiserer, forvaltar og vidareformidlar offentleg geografisk informasjon.
+Les Kartverkets [årsmeldingar og strategiar her.](https://www.kartverket.no/om-kartverket/arsmeldinger)
+Leiing og tilsette
+Kartverket har om lag 820 tilsette. Øvste leiar for Kartverket er kartverkssjef Johnny Welle. Han har denne leiargruppa rundt seg:
+Leveransane våre
+Kartverket har ansvar for følgjande:
+- Nasjonalt geodetisk grunnlag: Kartverket har ansvar for stadfestingsgrunnlaget som kart- og oppmålingsarbeida i Noreg byggjer på
+- Digitale kart: Kartverket produserer og forvaltar nasjonale digitale kartseriar (land- og sjøkart)
+- Tinglysing:
+[Tinglysing](https://www.kartverket.no/eiendom/tinglyse-rettigheter)i fast eigedom og andelar i burettslag - Eigedomsinformasjon: Kartverket driftar dei nasjonale registra for offentleg eigedomsinformasjon (matrikkelen og grunnboka) og er sentral matrikkelmyndigheit
+- Stadnamn:
+[Forvaltar det nasjonale Sentralt stadnamnregister (SSR)](https://www.kartverket.no/til-lands/stadnamn/finn-stadnamn-i-kart-og-sentralt-stadnamnregister) - Standardar: Nasjonale standardar for kart og geografisk informasjon
+- Posisjonstenester: Tenester som gir nøyaktig, satellittbasert posisjon
+- Elektronisk sjøkartteneste: Driftar den internasjonale elektroniske sjøkarttenesta
+[Primar](https://www.primar.org/) - Djupne- og høgdedata: Vi har ansvar for
+[detaljerte høgde- og djupnedata.](https://www.kartverket.no/api-og-data/terrengdata)
+Kartverket er organisert i fire divisjonar: Eigedom, geodesi, land og sjø. Vi har også ei stor IT-avdeling.
+Landdivisjonen
+Landdivisjonen etablerer og forvaltar kartdata og geografisk informasjon for Fastlands-Noreg. Det skjer i samarbeid med kommunar, andre offentlege etatar og private verksemder. Divisjonen har ansvar for å halde ajour og forvalte dei nasjonale kartdatabasane N50-N5000 Kartdata, topografisk hovudkartserie Norge 1:50 000, landsdekkande terrengmodell og høgdedata, produkt knytte til transportnettverk, samt koordinere og drifte nasjonalt program for omløpsfotografering.
+Divisjonen tar vare på historisk kart- og flyfotomateriale og driftar også eit register over luftfartshindre.
+Sjødivisjonen
+Norges Sjøkartverk blei etablert i 1932, og har sidan 1986 vore ein divisjon i Kartverket. Sjødivisjonen held til i Stavanger.
+Sjødivisjonen er offentleg sjøkartmyndigheit og har ansvaret for å utarbeide og vedlikehalde sjøkart. Desse dekkjer alle hav- og kystområda i Noreg, rundt Svalbard, i tillegg til norske område i Antarktis. Sjødivisjonen er den einaste autoriserte produsenten av offisielle sjøkart i Noreg, og fartøy over en viss storleik pliktar å bruke desse karta. Divisjonen er også ansvarleg for informasjon om farvatn, tidevatn, havstraumar og djupnedatabase, og er også leverandør av djupnedata.
+Sjødivisjonen har operatøransvar for den internasjonale sjøkarttenesta [Primar](https://www.primar.org/), som leverer offisielle [elektroniske sjøkart (ENC)](https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc) til internasjonal skipsfart på vegner av nasjonar over heile verda.
+Eigedomsdivisjonen
+Eigedomsdivisjonen er nasjonal tinglysingsstyresmakt og sentral matrikkelstyresmakt. Divisjonen forvaltar data frå grunnbok og matrikkel, og har forvaltingsoppgåver knytt til lov om stadnamn og administrative grenser.
+Som nasjonal tinglysingsstyresmakt har divisjonen ansvar for føring og formidling av data frå grunnboka for fast eigedom og andelar i burettslag. Eigedomsdivisjonen har også ansvar for matrikkelen, det nasjonale eigedomsregisteret, som blir oppdatert fortløpande i samarbeid med kommunane.
+Eigedomsdivisjonen fastset skrivemåten i stadnamnsaker, og driftar det sentrale stadnamnregisteret. I tillegg har divisjonen forvaltingsoppgåver knytt til administrative grenser, som kommune- og riksgrenser.
+Geodesidivisjonen
+Geodesidivisjonen har ansvar for det nasjonale geodetiske grunnlaget, som er grunnlaget for all fastsetjing av posisjon, oppmåling, kartlegging og jordobservasjon. Divisjonen måler og fastset også nasjonale referanserammer for koordinatar, høgdereferanseflater, høgdegrunnlaget og landheving. Geodesidivisjonen driftar eit nasjonalt system for nøyaktig satellittbasert stadfesting av posisjonar. Posisjonstenestene kan fastsetje posisjonen på centimeteren og blir mellom anna nytta i anleggsbransjen for å definere nøyaktig kor ein skal grave. Tenestene blir også nytta ved fastsetjing av eigedomsgrenser.
+[ Det geodetiske observatoriet til Kartverket i Ny-Ålesund](https://www.kartverket.no/en/about-kartverket/geodetic-earth-observatory) på Svalbard har ei nøkkelrolle i arbeidet med referanserammer og det globale samarbeidet om overvakinga av jordkloden.
+Region- og samfunnskontakt
+Kartverket har ei viktig rolle i samfunnet ved å bygge relasjonar og skape arenaer for dialog med offentleg sektor, næringsliv og akademia. Gjennom aktiv og open kommunikasjon synleggjer vi korleis Kartverket er ein viktig premissleverandør til sentrale samfunnsområde som digitalisering, navigasjon, posisjonering, samfunnstryggleik, beredskap, klima, miljø og eigedom.
+Region- og samfunnskontakt er eit sentralt bindeledd mellom Kartverket og viktige samarbeidspartnarar. Divisjonen ser til at behov og moglegheiter knytt til geografisk informasjon blir forstått og følgde opp på tvers av sektorar. Gjennom aktiv deltaking på samfunnsarenaer som Arendalsveka synleggjer vi Kartverket si rolle som teknologiverksemd, arbeidsgivar og premissleverandør.
+Kartverket har 12 fylkeskartkontor. Ved å vere til stades i regionane er vi eit viktig kontaktpunkt mellom Kartverket og kommunane. Vi hjelper kommunane i arbeidet med mellom anna geografisk informasjon, forvalting av eigedomsdata og å følge opp nasjonale standardar.
+IT i Kartverket
+IT står sentralt i å utvikle, forvalte og modernisere dei digitale løysingane i Kartverket. Vi gjer digitaliseringsreisa både spennande og utfordrande, og vi samarbeider tett med alle einingar.
+Hos oss finn du sterke kompetansemiljø innan rådgiving, standardisering, utvikling, plattform, infrastruktur, tryggleik og klient. Saman sikrar vi at samfunnskritiske tenester er brukarvennlege, trygge og tilgjengelege nasjonalt.
+Vi har bygd opp [plattformer og felleskomponentar](https://skip.kartverket.no/) basert på skyteknologi som støttar sikker og effektiv utvikling. Utviklinga er organisert gjennom tverrfaglege produktteam. Vi leverer strategisk utviklingskompetanse til produktteama i Kartverket, som for tida består av 19 team. IT har totalt om lag 130 årsverk.
+Geodatakoordinator
+Kartverket har også ei viktig rolle som nasjonal geodatakoordinator. Det inneber at Kartverket leier og samordnar arbeidet med den nasjonale geografiske infrastrukturen i Noreg. Dette skjer i nært samarbeid med kommunane og andre offentlege leverandørar og brukarar av geografisk informasjon gjennom Noreg digitalt-samarbeidet.
+Våre verdiar
+I Kartverket legg me stor vekt på fem kjerneverdiar: å vere inkluderande, kompetente, opne, pålitelege og engasjerte. Desse verdiane er styrande for korleis me møter både kvarandre og omverda – og dei blir spegla i kulturen og det daglege arbeidet vårt.
+Inkluderande: Me trur på fellesskap og styrken i mangfald. Me viser respekt og toleranse, og ser ulikskap som ein ressurs. Hos oss er alle ein del av noko større.
+Kompetente: Me er fagleg dyktige og kvalifiserte, og me kombinerer kunnskap og ferdigheiter med gode haldningar. Det gjer oss i stand til å levere kvalitet i alt me gjer.
+Opne: Me er ærlege, merksame og lyttande. Me deler kunnskap og informasjon, og legg vekt på openheit både internt og i møte med samarbeidspartnarar. Hos oss er det rom for dialog, og me behandlar kvarandre med respekt og likeverd.
+Pålitelege: Kvalitet er kjenneteiknet vårt. Me held det me lover, er lojale og gir god service. Styrken vår ligg i å vera til å stola på – både som kollegaer og samarbeidspartnarar.
+Engasjerte: Me er motiverte og tek ansvar for eiga utvikling. Gjennom engasjement og initiativ bidreg me til å forma ein arbeidsplass som er framtidsretta, utfordrande og attraktiv. Me gjer ein forskjell – og me gir det litle ekstra.
+E-posten er sendt

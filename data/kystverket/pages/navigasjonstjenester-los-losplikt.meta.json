@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/los/losplikt/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Losplikt | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "fd4e32faac05121bf1563238f2db4d41f7f08b5c716e2356b4d6030d41b15036",
+  "fetched_at": "2026-06-02T11:05:53.240086+00:00",
+  "depth": 2,
+  "text_chars": 4645,
+  "n_links": 142,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-los-losplikt.html",
+    "text": "pages/navigasjonstjenester-los-losplikt.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Losplikt",
+      "id": "content-start"
+    }
+  ]
+}

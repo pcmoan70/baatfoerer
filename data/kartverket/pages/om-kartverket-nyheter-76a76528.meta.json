@@ -1,0 +1,39 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/nyheter?sections=781",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Nyheter | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:30 GMT",
+  "checksum_sha256": "0dc558e6cf7283555698ca82ac34885863316b62bf30d454904db3a73a9fdf0d",
+  "fetched_at": "2026-06-02T11:08:31.510061+00:00",
+  "depth": 2,
+  "text_chars": 1383,
+  "n_links": 31,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-nyheter-76a76528.html",
+    "text": "pages/om-kartverket-nyheter-76a76528.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Nyheter",
+      "id": "primarycontent"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "url": "https://www.xn--btfrerprven-x8a3wf.no/kurs/gratistest/",
+  "site": "batforerproven",
+  "source_id": "batforerproven",
+  "title": "Gratis test - Båtførerprøven.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c603e632b7db86f7b54d47b126fdee1dae15e3202d5b5839c495e6cc4c45e825",
+  "fetched_at": "2026-06-02T11:19:40.599265+00:00",
+  "depth": 1,
+  "text_chars": 325,
+  "n_links": 87,
+  "n_pdf_links": 0,
+  "n_images": 4,
+  "images": [
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-frame-19718.svg",
+      "alt": "Search"
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-frame-cart.svg",
+      "alt": "Frame-cart"
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2024-06-gratistest-kursbilde4-3.jpg",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-05-frame-20307-1.png",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/kurs-gratistest.html",
+    "text": "pages/kurs-gratistest.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Gratis test",
+      "id": "post-42512"
+    },
+    {
+      "level": 2,
+      "text": "Test deg selv",
+      "id": "ld-tab-content-42512"
+    },
+    {
+      "level": 2,
+      "text": "Kursinnhold",
+      "id": "learndash_post_42512"
+    },
+    {
+      "level": 2,
+      "text": "Hurtiglenker",
+      "id": "nav_menu-2"
+    },
+    {
+      "level": 2,
+      "text": "Kundeservice",
+      "id": "nav_menu-5"
+    },
+    {
+      "level": 2,
+      "text": "Follow us",
+      "id": "nav_menu-4"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "content-report"
+    },
+    {
+      "level": 4,
+      "text": "Block Member?",
+      "id": "block-member"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "reported-content"
+    }
+  ]
+}

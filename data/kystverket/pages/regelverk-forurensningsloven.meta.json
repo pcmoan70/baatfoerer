@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/regelverk/forurensningsloven/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Forurensningsloven | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "a4939fd441ef0f63205041117cafef9fa5048c7eebfd2f2b65ff18aa2332565d",
+  "fetched_at": "2026-06-02T11:03:46.488035+00:00",
+  "depth": 1,
+  "text_chars": 276,
+  "n_links": 131,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/regelverk-forurensningsloven.html",
+    "text": "pages/regelverk-forurensningsloven.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Forurensningsloven",
+      "id": "content-start"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+Datakvalitet på dybdedata i norske sjøkart
+Vær obs på kvalitetsinformasjonen i sjøkartene. Kvaliteten på dybdedataene i sjøkartene angis i kartets ZOC-diagram (Zones of Confidence). ZOC-diagrammene i papirkartene samsvarer med nøyaktighetsangivelsene i offisielle elektroniske sjøkart (ENC).
+[Synstolket versjon av filmen Kvalitet i sjøkartene](https://vimeo.com/694299800).
+Når ble området dybdekartlagt?
+ZOC-diagram gir en oversikt over datakvalitet i kartet. Er det "røde områder" som aldri har blitt kartlagt, eller kanskje "mørk rosa områder" som ble sjømålt med håndlodd?
+ZOC-diagrammet hjelper deg å ta hensyn til de begrensninger som sjøkartet gir. Sjøfarende må være ekstra oppmerksom på områder som ikke er kartlagt eller har unøyaktige og gamle data, og vurdere hvor det er forsvarlig å seile. Det oppfordres til å navigere med varsomhet i områder med eldre dybdemålinger med lav kvalitet.
+Datakvalitet i sjøkart er angitt ut fra hvilke målemetoder (teknologi) som er brukt til å dybdekartlegge. I papirkart blir datakvaliteten vist i et ZOC-diagram og i et eget datalag i elektroniske sjøkart (ENC).
+Oversikt over datakalitet på dybder i sjøkart kan du se på [norgeskart.no](https://norgeskart.no/?lon=620902.2618276483&lat=8789969.23327257&rotation=0&zoom=9&backgroundLayer=nautical-background&themeLayers=sjoDybdedatakvalitetSjokart%2CsjoIkkeSjomalt&projection=EPSG%3A3857). Tegnforklaring til de ulike nivåene finner i verktøyene til høyre i nettleseren.
+Kartverket har hentet ut informasjonen om CATZOC fra de offiselle ENC-ene og distribuerer datasett og WMS-tjeneste via Geonorge. Datalaget kan brukes til å få oversikt over [Datakvaliteten på dybdedata i navigasjonsproduktene (geonorge.no)](https://kartkatalog.geonorge.no/metadata/datakvalitet-paa-dybdedata-i-navigasjonsproduktene/ac668c06-43c8-4c31-9910-93139abd24b0) langs norskekysten og på Svalbard.
+ZOC-diagram i papir-sjøkart
+I norske sjøkart er det satt inn et ZOC-diagram. Det er et lite oversiktskart som viser hvilken datakvalitet dybdedataene i kartet har.
+Kvaliteten på dybdemålingene er avhengig av hvilke sjømålings- og posisjoneringsinstrument som ble brukt da havbunnen ble kartlagt. Vær ekstra obs på hvilke områder som har dybdedata av dårlig kvalitet. Risikoen for navigere der er ekstra høy.
+Et ZOC-diagram er delt opp i sju farger:
+- Gul betyr landareal (samme farge som landtone i kartet).
+- Hvite arealer betyr CATZOC A1: Heldekkende sjømåling gjennomført. Alle signifikante grunner og dybder er målt.
+- Blå arealer betyr CATZOC A2: Heldekkende sjømåling gjennomført. Alle signifikante grunner og dybder er målt. Moderne dybdemålinger med multistråle-ekkolodd klassifisert som litt lavere nøyaktighet enn A1.
+- Lys rosa betyr CATZOC B: Heldekkende sjømåling er ikke oppnådd. Uoppdagete grunner farlig for navigasjon er ikke forventet, men kan ikke utelukkes.
+- Mellom-rosa betyr CATZOC C: Fullstendig sjømåling i området er ikke oppnådd. Dybdeavvik må forventes.
+- Mørk rosa betyr CATZOC D: Fullstendig sjømåling i området er ikke oppnådd. Store dybdeavvik må forventes.
+- Rød farge betyr UNSARE (Unsurveyed): Området er ikke kartlagt.
+Datakvalitet i elektroniske sjøkart (ENC)
+I offisielle elektroniske sjøkart (ENC) er det et eget datalag som forteller hvilken kvalitet det er på dybdedataene i området. Det er den samme vurderingen som ligger til grunn som for papirkart; sjømålings- og posisjoneringsinstrument, dybdenøyaktighet og dekningsgrad.
+Datalaget kalles datakvalitet (M_qual) og deles opp i ulike kvalitetskategorier, såkalte Zones of Confidence (ZOC). Det finnes fem ulike ZOC-kategorier, hvor A1 er den beste og D er den dårligste. I tillegg finnes det en kategori U, som viser områder hvor det ikke er tatt stilling til datakvaliteten. Det er den internasjonale hydrografiske organisasjonen (IHO) som regulerer ZOC-kategoriene.
+ZOC-diagram
+Category Zone of Confidence (CATZOC) for ENC (pdf 364 kB). Kilde: UK Hydrographic Office
+Zones of Confidence (ZOC) i Norge og på Svalbard
+Kartverket følger internasjonale standarder og har, basert på det vi vet om målemetode, posisjoneringsinstrument, dybdenøyaktighet og datadekning i norske farvann, klassifisert våre dybdedata.
+Kvalitetskategorier (CATZOC) i norske ENC-er:
+- A1: Heldekkende sjømåling gjennomført. Alle signifikante grunner og dybder er målt.
+- A2: Heldekkende sjømåling gjennomført. Alle signifikante grunner og dybder er målt. Moderne dybdemålinger med multistråle-ekkolodd klassifisert som litt lavere nøyaktighet enn A1.
+- B: Heldekkende sjømåling er ikke oppnådd. Uoppdagete grunner farlig for navigasjon er ikke forventet, men kan ikke utelukkes.
+- C: Fullstendig sjømåling i området er ikke oppnådd. Dybdeavvik må forventes.
+- D: Fullstendig sjømåling i området er ikke oppnådd. Store dybdeavvik må forventes.
+- U: Ikke vurdert. Kvaliteten på dybdedataene i området er ikke vurdert.
+Teknologi setter standard
+Den rivende utviklingen innen skipsfarten har gitt større og mer dyptgående fartøyer. Nye navigasjonsmetoder og -instrumenter er forbedret, og er årsaker til at det stilles større krav enn noensinne til sjøkartenes pålitelighet.
+Kartverket har dybdekartlagt norske sjøområder siden 1800-tallet, og har brukt de mest moderne målemetodene som til enhver tid fantes. Sjøkartenes pålitelighet er derfor i stor grad avhengig av hvilken teknologi som ligger til grunn for dybdekartleggingen.
+Å erstatte alle de eldre dybdemålingene krever tid og ressurser. Derfor består dagens sjøkart av dybdedata fra forskjellige teknologiperioder.
+Standarder
+-
+[Regulations of the IHO for international (INT) charts and chart spesifications of the IHO (pdf 11,9 MB)](https://iho.int/uploads/user/pubs/standards/s-4/S4_V4-9-0_March_2021.pdf) -
+[Om sjømåling og posisjonsnøyaktighet: S-44 Ed. 6.0.0 IHO standards for hydrographic surveys (pdf 1,3 MB)](https://repository.oceanbestpractices.org/bitstream/handle/11329/388.2/S-44_Edition_6.0.0_EN.pdf) -
+[S-67 Ed 1.0.0 Mariners Guide to Accuracy of Depth Information in an Electronic Navigational Chart (ENC) (pdf 960 kB)](https://iho.int/uploads/user/pubs/standards/S-67/S-67 Ed 1.0.0 Mariners Guide to Accuracy of Depth Information in an ENC_EN.pdf)
+E-posten er sendt

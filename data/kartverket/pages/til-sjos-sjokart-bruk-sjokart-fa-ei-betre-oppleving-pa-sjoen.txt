@@ -1,0 +1,27 @@
+Bruk sjøkart – få ei betre oppleving på sjøen
+Kor er det trygt å ferdast? Kor er det fint å legge til? Kor er den magiske fiskegrunna? Det er ingen grunn til å gå på grunn. Bruk sjøkartet til å gjere deg kjent med området du skal segle i.
+Med Kartverket på laget legg du grunnlaget for å ha kontroll ute på sjøen.
+– Bruk av sjøkart gjev ikkje berre ein tryggare seglas – du oppdagar kanskje nye spanande stader i skjergarden, nye moglegheiter for å ankre opp, nye bade- og fiskeplassar, du unngår å gå i land på eit fuglereservat. Det mykje lokalkunnskap å finne i sjøkart og i [farvatnskildringa Den norske los](https://www.kartverket.no/til-sjos/nautiske-publikasjoner/den-norske-los). Og info om vasstand og tidspunkt for flod og fjære, som du får på [Se havnivå](https://www.kartverket.no/til-sjos/se-havniva), er for mange heilt avgjerande for seglasen og fortøying av båten, seier direktør Birte Noer Borrevik i Kartverkets sjødivisjon.
+Kvifor bruke sjøkart?
+Ulik kvalitet på djupnedataa i kartet
+Ver obs på kvaliteten på djupnedataa i sjøkartet. Er det område som aldri har blitt kartlagt eller som blei sjømålt med handlodd ein gong før 1960? I papirsjøkartet kan du sjekke dette i [ kjeldediagram/ZOC-diagram](https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc), som gjev info om kor nøyaktige djupnedataa er i kartet. Gjer deg kjent med din kartplottar og undersøk korleis din leverandør merkar slike usikre område i kartet.
+[Elektroniske sjøkart til kartplottarar](https://www.kartverket.no/til-sjos/kart/sjokart-til-kartplottere), basert på sjøkartdata frå Kartverket, blir tilbydd av fleire distributørar. Dei som lastar ned og gjer tilgjengeleg oppdateringar to gonger i månaden leverar kartinnhald som er oppdatert i samsvar med Kartverkets standard, likt dei offisielle norske papir-sjøkarta som oppdaterast med rettingar frå Etterretninger for sjøfarende (Efs) kvar fjortande dag.
+Rettingar til sjøkart
+Rettingar til sjøkart finn du på [nettenesta Etterretninger for sjøfarande (Efs)](https://www.kartverket.no/til-sjos/efs). Der kan du også finne ut om ditt papirsjøkart fortsatt er gyldig. Kanskje er det satt opp eit nytt luftspenn som er til hinder for din seglbåt, eller er det meldt om nye grunner i området du planlegg din seglas?
+I Hvaler og andre område med mykje skjergard er det til dømes mange viktige grunner som etter ny, moderne kartlegging har vist seg å vere djupare og grunnare.
+I Efs-tenesta og på [norgeskart.no](https://norgeskart.no/?test=1&_ga=2.134745969.1082287613.1619989123-1252349299.1532615258#!?project=dekning&layers=1005,8013,8014,8015,8016,8017,8018&zoom=3&lat=7197864.00&lon=396722.00&panel=searchOptionsPanel) finn du informasjon om papirsjøkartet ditt er gyldig, altså når det sist kom i ny utgåve eller om det har blitt utgjeve helt nye kart.
+Kjøpe sjøkart
+Kartverket sel ikkje papirkart, men lagar kartfilar som forhandlarar trykker for deg: Print on Demand-kart (POD). Sjå oversikt over [Kartverkets forhandlarar som du kan bestille papir-sjøkart hos](https://www.kartverket.no/sider/bestille-kart).
+Elektroniske sjøkart til kartplottarar, basert på sjøkartdata frå Kartverket, blir tilbydd av fleire distributørar. Sjå [oversikt over kven distributørane er og kor ofte desse oppdaterer sine sjøkart](https://www.kartverket.no/til-sjos/kart/sjokart-til-kartplottere).
+Planlegg seglingsruta
+Unngå skvalpeskjer, grunner og farlege snarvegar. Farvatnskildringa Den norske los er digital, [dnl.kartverket.no](https://dnl.kartverket.no). Bruk ho for det ho er verdt!
+I Den norske los kan du planleggje seglingsruta di.
+Den fortel deg også kor kan du legge til, og korleis er botnforholda viss du tenkjer å sleppe ut dreggen?
+Vasstand, flod og fjære
+Flod, fjære og vasstand kan varierer mykje langs Norskekysten. På [nettenesta Se havnivå](https://www.kartverket.no/til-sjos/se-havniva) finn du informasjon om varsla vasstand og vasstand no, tidspunkt for flod og fjære og tabellar for tidvatn.
+Sjekk varselet! Da det var flo gjekk seglasen heilt fint. Neste gong er det kanskje fjære og da kan du vere uheldig å på støyte på eit skvalpeskjær, viss du ikkje har sjekka sjøkartet godt nok på førehand. Og når du skal fortøye båten på land er det viktig at du veit kor langt opp på land du bør gjere det.
+Se havnivå kan også hjelpe deg med å rekne ut kor høg brygga bør vere. Byggjer du brygga for lågt, vil ho stå under vatn ved høgvatn. Er ho for høg blir det vanskeleg å komme seg opp av båten. Les om [metoden som hjelper deg å finne den ideelle høgda på brygga di](https://www.kartverket.no/til-sjos/se-havniva/referanseniva/hvor-hoy-bor-brygga-vare).
+Øving gjer meister
+Korleis var det du skulle plotte seglingskursen inn i kartet? Treng du å øve deg på bruk av sjøkart, eller skal du ta båtførarprøven, [last ned gratis skulekart her](https://www.kartverket.no/til-sjos/kart/skolekart). Skulekarta er utsnitt frå ordinære sjøkart, og er laga for bruk i undervising og til øving i bruk av sjøkart. Du må skrive dei ut i A3-format, elles vil ikkje målestokken i kartet stemme.
+Viss du er født i 1980 eller seinare og skal føre ein fritidsbåt med lengd på over 8 meter eller med motor større enn 25 hestekrefter, må du ha båtførarbevis. Men alle burde vel inni mellom sjekke kor godt kunnskapen sit? På internett er det fleire som tilbyr gratis test og øvingsoppgåver til båtførarprøven. Kva med å ha ein kunnskapskonkurranse med familie og venner?
+E-posten er sendt

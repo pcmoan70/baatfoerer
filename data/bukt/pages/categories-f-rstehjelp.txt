@@ -1,0 +1,66 @@
+[36](/tasks/36) |
+Hvor mange hjertekompresjoner skal det gjøres mellom innblåsningene under hjerte- og lungeredning? |
+|
+[37](/tasks/37) |
+Hvor mange innblåsninger skal gis mellom hjertekompresjonene under hjerte- og lungeredning? |
+|
+[100](/tasks/100) |
+Hvilke av disse inngår i forkortelsen "BLÅS" i forbindelse med førstehjelp? |
+|
+[207](/tasks/207) |
+Hvordan renses et sår? |
+|
+[208](/tasks/208) |
+Hva bør brukes for å stoppe kraftige blødninger? |
+|
+[209](/tasks/209) |
+Hva bør du gjøre ved større blødninger? |
+|
+[210](/tasks/210) |
+Hva er symptomene på indre blødninger? |
+|
+[211](/tasks/211) |
+Hva bør du gjøre ved mistanke om hjernerystelse? |
+|
+[212](/tasks/212) |
+Hvordan behandles brudd i ankelen? |
+|
+[213](/tasks/213) |
+Ved mistenkt brudd skal man...? |
+|
+[215](/tasks/215) |
+Hva bør du gjøre hvis båten forliser og du blir liggende i kaldt vann? |
+|
+[216](/tasks/216) |
+Hvordan kan du behandle en moderat nedkjølt person? |
+|
+[217](/tasks/217) |
+Hva er det fare for ved lårbensbrudd, ribbensbrudd og andre støt mot bryst eller mage? |
+|
+[218](/tasks/218) |
+Hva bør du gjøre ved mistanke om indre blødninger? |
+|
+[239](/tasks/239) |
+Hva står HLR for? |
+|
+[248](/tasks/248) |
+Ved hjerte- og lungeredning på barn, hvor mange innblåsninger bør du starte med? |
+|
+[249](/tasks/249) |
+Hvilken takt bør hjertekompresjoner gjøres med? |
+|
+[325](/tasks/325) |
+Hvor langt ned bør brystet trykkes ved hjertekompresjoner på en voksen person? |
+|
+[327](/tasks/327) |
+Hva bør du gjøre hvis en person har fått et fremmedlegeme i luftveien og ikke klarer å hoste det opp selv? |
+|
+[328](/tasks/328) |
+Hva bør du be en person gjøre ved mistanke om hjerneslag? |
+|
+[372](/tasks/372) |
+Hvordan holder du best på varmen i sjøen? |
+|
+[400](/tasks/400) |
+Hva gjør du hvis personen er bevisstløs, luftveiene er blokkert og det er mistanke om nakkeskade? |
+|

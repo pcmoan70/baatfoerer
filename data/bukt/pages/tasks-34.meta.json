@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/tasks/34",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Oppgave 34 - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "ee2903290b53be3b5b68e8db4e0c93101204e22c0504b7f6d8e92cbcc46e37bc",
+  "fetched_at": "2026-06-02T11:16:23.391770+00:00",
+  "depth": 2,
+  "text_chars": 173,
+  "n_links": 12,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/tasks-34.html",
+    "text": "pages/tasks-34.txt"
+  },
+  "anchors": []
+}

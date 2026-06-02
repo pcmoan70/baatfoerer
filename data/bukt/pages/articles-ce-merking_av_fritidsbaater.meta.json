@@ -1,0 +1,28 @@
+{
+  "url": "https://bukt.no/articles/CE-merking_av_fritidsbaater",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Hva er CE-merking, og hvorfor trenger du det? - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "143d781451921efb0de96bd88127879692f1559f6b12ab67d41c9d426ece4890",
+  "fetched_at": "2026-06-02T11:16:35.728401+00:00",
+  "depth": 2,
+  "text_chars": 1544,
+  "n_links": 23,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-ce_kategorier.png",
+      "alt": "CE-kategorier"
+    }
+  ],
+  "files": {
+    "html": "pages/articles-ce-merking_av_fritidsbaater.html",
+    "text": "pages/articles-ce-merking_av_fritidsbaater.txt"
+  },
+  "anchors": []
+}

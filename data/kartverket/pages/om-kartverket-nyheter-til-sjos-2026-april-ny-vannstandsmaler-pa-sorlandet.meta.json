@@ -1,0 +1,90 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-vannstandsmaler-pa-sorlandet",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Ny vannstandsmåler på Sørlandet | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:20 GMT",
+  "checksum_sha256": "b1ceb385b5c17381cefed0e0adb2f092765a56fd439c11013f25983b6436759f",
+  "fetched_at": "2026-06-02T11:08:26.290435+00:00",
+  "depth": 2,
+  "text_chars": 4105,
+  "n_links": 42,
+  "n_pdf_links": 0,
+  "n_images": 5,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--c6a9c8b2.jpg",
+      "alt": "Tre menn i arbeidst&oslash;y p&aring; en kaikant smiler mot kamera. Det er fint v&aring;rv&aelig;r med stille sj&oslash; og bl&aring; himmel i bakgrunnen."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--a5793121.jpg",
+      "alt": "To personer st&aring;r og jobber p&aring; en kaikant mens den tredje st&aring;r i en stige som henger ned fra bryggekanten, mens de monterer teknisk utstyr."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--40f46841.jpg",
+      "alt": "Klemmer og solide skruer p&aring; en betongkai foran skotuppene til en arbeider."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--23de1818.jpg",
+      "alt": "En person med klatresele st&aring;r i ei gardintrapp som er sikra med tau i kaikanten, mens to kolleger sender teknisk utstyr til ham."
+    },
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-vannstand-vannstandsmaler--37af79e7.jpg",
+      "alt": "En mont&oslash;r sitter p&aring; bakken med ryggen lent mot bilen, mens han sjekker tekniske m&aring;linger p&aring; en PC."
+    }
+  ],
+  "files": {
+    "html": "pages/om-kartverket-nyheter-til-sjos-2026-april-ny-vannstandsmaler-pa-sorlandet.html",
+    "text": "pages/om-kartverket-nyheter-til-sjos-2026-april-ny-vannstandsmaler-pa-sorlandet.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Ny vannstandsmåler på Sørlandet",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Kontakt",
+      "id": "ContactListBlockProxy-148866"
+    },
+    {
+      "level": 2,
+      "text": "Mer om hvordan vi måler vannstanden",
+      "id": "TeaserListBlockProxy-226506"
+    },
+    {
+      "level": 3,
+      "text": "Slik måler vi vannstanden",
+      "id": "TeaserListBlockProxy-226506-0"
+    },
+    {
+      "level": 3,
+      "text": "Permanente vannstandsmålere",
+      "id": "TeaserListBlockProxy-226506-1"
+    },
+    {
+      "level": 3,
+      "text": "Hva er stormflo?",
+      "id": "TeaserListBlockProxy-226506-2"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

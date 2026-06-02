@@ -1,0 +1,74 @@
+{
+  "url": "https://www.kartverket.no/til-sjos/kart/elektroniske-sjokart-enc",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Elektroniske sjøkart (ENC) | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 10:53:56 GMT",
+  "checksum_sha256": "1b6c9d370ab894f43960c9ea3491d16145f2de9580071b0ebdf94dca5399fbdc",
+  "fetched_at": "2026-06-02T11:07:44.563348+00:00",
+  "depth": 2,
+  "text_chars": 4673,
+  "n_links": 44,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-enc-i-ecdis.jpg-3b9cbf77.jpg",
+      "alt": "ENC vist i en ECDIS på brua om bord på et lasteskip. Foto."
+    }
+  ],
+  "files": {
+    "html": "pages/til-sjos-kart-elektroniske-sjokart-enc.html",
+    "text": "pages/til-sjos-kart-elektroniske-sjokart-enc.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Elektroniske sjøkart (ENC)",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Egenskaper",
+      "id": "page-content"
+    },
+    {
+      "level": 2,
+      "text": "Les mer",
+      "id": "TeaserListBlockProxy-16129"
+    },
+    {
+      "level": 3,
+      "text": "Nautiske publikasjoner",
+      "id": "TeaserListBlockProxy-16129-0"
+    },
+    {
+      "level": 3,
+      "text": "Flo, fjære og vannstand",
+      "id": "TeaserListBlockProxy-16129-1"
+    },
+    {
+      "level": 3,
+      "text": "Bruk sjøkart – få en bedre opplevelse på sjøen",
+      "id": "TeaserListBlockProxy-16129-2"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

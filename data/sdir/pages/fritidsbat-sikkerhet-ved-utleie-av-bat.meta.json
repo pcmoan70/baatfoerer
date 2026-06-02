@@ -1,0 +1,39 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sikkerhet-ved-utleie-av-bat/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Båtutleie - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "81f0bdc28e34705cb0de6abdb1abef436901f17996ef2f32b09b05b06bcc3731",
+  "fetched_at": "2026-06-02T10:56:45.965677+00:00",
+  "depth": 2,
+  "text_chars": 1714,
+  "n_links": 30,
+  "n_pdf_links": 2,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "sdir\\images\\contentassets-fe586f6c8f3b4c828e2b2307c8ad8524-fisketurisme-1.jpg-fcfe1728.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/fritidsbat-sikkerhet-ved-utleie-av-bat.html",
+    "text": "pages/fritidsbat-sikkerhet-ved-utleie-av-bat.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Båtutleie",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Informasjonsheftet \"Safe at sea in Norway\"",
+      "id": "main-text-content"
+    }
+  ]
+}

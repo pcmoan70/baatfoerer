@@ -1,0 +1,79 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/alt-du-trenger-a-vite-om-hummerfiske/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Alt du trenger å vite om hummerfiske - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "dfbc6d2bba66b7649f8414a0112324ee47b26300834d856b753a55ba7e2ed989",
+  "fetched_at": "2026-06-02T11:12:20.824866+00:00",
+  "depth": 2,
+  "text_chars": 11778,
+  "n_links": 151,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-alt-du-trenger-a-vite-om-hummerfiske.html",
+    "text": "pages/sikker-til-sjos-alt-du-trenger-a-vite-om-hummerfiske.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Alt du trenger å vite om hummerfiske",
+      "id": "main-content"
+    },
+    {
+      "level": 3,
+      "text": "Hummerteiner",
+      "id": "hummerteiner"
+    },
+    {
+      "level": 3,
+      "text": "Minstemål og maksmål",
+      "id": "minstemål"
+    },
+    {
+      "level": 2,
+      "text": "Rømningshull forhindrer spøkelsesfiske",
+      "id": "rømningshull"
+    },
+    {
+      "level": 2,
+      "text": "Påmelding og merking av blåser og bøyer",
+      "id": "påmelding"
+    },
+    {
+      "level": 2,
+      "text": "Hummerteinene skal røktes minst én gang i uken",
+      "id": "røktes"
+    },
+    {
+      "level": 2,
+      "text": "Agn – hva spiser hummeren?",
+      "id": "agn"
+    },
+    {
+      "level": 2,
+      "text": "Fredningstid og fredningsområder",
+      "id": "fredning"
+    },
+    {
+      "level": 2,
+      "text": "Sikkerhet – en trygg fisker gir et godt fiske",
+      "id": "sikkerhet"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    },
+    {
+      "level": 2,
+      "text": "Du er kanskje også interessert i",
+      "id": "list-pages"
+    }
+  ]
+}

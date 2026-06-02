@@ -1,0 +1,7 @@
+Lastet inn brukerøkta. Du kan nå fortsette på denne enheten!
+Oversikt og innstillinger
+| % besvartProsentandel av oppgavene som er besvart minst én gang. | % riktigProsentandel av de besvarte oppgavene som er besvart riktig. Hvis en oppgave er besvart flere ganger er det siste forsøk som teller. | % riktig på 1. forsøkProsentandel av de besvarte oppgavene som ble besvart riktig på første forsøk. | |||
+|---|---|---|---|---|---|
+|
+[Ansvar og forsikring](https://bukt.no/categories/ANSVAR_OG_FORSIKRING)[Båten](https://bukt.no/categories/BÅTEN)[Førstehjelp](https://bukt.no/categories/FØRSTEHJELP)[Kommunikasjon](https://bukt.no/categories/KOMMUNIKASJON)[Lanterneføring](https://bukt.no/categories/LANTERNEFØRING)[Manøvrering](https://bukt.no/categories/MANØVRERING)[Meteorologi](https://bukt.no/categories/METEOROLOGI)[Navigasjon](https://bukt.no/categories/NAVIGASJON)[Sikkerhet](https://bukt.no/categories/SIKKERHET)[Sjøkartet](https://bukt.no/categories/SJØKARTET)[Sjømerker](https://bukt.no/categories/SJØMERKER)[Totalt](https://bukt.no/tasks)[Nullstill historie for alle kategorier](https://bukt.no/overview?resetHistory=true)
+[Fortsett økta på en annen enhet](https://bukt.no/changeDevice)

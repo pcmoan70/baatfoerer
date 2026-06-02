@@ -1,0 +1,7 @@
+Appen Mine maritime sertifikater
+Sjøfartsdirektoratet har utviklet en app der du kan se dine maritime sertifikater utstedt av oss.
+Les mer om elektroniske sertifikat [her.](https://www.sdir.no/sjofolk/sertifikater/elektroniske-sertifikater-for-sjofolk/)
+- Appen er tilgjengelig for IOS (versjon 14.2 eller nyere) og Android (versjon 13 eller nyere).
+- I appen vil du kunne se alle dine sertifikater som er utstedt av Sjøfartsdirektoratet.
+Her vil du kunne se alle dine sertifikater som er utstedt av Sjøfartsdirektoratet.
+Tilgjengelighetserklæring

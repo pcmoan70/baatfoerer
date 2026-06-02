@@ -1,0 +1,38 @@
+{
+  "url": "https://www.kystverket.no/sjovegen/fyr-lykter-og-sjomerker/merkingen-av-norskeskysten/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Merkingen av norskekysten | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "8dc4b3b188ecf17d8a6fda9e8a1dec81786d4c0705f7e9a66ab51def2d09093a",
+  "fetched_at": "2026-06-02T11:04:40.381939+00:00",
+  "depth": 2,
+  "text_chars": 3586,
+  "n_links": 129,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-0b80a2dbe65f44e1ae00778185f88402-65668m-baroyg-3de4f92e.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-3738bbd8a9d94a4699d51b57aac07e78-bake.jpg",
+      "alt": "Båke.jpg"
+    }
+  ],
+  "files": {
+    "html": "pages/sjovegen-fyr-lykter-og-sjomerker-merkingen-av-norskeskysten.html",
+    "text": "pages/sjovegen-fyr-lykter-og-sjomerker-merkingen-av-norskeskysten.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Merkingen av norskekysten",
+      "id": "content-start"
+    }
+  ]
+}

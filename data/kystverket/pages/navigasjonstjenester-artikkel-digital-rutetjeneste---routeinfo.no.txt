@@ -1,0 +1,75 @@
+Digital rutetjeneste - routeinfo.no
+På routeinfo.no kan navigatører laste ned referanseruter for navigasjon til alle større norske havner, og få viktig ruteinformasjon og lokale forskrifter til støtte for ruteplanlegging.
+På routeinfo.no kan navigatører laste ned referanseruter for navigasjon til alle større norske havner, og få viktig ruteinformasjon og lokale forskrifter til støtte for ruteplanlegging.
+Last ned digitale seilingsruter for navigasjon til havner.
+- Den digitale rutetjenesten routeinfo.no tilbyr over 600 digitale referanseruter til fartøy som anløper norske havner.
+-
+Seilingsrutene er inndelt i fire kategorier: Inngående seilas, utgående seilas, mellom havner og kystseilas
+-
+Rutene er kvalitetssikret for fartøy opp mot 150 meters lengde og ni meters dypgang, med enkelte unntak.
+[Se infoflyer](https://www.kystverket.no/contentassets/276a50e15ae3444097ae9e07eeb13b20/routeinfo-flyer-2022-til-nett.pdf) (norsk/engelsk)
+Kystverket anbefaler at referanserutene brukes under planlegging av seilaser til norske havner. Ruten må tilpasses fartøyet og seilasen.
+Ved valg av rute i routeinfo.no får man også opp viktig informasjon som gjelder for den spesifikke ruten du har valgt:
+- Gjeldende forskrifter for anløp til aktuelle havner og kaier
+- Seilingsdistanser
+- VHF-kanal i sjøtrafikksentralområder (VTS) ligger i seilingsrute-filene på aktuelle waypoint.
+- Kai- og havneplasseringer
+Referanseruter er kvalitetssikrede ruter som følger e-navigasjonsinitiativet om ruteutveksling, der referanseruter særlig skal støtte effektiv ruteplanlegging.
+Fra routeinfo.no kan navigatører laste ned seilingsruter gratis for effektiv og god ruteplanlegging i forkant av en seilas. Man finner aktuelle seilingsruter ved å søke på en havn, klikke i kartet, eller ved å laste ned en pakke med alle seilingsrutene.
+[Se videoguider for bruk av routeinfo.no her](https://www.routeinfo.no/info)
+Referanserutene lastes ned i filformatet RTZ, den internasjonale standarden for maritime navigasjonssystemer ([https://cirm.org/rtz-xml-schemas](https://cirm.org/rtz-xml-schemas)). Ruten kan lastes rett inn på fartøyets ECDIS/ECS. Se videoguide lenger nede på denne siden.
+- Viktig informasjon om seilasen, som seilingsdistanser og lokale seilingsbestemmelser vises når en rute er valgt i Routeinfo.
+- I filene som lastes ned (RTZ) ligger VHF-kanal på waypoint der fartøy kommer inn i de enkelte VHF-soner knyttet til Kystverkets sjøtrafikksentraler (VTS) slik at disse kommer smart opp ved seilasen.
+- Det er benyttet default turnradius 0,3 nautiske mil på seilingsrutene som må vurderes opp mot eget fartøy.
+- Noen svært få steder er turnradius mindre for å kunne ta skarpe kursendringer.
+- Waypoint er plassert mest mulig hensiktsmessig for sikker og effektiv seilas.
+Kystverket oppfordrer navigatører til å sende tilbakemeldinger om tjenesten og bidra til at tjenesten imøtekommer navigatørenes behov. Send tilbakemeldinger på epost til: [routeinfo@kystverket.no](mailto:routeinfo@kystverket.no)
+- På nettstedet routeinfo.no er rutene tilgjengelig med tre ulike kartbakgrunner, der man kan zoome inn på de ulike rutene og områder. Denne kartoversikten gir en ruteoversikt.
+- I kartet finner en også hvor de enkelte lokale seilingsbestemmelsene i Sjøtrafikkforskriften gjelder, og hvor kaier og havner er lokalisert på hele norskekysten (tilsvarer havnene og kaiene i SafeSeaNet Norway).
+Seilingsrutene brukes også av:
+- Lostjenesten (i deres Portable Pilot Unit – Njord Pilot)
+- Sjøtrafikksentraltjenesten (VTS) som informasjon ved seilingsklarering av fartøy.
+- andre e-Navigasjonstjenester, blant annet PRIMAR.
+Rutetjenesten er gratis og utviklet for navigatører for å gjøre innseilingen til norske havner tryggere og enklere. Tjenesten ble først lansert i Oslofjorden 18. september 2018 og har deretter gradvis blitt utvidet nordover. Fra januar 2022 er over 600 ruter tilgjengelig for navigasjon til alle større norske havner.
+Tilbyr kvalitetssikrede ruter
+Ved å tilby fartøy referanseruter − kvalitetssikret av Kystverkets lostjeneste, sjøtrafikksentraltjeneste, sjømerketjeneste, farledsbevisenhet, og Kartverkets Sjødivisjon – bidrar tjenesten til økt sikkerhet til sjøs.
+Tilgang på kvalitetssikrede ruter og ruteinformasjon øker navigasjonssikkerheten og styrker samhandling på bro for lossøkende fartøy og fartøy som seiler med farledsbevis.
+Rutetjenesten legger til rette for mer effektiv og tidsbesparende planlegging av seilaser, og kan bidra til mer nøyaktig ankomsttid og miljøgevinster og økonomisparing som følge av mindre bruk av drivstoff.
+Digitale referanseruter bidrar til:
+- Mer effektiv ruteplanlegging for navigatører
+- Sjøfarende får mer tilrettelagt informasjon om sin seilas
+- Kvalitetssikrede ruter og ruteinformasjon blir mye mer tilgjengelig for et fartøy under hele seilasen fra utreisehavn til destinasjon
+- Sikrere og mer effektiv sjøtransport
+Mer digital og automatisert informasjon
+Tjenesten er et ledd i Kystverkets effektivisering og digitalisering av maritime tjenester for å støtte sjøtransport. Integrasjon av digitale seilingsruter og elektroniske sjøkart er i tråd med e-navigasjon og maritim ITS, globale strategier som fronter digitalisering og automatisert utveksling av informasjon mellom skip og myndigheter.
+Den digitale rutetjenesten åpner for automatisk distribusjon av nautisk informasjon for å støtte transportsikkerheten for enkeltseilaser. Routeinfo samler viktig og nyttig informasjon om seilasen på ett sted. Tjenesten kan derved bidra til å unngå ugunstige rutevalg som kan skje som følge av mangel på viktig informasjon om seilasen, og vil videreutvikles i tett samarbeid med brukerne.
+Den digitale rutetjenesten er utviklet i samarbeid med Asplan Viak Internet.
+I tillegg til at referanserutene kan hentes fra web-tjenesten Routeinfo.no er det satt opp digitale grensesnitt så rutene kan inkluderes og videre-utvikles i andre kommersielle og ikke-kommersielle navigasjonstjenester, basert på lisens for åpne data [(NLOD)](https://data.norge.no/nlod/no/1.0/).
+Det betyr at brukeren kan møte disse seilingsrutene også i andre tjenester, og at ulike ruteplanleggingsverktøy kan benytte ruteinformasjonen. Utviklere av navigasjonssystemer og tjenester kan abonnere på nyheter om de digitale grensesnitt, om nye versjoner og oppdateringer. [Du kan registrere deg her](https://routeinfo.no/register)
+Referanserutene for navigasjon er i dag også tilgjengelig for abonnement i kartkatalogen til PRIMAR. [Les mer](https://www.kystverket.no/nyheter/2020/flere-kartleverandorer-tilbyr-digitale-seilingsruter-fra-kystverket/)
+En API-løsning (Application Programming Interface) er tilgjengelig for å gjøre det enklere for leverandører av andre typer navigasjonstjenester å inkludere Kystverkets digitale seilingsruter i sine systemer. [Lenke til API versjon 2](https://a3cloud.kystverket.no/api/docs/swagger/ui/index?version=Kystverket#/Kystverket47RouteInfo47RtzV2)
+Referanserutene til navigasjon kan også hentes inn i ulike GIS og kartverktøy som WMS-tjeneste.
+WMS-adresse: https://a3cloudmap.kystverket.no/wms.ashx
+Navn: layer_28.
+Tittel: Reference routes for navigation.
+Utvikling av produkter basert på offisielle ruter som er kvalitetssikret av Kystverket, kan bidra til økt verdiskaping, og at enda flere navigatører tar rutene i bruk via flere tjenester.
+Kommersiell bruk av referanseruter åpner for at norske ruter kan ses i sammenheng med ruteinformasjon fra andre land. Det kan gi sjøfarende en mer samlet informasjonstilgang til støtte ved trafikk mellom norske og utenlandske havner, og bidra til tryggere og mer effektive seilaser der mindre bruk av drivstoff også gir en miljøgevinst.
+-
+[Kystvarsler](https://kyvreports.kystverket.no/NavcoReport/navigasjonsvarsler.aspx)Navigasjonsvarsler for norskekysten og kysten av Svalbard.
+-
+[Bølge- og strømvarsel](https://www.barentswatch.no/bolgevarsel/)Se bølgehøyder og strømvarsel langs norskekysten.
+-
+[NAVAREA XIX-varsler](https://kyvreports.kystverket.no/NavcoReport/navareaxixvarsler.aspx)Navigasjonsvarsler for Norskehavet, Grønlandshavet og vestre del av Barentshavet.
+Kystverket skal kvalitetssikre ankringsområder langs hele kysten. Vi ber vi havner, lokale og sektormyndigheter, interesseorganisasjoner og andre maritime aktører om å sende oss innspill til ankringsområder. Det vil også bli avholdt innspillsmøter.
+Med 78 nye digitale seilingsruter for Troms og Finnmark tilbyr Kystverkets digitale rutetjeneste routeinfo.no over 600 digitale seilingsruter for navigasjon til alle større havner mellom Halden til Kirkenes. Tjenesten skal støtte navigatører under ruteplanlegging, og gjøre seilasen til havner tryggere og enklere.
+Navigatører som abonnerer på elektroniske sjøkart fra PRIMAR, får i denne tjenesten nå også tilgang til Kystverkets digitale referanseruter for navigasjon.
+Økt skipstrafikk, mer aktivitet i kyst- og havområdene, større klimautfordringer, og ny teknologi i rask utvikling setter nye og høyere krav til Kystverket. For å opprettholde og styrke dagens sjøsikkerhetsnivå langs kysten, må satsingen på innovasjon og teknologi trappes opp.
+Kystverket har lagt ut 106 nye digitale seilingsruter for Nordlandskysten. På routeinfo.no har navigatører som planlegger seilas mellom Oslofjorden og Andøya nå tilgang til over 500 kvalitetssikrede ruter.
+Tjenesten routeinfo.no er nå utvidet med 118 nye seilingsruter fra Stad til Rørvik.
+Routeinfo.no er utvidet med 112 nye seilingsruter i farvannet fra Haugesund til Stad ‒ som et ledd i etableringen av en nasjonal digital rutetjeneste for tryggere og smartere sjøtransport. Rutetjenesten gir navigatører tilgang til kvalitetssikrede seilingsruter og viktig ruteinformasjon ved anløp.
+Kartillustrasjon-eksempel på digital rute
+Foto: Kystverket
+Infografikk routeinfo 2021-1920x1080.png
+Foto: Kystverket
+Infoflyer for routeinfo.no in Norwegian and English.
+Foto: Kystverket

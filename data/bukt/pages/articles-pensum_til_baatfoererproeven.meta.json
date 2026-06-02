@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/articles/pensum_til_baatfoererproeven",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Pensum til båtførerprøven - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "ad4ad9a59ffa1e4bbc52c240753c78aec3aa2c522e4df37b954e2140e0583ee0",
+  "fetched_at": "2026-06-02T11:16:46.433893+00:00",
+  "depth": 2,
+  "text_chars": 6086,
+  "n_links": 14,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/articles-pensum_til_baatfoererproeven.html",
+    "text": "pages/articles-pensum_til_baatfoererproeven.txt"
+  },
+  "anchors": []
+}

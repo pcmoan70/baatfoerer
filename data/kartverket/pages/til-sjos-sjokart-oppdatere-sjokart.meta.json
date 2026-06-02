@@ -1,0 +1,49 @@
+{
+  "url": "https://www.kartverket.no/til-sjos/sjokart/oppdatere-sjokart",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Oppdatere sjøkart | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:11 GMT",
+  "checksum_sha256": "ee874d5d79a02b23a82f70e703892cca62fe1a553ed37c0c0191847633139294",
+  "fetched_at": "2026-06-02T11:08:13.489505+00:00",
+  "depth": 2,
+  "text_chars": 2951,
+  "n_links": 35,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-handretting-av-sjokart.jpg-3b9cbf77.jpg",
+      "alt": "Hender plotter inn rettelse i sjøkart ved hjelp av paralellfoskyver, passer og blyant. Foto."
+    }
+  ],
+  "files": {
+    "html": "pages/til-sjos-sjokart-oppdatere-sjokart.html",
+    "text": "pages/til-sjos-sjokart-oppdatere-sjokart.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Korleis oppdatere sjøkart?",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

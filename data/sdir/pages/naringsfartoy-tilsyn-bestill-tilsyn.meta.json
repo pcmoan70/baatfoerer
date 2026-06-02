@@ -1,0 +1,52 @@
+{
+  "url": "https://www.sdir.no/naringsfartoy/tilsyn/bestill-tilsyn/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Bestill tilsyn - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "394653acbd1272c62d65932b048ee4d0100b0d010ecfba848ec6bce369e46d3f",
+  "fetched_at": "2026-06-02T10:56:06.561275+00:00",
+  "depth": 2,
+  "text_chars": 4555,
+  "n_links": 35,
+  "n_pdf_links": 1,
+  "n_images": 3,
+  "images": [
+    {
+      "file": "sdir\\images\\contentassets-b285e3980a764a2d837105ed90d8aeaf-hvordan-besti-5b06c0b4.png",
+      "alt": ""
+    },
+    {
+      "file": "sdir\\images\\contentassets-864cfed11ee945e9a35a46a52f050631-hvordan-besti-ef65ff6b.png",
+      "alt": ""
+    },
+    {
+      "file": "sdir\\images\\contentassets-864cfed11ee945e9a35a46a52f050631-hvordan-besti-34058bf8.png",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/naringsfartoy-tilsyn-bestill-tilsyn.html",
+    "text": "pages/naringsfartoy-tilsyn-bestill-tilsyn.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Bestill tilsyn",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Hopp til innhold",
+      "id": "content-anchors"
+    },
+    {
+      "level": 2,
+      "text": "KS - 0115 Begjæring om tilsyn (elektronisk skjema)",
+      "id": "main-text-content"
+    }
+  ]
+}

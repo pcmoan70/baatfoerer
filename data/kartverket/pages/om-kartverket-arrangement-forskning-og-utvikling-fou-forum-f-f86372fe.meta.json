@@ -1,0 +1,44 @@
+{
+  "url": "https://www.kartverket.no/om-kartverket/arrangement/forskning-og-utvikling/fou-forum-for-geografisk-informasjon-juni-2026",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "FoU-forum for geografisk informasjon | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "0945226dc0da2273a6f45f2a8097cb92774b0f7bf5c48cfd6fa7118adb02d000",
+  "fetched_at": "2026-06-02T11:08:43.317947+00:00",
+  "depth": 2,
+  "text_chars": 3637,
+  "n_links": 35,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/om-kartverket-arrangement-forskning-og-utvikling-fou-forum-f-f86372fe.html",
+    "text": "pages/om-kartverket-arrangement-forskning-og-utvikling-fou-forum-f-f86372fe.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "FoU-forum for geografisk informasjon",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

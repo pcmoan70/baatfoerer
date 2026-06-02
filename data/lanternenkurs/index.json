@@ -1,0 +1,1239 @@
+{
+  "site": "lanternenkurs",
+  "name": "Lanternen kurs – quiz",
+  "seed_url": "https://www.lanternenkurs.no/quiz/",
+  "authority": "private",
+  "rebuilt": true,
+  "n_pages": 20,
+  "n_pdfs": 0,
+  "n_images": 70,
+  "pages": [
+    {
+      "url": "https://www.lanternenkurs.no/1-lanternen-batforerkurs-batforerproven/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "Lanternen Båtførerkurs til båtførerprøven - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "09dc4545593561a94c1a99c362f2d858eb319b02a44f86c7720697b128587b42",
+      "fetched_at": "2026-06-02T11:18:40.164899+00:00",
+      "depth": 2,
+      "text_chars": 4302,
+      "n_links": 45,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2020-01-img_0123-1024x1024.jpg",
+          "alt": "Båtførerprøven Erik Kavli\nKursinstruktør Vannscooter. Høyhastighetsbevis"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2022-03-skjermbilde-2022-04-21-kl.-16.49.43.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/1-lanternen-batforerkurs-batforerproven.html",
+        "text": "pages/1-lanternen-batforerkurs-batforerproven.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/6-iala-systemet-for-flytende-sjomerker-boyer-og-staker/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "6. IALA -Systemet for flytende sjømerker, bøyer og staker - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "dfcee3c3e7143e7a319d882e3d65b0272ae413bc4fd84f69cb5b186e4fa16c6f",
+      "fetched_at": "2026-06-02T11:19:00.536106+00:00",
+      "depth": 2,
+      "text_chars": 2507,
+      "n_links": 36,
+      "n_pdf_links": 0,
+      "n_images": 5,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-iala-system-for-sjomerker-boyer-o-c9789993.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-kardinalmerkene-lanternen-batforerkurs-copyright.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-spesialmerket-lanternen-batforerkurs-copyright.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-midtgrunnemerket-lanternen-batforerkurs-copyright.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-senterledsmerket-lanternen-batforerkurs-copyright.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/6-iala-systemet-for-flytende-sjomerker-boyer-og-staker.html",
+        "text": "pages/6-iala-systemet-for-flytende-sjomerker-boyer-og-staker.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/7-viktige-kartsymboler/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "7. Viktige kartsymboler - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "ff1aa2025878d494d09b7292712e97cc770ff78e3b019997f7a5510b43ed2c68",
+      "fetched_at": "2026-06-02T11:18:53.665244+00:00",
+      "depth": 2,
+      "text_chars": 467,
+      "n_links": 35,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/7-viktige-kartsymboler.html",
+        "text": "pages/7-viktige-kartsymboler.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/8-fyr-med-fargesektorer-og-lyskarakteristikker/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "8. Fyr med fargesektorer og lyskarakteristikker: - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "ae6c2316615c1ed7e30a9dfb97a283cc8c427507853d9a9ecce849d4f052b65e",
+      "fetched_at": "2026-06-02T11:18:52.606704+00:00",
+      "depth": 2,
+      "text_chars": 1242,
+      "n_links": 35,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg",
+          "alt": "Lyskarakteristikker, fast lys, okkulterende , flash, Isofase"
+        }
+      ],
+      "files": {
+        "html": "pages/8-fyr-med-fargesektorer-og-lyskarakteristikker.html",
+        "text": "pages/8-fyr-med-fargesektorer-og-lyskarakteristikker.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/9-lanterner-og-lanterneforing/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "9. Lanterner og lanterneføring - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "6da676f99c523946d19739e0836d0f469055e47e3f5c8407ab92f1693b900aee",
+      "fetched_at": "2026-06-02T11:18:49.667549+00:00",
+      "depth": 2,
+      "text_chars": 665,
+      "n_links": 35,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-lanterner-og-lanterneforing-lante-7b44924d.png",
+          "alt": "Lanterner og lanterneføring"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-lanterneforing-ved-slep-lanternen-45caefde.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/9-lanterner-og-lanterneforing.html",
+        "text": "pages/9-lanterner-og-lanterneforing.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/batforerproven-for-bedrift/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "Båtførerprøven for din bedrift? - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "9524dbd11c4592939db0b39fb0bde2d0b219c4a5841ec63b077fc1aadd770409",
+      "fetched_at": "2026-06-02T11:17:30.428879+00:00",
+      "depth": 1,
+      "text_chars": 515,
+      "n_links": 52,
+      "n_pdf_links": 0,
+      "n_images": 9,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-deloitte.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-dnv.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-thommessen.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-twoday-wordmark-rgb_black-3.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-ocean-sun.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-rs.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-conoco-phillips.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-kruser-1-1024x681.jpeg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-skipperi.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/batforerproven-for-bedrift.html",
+        "text": "pages/batforerproven-for-bedrift.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/batforertest-utgave-1",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "Båtførerprøven - Gratis quiz - Test deg selv - Båtførertest",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "d4ef44e8d90e86eac3c90840e0f78cdb7fe83eb0c6bc2b117e91afb113478aec",
+      "fetched_at": "2026-06-02T11:17:55.927285+00:00",
+      "depth": 1,
+      "text_chars": 1863,
+      "n_links": 37,
+      "n_pdf_links": 0,
+      "n_images": 14,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-plugins-hd-quiz-includes-..-assets-images-x_share.png",
+          "alt": "Tweet your score!"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture1.jpg",
+          "alt": "Båtførerbevis"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-palestikk.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture3.jpg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-hekking.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-vhf.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-hlr-a.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture8.jpg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture9.jpg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture10.jpg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-promille.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture141.jpg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-fyr-e1620060192945.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-skvalpeskjaer.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/batforertest-utgave-1.html",
+        "text": "pages/batforertest-utgave-1.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/batforertest-utgave-2",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "Båtførerprøven - Gratis quiz - Test deg selv - Båtførertest",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "1a71c016220d5a6ab7195863c9edb099d5c934b3446f47060e72f5eecccebc2f",
+      "fetched_at": "2026-06-02T11:18:17.057022+00:00",
+      "depth": 1,
+      "text_chars": 1674,
+      "n_links": 37,
+      "n_pdf_links": 0,
+      "n_images": 12,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-skjermbilde-2021-04-11-kl.-17.17.09.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-attetallsknute.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-baug.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-forfrysning.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-fortoyningsfjaer.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-totut.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-styrbord-babord1.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-styrbordbabord2.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-dagslep.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-fast-lys.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-babordmerket-situasjon.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-ankerpunkt.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/batforertest-utgave-2.html",
+        "text": "pages/batforertest-utgave-2.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/bli-en-trygg-batforer-viktigheten-av-a-ove-etter-batforerkurset/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "Bli en trygg båtfører; Viktigheten av å øve etter båtførerkurset - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "378f89eea734e93855b1c3a1c05e33ad50b5aed786fa18289aeba8d1eb88e095",
+      "fetched_at": "2026-06-02T11:18:43.112225+00:00",
+      "depth": 2,
+      "text_chars": 2456,
+      "n_links": 36,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-sjomerke_blindleia-1-1024x900.jpg",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/bli-en-trygg-batforer-viktigheten-av-a-ove-etter-batforerkurset.html",
+        "text": "pages/bli-en-trygg-batforer-viktigheten-av-a-ove-etter-batforerkurset.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/category/batforernytt/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "Båtførernytt - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "9a30f18c68d71b4dfa31162614f19d29e99a764ef1e220e95437b6ad0348a79a",
+      "fetched_at": "2026-06-02T11:18:24.982364+00:00",
+      "depth": 1,
+      "text_chars": 349,
+      "n_links": 59,
+      "n_pdf_links": 0,
+      "n_images": 6,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-sjofugl-scaled.jpeg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-04-regatta-freesafe-location-girl-cropped-scaled.jpg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-kruser.jpeg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-sjomerke_blindleia-1.jpg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-pexels-photo-1841709-min.jpeg",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2019-03-lee05542.jpg",
+          "alt": "Hvem omkommer på sjøen"
+        }
+      ],
+      "files": {
+        "html": "pages/category-batforernytt.html",
+        "text": "pages/category-batforernytt.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/category/pensum-til-batforerproven/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "Pensum til båtførerprøven - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "7f8aa0b896ed414e5f1e0dbc3fcbd2acb5fbf1541dec1a900cb6ece73b5abdd5",
+      "fetched_at": "2026-06-02T11:18:35.963298+00:00",
+      "depth": 1,
+      "text_chars": 2415,
+      "n_links": 68,
+      "n_pdf_links": 0,
+      "n_images": 8,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-de-fem-viktigste-knutene-lanterne-65d94be1.png",
+          "alt": "fem viktige maritime knuter"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-ce-merking-lanternen-batforerkurs-copyright.png",
+          "alt": "CE-merking"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-lanterner-og-lanterneforing-lante-138c02cb.png",
+          "alt": "Lanterner og lanterneføring"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-image.png",
+          "alt": "Fargesektor og lyktekarakteristikker"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-kartsymboler-lanternen-batforerkurs-copyright.png",
+          "alt": "Kartsymboler"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-jernstake-varde-og-bake-lanternen-cf6b5979.png",
+          "alt": "IALA"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-seilbat-styrbord-babord-c68f4be2.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-sjovettreglene.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/category-pensum-til-batforerproven.html",
+        "text": "pages/category-pensum-til-batforerproven.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/opprett-profil-og-betal-eksamensavgift-pa-batforerregisteret-no/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "3. Båtførerregisteret.no - Opprett profil, last opp bilde og betal eksamensavgift - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "2195a9ce8195d86a8eba9f54a938fb2ee00fa52d44d6fe68953ad9a5605e708b",
+      "fetched_at": "2026-06-02T11:18:45.854259+00:00",
+      "depth": 2,
+      "text_chars": 2347,
+      "n_links": 42,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2019-12-bfpn-kort.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/opprett-profil-og-betal-eksamensavgift-pa-batforerregisteret-no.html",
+        "text": "pages/opprett-profil-og-betal-eksamensavgift-pa-batforerregisteret-no.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/pensum-til-batforerproven/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "PENSUM TIL BÅTFØRERPRØVEN - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "4c9b60a6578584eac17f14bdba0392f083bf280f740a964271d106d4fcf38411",
+      "fetched_at": "2026-06-02T11:19:14.258480+00:00",
+      "depth": 2,
+      "text_chars": 7575,
+      "n_links": 37,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/pensum-til-batforerproven.html",
+        "text": "pages/pensum-til-batforerproven.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/praktiske-sporsmal-og-svar-om-batforerproven/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "1. Praktiske spørsmål og svar om båtførerprøven - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "fd573e433ffa432ebb784e28439bbb4f1faa2bacc5ebd15b7ff518803a9d500f",
+      "fetched_at": "2026-06-02T11:19:15.885115+00:00",
+      "depth": 2,
+      "text_chars": 1660,
+      "n_links": 36,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/praktiske-sporsmal-og-svar-om-batforerproven.html",
+        "text": "pages/praktiske-sporsmal-og-svar-om-batforerproven.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/product/batforerproven-nettkurs-eksamen/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "Nettkurs båtførerprøven (med eksamenstilgang) - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "db23547559059b3dadbdf78da76f03ff2f8b06fede09acb03830f13adeeb0646",
+      "fetched_at": "2026-06-02T11:17:16.497946+00:00",
+      "depth": 1,
+      "text_chars": 2102,
+      "n_links": 38,
+      "n_pdf_links": 0,
+      "n_images": 2,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2019-12-cta-news.png",
+          "alt": "Nettkurs båtførerprøven (med eksamenstilgang)"
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2019-12-skjermbilde-2020-03-04-kl.-21.14.52.png",
+          "alt": "Båtførerprøven -Båtførerbevis"
+        }
+      ],
+      "files": {
+        "html": "pages/product-batforerproven-nettkurs-eksamen.html",
+        "text": "pages/product-batforerproven-nettkurs-eksamen.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/product/gavekort-batforerkurs/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "Gavekort Båtførerkurs - Den perfekte gave! - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "5f31bd1bd27ccd026bfac14b79ccd6fe3eb469bd2952f12460bef04d6908e9ff",
+      "fetched_at": "2026-06-02T11:17:19.276449+00:00",
+      "depth": 1,
+      "text_chars": 740,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 1,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2019-12-bfpn-kort-1-600x600.png",
+          "alt": "Gavekort Båtførerkurs - Den perfekte gave!"
+        }
+      ],
+      "files": {
+        "html": "pages/product-gavekort-batforerkurs.html",
+        "text": "pages/product-gavekort-batforerkurs.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/quiz",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "Båtførerprøven - Gratis quiz - Test deg selv - Båtførertest",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "f7b8d88ab5dc1336086d5182660e29ee754325254a479852c0fbf40b460b1c11",
+      "fetched_at": "2026-06-02T11:17:31.510883+00:00",
+      "depth": 1,
+      "text_chars": 644,
+      "n_links": 34,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/quiz.html",
+        "text": "pages/quiz.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/sjovettreglene/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "3. Sjøvettreglene - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "1b05bee7cd13f57728a32b6b87e5a4ae520de848a5ee8745fb3f34c5a9dc2a50",
+      "fetched_at": "2026-06-02T11:19:10.667586+00:00",
+      "depth": 2,
+      "text_chars": 817,
+      "n_links": 35,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/sjovettreglene.html",
+        "text": "pages/sjovettreglene.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/velkommen-til-lanternen-batforerkurs/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "2. Velkommen til Lanternen Båtførerkurs - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "bb5c7d85561e5f9f3a3b84d10f75942c986df69b2d5a1e2c90e757114db8a52c",
+      "fetched_at": "2026-06-02T11:19:12.544458+00:00",
+      "depth": 2,
+      "text_chars": 1985,
+      "n_links": 40,
+      "n_pdf_links": 0,
+      "n_images": 0,
+      "images": [],
+      "files": {
+        "html": "pages/velkommen-til-lanternen-batforerkurs.html",
+        "text": "pages/velkommen-til-lanternen-batforerkurs.txt"
+      }
+    },
+    {
+      "url": "https://www.lanternenkurs.no/vikeplikt-pa-sjoen-reglene-for-a-unnga-kollisjon/",
+      "site": "lanternenkurs",
+      "source_id": "lanternenkurs",
+      "title": "5. Vikeplikt på sjøen - Styrbord og babord for motorbåt og seilbåt - Lanternen",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "last_modified": null,
+      "checksum_sha256": "efa8fb8a20eb103b5dbef515c6290c4f7b1ab25f44993db4632b35d9eda6a2e3",
+      "fetched_at": "2026-06-02T11:19:08.938314+00:00",
+      "depth": 2,
+      "text_chars": 5767,
+      "n_links": 41,
+      "n_pdf_links": 0,
+      "n_images": 6,
+      "images": [
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-ferge-nevlunghavn-atlantic-lanternen-batforerkurs.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-motorbat-motende-trafik-055dd9e5.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-mototbat-kryssende-kurs-8f67cef9.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-motorbat-innhentende-ba-dd98cdc7.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-seilbat-lo-le-situasjon-3261b19e.png",
+          "alt": ""
+        },
+        {
+          "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-seilbat-innhentende-bat-eb73fd05.png",
+          "alt": ""
+        }
+      ],
+      "files": {
+        "html": "pages/vikeplikt-pa-sjoen-reglene-for-a-unnga-kollisjon.html",
+        "text": "pages/vikeplikt-pa-sjoen-reglene-for-a-unnga-kollisjon.txt"
+      }
+    }
+  ],
+  "pdfs": [],
+  "images": [
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2020-01-img_0123-1024x1024.jpg",
+      "alt": "Båtførerprøven Erik Kavli\nKursinstruktør Vannscooter. Høyhastighetsbevis",
+      "caption": "Båtførerprøven og båtførerkurs sentralt nær deg",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2020/01/IMG_0123-1024x1024.jpg",
+      "page_url": "https://www.lanternenkurs.no/1-lanternen-batforerkurs-batforerproven/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2022-03-skjermbilde-2022-04-21-kl.-16.49.43.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2022/03/Skjermbilde-2022-04-21-kl.-16.49.43.png",
+      "page_url": "https://www.lanternenkurs.no/1-lanternen-batforerkurs-batforerproven/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-iala-system-for-sjomerker-boyer-o-c9789993.png",
+      "alt": "",
+      "caption": "Lateralmerkene en røde og grønne, men hvite og sorte i kartet. Legg merke til bokstavene R og G som står for “Red” og “Green”.",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/IALA-System-for-sjomerker-boyer-og-staker-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/6-iala-systemet-for-flytende-sjomerker-boyer-og-staker/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-kardinalmerkene-lanternen-batforerkurs-copyright.png",
+      "alt": "",
+      "caption": "Kardinalmerkene er sorte og gule i virkeligheten, men sorte og hvite i kartet. De er ofte merket med bokstavene B og Y for “Black” og “Yellow”",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Kardinalmerkene-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/6-iala-systemet-for-flytende-sjomerker-boyer-og-staker/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-spesialmerket-lanternen-batforerkurs-copyright.png",
+      "alt": "",
+      "caption": "Spesialmerker, eller badebyer er gule. I kartet er den ofte hvit med en Y for “yellow”",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Spesialmerket-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/6-iala-systemet-for-flytende-sjomerker-boyer-og-staker/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-midtgrunnemerket-lanternen-batforerkurs-copyright.png",
+      "alt": "",
+      "caption": "Midtgrunnemerket i  virkeligheten, og slik den ser ut i kart. BRB står for “Black Red Black”",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Midtgrunnemerket-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/6-iala-systemet-for-flytende-sjomerker-boyer-og-staker/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-senterledsmerket-lanternen-batforerkurs-copyright.png",
+      "alt": "",
+      "caption": "Senterledsmerket i virkeligheten og slik den ser ut i kart. RW står for “Red White”",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Senterledsmerket-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/6-iala-systemet-for-flytende-sjomerker-boyer-og-staker/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg",
+      "alt": "Lyskarakteristikker, fast lys, okkulterende , flash, Isofase",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Lyskarakterisitkker-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/8-fyr-med-fargesektorer-og-lyskarakteristikker/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-lanterner-og-lanterneforing-lante-7b44924d.png",
+      "alt": "Lanterner og lanterneføring",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Lanterner-og-lanterneforing-Lanternen-Batforerkurs-copyright.-1024x1024.png",
+      "page_url": "https://www.lanternenkurs.no/9-lanterner-og-lanterneforing/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-lanterneforing-ved-slep-lanternen-45caefde.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Lanterneforing-ved-slep-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/9-lanterner-og-lanterneforing/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-deloitte.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/deloitte.png",
+      "page_url": "https://www.lanternenkurs.no/batforerproven-for-bedrift/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-dnv.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/dnv.png",
+      "page_url": "https://www.lanternenkurs.no/batforerproven-for-bedrift/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-thommessen.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/thommessen.png",
+      "page_url": "https://www.lanternenkurs.no/batforerproven-for-bedrift/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-twoday-wordmark-rgb_black-3.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/twoday-wordmark-RGB_BLACK-3.png",
+      "page_url": "https://www.lanternenkurs.no/batforerproven-for-bedrift/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-ocean-sun.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/ocean-sun.png",
+      "page_url": "https://www.lanternenkurs.no/batforerproven-for-bedrift/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-rs.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/rs.png",
+      "page_url": "https://www.lanternenkurs.no/batforerproven-for-bedrift/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-conoco-phillips.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/conoco-phillips.png",
+      "page_url": "https://www.lanternenkurs.no/batforerproven-for-bedrift/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-kruser-1-1024x681.jpeg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/kruser-1-1024x681.jpeg",
+      "page_url": "https://www.lanternenkurs.no/batforerproven-for-bedrift/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-skipperi.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/skipperi.png",
+      "page_url": "https://www.lanternenkurs.no/batforerproven-for-bedrift/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-plugins-hd-quiz-includes-..-assets-images-x_share.png",
+      "alt": "Tweet your score!",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/plugins/hd-quiz/includes/../assets/images/x_share.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture1.jpg",
+      "alt": "Båtførerbevis",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2018/04/Picture1.jpg",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-palestikk.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Palestikk.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture3.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2018/04/Picture3.jpg",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-hekking.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/hekking.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-vhf.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/VHF.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-hlr-a.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/HLR-A.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture8.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2018/04/Picture8.jpg",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture9.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2018/04/Picture9.jpg",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture10.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2018/04/Picture10.jpg",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-promille.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Promille.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-picture141.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2018/04/Picture141.jpg",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-fyr-e1620060192945.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Fyr-e1620060192945.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-skvalpeskjaer.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Skvalpeskjaer.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-1"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-skjermbilde-2021-04-11-kl.-17.17.09.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Skjermbilde-2021-04-11-kl.-17.17.09.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-attetallsknute.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Attetallsknute.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-baug.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Baug.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-forfrysning.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Forfrysning.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-fortoyningsfjaer.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Fortoyningsfjaer.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-totut.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Totut.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-styrbord-babord1.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Styrbord-babord1.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-styrbordbabord2.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Styrbordbabord2.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-dagslep.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Dagslep.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-fast-lys.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Fast-lys.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-babordmerket-situasjon.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Babordmerket-situasjon.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-05-ankerpunkt.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/05/Ankerpunkt.png",
+      "page_url": "https://www.lanternenkurs.no/batforertest-utgave-2"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-sjomerke_blindleia-1-1024x900.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/Sjomerke_blindleia-1-1024x900.jpg",
+      "page_url": "https://www.lanternenkurs.no/bli-en-trygg-batforer-viktigheten-av-a-ove-etter-batforerkurset/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-sjofugl-scaled.jpeg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/sjofugl-scaled.jpeg",
+      "page_url": "https://www.lanternenkurs.no/category/batforernytt/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-04-regatta-freesafe-location-girl-cropped-scaled.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/04/Regatta-Freesafe-location-girl-cropped-scaled.jpg",
+      "page_url": "https://www.lanternenkurs.no/category/batforernytt/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-kruser.jpeg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/kruser.jpeg",
+      "page_url": "https://www.lanternenkurs.no/category/batforernytt/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2023-09-sjomerke_blindleia-1.jpg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2023/09/Sjomerke_blindleia-1.jpg",
+      "page_url": "https://www.lanternenkurs.no/category/batforernytt/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2018-04-pexels-photo-1841709-min.jpeg",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2018/04/pexels-photo-1841709-min.jpeg",
+      "page_url": "https://www.lanternenkurs.no/category/batforernytt/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2019-03-lee05542.jpg",
+      "alt": "Hvem omkommer på sjøen",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2019/03/LEE05542.jpg",
+      "page_url": "https://www.lanternenkurs.no/category/batforernytt/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-de-fem-viktigste-knutene-lanterne-65d94be1.png",
+      "alt": "fem viktige maritime knuter",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/De-fem-viktigste-knutene-Lanternen-Batforerkurs-copyright-3.png",
+      "page_url": "https://www.lanternenkurs.no/category/pensum-til-batforerproven/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-ce-merking-lanternen-batforerkurs-copyright.png",
+      "alt": "CE-merking",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/CE-merking-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/category/pensum-til-batforerproven/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-lanterner-og-lanterneforing-lante-138c02cb.png",
+      "alt": "Lanterner og lanterneføring",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Lanterner-og-lanterneforing-Lanternen-Batforerkurs-copyright..png",
+      "page_url": "https://www.lanternenkurs.no/category/pensum-til-batforerproven/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-image.png",
+      "alt": "Fargesektor og lyktekarakteristikker",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/image.png",
+      "page_url": "https://www.lanternenkurs.no/category/pensum-til-batforerproven/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-kartsymboler-lanternen-batforerkurs-copyright.png",
+      "alt": "Kartsymboler",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Kartsymboler-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/category/pensum-til-batforerproven/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-jernstake-varde-og-bake-lanternen-cf6b5979.png",
+      "alt": "IALA",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Jernstake-varde-og-bake-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/category/pensum-til-batforerproven/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-seilbat-styrbord-babord-c68f4be2.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Vikeplikt-Seilbat-Styrbord-babordsituasjon-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/category/pensum-til-batforerproven/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-sjovettreglene.png",
+      "alt": "",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Sjovettreglene.png",
+      "page_url": "https://www.lanternenkurs.no/category/pensum-til-batforerproven/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2019-12-bfpn-kort.png",
+      "alt": "",
+      "caption": "Båtførerbevis fra båtførerregisteret",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2019/12/bfpn-kort.png",
+      "page_url": "https://www.lanternenkurs.no/opprett-profil-og-betal-eksamensavgift-pa-batforerregisteret-no/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2019-12-cta-news.png",
+      "alt": "Nettkurs båtførerprøven (med eksamenstilgang)",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2019/12/CTA-News.png",
+      "page_url": "https://www.lanternenkurs.no/product/batforerproven-nettkurs-eksamen/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2019-12-skjermbilde-2020-03-04-kl.-21.14.52.png",
+      "alt": "Båtførerprøven -Båtførerbevis",
+      "caption": "Båtførerprøven, båtførerbeviset etter bestått eksamen.",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2019/12/Skjermbilde-2020-03-04-kl.-21.14.52.png",
+      "page_url": "https://www.lanternenkurs.no/product/batforerproven-nettkurs-eksamen/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2019-12-bfpn-kort-1-600x600.png",
+      "alt": "Gavekort Båtførerkurs - Den perfekte gave!",
+      "caption": "",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2019/12/bfpn-kort-1-600x600.png",
+      "page_url": "https://www.lanternenkurs.no/product/gavekort-batforerkurs/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-ferge-nevlunghavn-atlantic-lanternen-batforerkurs.png",
+      "alt": "",
+      "caption": "Vi må alltid unngå “fergeleden” som er forbeholdt de store båtene med begrenset manøvreringsevne",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Ferge-Nevlunghavn-Atlantic-Lanternen-Batforerkurs.png",
+      "page_url": "https://www.lanternenkurs.no/vikeplikt-pa-sjoen-reglene-for-a-unnga-kollisjon/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-motorbat-motende-trafik-055dd9e5.png",
+      "alt": "",
+      "caption": "Hold til høyre for å unngå kollisjon",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Vikeplikt-Motorbat-Motende-trafikk-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/vikeplikt-pa-sjoen-reglene-for-a-unnga-kollisjon/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-mototbat-kryssende-kurs-8f67cef9.png",
+      "alt": "",
+      "caption": "Styrbord båt har retten til veien",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Vikeplikt-Mototbat-kryssende-kurs-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/vikeplikt-pa-sjoen-reglene-for-a-unnga-kollisjon/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-motorbat-innhentende-ba-dd98cdc7.png",
+      "alt": "",
+      "caption": "Innhentende båt må alltid vike for båten foran",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Vikeplikt-motorbat-Innhentende-bat-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/vikeplikt-pa-sjoen-reglene-for-a-unnga-kollisjon/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-seilbat-lo-le-situasjon-3261b19e.png",
+      "alt": "",
+      "caption": "Når begge seilbåtene kommer fra samme “halser” (feks babord/babord) er det båten i le (Båt B) som har retten til veien.",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Vikeplikt-Seilbat-Lo-le-situasjon-Lanternen-Batforerkurs-copyright-1.png",
+      "page_url": "https://www.lanternenkurs.no/vikeplikt-pa-sjoen-reglene-for-a-unnga-kollisjon/"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-seilbat-innhentende-bat-eb73fd05.png",
+      "alt": "",
+      "caption": "Seilbåten kommer fra styrbord når den får vinden inn i høyre side (båt B)",
+      "url": "https://www.lanternenkurs.no/wp-content/uploads/2021/04/Vikeplikt-seilbat-Innhentende-bat-Lanternen-Batforerkurs-copyright.png",
+      "page_url": "https://www.lanternenkurs.no/vikeplikt-pa-sjoen-reglene-for-a-unnga-kollisjon/"
+    }
+  ]
+}

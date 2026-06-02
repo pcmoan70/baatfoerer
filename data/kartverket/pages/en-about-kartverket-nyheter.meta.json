@@ -1,0 +1,39 @@
+{
+  "url": "https://www.kartverket.no/en/about-kartverket/nyheter",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Nyheter | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:08:45 GMT",
+  "checksum_sha256": "ea76156a8fc32b8b0faa9f982f5a134399962c53773e2c6160eb6c10d7a6b111",
+  "fetched_at": "2026-06-02T11:08:46.573874+00:00",
+  "depth": 2,
+  "text_chars": 1359,
+  "n_links": 30,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/en-about-kartverket-nyheter.html",
+    "text": "pages/en-about-kartverket-nyheter.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Nyheter",
+      "id": "primarycontent"
+    },
+    {
+      "level": 4,
+      "text": "Contact us",
+      "id": "footerheading-contactus"
+    },
+    {
+      "level": 4,
+      "text": "Resources",
+      "id": "footerheading-resources"
+    }
+  ]
+}

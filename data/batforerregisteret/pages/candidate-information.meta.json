@@ -1,0 +1,34 @@
+{
+  "url": "https://xn--btfrerregisteret-dob85a.no/candidate-information/",
+  "site": "batforerregisteret",
+  "source_id": "batforerregisteret",
+  "title": "Kandidatinformasjon båtførerprøven",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": "W/\"5cde12ff1020df8b8ed93d596a0ba2d7\"",
+  "last_modified": null,
+  "checksum_sha256": "e4958c8351f4fe3c68aa790e29b5ad42e0b3e9e441b5b9012e143679d3a9cbe8",
+  "fetched_at": "2026-06-02T10:57:31.058867+00:00",
+  "depth": 1,
+  "text_chars": 4070,
+  "n_links": 23,
+  "n_pdf_links": 3,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/candidate-information.html",
+    "text": "pages/candidate-information.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Kandidatinformasjon båtførerprøven 2026",
+      "id": "body"
+    },
+    {
+      "level": 2,
+      "text": "Aldersgrense",
+      "id": "site_content"
+    }
+  ]
+}

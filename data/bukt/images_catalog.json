@@ -1,0 +1,1555 @@
+{
+  "site": "bukt",
+  "n_images": 108,
+  "images": [
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-fyrlykter_kart.png",
+      "url": "https://bukt.no/quiz/static/img/articles/fyrlykter_kart.png",
+      "alt": "Sjøkart med sektorlykt med rød, grønn og hvit sektor",
+      "caption": "",
+      "page_url": "https://bukt.no/articles/fyrlykter",
+      "relevance_score": 8,
+      "topic_hits": [
+        "\\bfyr\\b|lykt|sektor",
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-kardinalmerker.svg",
+      "url": "https://bukt.no/quiz/static/img/articles/kardinalmerker.svg",
+      "alt": "Illustrasjon av kardinalmerker – nord, sør, øst og vest",
+      "caption": "",
+      "page_url": "https://bukt.no/articles/kardinalmerker",
+      "relevance_score": 6,
+      "topic_hits": [
+        "kardinal|lateral|spesialmerke|frittliggende|senterleds"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-lateralmerker.svg",
+      "url": "https://bukt.no/quiz/static/img/articles/lateralmerker.svg",
+      "alt": "Illustrasjon av lateralmerker – babord og styrbord",
+      "caption": "",
+      "page_url": "https://bukt.no/articles/lateralmerker",
+      "relevance_score": 6,
+      "topic_hits": [
+        "kardinal|lateral|spesialmerke|frittliggende|senterleds"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-kardinalmerke.png",
+      "url": "https://bukt.no/quiz/static/img/articles/kardinalmerke.png",
+      "alt": "Bilde av et kardinalmerke",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 6,
+      "topic_hits": [
+        "kardinal|lateral|spesialmerke|frittliggende|senterleds"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-lateralmerke.png",
+      "url": "https://bukt.no/quiz/static/img/articles/lateralmerke.png",
+      "alt": "Bilde av livbøye, SOS",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 6,
+      "topic_hits": [
+        "kardinal|lateral|spesialmerke|frittliggende|senterleds"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-fyrlykt.jpg",
+      "url": "https://bukt.no/quiz/static/img/articles/fyrlykt.jpg",
+      "alt": "Bilde av ei fyrlykt",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 5,
+      "topic_hits": [
+        "\\bfyr\\b|lykt|sektor"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-20.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/20.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-21.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/21.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-22.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/22.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-23.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/23.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-25.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/25.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-26.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/26.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-27.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/27.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-28.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/28.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-29.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/29.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-41.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/41.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-58.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/58.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-59.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/59.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-119.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/119.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-173.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/173.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-178.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/178.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-179.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/179.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-180.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/180.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-272.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/272.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-273.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/273.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/LANTERNEFØRING",
+      "relevance_score": 5,
+      "topic_hits": [
+        "lanterne|navigasjonslys|lantern"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-31.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/31.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-32.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/32.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-42.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/42.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-49.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/49.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-50.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/50.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-51.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/51.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-52.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/52.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-53.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/53.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-87.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/87.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-117.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/117.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-118.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/118.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-132.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/132.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-133.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/133.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-227.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/227.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-278.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/278.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-279.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/279.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-280.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/280.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-304.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/304.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-305.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/305.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-306.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/306.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-310.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/310.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-330.jpg",
+      "url": "https://bukt.no/quiz/static/img/tasks/330.jpg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-331.jpg",
+      "url": "https://bukt.no/quiz/static/img/tasks/331.jpg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-332.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/332.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-379.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/379.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-417.png",
+      "url": "https://bukt.no/quiz/static/img/tasks/417.png",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØMERKER",
+      "relevance_score": 5,
+      "topic_hits": [
+        "sj\\xf8merke|sjomerke|sea ?mark"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-fyrlykt_stor.png",
+      "url": "https://bukt.no/quiz/static/img/articles/fyrlykt_stor.png",
+      "alt": "Fyrlykt",
+      "caption": "",
+      "page_url": "https://bukt.no/articles/fyrlykter",
+      "relevance_score": 4,
+      "topic_hits": [
+        "\\bfyr\\b|lykt|sektor"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-lyskarakter_kart.png",
+      "url": "https://bukt.no/quiz/static/img/articles/lyskarakter_kart.png",
+      "alt": "Lyskarakteristikk",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 4,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-vikeplikt.svg",
+      "url": "https://bukt.no/quiz/static/img/articles/vikeplikt.svg",
+      "alt": "Værpil",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 4,
+      "topic_hits": [
+        "vikeplikt|kryssende|forbikj"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-sjokartet.jpg",
+      "url": "https://bukt.no/quiz/static/img/articles/sjokartet.jpg",
+      "alt": "Sjøkart",
+      "caption": "",
+      "page_url": "https://bukt.no/articles/sjoekartet",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-sjokartet_index.png",
+      "url": "https://bukt.no/quiz/static/img/articles/sjokartet_index.png",
+      "alt": "Værpil",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-33.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/33.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-34.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/34.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-35.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/35.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-82.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/82.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-84.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/84.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-85.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/85.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-247.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/247.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-360.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/360.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-361.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/361.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-362.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/362.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-363.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/363.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-364.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/364.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-365.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/365.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-443.jpg",
+      "url": "https://bukt.no/quiz/static/img/tasks/443.jpg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/SJØKARTET",
+      "relevance_score": 3,
+      "topic_hits": [
+        "sjokart|sj\\xf8kart|kartsymbol|skolekart|kart\\b"
+      ],
+      "analyze": true
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-ce_kategorier.png",
+      "url": "https://bukt.no/quiz/static/img/articles/ce_kategorier.png",
+      "alt": "CE-kategorier",
+      "caption": "",
+      "page_url": "https://bukt.no/articles/CE-merking_av_fritidsbaater",
+      "relevance_score": 1,
+      "topic_hits": [
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-person_test.png",
+      "url": "https://bukt.no/quiz/static/img/articles/person_test.png",
+      "alt": "Bilde av en person som tar prøve",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-forsikring.png",
+      "url": "https://bukt.no/quiz/static/img/articles/forsikring.png",
+      "alt": "Bilde av forsikringspapirer",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-ce_merke.svg",
+      "url": "https://bukt.no/quiz/static/img/articles/ce_merke.svg",
+      "alt": "Bilde av CE-merke",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-baat.png",
+      "url": "https://bukt.no/quiz/static/img/articles/baat.png",
+      "alt": "Bilde av en båt",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 1,
+      "topic_hits": [
+        "b\\xe5t|baat|fart\\xf8y|seil"
+      ],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-sos.jpg",
+      "url": "https://bukt.no/quiz/static/img/articles/sos.jpg",
+      "alt": "Bilde av livbøye, SOS",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-pensum.png",
+      "url": "https://bukt.no/quiz/static/img/articles/pensum.png",
+      "alt": "Bok som illustrerer pensum",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-articles-spoersmaal_og_svar.png",
+      "url": "https://bukt.no/quiz/static/img/articles/spoersmaal_og_svar.png",
+      "alt": "Spørsmål og svar",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 1,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-409.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/409.svg",
+      "alt": "Værpil",
+      "caption": "",
+      "page_url": "https://bukt.no/articles",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-134.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/134.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/ANKRING_OG_FORTØYNING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-135.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/135.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/ANKRING_OG_FORTØYNING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-136.jpg",
+      "url": "https://bukt.no/quiz/static/img/tasks/136.jpg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/ANKRING_OG_FORTØYNING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-137.jpg",
+      "url": "https://bukt.no/quiz/static/img/tasks/137.jpg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/ANKRING_OG_FORTØYNING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-138.jpg",
+      "url": "https://bukt.no/quiz/static/img/tasks/138.jpg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/ANKRING_OG_FORTØYNING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-30.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/30.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/KOMMUNIKASJON",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-145.gif",
+      "url": "https://bukt.no/quiz/static/img/tasks/145.gif",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/KOMMUNIKASJON",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-183.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/183.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/KOMMUNIKASJON",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-234.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/234.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/KOMMUNIKASJON",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-106.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/106.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/MANØVRERING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-107.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/107.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/MANØVRERING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-108.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/108.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/MANØVRERING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-109.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/109.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/MANØVRERING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-111.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/111.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/MANØVRERING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-112.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/112.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/MANØVRERING",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-408.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/408.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/METEOROLOGI",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-410.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/410.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/METEOROLOGI",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-411.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/411.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/METEOROLOGI",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-412.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/412.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/METEOROLOGI",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-413.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/413.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/categories/METEOROLOGI",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-frontpage_photo.jpg",
+      "url": "https://bukt.no/quiz/static/img/frontpage_photo.jpg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://bukt.no/",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-126_0.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/126_0.svg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://bukt.no/tasks/100/answers/markCorrect",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-126_1.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/126_1.svg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://bukt.no/tasks/100/answers/markCorrect",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-126_2.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/126_2.svg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://bukt.no/tasks/100/answers/markCorrect",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-126_3.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/126_3.svg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://bukt.no/tasks/100/answers/markCorrect",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-126_4.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/126_4.svg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://bukt.no/tasks/100/answers/markCorrect",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-126_5.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/126_5.svg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://bukt.no/tasks/100/answers/markCorrect",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-24.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/24.svg",
+      "alt": "",
+      "caption": "",
+      "page_url": "https://bukt.no/tasks/24",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    },
+    {
+      "site": "bukt",
+      "source_id": "bukt",
+      "authority": "private",
+      "file": "bukt\\images\\quiz-static-img-tasks-83.svg",
+      "url": "https://bukt.no/quiz/static/img/tasks/83.svg",
+      "alt": "Oppgavebilde",
+      "caption": "",
+      "page_url": "https://bukt.no/tasks/83",
+      "relevance_score": 0,
+      "topic_hits": [],
+      "analyze": false
+    }
+  ]
+}

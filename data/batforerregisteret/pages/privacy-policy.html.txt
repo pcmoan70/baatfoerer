@@ -1,0 +1,41 @@
+Vi bruker [cookies](https://xn--btfrerregisteret-dob85a.no/cookies.html).
+Sjøfartsdirektoratet er behandlingsansvarlig, og Norsk Test as er databehandler for personopplysninger som behandles av dette nettstedet.
+Personopplysningene som innhentes brukes til å administrere, tildele og gjennomføre elektroniske tester og resultater; og til å opprettholde et sentralt båtførerregister pr. Forskrift om krav til minstealder og båtførerbevis mv. for fører av fritidsbåt, § 18.
+Listen nedenfor inneholder opplysninger vi kan be om (vi innhenter ikke opplysninger utover det du gir oss). Hvilke opplysninger som blir registrert for en gitt oppgave er avhengig av oppgaven. Vi krever at du oppgir alle opplysninger som er merket som påkrevd for å få tilgang til en tjeneste.
+| data | beskrivelse | nødvendig for båtførerbeviset |
+gjennomføring av båtførerprøven |
+kjøp |
+inndragelse/ beslagleggelse |
+statistikk |
+påkrevd fra bruker |
+|---|---|---|---|---|---|---|---|
+| bevisnr | Et (historisk løpenummer som skrives på Båtførerbeviset. | ja | |||||
+| navn | Nødvendig for identifikasjon, skrives på Båtførerbeviset | ja | ja | ||||
+| adresse | Nødvendig for å sende Båtførerbeviset til Kandidaten | ja | ja | ||||
+| telefon | Vi sender kjøpsbekreftelse og innloggingskode på sms | ja | ja | ja | |||
+| epost | Support- og annen kommunikasjon med Kandidaten | ja | |||||
+| fødselsdato | For kontroll av minstealder for Båtførerprøven/beviset | ja | ja | ja | |||
+| fødselsnr. | Nødvendig for entydig identifikasjon vis-à-vis politiet | ja | ja | ja | |||
+| inndragelse | Vi registrerer inndragelsesperioden etter beskjed fra rettsinnstans. | ja | |||||
+| opplæring | For statistikk | ja | |||||
+| prøvedata | Vi registrerer data om gjennomføring og resultat av eksamen | ja | |||||
+| kort | vi registrerer prosessdata ifbm. bestilling av kort, inkl. duplikat | ja | |||||
+| support | Vi registrerer data du sender oss ved support henvendelser | ||||||
+Vi bruker en ekstern betalingsformidler og lagrer ikke kredittkortopplysninger.
+kun opplysninger som er nødvendig for drift blir registrert (data-minimering, jf.Kandidaten registerer selv navn, adresse, telefon, epost, fødselsnr., og opplæring. Bevisnr. og prøvedata genereres av administrasjons og test-systemene. Inndragelsesdata genereres av politi/domstol.
+Sluttbrukeren gir samtykke til registrering av navn, adresse, telefon, epost, fødselsnr./dato, passfoto, og
+opplæring (opplæring er ikke påkrevd å opplyse om).
+Jf. [GDPR](https://lovdata.no/lov/2018-06-15-38/gdpr/a6)
+6.1.a.
+Inndragelsesdata er lagret på bakgrunn av Forskrift om tap av retten til å føre båtførerbevispliktig fritidsbåt,
+spesielt § 10. Jf. [GDPR](https://lovdata.no/lov/2018-06-15-38/gdpr/a6") 6.1.c.
+Generering og lagring av bevisnummer gjøres for å ha kontinuitet med tidligere praksis. Jf. [GDPR](https://lovdata.no/lov/2018-06-15-38/gdpr/a6) 6.1.f.
+Prøvedata lagres fordi brukeren har kjøpt et produkt som inkluderer gjennomføring av en prøve. Jf. [GDPR](https://lovdata.no/lov/2018-06-15-38/gdpr/a6) 6.1.b.
+Vi overfører data som skal preges på plastkort til trykkeriet som utfører denne oppgaven for oss.
+Politiet har mulighet til å søke i registeret og får tilgang til personlige data som er nødvendige for å gjennomføre lovpålagte oppgaver.
+Norsk Test er et norsk firma og vår behandling av personlig informasjon faller under norsk lovgiving. Dette gjelder spesielt personopplysningsloven og den nye versjonen av denne (vedtatt 22. mai 2018) som gir deg rett til innsyn i egne personopplysninger. Du kan kreve å få rettet eller slettet mangelfulle eller uriktige opplysninger. For at politiet skal kunne utøve sine lovpålagte oppgaver har du kun begrenset adgang til å slette opplysninger om deg fra Båtførerregisteret.
+Norsk Test as9917 Kirkenes
+support@datakortet.no
+Postboks 2222
+5509 Haugesund
+post@sdir.no

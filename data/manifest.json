@@ -1,0 +1,146 @@
+{
+  "generated_at": "2026-06-02T10:51:52.225034+00:00",
+  "user_agent": "BatforerTrainerBot/0.1 (+educational; contact: pcmoan@gmail.com)",
+  "sources": [
+    {
+      "source_id": "sdir_pensum",
+      "site": "sdir",
+      "name": "Sjøfartsdirektoratet – pensum til båtførerprøven",
+      "authority": "official",
+      "n_pages": 55,
+      "n_pdfs": 27,
+      "n_images": 10,
+      "index": "data/sdir/index.json"
+    },
+    {
+      "source_id": "sdir_batforerbevis",
+      "site": "sdir",
+      "name": "Sjøfartsdirektoratet – båtførerbevis",
+      "authority": "official",
+      "n_pages": 59,
+      "n_pdfs": 29,
+      "n_images": 10,
+      "index": "data/sdir/index.json"
+    },
+    {
+      "source_id": "sdir_skolekart",
+      "site": "sdir",
+      "name": "Sjøfartsdirektoratet – skolekart",
+      "authority": "official",
+      "n_pages": 55,
+      "n_pdfs": 26,
+      "n_images": 10,
+      "index": "data/sdir/index.json"
+    },
+    {
+      "source_id": "batforerregisteret",
+      "site": "batforerregisteret",
+      "name": "Båtførerregisteret",
+      "authority": "official",
+      "n_pages": 18,
+      "n_pdfs": 0,
+      "n_images": 0,
+      "index": "data/batforerregisteret/index.json"
+    },
+    {
+      "source_id": "lovdata_forskrift",
+      "site": "lovdata",
+      "name": "Forskrift om minstealder og båtførerbevis (2009-03-03-259)",
+      "authority": "official_law",
+      "n_pages": 0,
+      "n_pdfs": 0,
+      "n_images": 0,
+      "index": "data/lovdata/index.json"
+    },
+    {
+      "source_id": "kystverket_sjomerker",
+      "site": "kystverket",
+      "name": "Kystverket – fyr, lykter og sjømerker",
+      "authority": "official",
+      "n_pages": 60,
+      "n_pdfs": 34,
+      "n_images": 150,
+      "index": "data/kystverket/index.json"
+    },
+    {
+      "source_id": "kystverket_batfart",
+      "site": "kystverket",
+      "name": "Kystverket – BåtFart / fartsgrenser",
+      "authority": "official",
+      "n_pages": 60,
+      "n_pdfs": 34,
+      "n_images": 150,
+      "index": "data/kystverket/index.json"
+    },
+    {
+      "source_id": "kartverket_skolekart",
+      "site": "kartverket",
+      "name": "Kartverket – skolekart",
+      "authority": "official",
+      "n_pages": 60,
+      "n_pdfs": 17,
+      "n_images": 56,
+      "index": "data/kartverket/index.json"
+    },
+    {
+      "source_id": "redningsselskapet_sjovett",
+      "site": "redningsselskapet",
+      "name": "Redningsselskapet – sjøvettreglene",
+      "authority": "ngo",
+      "n_pages": 60,
+      "n_pdfs": 0,
+      "n_images": 150,
+      "index": "data/redningsselskapet/index.json"
+    },
+    {
+      "source_id": "bukt",
+      "site": "bukt",
+      "name": "bUkt.no",
+      "authority": "private",
+      "n_pages": 49,
+      "n_pdfs": 0,
+      "n_images": 108,
+      "index": "data/bukt/index.json"
+    },
+    {
+      "source_id": "goypasjoen",
+      "site": "goypasjoen",
+      "name": "Gøy på sjøen",
+      "authority": "private",
+      "n_pages": 1,
+      "n_pdfs": 0,
+      "n_images": 2,
+      "index": "data/goypasjoen/index.json"
+    },
+    {
+      "source_id": "bliskipper",
+      "site": "bliskipper",
+      "name": "BliSkipper – gratis test",
+      "authority": "private",
+      "n_pages": 1,
+      "n_pdfs": 0,
+      "n_images": 0,
+      "index": "data/bliskipper/index.json"
+    },
+    {
+      "source_id": "lanternenkurs",
+      "site": "lanternenkurs",
+      "name": "Lanternen kurs – quiz",
+      "authority": "private",
+      "n_pages": 21,
+      "n_pdfs": 0,
+      "n_images": 70,
+      "index": "data/lanternenkurs/index.json"
+    },
+    {
+      "source_id": "batforerproven",
+      "site": "batforerproven",
+      "name": "Båtførerprøven.no – gratistest",
+      "authority": "private",
+      "n_pages": 13,
+      "n_pdfs": 0,
+      "n_images": 60,
+      "index": "data/batforerproven/index.json"
+    }
+  ]
+}

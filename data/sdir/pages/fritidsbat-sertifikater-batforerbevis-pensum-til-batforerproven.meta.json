@@ -1,0 +1,39 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Pensum til båtførerprøven - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "d2ad5d3958202f348acbcafe668eef968e7c853494b5c2bc0c909055fbde4daf",
+  "fetched_at": "2026-06-02T10:57:17.897286+00:00",
+  "depth": 2,
+  "text_chars": 411,
+  "n_links": 29,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-sertifikater-batforerbevis-pensum-til-batforerproven.html",
+    "text": "pages/fritidsbat-sertifikater-batforerbevis-pensum-til-batforerproven.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Pensum til båtførerprøven",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Hopp til innhold",
+      "id": "content-anchors"
+    },
+    {
+      "level": 2,
+      "text": "Pensum til båtførerprøven består av fire deler",
+      "id": "main-text-content"
+    }
+  ]
+}

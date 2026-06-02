@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/articles/baaten",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Forstå båten din – stabilitet, skrogtyper og praktisk kunnskap - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "74aa85f1f5351bfafb0ced24e0e64380fb9613798d7747740db1a81214f68118",
+  "fetched_at": "2026-06-02T11:16:36.863876+00:00",
+  "depth": 2,
+  "text_chars": 2107,
+  "n_links": 22,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/articles-baaten.html",
+    "text": "pages/articles-baaten.txt"
+  },
+  "anchors": []
+}

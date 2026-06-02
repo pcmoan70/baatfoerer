@@ -1,0 +1,34 @@
+{
+  "url": "https://www.sdir.no/en/Leisure-boat/Certificates/Boat-driver_46s-license/School-map-for-the-boat-driving-test/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Maps for the boating exam - Norwegian Maritime Authority",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "634f1ef366e0df35745319d5706e592bd005e9f344e36a3ddf7ce1d143606553",
+  "fetched_at": "2026-06-02T10:55:41.659048+00:00",
+  "depth": 1,
+  "text_chars": 335,
+  "n_links": 24,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/en-leisure-boat-certificates-boat-driver_46s-license-school--853ae8ec.html",
+    "text": "pages/en-leisure-boat-certificates-boat-driver_46s-license-school--853ae8ec.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Maps for the boating exam",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Download maps",
+      "id": "main-text-content"
+    }
+  ]
+}

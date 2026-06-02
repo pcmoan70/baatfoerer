@@ -1,0 +1,7 @@
+Kategori: Lanterneføring
+Her ser du svarhistorikk for hver oppgave, for riktig og for feil. Siste svar lengst til høyre.
+Klikk på oppgavenummeret for å besvare oppgaven.
+| Nummer | Oppgave | Svarhistorie |
+|---|---|---|
+|
+[21](https://bukt.no/tasks/21)[22](https://bukt.no/tasks/22)[23](https://bukt.no/tasks/23)[24](https://bukt.no/tasks/24)[25](https://bukt.no/tasks/25)[26](https://bukt.no/tasks/26)[27](https://bukt.no/tasks/27)[28](https://bukt.no/tasks/28)[29](https://bukt.no/tasks/29)[41](https://bukt.no/tasks/41)[58](https://bukt.no/tasks/58)[59](https://bukt.no/tasks/59)[76](https://bukt.no/tasks/76)[119](https://bukt.no/tasks/119)[120](https://bukt.no/tasks/120)[121](https://bukt.no/tasks/121)[122](https://bukt.no/tasks/122)[173](https://bukt.no/tasks/173)[178](https://bukt.no/tasks/178)[179](https://bukt.no/tasks/179)[180](https://bukt.no/tasks/180)[272](https://bukt.no/tasks/272)[273](https://bukt.no/tasks/273)[425](https://bukt.no/tasks/425)[Sett Lanterneføring som aktiv, og få oppgaver kun fra denne kategorien](https://bukt.no/categories/LANTERNEFØRING?setActive=true)

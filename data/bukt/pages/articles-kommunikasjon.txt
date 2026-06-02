@@ -1,0 +1,30 @@
+Kommunikasjon på sjøen – VHF, nødsignaler og lydsignaler
+Når du er på sjøen, er det viktig å kunne kommunisere klart med andre fartøy og redningstjenesten.
+VHF-radio og Kystradioen
+VHF (Very High Frequency) er et viktig kommunikasjonsmiddel mellom båter og mellom båt og kystradio. Den brukes både i nød og til rutinemeldinger.
+- Nødkanal (kanal 16): Alltid overvåket. Brukes for nødmeldinger.
+- Kystradioens nødnummer: 120 fra mobiltelefon.
+Når du kaller opp på VHF kanal 16, starter du med å si: Mayday mayday mayday
+(ved nød) eller Pan-pan pan-pan pan-pan
+(ved hastemelding), og deretter posisjon, hva som har skjedd, og behov.
+Internasjonale nødsignaler
+Følgende signaler betyr nødsituasjon (behov for hjelp):
+- Flagg N over C, som vist på bildet.
+- Raketter eller lys med oransje farge
+- Radiomelding "Mayday Mayday Mayday"
+- Vinke med begge armene over hodet i sakte bevegelse.
+Lyd- eller lyssignaler mellom fartøy
+Fartøy kan bruke lyd- eller lyssignaler for å varsle manøver:
+- 1 kort støt: Jeg svinger til styrbord (høyre)
+- 2 korte støt: Jeg svinger til babord (venstre)
+- 3 korte støt: Jeg bruker maskinkraften akterover (bakover)
+- 5 korte støt: Jeg er usikker på din manøver – fare for misforståelse
+Disse kan suppleres med lys, for eksempel to korte blink for å signalisere at man svinger til babord.
+Signalflagg A - Dykker nede
+Et annet signal som er viktig å merke seg, er signalflagg A, vist på bildet, som betyr dykker nede. Hold god avstand til fartøy som viser dette flagget.
+Tips til båtførerprøven
+Du må vite hvilke signaler som brukes for kommunikasjon i nød, i mørke og i samhandling mellom fartøy. Bruk [oppgaver i kategorien "Kommunikasjon"](https://bukt.no/categories/KOMMUNIKASJON) for å teste deg selv.
+Relevante oppgaver
+| Nummer | Oppgave | Svarhistorie |
+|---|---|---|
+|

@@ -1,0 +1,21 @@
+Nye Norgeskart.no viser datakvalitet på dybder
+Rett før påske lanserte Kartverket nye Norgeskart.no. I det nye kartet kan du som bruker lettere se hvor gode våre data over dybder er i norske sjøkart.
+Kvaliteten på dybdedata i et sjøkart varierer nemlig mye, siden dataene er samlet inn over mange år, og med ulike metoder og teknologi.
+Temalaget i nye Norgeskart.no viser hvorvidt sjøområdene er målt med heldekkende sjømåling, eller om dybdeavvik kan forventes. Dermed kan du som bruker forholde deg til dette når du skal planlegge en seilas i området. I tillegg er det lagt til informasjon om hvor det ikke er sjømålt i det hele tatt.
+Tidligere var denne informasjonen kun tilgjengelig via profesjonelle ECDIS-maskiner. Men dybdedata er såpass sentralt for sjønavigasjon at informasjon om datakvaliteten bør være tilgjengelig for både næringsfartøy og fritidsbåter.
+Derfor har Kartverket gjort informasjonen lett tilgjengelig i Norgeskart.no under menyen Temakart og kartlaget Til sjøs.
+Viser datakvalitet
+Den nye funksjonen i Norgeskart.no er et viktig skritt mot mer åpne geodata. Det gir både profesjonelle sjøfolk og fritidsbrukere et bedre grunnlag for å tolke sjøkartene langs norskekysten.
+- Datakvalitet på dybdedata vises under bunnmenyen Temakart, der du velger Til sjøs som kartlag.
+- Dataene klassifiseres etter internasjonal standard (ZOC)
+- Oppdateres jevnlig og er tilgjengelig for nedlasting og via karttjenester
+- Gir økt sikkerhet og bedre beslutningsgrunnlag til sjøs
+Følger internasjonal standard
+Nye Norgeskart.no gir en kartbasert framstilling av datakvalitet, der områdene er delt inn etter internasjonale standarder. Kategoriene følger International Hydrographic Organization (IHO) sin standard for Zones Of Confidence (ZOC).
+Her rangeres datakvaliteten fra høyeste nivå (A1) til laveste (D), samt en egen kategori for områder der kvaliteten ikke er vurdert.
+Brukerne kan dermed enkelt identifisere områder med god datakvalitet – og områder der dybdemålingene er usikre.
+Viktig for sikker ferdsel og planlegging
+Kartverket håper at bedre informasjon om datakvaliteten øker bevisstheten rundt sjøsikkerhet. Navigatører kan bedre vurdere risiko og planlegge seilas i områder med begrenset eller eldre datagrunnlag.
+I tillegg er dette nyttig for planlegging for eksempel innen havneutvikling, hvis en lurer på om navigasjonsproduktene har god nok informasjon. Hvis ikke, kan det [meldes inn et brukerbehov til Kartverket](mailto:post@kartverket.no).
+Den nye løsningen bygger på data som er høstet fra de offisielle elektroniske sjøkartene. For tjenesteutviklere er datasett og innsynstjeneste tilgjengelig i Geonorge, der grunnlaget oppdateres jevnlig.
+E-posten er sendt

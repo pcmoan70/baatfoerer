@@ -1,0 +1,29 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/kategori/sjomannskap/page/4/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Sjømannskap Arkiver - Side 4 av 4 - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "b05c1eb14456bc64db861e10bf14d9877ed98a7a0659ddced706468331891e45",
+  "fetched_at": "2026-06-02T11:13:09.397069+00:00",
+  "depth": 2,
+  "text_chars": 367,
+  "n_links": 165,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-kategori-sjomannskap-page-4.html",
+    "text": "pages/sikker-til-sjos-kategori-sjomannskap-page-4.txt"
+  },
+  "anchors": [
+    {
+      "level": 2,
+      "text": "Sjekk ut disse sakene:",
+      "id": "article-category-map"
+    }
+  ]
+}

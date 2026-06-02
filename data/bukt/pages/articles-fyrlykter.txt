@@ -1,0 +1,23 @@
+Hva forteller fyrlyktene deg i mørket?
+Fyrlykter og sektorlykter er faste lyskilder som hjelper deg å navigere i mørket. De er plassert på land eller holmer, og lyser i bestemte retninger for å veilede båtførere trygt gjennom trange eller farlige områder.
+Hva er en fyrlykt?
+En fyrlykt er en fast lykt med karakteristisk lys. Den kan være hvit, grønn eller rød, og kan ha ulike blinkemønstre (karakterer) som gjør den lett å kjenne igjen på sjøkartet.
+Hva er en sektorlykt?
+En sektorlykt lyser med ulike farger i forskjellige retninger. Den deler området foran seg inn i rød, grønn og hvit sektor.
+Når du nærmer deg en sektorlykt, kan du bruke fargen på lyset til å avgjøre om du er på rett kurs:
+- Ser du hvitt lys: Du er innenfor trygg led. Hvitt lys er vanligvis markert som gult på sjøkartet.
+- Ser du rødt eller grønt lys: Du er utenfor leia – juster kursen for å komme tilbake i hvit sektor.
+Hvordan kjenne dem igjen på sjøkart?
+På sjøkart vises sektorlykter med sirkelbuer og fargekodede sektorer. Ved siden av står informasjon om lyskarakter (blinkemønster).
+Eksempel på lyskarakterer
+Fl(2) WRG 15s
+: Lyset blinker i grupper på 2, har sektorer i hvitt, rødt og grønt, og serien gjentas hvert 15. sekund.Iso WRG 4s
+: Isofase (like lang lys og mørketid) med fargede sektorer, periode på 4 sekunder. Det betyr at det er lyst 2 sekunder og mørkt 2 sekunder.
+Mer info om lyskarakterer finner du [her](https://bukt.no/articles/lyskarakteristikk).
+Denne vidoen viser deg trygge og utrygge sektorer på sjøkartet:
+Tips til båtførerprøven
+Øv på å tolke lyskarakterer og forstå sektorer i praksis. Oppgaver med fyrlykter og sektorlykter kommer ofte på prøven, og er viktige for sikker ferdsel i mørke.
+Relevante oppgaver
+| Nummer | Oppgave | Svarhistorie |
+|---|---|---|
+|

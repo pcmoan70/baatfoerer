@@ -1,0 +1,54 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "vts | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "e9739cf5f63c36cfff3308956accbe8043ac8021bf3c5ee278474a15054c3817",
+  "fetched_at": "2026-06-02T11:03:16.041314+00:00",
+  "depth": 1,
+  "text_chars": 6784,
+  "n_links": 152,
+  "n_pdf_links": 0,
+  "n_images": 6,
+  "images": [
+    {
+      "file": "kystverket\\images\\globalassets-bildervedleggfaktabokser-navigasjon-og-overvaki-3ae94657.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-tjenesteikoner-2026-bolgevarsel.svg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-06a9795b0ca04a42a2962a13169b8971-bat-maloybrua.jpg-08dea819.jpg",
+      "alt": "Båt på vei under Måløybrua"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-d5a0346542ad431dae25b5ff9727ecef-kart-fra-kyst-a18a1d2e.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-8623c9b798c6461091ce6016ab25efe9-notice-to-mariners.jpg-08dea819.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-dc975578fe354d41be7c52e959983e99-ais-seatex-2.jpg-08dea819.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste.html",
+    "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Sjøtrafikksentraltjenesten",
+      "id": "content-start"
+    }
+  ]
+}

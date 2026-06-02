@@ -1,0 +1,46 @@
+{
+  "url": "https://www.kystverket.no/nyheter/2020/losen-tester-nye-digitale-verktoy/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Losen tester nye digitale verktøy | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "327c6f73a8d0f479e17af62f3a7ab69935d0ec551e6b752393acbca8ee332199",
+  "fetched_at": "2026-06-02T11:06:15.416909+00:00",
+  "depth": 2,
+  "text_chars": 5457,
+  "n_links": 129,
+  "n_pdf_links": 0,
+  "n_images": 4,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-20211203_100151.jpg-169bbf91.jpg",
+      "alt": "Statslos Karl Helge Haagensen var med da nye digitale verktøy ble testet i Tjeldsundet."
+    },
+    {
+      "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-losing-av-far-46337d35.jpg",
+      "alt": "20211203_110612.jpg"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-kartbilde-fra-s100demonstator.png",
+      "alt": "Tide1038d95.png"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-48c644a0767141549b1b023e896ef296-testing-av-el-d25fc5d8.jpg",
+      "alt": "20211203_092909.jpg"
+    }
+  ],
+  "files": {
+    "html": "pages/nyheter-2020-losen-tester-nye-digitale-verktoy.html",
+    "text": "pages/nyheter-2020-losen-tester-nye-digitale-verktoy.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Losen tester nye digitale verktøy",
+      "id": "content-start"
+    }
+  ]
+}

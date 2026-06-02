@@ -1,0 +1,59 @@
+{
+  "url": "https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Symboler og forkortelser i norske sjøkart | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:06:53 GMT",
+  "checksum_sha256": "8902aa79493b80ebfc6b7907e951941cfd11c61a8e4f2ebe8bede421582cfef0",
+  "fetched_at": "2026-06-02T11:06:56.235947+00:00",
+  "depth": 1,
+  "text_chars": 2119,
+  "n_links": 42,
+  "n_pdf_links": 2,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-tingholmen-med-kartutsnitt-e024ae95.jpg",
+      "alt": "Fyrlykt på Tingholmen. Kartutsnitt som viser sjømerke for fyrlykt er redigert inn. Foto: Arnfinn Lie"
+    }
+  ],
+  "files": {
+    "html": "pages/til-sjos-nautiske-publikasjoner-symboler-og-forkortelser-i-norske-sjokart.html",
+    "text": "pages/til-sjos-nautiske-publikasjoner-symboler-og-forkortelser-i-norske-sjokart.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Symbol og forkortingar i norske sjøkart",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Andre nautiske publikasjonar",
+      "id": "LinkListBlockProxy-3218"
+    },
+    {
+      "level": 2,
+      "text": "Meir om sjøkart",
+      "id": "LinkListBlockProxy-3217"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

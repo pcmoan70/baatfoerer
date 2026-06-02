@@ -1,0 +1,137 @@
+{
+  "url": "https://www.xn--btfrerprven-x8a3wf.no/batforerprovenung/",
+  "site": "batforerproven",
+  "source_id": "batforerproven",
+  "title": "BåtførerprøvenUNG - Båtførerprøven.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 10:15:10 GMT",
+  "checksum_sha256": "592a640feb03c9f5ca15d9acc05a7825b19c99e892dcdf5421396629e03309ae",
+  "fetched_at": "2026-06-02T11:20:12.793634+00:00",
+  "depth": 2,
+  "text_chars": 3232,
+  "n_links": 96,
+  "n_pdf_links": 0,
+  "n_images": 8,
+  "images": [
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-04-section-1-video.png",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-ung-kurs-prod1.webp",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-ung-praktisk-1.webp",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-baatforer-ung-1.webp",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-familiepakke-produktbilder.jpg",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-levende-studio.webp",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-10-ung-kurs.webp",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-04-hand-1-1.png",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/batforerprovenung.html",
+    "text": "pages/batforerprovenung.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "BåtførerprøvenUNG – Kvalifisert kaptein",
+      "id": "top_banner"
+    },
+    {
+      "level": 2,
+      "text": "Velg ønsket alternativ for BåtførerprøvenUNG",
+      "id": "kom-igang"
+    },
+    {
+      "level": 5,
+      "text": "Videoserie + Quizer",
+      "id": "athemes-blocks-block-6b9a3348"
+    },
+    {
+      "level": 3,
+      "text": "Nettkurs",
+      "id": "athemes-blocks-block-d9312eb4"
+    },
+    {
+      "level": 2,
+      "text": "Kurskalender",
+      "id": "athemes-blocks-block-da710153"
+    },
+    {
+      "level": 2,
+      "text": "Hva er BåtførerprøvenUNG?",
+      "id": "athemes-blocks-block-2dcc7a4e"
+    },
+    {
+      "level": 2,
+      "text": "Hvem er kurset beregnet for?",
+      "id": "athemes-blocks-block-2023d3d6"
+    },
+    {
+      "level": 2,
+      "text": "Slik fungerer kurset",
+      "id": "athemes-blocks-block-22019121"
+    },
+    {
+      "level": 2,
+      "text": "Kursprogram",
+      "id": "athemes-blocks-block-ce1c3566"
+    },
+    {
+      "level": 2,
+      "text": "Gratis kundeservice",
+      "id": "athemes-blocks-block-62d56a57"
+    },
+    {
+      "level": 2,
+      "text": "Hurtiglenker",
+      "id": "nav_menu-2"
+    },
+    {
+      "level": 2,
+      "text": "Kundeservice",
+      "id": "nav_menu-5"
+    },
+    {
+      "level": 2,
+      "text": "Follow us",
+      "id": "nav_menu-4"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "content-report"
+    },
+    {
+      "level": 4,
+      "text": "Block Member?",
+      "id": "block-member"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "reported-content"
+    }
+  ]
+}

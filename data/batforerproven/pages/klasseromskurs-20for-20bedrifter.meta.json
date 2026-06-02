@@ -1,0 +1,121 @@
+{
+  "url": "https://www.xn--btfrerprven-x8a3wf.no/Klasseromskurs%20for%20bedrifter",
+  "site": "batforerproven",
+  "source_id": "batforerproven",
+  "title": "Klasseromskurs for bedrifter - Båtførerprøven.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:20:30 GMT",
+  "checksum_sha256": "b2f3bde785c5bc7793509d52d6e6cf7a3574f0898c3e257ffeebd5fb2624abef",
+  "fetched_at": "2026-06-02T11:20:35.707859+00:00",
+  "depth": 2,
+  "text_chars": 2091,
+  "n_links": 96,
+  "n_pdf_links": 0,
+  "n_images": 4,
+  "images": [
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-img5-1.webp",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-img1.png",
+      "alt": "img1"
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-img2.webp",
+      "alt": ""
+    },
+    {
+      "file": "batforerproven\\images\\wp-content-uploads-2025-11-image-28.webp",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/klasseromskurs-20for-20bedrifter.html",
+    "text": "pages/klasseromskurs-20for-20bedrifter.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Klasseromskurs for bedrifter",
+      "id": "post-53539"
+    },
+    {
+      "level": 1,
+      "text": "Kurs for grupper/bedrifter",
+      "id": "meld-deg-paa"
+    },
+    {
+      "level": 2,
+      "text": "Kundevurderinger",
+      "id": "athemes-blocks-block-8f5a87a2"
+    },
+    {
+      "level": 2,
+      "text": "Kursgjennomføring",
+      "id": "athemes-blocks-block-6b3a1a4c"
+    },
+    {
+      "level": 2,
+      "text": "Kursalternativer",
+      "id": "athemes-blocks-block-bfe1e44f"
+    },
+    {
+      "level": 2,
+      "text": "Kurspriser",
+      "id": "athemes-blocks-block-8d779d25"
+    },
+    {
+      "level": 2,
+      "text": "Eksamen",
+      "id": "athemes-blocks-block-fcd58e11"
+    },
+    {
+      "level": 2,
+      "text": "Nettkurs inkludert",
+      "id": "athemes-blocks-block-7af4193b"
+    },
+    {
+      "level": 2,
+      "text": "Kursforsikring",
+      "id": "athemes-blocks-block-4158ec26"
+    },
+    {
+      "level": 2,
+      "text": "Gratis kundeservice",
+      "id": "athemes-blocks-block-19f5711b"
+    },
+    {
+      "level": 2,
+      "text": "Hurtiglenker",
+      "id": "nav_menu-2"
+    },
+    {
+      "level": 2,
+      "text": "Kundeservice",
+      "id": "nav_menu-5"
+    },
+    {
+      "level": 2,
+      "text": "Follow us",
+      "id": "nav_menu-4"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "content-report"
+    },
+    {
+      "level": 4,
+      "text": "Block Member?",
+      "id": "block-member"
+    },
+    {
+      "level": 4,
+      "text": "Report",
+      "id": "reported-content"
+    }
+  ]
+}

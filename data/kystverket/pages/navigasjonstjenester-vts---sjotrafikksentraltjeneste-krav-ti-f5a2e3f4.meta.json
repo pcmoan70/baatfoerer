@@ -1,0 +1,29 @@
+{
+  "url": "https://www.kystverket.no/navigasjonstjenester/vts---sjotrafikksentraltjeneste/krav-til-fartoy-som-bruker-sjotrafikksentralenes-tjenesteomrader/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Krav til fartøy | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "2e39dd2380454f19f33ba8b9fcf93c0b5b0f7aa29a61ebe551ae9e4d1a4e993a",
+  "fetched_at": "2026-06-02T11:06:35.826513+00:00",
+  "depth": 2,
+  "text_chars": 949,
+  "n_links": 133,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-krav-ti-f5a2e3f4.html",
+    "text": "pages/navigasjonstjenester-vts---sjotrafikksentraltjeneste-krav-ti-f5a2e3f4.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Krav til fartøy",
+      "id": "content-start"
+    }
+  ]
+}

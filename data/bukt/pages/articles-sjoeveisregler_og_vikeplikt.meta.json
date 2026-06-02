@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/articles/sjoeveisregler_og_vikeplikt",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Hvem har vikeplikt på sjøen? - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "87a03b2f8f603f8e9fac59747a11c9a177ece05dae1ff04601b42331351b42d9",
+  "fetched_at": "2026-06-02T11:16:50.146809+00:00",
+  "depth": 2,
+  "text_chars": 1451,
+  "n_links": 19,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/articles-sjoeveisregler_og_vikeplikt.html",
+    "text": "pages/articles-sjoeveisregler_og_vikeplikt.txt"
+  },
+  "anchors": []
+}

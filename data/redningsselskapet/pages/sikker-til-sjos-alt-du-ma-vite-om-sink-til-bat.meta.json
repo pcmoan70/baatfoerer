@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/alt-du-ma-vite-om-sink-til-bat/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Sink til båt - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "980eceb2d98690f23be60415661ac02dbe7e2cc3263b99e857fae2c6df60938b",
+  "fetched_at": "2026-06-02T11:12:32.848111+00:00",
+  "depth": 2,
+  "text_chars": 4203,
+  "n_links": 123,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-alt-du-ma-vite-om-sink-til-bat.html",
+    "text": "pages/sikker-til-sjos-alt-du-ma-vite-om-sink-til-bat.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Alt du trenger å vite om sink til båt",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

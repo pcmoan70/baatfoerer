@@ -1,0 +1,39 @@
+{
+  "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/batforerbevis-som-valgfag-i-ungdomsskolen/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Båtførerbevis som valgfag i ungdomsskolen - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "d0f9851a1885588494d9fe8ac8aa58f4128762344c47828ffa93e4b01b2bdaf3",
+  "fetched_at": "2026-06-02T10:57:21.059567+00:00",
+  "depth": 2,
+  "text_chars": 2307,
+  "n_links": 33,
+  "n_pdf_links": 1,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/fritidsbat-sertifikater-batforerbevis-batforerbevis-som-valgfag-i-ungdomsskolen.html",
+    "text": "pages/fritidsbat-sertifikater-batforerbevis-batforerbevis-som-valgfag-i-ungdomsskolen.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Båtførerbevis som valgfag i ungdomsskolen",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Hopp til innhold",
+      "id": "content-anchors"
+    },
+    {
+      "level": 2,
+      "text": "Hvor finner jeg info om båtførerprøven som valgfag?",
+      "id": "main-text-content"
+    }
+  ]
+}

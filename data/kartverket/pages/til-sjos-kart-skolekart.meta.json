@@ -1,0 +1,69 @@
+{
+  "url": "https://www.kartverket.no/til-sjos/kart/skolekart",
+  "site": "kartverket",
+  "source_id": "kartverket_skolekart",
+  "title": "Skolekart | Kartverket.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": "Tue, 02 Jun 2026 11:06:36 GMT",
+  "checksum_sha256": "96e879ff4f85e34e1efac7024dfbea689a8f5e82da92cb7482c826f90d108cf2",
+  "fetched_at": "2026-06-02T11:06:39.135014+00:00",
+  "depth": 0,
+  "text_chars": 3872,
+  "n_links": 39,
+  "n_pdf_links": 13,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kartverket\\images\\globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg",
+      "alt": "Et skolekart (sjøkart) ligger oppå et hovedseriekart. To hender plotter inn kurs med blyant og linjal. Foto."
+    }
+  ],
+  "files": {
+    "html": "pages/til-sjos-kart-skolekart.html",
+    "text": "pages/til-sjos-kart-skolekart.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Skolekart",
+      "id": "primarycontent"
+    },
+    {
+      "level": 2,
+      "text": "Les mer",
+      "id": "TeaserListBlockProxy-16129"
+    },
+    {
+      "level": 3,
+      "text": "Nautiske publikasjoner",
+      "id": "TeaserListBlockProxy-16129-0"
+    },
+    {
+      "level": 3,
+      "text": "Flo, fjære og vannstand",
+      "id": "TeaserListBlockProxy-16129-1"
+    },
+    {
+      "level": 3,
+      "text": "Bruk sjøkart – få en bedre opplevelse på sjøen",
+      "id": "TeaserListBlockProxy-16129-2"
+    },
+    {
+      "level": 2,
+      "text": "Tips en venn om denne siden",
+      "id": "socialmediashare-emailform-heading"
+    },
+    {
+      "level": 4,
+      "text": "Kontakt oss",
+      "id": "footerheading-kontaktoss"
+    },
+    {
+      "level": 4,
+      "text": "Hjelp",
+      "id": "footerheading-hjelp"
+    }
+  ]
+}

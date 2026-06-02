@@ -1,0 +1,17 @@
+Kardinalmerker
+Nord kardinalmerke
+Farge: Svart over gul.
+Lyskarakter: Q W, hurtige hvite blink, eller VQ W, veldig hurtige hvite blink.
+Refleks: Ett blått over gult refleksbånd.
+Syd kardinalmerke
+Farge: Gul over svart.
+Lyskarakter: Q(6) +LFI W 15s, 6 hurtige hvite blink + et langt hvert 15 sekund, eller 6 veldig hurtige hvite blink + et langt hvert 10 sekund.
+Refleks: Ett gult over blått refleksbånd.
+Øst kardinalmerke
+Farge: Svart med et enkel gult belte.
+Lyskarakter: Q(3) W 1Os, 3 hurtige hvite blink hvert 10 sekund, eller VQ(3) W 5s, 3 veldig hurtige hvite blink hvert 5 sekund.
+Refleks: To blå refleksbånd over hverandre.
+Vest kardinalmerke
+Farge: Gul med et enkel svart belte.
+Lyskarakter: Q(9) W 15s, 9 hurtige hvite blink hvert 15 sekund, eller VQ(9) W 1Os, 9 veldig hurtige hvite blink hvert 10 sekund.
+Refleks: To gule refleksbånd over hverandre.

@@ -1,0 +1,150 @@
+{
+  "url": "https://www.kystverket.no/kystkultur/slik-holder-vi-liv-i-fyrene/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Slik holder vi liv i fyrene | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "7fb5d773dafe9c39f873da3d79c144a4fc0f4e5268307d7abc60c125fb26c79c",
+  "fetched_at": "2026-06-02T11:04:24.827189+00:00",
+  "depth": 1,
+  "text_chars": 3958,
+  "n_links": 133,
+  "n_pdf_links": 0,
+  "n_images": 30,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-a2b386bb698b41b188a2937e54f7f5ec-tony-bat.jpg-578f8d08.jpg",
+      "alt": "Båttur Steilene vedlikehold"
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3498.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3502.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-sjovegen-tiltak-i-farvannet-utb-prosjekt-husoy--294ed508.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-bat-plank.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3527.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3476.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3477.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3478.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3482.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3484.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\globalassets-sjovegen-tiltak-i-farvannet-utb-prosjekt-husoy--4b1c1be0.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3485.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3480.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3486.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3488.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3489.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3491.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3505.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3507.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3509.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3512.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3515.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3519.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3520.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3521.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3523.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-dsc_3528.jpg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-67c1bef39ef1464c8b9e617a04242b0c-img_0161.jpeg-fe056798.jpg",
+      "alt": ""
+    },
+    {
+      "file": "kystverket\\images\\contentassets-a2ecdffafabd46c688a0d54d147c0d9e-10788897566_6-1433ad20.jpg",
+      "alt": "Runde fyr"
+    }
+  ],
+  "files": {
+    "html": "pages/kystkultur-slik-holder-vi-liv-i-fyrene.html",
+    "text": "pages/kystkultur-slik-holder-vi-liv-i-fyrene.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Slik holder vi liv i fyrene",
+      "id": "content-start"
+    }
+  ]
+}

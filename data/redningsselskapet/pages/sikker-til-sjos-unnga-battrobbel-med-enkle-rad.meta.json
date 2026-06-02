@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/unnga-battrobbel-med-enkle-rad/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Unngå båttrøbbel - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "1234bb483143dc0c1632c5cb724d70286bca68a1d8a2501193ade595ab001b96",
+  "fetched_at": "2026-06-02T11:13:12.445280+00:00",
+  "depth": 2,
+  "text_chars": 3834,
+  "n_links": 123,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-unnga-battrobbel-med-enkle-rad.html",
+    "text": "pages/sikker-til-sjos-unnga-battrobbel-med-enkle-rad.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Unngå båttrøbbel",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

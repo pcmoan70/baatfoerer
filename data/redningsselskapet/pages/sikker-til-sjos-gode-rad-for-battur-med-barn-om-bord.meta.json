@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/gode-rad-for-battur-med-barn-om-bord/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Gode råd for båttur med barn - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "0106fdc78c35d8d40021586209c58c89e7a8fd7391f7bbf904a42333f92f1d3b",
+  "fetched_at": "2026-06-02T11:12:26.992667+00:00",
+  "depth": 2,
+  "text_chars": 3084,
+  "n_links": 111,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-gode-rad-for-battur-med-barn-om-bord.html",
+    "text": "pages/sikker-til-sjos-gode-rad-for-battur-med-barn-om-bord.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Gode råd for båttur med barn",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

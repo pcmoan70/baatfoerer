@@ -1,0 +1,74 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Sikker til sjøs - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "48e77d8ff58e57218107139182da3f76073dae9862dcb0b1dbb2b22cec44aaf5",
+  "fetched_at": "2026-06-02T11:09:52.195592+00:00",
+  "depth": 1,
+  "text_chars": 277,
+  "n_links": 169,
+  "n_pdf_links": 0,
+  "n_images": 11,
+  "images": [
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-sikkerhetsutstyr.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-knuter.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-vaer-og-vind.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2015-12-vedlikehold.png",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-04-pa-l_virik_2.jpg",
+      "alt": "Pål Virik Nilsen er fagansvarlig kurs og fritidsbåt i RS"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2026-01-bryggevett_1920x1080.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-30.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2024-04-macgyverpakken-oversikt.jpg",
+      "alt": ""
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-09-51530626321_e79af14a67_o-scaled-e1632924752629.jpg",
+      "alt": "Bildet viser synlighet til sjøs"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2019-11-ba-tservice-e1618299979955.png",
+      "alt": "Båtservice på eldre påhengsmotor"
+    },
+    {
+      "file": "redningsselskapet\\images\\content-uploads-2021-09-hummer_fiske.jpg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/sikker-til-sjos.html",
+    "text": "pages/sikker-til-sjos.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Sikker til sjøs",
+      "id": "main-content"
+    }
+  ]
+}

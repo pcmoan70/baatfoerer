@@ -1,0 +1,29 @@
+{
+  "url": "https://www.sdir.no/regelverk/horingsutlisting/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Høringer - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c59aa023d718432c942835422b6659a0015e521cb6f284e47946bda29642724e",
+  "fetched_at": "2026-06-02T10:56:00.228821+00:00",
+  "depth": 2,
+  "text_chars": 532,
+  "n_links": 28,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/regelverk-horingsutlisting.html",
+    "text": "pages/regelverk-horingsutlisting.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Høringer",
+      "id": "main-content"
+    }
+  ]
+}

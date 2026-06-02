@@ -1,0 +1,46 @@
+FoU-forum for geografisk informasjon
+Vi inviterer nå til årets første fysiske møte, denne gang i Kristiansand. Stikkord for dagen er faglig inspirasjon fra Agder-miljøet, KI og geomatikk og veien videre for forskning og utvikling innen geografisk informasjon.
+NB! Arrangementet er flyttet fra 3. juni til 26. august.
+Påmeldingsfrist: 17. august
+Har du spørsmål?
+Kontakt Anne Guro Nøkleby, fagdirektør FoU-koordinering[ anne.guro.nokleby@kartverket.no](mailto:anne.guro.nokleby@kartverket.no)
+Vi håper at flere har anledning til å komme dagen før, slik at vi kan møtes for en matbit og mingling.
+FoU-forum er et nasjonalt samlingspunkt for forskning og utvikling innen geografiske data, infrastruktur, metode og teknologi.
+Agenda
+09.00 Oppmøte og kaffe
+09.15–09.30 Velkommen og aktuelt fra FoU-forum
+- Status og siste nytt fra FoU-forum arbeidsgruppe
+09.30–10.45 Inspirasjon fra Geomatikk-miljøet i Agder
+Innledere fra regionen deler erfaringer, prosjekter og nye perspektiver på hvordan geografisk informasjon brukes i forskning, forvaltning og innovasjon
+- Hva kan Agder tilby av teknologi og kompetanse – Cathrine Stien, daglig leder, Digin
+- Fremtidens geodata: sanntid, KI og autonome analyser – Lars Fredrik Gyland, Kartverket
+- Kystdatahuset gjør sjøtrafikkdata enkelt tilgjengelig. MEN, det kan bli enda bedre... – Frode Skjævestad, Kystverket
+Diskusjon og refleksjon – hvordan la oss inspirere?
+10.45–11.00 Pause
+11.00–12.00 KI og geografisk informasjon
+Hvordan kunstig intelligens endrer produksjon, analyse og bruk av geodata – og hvilke muligheter og utfordringer dette gir.
+- KI og Geomatikk: Erfaringer fra FoU-prosjekter, produktutvikling og regionalt samarbeidsmiljø – Aleksander Nossum, Norkart
+- Smart navigasjon - fra statiske sjøkart til KI-støttede dynamiske datatjenester. Det maritime forskningssenter på KI er i gang! – Henning Sundby, Kartverket
+- Kan vi få et kartlag? – Bjarne Karlsen, Å Energi
+Diskusjon og refleksjon – geografisk informasjon som en gullgruve for KI. Hva kan vi se av muligheter? Hvordan kan FoU-forum bidra til å koble aktører for å fremme KI-forskning innenfor geografisk informasjon?
+12.00–12.45 Lunsj
+12.45–15.15 Innsatsområder for FoU-forum for geografisk informasjon – hvor går vi videre?
+Innledning til gruppearbeid ved Jonathan Rizzi, NIBIO:
+Trender og utvikling innenfor geografisk informasjon. Hvor har vi hatt mest forskning innenfor geografisk informasjon de siste årene, og hvor ser vi et behov for å styrke innsatsen? Hvor kan FoU-forum gjøre en forskjell som katalysator for mer forskning innenfor geografisk informasjon?
+Arbeidsgruppen under FoU-forum foreslår seks innsatsområder for å fremme forsknings, utvikling og innovasjon neste to-års periode:
+- Prioriterte samfunnsområder/ «problemområder» der geografisk informasjon innenfor analyse og beslutningsstøtte er en kritisk del av løsningen
+- Muliggjørende teknologier (eks GeoAI, digitale tvillinger, fjernmåling)
+- EU-prosjekter – synergier med norske FoU-interesser
+- Samordning forskningsinfrastruktur og geografisk infrastruktur
+- Utnytte og bygge på forskningssentre
+- FoU-forum som pådriver
+I denne sesjonen vil vi se nærmere på innsatsområdene over med størst oppmerksomhet på 1) og 2). Hvilke samfunnsområder har størst potensial for FoU innen geografisk informasjon? Hvilke muliggjørende teknologier skal vi særlig forfølge?
+Gruppearbeid basert på tematikkene
+Utkast til innsatsområder sendes deltakerne i forkant.
+15.15–15.30 Avslutning – takk for i dag
+- Oppsummering av møtet
+- Veien videre med arbeidet med FoU-strategi og innsatsområder
+Vel møtt!
+Med vennlig hilsen
+FoU-forum arbeidsgruppe
+E-posten er sendt

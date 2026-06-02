@@ -1,0 +1,34 @@
+Korleis forstå sjøkartet
+Kva informasjon gjev ZOC-diagram, datum, spesialar og vignettar i eit sjøkart? Svara får du her.
+Sjøkartet inneheld mykje informasjon ut over djupneforhold – til dømes målestokk, datum, åtvaringar, mv.
+[Heftet "Symboler og forkortelser i norske sjøkart"](https://www.kartverket.no/til-sjos/nautiske-publikasjoner/symboler-og-forkortelser-i-norske-sjokart) gjev deg viktig informasjon og ei god oversikt over alle kartsymbol og forkortingar som er brukt i norske og internasjonale sjøkart.
+Kvifor bruke sjøkart?
+Kjøpe sjøkart
+Kartverket sel ikkje papirkart, men lagar kartfiler som forhandlarar trykkjer for deg, såkalla Print on Demand-kart (POD).
+Sjå oversikt over [Kartverkets forhandlarar som du kan bestilla papirkart hos](https://www.kartverket.no/sider/bestille-kart).
+Rettingar til sjøkart Etterretninger for sjøfarende
+Etterretninger for sjøfarende (Efs) utgjev oppdateringar og rettingar til sjøkart kvar fjortande dag.
+Målestokk
+Ved seglas i tronge farvatn bør du bruke sjøkart i størst mogeleg målestokk, da desse gjev dei beste og mest detaljerte opplysningane. Kart i mindre målestokk er sterkt forenkla i farvatn innanskjers.
+Den offisielle norske sjøkartporteføljen som blir utgjeve av Kartverket, inneheld sjøkartseriar for hovudseriekart, hamnekart, kystkart og overseglingskart. Dei ulike kartseriane har målestokk som er tilpassa ulike brukarbehov.
+ZOC-diagram
+ZOC-diagram (Zones of Confidence) i eit hovudseriekart (målestokk 1:50 000) er eit lite og generalisert kartbilete i målestokk 1:500 000 som er plassert på ein eigna stad i papirkartet.
+Den aller viktigaste funksjon til ZOC-diagrammet er å synleggjere område der datagrunnlaget er av betydeleg dårlegare kvalitet, altså der det er ein større risiko å navigere.
+Les [meir om kartkvalitet og ZOC-diagram](https://www.kartverket.no/til-sjos/sjokart/kartkvalitet-catzoc).
+Åtvaringar
+Utanfor kartrama er det lagt inn informasjon om åtvaringar for mellom anna:
+- Fartsrestriksjonar
+- Kablar (luftspenn og undervasskablar)
+- Tidvatn
+- Vertikal klaring under bruer og luftspenn
+Spesialar og vignettar
+I ein del sjøkart vil ein kunne finne små kart i eigne rammer: Vignettar og spesialar.
+Vignetten viser område i kartet der kartbilete går ut over avgrensinga i sjølve kartet, til dømes ein lang fjord som det ikkje er mogleg å utvide kartramma for. Vignetten har same målestokk som sjølve kartet. «Continued on Plan» står med raud skrift langs kartramma der seglasen held fram over i ein vignett.
+Ein spesial er eit utsnitt av kartet som blir vist i eiga kartramme. Spesialen viser eit viktig parti av sjøkartet i ein større og betre målestokk, til dømes viktige hamner og tronge passasjar. Område der det finst spesialar er merka med ei raud ramme og teksten «Plan» i raudt i sjølve kartet.
+Kartrama rundt vignettar og spesialar er like.
+Datum og kartprojeksjon
+Alle norske sjøkart er laga i datumet WGS84 (gradnett). Noko som betyr at posisjonar frå GPS-baserte system kan brukast direkte i sjøkarta.
+Kartprojeksjon er angjeve i tittelfeltet øvst til venstre i kartet.
+QR-kode
+Sjøkarta har ein QR-kode som gjer det mogleg, ved hjelp av smarttelefon eller nettbrett, å få tilgang til alle rettingar knytt til sjøkartet. Dessutan får du tilgang til all informasjon om sjøkartet og gyldigheit.
+E-posten er sendt

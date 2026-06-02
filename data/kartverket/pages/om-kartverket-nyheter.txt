@@ -1,0 +1,19 @@
+Nyheter
+Søkefiltere fungerer ikke uten Javascript
+Søkesiden fungerer ikke uten JavaScript
+[
+](https://pub.dialogapi.no/s/3403d74a-8e34-4ab5-a221-1bf58c425982)
+Meld deg på Kartverkets nyhetsbrev
+Vi sender ut nyhetsbrev én gang i måneden. Meld deg på og hold deg oppdatert blant annet om hva som skjer innen eiendom, kart, geodataarbeid og på fylkeskartkontorene.
+[
+](https://www.kartverket.no/om-kartverket/nyheter/geodataarbeid/2026/april/tilgang-til-nrl-data-krever-godkjenning-fra-1.-juli)
+Tilgang til NRL-data må godkjennes fra 1. juli
+Tilgangen til Nasjonalt register over luftfartshindre endres: Fra 1. juli må du søke for å få laste ned eller bruke data om luftfartshindre. Endringen skyldes den geopolitiske situasjonen.
+[
+](https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/dybdedata-og-datakvalitet-i-norske-sjokart)
+Nye Norgeskart.no viser datakvalitet på dybder
+Nylig lanserte Kartverket den nye versjonen av Norgeskart.no. I det nye kartet kan du som kartbruker lettere se hvor gode våre data over dybder er i norske sjøkart.
+[
+](https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2026/april/ny-og-mer-presis-vannstandsmodell-for-saltstraumen)
+Ny vannstandsmodell innenfor Saltstraumen
+Vannstandsmodell for Saltstraumen gir mer presis kunnskap om tidevann og vannstand. Dette sikrer bedre varsel i samband med planlegging og beredskap i kystsonen.

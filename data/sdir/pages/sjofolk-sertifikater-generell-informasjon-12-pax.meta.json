@@ -1,0 +1,34 @@
+{
+  "url": "https://www.sdir.no/sjofolk/sertifikater/generell-informasjon/12-pax/",
+  "site": "sdir",
+  "source_id": "sdir_skolekart",
+  "title": "Fritidsskippersertifikat brukt i næringsvirksomhet (12 PAX) - Sjøfartsdirektoratet",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "c663d48496b79edaf60460788ece45bebb7e8c7d4b818bbcd14940ab69c5516b",
+  "fetched_at": "2026-06-02T10:57:12.549091+00:00",
+  "depth": 2,
+  "text_chars": 2165,
+  "n_links": 34,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sjofolk-sertifikater-generell-informasjon-12-pax.html",
+    "text": "pages/sjofolk-sertifikater-generell-informasjon-12-pax.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Fritidsskippersertifikat brukt i næringsvirksomhet (12 PAX)",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Se kravene til fører",
+      "id": "main-text-content"
+    }
+  ]
+}

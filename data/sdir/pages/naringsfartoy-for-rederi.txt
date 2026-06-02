@@ -1,0 +1,14 @@
+For rederi
+Informasjon til rederier
+-
+Gebyrkalkulator
+Regn ut hva det vil koste å flagge norsk
+-
+Gebyrer som ikke er inkludert i gebyrkalkulatoren
+Oersikt over fartøysgebyr som ikke er inkludert i kalkulatoren.
+-
+Rettigheter for båtpassasjerer
+Informasjon til rederier, transportører, terminaloperatører og eventuelle havnemyndigheter om regelverket om båtpassasjerers rettigheter.
+-
+Tilskudd til sysselsetting av sjøfolk
+Tilskudd til sysselsetting av arbeidstakere til sjøs skal sikre norsk maritim kompetanse og rekruttering av norske sjøfolk, samt sikre rederiene konkurransedyktige rammevilkår.

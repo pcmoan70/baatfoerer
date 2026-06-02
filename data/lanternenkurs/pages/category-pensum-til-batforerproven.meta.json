@@ -1,0 +1,56 @@
+{
+  "url": "https://www.lanternenkurs.no/category/pensum-til-batforerproven/",
+  "site": "lanternenkurs",
+  "source_id": "lanternenkurs",
+  "title": "Pensum til båtførerprøven - Lanternen",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "7f8aa0b896ed414e5f1e0dbc3fcbd2acb5fbf1541dec1a900cb6ece73b5abdd5",
+  "fetched_at": "2026-06-02T11:18:35.963298+00:00",
+  "depth": 1,
+  "text_chars": 2415,
+  "n_links": 68,
+  "n_pdf_links": 0,
+  "n_images": 8,
+  "images": [
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-de-fem-viktigste-knutene-lanterne-65d94be1.png",
+      "alt": "fem viktige maritime knuter"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-ce-merking-lanternen-batforerkurs-copyright.png",
+      "alt": "CE-merking"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-lanterner-og-lanterneforing-lante-138c02cb.png",
+      "alt": "Lanterner og lanterneføring"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-image.png",
+      "alt": "Fargesektor og lyktekarakteristikker"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-kartsymboler-lanternen-batforerkurs-copyright.png",
+      "alt": "Kartsymboler"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-jernstake-varde-og-bake-lanternen-cf6b5979.png",
+      "alt": "IALA"
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-vikeplikt-seilbat-styrbord-babord-c68f4be2.png",
+      "alt": ""
+    },
+    {
+      "file": "lanternenkurs\\images\\wp-content-uploads-2021-04-sjovettreglene.png",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "html": "pages/category-pensum-til-batforerproven.html",
+    "text": "pages/category-pensum-til-batforerproven.txt"
+  },
+  "anchors": []
+}

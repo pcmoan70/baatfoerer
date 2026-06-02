@@ -1,0 +1,329 @@
+[31](/tasks/31) |
+Vi kjører med leias hovedretning. Hvor skal vi passere?
+|
+|
+[32](/tasks/32) |
+Vi kjører mot leias hovedretning. Hvor skal vi passere?
+|
+|
+[38](/tasks/38) |
+Hvilke(n) sektor(er) til en fyrlykt viser potensiell fare? |
+|
+[42](/tasks/42) |
+Hva betyr dette kartsymbolet?
+|
+|
+[49](/tasks/49) |
+På hvilken side må du kjøre?
+|
+|
+[50](/tasks/50) |
+På hvilken side må du kjøre?
+|
+|
+[51](/tasks/51) |
+På hvilken side må du kjøre?
+|
+|
+[52](/tasks/52) |
+På hvilken side må du kjøre?
+|
+|
+[53](/tasks/53) |
+Hva betyr dette kartsymbolet?
+|
+|
+[54](/tasks/54) |
+Hva indikerer "BY" på kartet? |
+|
+[55](/tasks/55) |
+Hva indikerer "BYB" på kartet? |
+|
+[56](/tasks/56) |
+Hva indikerer "YB" på kartet? |
+|
+[57](/tasks/57) |
+Hva indikerer "YBY" på kartet? |
+|
+[60](/tasks/60) |
+Hva er maks hastighet når du er mindre enn 50 meter unna spesialmerke? |
+|
+[61](/tasks/61) |
+Hvor nær spesialmerke gjelder fartsbegresningen på 5 knop? |
+|
+[62](/tasks/62) |
+Hvilken farge har spesialmerke? |
+|
+[72](/tasks/72) |
+Hvilken lyskarakteristikk er dette?
+|
+|
+[74](/tasks/74) |
+Hva kalles denne lyskarakteristikken?
+|
+|
+[77](/tasks/77) |
+Hvor mange ganger blinker østmerke før en mørkeperiode? |
+|
+[78](/tasks/78) |
+På hvilken side skal du kjøre?
+|
+|
+[79](/tasks/79) |
+På hvilken side skal du kjøre?
+|
+|
+[80](/tasks/80) |
+På hvilken side skal du kjøre?
+|
+|
+[81](/tasks/81) |
+På hvilken side skal du kjøre?
+|
+|
+[87](/tasks/87) |
+Hva betyr dette kartsymbolet?
+|
+|
+[117](/tasks/117) |
+På hvilken side skal du passere?
+|
+|
+[118](/tasks/118) |
+På hvilken side skal du passere?
+|
+|
+[123](/tasks/123) |
+Hvilke(n) farge(r) har senterledsmerke? |
+|
+[125](/tasks/125) |
+På hvilken side bør senterledsmerke passeres? |
+|
+[132](/tasks/132) |
+Vi kjører mot leias hovedretning. Hvor skal vi passere?
+|
+|
+[133](/tasks/133) |
+Vi kjører med leias hovedretning. Hvor skal vi passere?
+|
+|
+[227](/tasks/227) |
+Hva betyr skiltet?
+|
+|
+[228](/tasks/228) |
+Hvor mange ganger blinker vestmerke før en mørkeperiode? |
+|
+[229](/tasks/229) |
+Hvilken lyskarakteristikk er dette?
+|
+|
+[230](/tasks/230) |
+Hvilken lyskarakteristikk er dette?
+|
+|
+[231](/tasks/231) |
+Hvilken lyskarakteristikk er dette?
+|
+|
+[232](/tasks/232) |
+Hvilken lyskarakteristikk er dette?
+|
+|
+[233](/tasks/233) |
+Hvilken lyskarakteristikk er dette?
+|
+|
+[242](/tasks/242) |
+Hva gjelder for kjøring innenfor spesialmerker? |
+|
+[274](/tasks/274) |
+Hva indikerer "BRB" på kartet? |
+|
+[275](/tasks/275) |
+Hvilke av kardinalmerkene har kartsymbol med spiss topp? |
+|
+[276](/tasks/276) |
+Hvilke av kardinalmerkene har kartsymbol med flat topp? |
+|
+[277](/tasks/277) |
+Hvis et midtgrunnemerke har kuler på toppen, hvor mange kuler har det? |
+|
+[278](/tasks/278) |
+Hva betyr dette symbolet på kartet?
+|
+|
+[279](/tasks/279) |
+Hva betyr dette kartsymbolet?
+|
+|
+[280](/tasks/280) |
+Hva kan dette kartsymbolet bety?
+|
+|
+[281](/tasks/281) |
+Hva indikerer "RW" på kartet? |
+|
+[282](/tasks/282) |
+Hvilke farger har midtgrunnemerke? |
+|
+[284](/tasks/284) |
+Hvilken bokstav står ofte markert på kartet ved spesialmerker? |
+|
+[304](/tasks/304) |
+Hvilket kartsymbol ser du her?
+|
+|
+[305](/tasks/305) |
+Hvilket kartsymbol ser du her?
+|
+|
+[306](/tasks/306) |
+Hva kan dette kartsymbolet bety?
+|
+|
+[308](/tasks/308) |
+Hvilke farger kan lyse fra ei fyrlykt? |
+|
+[309](/tasks/309) |
+Hvilke(n) sektor(er) til en fyrlykt viser rent farvann, der det er anbefalt å seile? |
+|
+[310](/tasks/310) |
+Hva ser du her?
+|
+|
+[311](/tasks/311) |
+Hvilken lyskarakteristikk ser du her?
+|
+|
+[312](/tasks/312) |
+Hvilken lyskarakteristikk ser du her?
+|
+|
+[313](/tasks/313) |
+Bytt ut "?" i denne lyskarakteristikken med riktig tall: Oc(?) G 6s
+|
+|
+[314](/tasks/314) |
+Hvilken lyskarakteristikk ser du her?
+|
+|
+[315](/tasks/315) |
+Hvilken lyskarakteristikk ser du her?
+|
+|
+[316](/tasks/316) |
+Ei lykt har karakteristikken LFl G 6s. Hvis blinket varer i 2 sekunder, hvor lang er da mørkeperioden mellom blinkene? |
+|
+[317](/tasks/317) |
+Hvilken lyskarakteristikk ser du her?
+|
+|
+[318](/tasks/318) |
+Hvilken lyskarakteristikk ser du her?
+|
+|
+[319](/tasks/319) |
+Ei lykt har karakteristikken Iso 4s? Hvor lenge er lyset tent i hver periode? |
+|
+[320](/tasks/320) |
+Hva ser du her?
+|
+|
+[321](/tasks/321) |
+Hva ser du her?
+|
+|
+[322](/tasks/322) |
+Hva ser du her?
+|
+|
+[323](/tasks/323) |
+Hvis du ser en gul dråpe på et flytende sjømerke med lanterne, hvilke farger kan lyset ha? |
+|
+[330](/tasks/330) |
+Hva betyr merket?
+|
+|
+[331](/tasks/331) |
+Hvor skal du kjøre?
+|
+|
+[332](/tasks/332) |
+Hva betyr dette kartsymbolet?
+|
+|
+[336](/tasks/336) |
+Hva er lyskarakteren for kontinuerlig rødt lys?
+|
+|
+[337](/tasks/337) |
+Ei lykt lyser grønt i to sekunder og er deretter mørk to sekunder. Dette gjentas igjen og igjen. Hvilken lyskarakter har lykta (slik den vil skrives på kartet)? |
+|
+[338](/tasks/338) |
+Ei lykt lyser hvitt i 2 sekunder, deretter er det mørkt i 4 sekunder. Dette gjentas igjen og igjen. Hvilken lyskarakter har lykta (slik den vil skrives på kartet)? |
+|
+[339](/tasks/339) |
+Ei lykt lyser hvitt 2 sekunder, og deretter rødt i 2 sekunder. Dette gjentas igjen og igjen. Hvilken lyskarakter har lykta (slik den vil skrives på kartet)? |
+|
+[341](/tasks/341) |
+Ei lykt lyser rødt i 4 sekunder. Deretter er det mørkt i 1 sekund. Dette gjentas igjen og igjen. Hvilken lyskarakter har lykta (slik den vil skrives på kartet)? |
+|
+[350](/tasks/350) |
+Hvilke lateralmerker skal du få på din styrbord side hvis du seiler med leias hovedretning? |
+|
+[351](/tasks/351) |
+Hvor lang tid varer minst blinket til ei fyrlykt med karakteristikk LFl? |
+|
+[370](/tasks/370) |
+Åpn [Skolekart for Oslofjorden](https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_003_oslof.pdf). Hvilken farge lyser fra fyret Hollenderbåen når du befinner deg ved det sørligste punktet på Rauer? |
+|
+[371](/tasks/371) |
+Åpn [Skolekart for Oslofjorden](https://www.kartverket.no/globalassets/til-sjos/skolekart/skole_003_oslof.pdf). Hvilken farge lyser fra fyret Hollenderbåen når du befinner deg ved Søndre Missingen? |
+|
+[373](/tasks/373) |
+Ei lykt lyser hvitt i 4 sekunder, er deretter er det mørkt i ett sekund, lyser deretter hvitt i ett sekund, og er deretter mørk i ett sekund. Dette gjentas igjen og igjen. Hvilken lyskarakter har lykta (slik den vil skrives på kartet)? |
+|
+[379](/tasks/379) |
+Hvilket sjømerke er dette kartsymbol for?
+|
+|
+[403](/tasks/403) |
+Hva er lyskarakteren til frittliggende grunne? |
+|
+[415](/tasks/415) |
+Leifyr/ledfyr kan også kalles... |
+|
+[417](/tasks/417) |
+Du befinner deg på 59° 9.1' N, 10° 31ʹ Ø, og seiler nordover. Hvilket sjømerke ser du på din babord side?
+|
+|
+[445](/tasks/445) |
+Hvor mange mørkeperioder har et fyr med lyskarakteristikken Oc(3) 10s i løpet av 10 sekunder? |
+|
+[449](/tasks/449) |
+Hvordan markeres østmerke på kartet? |
+|
+[450](/tasks/450) |
+Hvordan markeres nordmerke på kartet? |
+|
+[451](/tasks/451) |
+Hvordan markeres sørmerke på kartet? |
+|
+[452](/tasks/452) |
+Hvordan markeres vestmerke på kartet? |
+|
+[453](/tasks/453) |
+Ei lykt lyser grønt i ett sekund før det er mørkt i 3 sekunder. Dette gjentas igjen og igjen. Hvilken lyskarakter har lykta (slik den vil skrives på kartet)? |
+|
+[454](/tasks/454) |
+Ei lykt lyser rødt i 3 sekunder. Deretter er det mørkt i 1 sekund. Dette gjentas igjen og igjen. Hvilken lyskarakter har lykta (slik den vil skrives på kartet)? |
+|
+[455](/tasks/455) |
+Skriv lyskarakteren slik den vil bli vist på sjøkartet?
+|
+|
+[456](/tasks/456) |
+Hvilken lyskarakter ser du her?
+|
+|

@@ -1,0 +1,34 @@
+{
+  "url": "https://www.kystverket.no/sjovegen/overgang-til-iala-standard/",
+  "site": "kystverket",
+  "source_id": "kystverket_batfart",
+  "title": "Overgang til IALA-standard | Kystverket - tar ansvar for sjøveien",
+  "status_code": 200,
+  "content_type": "text/html; charset=utf-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "32e474690874bde330a62ae4059c70603e40afff8c8631f02fb3ca60a879284c",
+  "fetched_at": "2026-06-02T11:04:59.011232+00:00",
+  "depth": 2,
+  "text_chars": 758,
+  "n_links": 133,
+  "n_pdf_links": 0,
+  "n_images": 1,
+  "images": [
+    {
+      "file": "kystverket\\images\\contentassets-375f105219ce4166bf22fa304c7c154c-litus-luxsmorsund.jpg",
+      "alt": "Litus Lux"
+    }
+  ],
+  "files": {
+    "html": "pages/sjovegen-overgang-til-iala-standard.html",
+    "text": "pages/sjovegen-overgang-til-iala-standard.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Overgang til IALA-standard",
+      "id": "content-start"
+    }
+  ]
+}

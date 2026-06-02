@@ -1,0 +1,31 @@
+Ny vannstandsmåler på Sørlandet
+En ny vannstandsmåler ved Arendal utvider Kartverkets nasjonale nettverk på et kyststrekk der det har vært langt mellom målepunktene. Med sanntidsdata til Meteorologisk institutt, sjøfarende, kommuner og andre, blir den en viktig del av Norges samfunnsberedskap.
+Den nye måleren i Eydehavn i Arendal er den andre permanente vannstandsmåleren på Sørlandet. Fra før av har Kartverket én måler i Tregde i Lindesnes. Denne har levert vannstandsdata helt siden 1927.
+Viktig for farevarsel om stormflo
+Nærmeste permanente måler øst for Agder ligger i Helgeroa i Larvik. Det er lang avstand mellom målestasjonene i Tregde og på Helgeroa, og det er spesielt vanskelig å varsle vannstanden langs kyststrekket mellom Agder og Vestfold.
+– Meteorologisk institutt har behov for bedre datagrunnlag for farevarsel om høy vannstand (stormflo) som de sender ut. Måleren i Arendal blir derfor et viktig bidrag til beredskap ved høy vannstand. Bedre vannstandsinformasjon i sanntid, gjør det lettere å varsle riktig og å avgjøre om det er behov for å sende ut farevarsel, forteller oseanograf Torbjørn Taskjelle i Kartverket.
+Sjekk vannstanden på Se havnivå
+Den nye måleren i Eydehavn vil være et viktig bidrag for beredskap og samtidig gi mer treffsikre vannstandsvarsler langs hele Sørlandskysten.
+Ved høy vannstand som stormflo, er varslet og observert vannstand viktige i beredskapsarbeidet til kommuner, statsforvalter, næringsliv – både før, under og etterpå. I tillegg til private som for eksempel skal fortøye båten før uvær eller må planlegge andre tiltak for å beskytte privat kai, naust eller andre eiendeler i kystsonen.
+– Så snart vannstandsmåleren i Eydehavn er målt inn, og vi ser at målingene er stabile og pålitelige, vil observert vannstand fra måleren bli tilgjengelig i [Kartverkets API](https://www.kartverket.no/api-og-data/tidevann-og-vannstandsdata). Det vil ta litt mer tid før data vises i tjenesten «[Se havnivå](https://www.kartverket.no/til-sjos/se-havniva)», sier Torbjørn Taskjelle.
+Monteres i en aktiv havn
+Selve monteringen av vannstandsmåleren er et presisjonsarbeid som krever nøye planlegging. Utstyret skal plasseres slik at det måler stabilt og nøyaktig, samtidig som det tåler vær, bølger og aktivitet i havna.
+– Vi monterer utstyr som skal stå i ro og måle kontinuerlig i mange år. Da er det helt avgjørende at alt monteres på en ordentlig måte, sier senioringeniør Kjetil Ydstebø i Kartverkets teknologiseksjon.
+Eydehavn er en aktiv havn, noe som stiller ekstra krav til gjennomføringen.
+– Når vi monterer i en havn med trafikk og drift, må vi ta hensyn til både sikkerhet, tilgjengelighet og hvordan installasjonen påvirker omgivelsene. Samtidig må måleren plasseres slik at den får rolige og stabile måleforhold, sier Ydstebø.
+Klargjøres før ordinær drift
+Når monteringen er ferdig, gjenstår en viktig fase før måleren kan tas i ordinær bruk.
+– Etter montering måler vi inn utstyret, tester at alt fungerer som det skal og følger dataene over tid, sier Ydstebø.
+Vannstandsmåleren skal måle vannstanden kontinuerlig, døgnet rundt.
+– Vi overvåker måleren også etter at den er satt i drift. Hvis noe avviker fra det vi normalt sett ville forvente, får vi raskt beskjed og kan følge opp, forsikrer Ydstebø.
+Rigger Norge for framtiden
+Kartverket har nasjonalt ansvar for å måle havnivået. De har som mål å rigge Norge for fremtiden ved å fortette målenettet med flere nye permanente vannstandsmålere i årene framover.
+Vannstandsdata gir et viktig kunnskapsgrunnlag for klimatilpasning for blant annet kommuner. [Framtidig havnivåstigning](https://www.kartverket.no/om-kartverket/nyheter/til-sjos/2024/juli/havet-stiger-kommunene-bor-forberede-seg) kan føre til at områder, bygninger og infrastruktur som i dag ligger på land, kan bli oversvømt – enten permanent eller ved høye vannstander.
+Se havnivå Vannstand og tidevann
+Finn observert og varslet vannstand, tidevann, landheving og framtidig havnivå i vår tjeneste Se havnivå.
+Kontakt
+Sissel Kanstad
+kommunikasjonsrådgiver og presseansvarlig
+Kartverket
+tlf. 51 85 88 28 / 99 51 38 48
+E-posten er sendt

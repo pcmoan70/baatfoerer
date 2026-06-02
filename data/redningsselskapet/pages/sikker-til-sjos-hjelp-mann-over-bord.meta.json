@@ -1,0 +1,34 @@
+{
+  "url": "https://rs.no/sikker-til-sjos/hjelp-mann-over-bord/",
+  "site": "redningsselskapet",
+  "source_id": "redningsselskapet_sjovett",
+  "title": "Hjelp- mann over bord! - Redningsselskapet",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "615792a4d29cdfbccf42a378d5740c24e809d44a770322483e11746ebc50f8c7",
+  "fetched_at": "2026-06-02T11:13:13.890295+00:00",
+  "depth": 2,
+  "text_chars": 2924,
+  "n_links": 116,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/sikker-til-sjos-hjelp-mann-over-bord.html",
+    "text": "pages/sikker-til-sjos-hjelp-mann-over-bord.txt"
+  },
+  "anchors": [
+    {
+      "level": 1,
+      "text": "Hjelp – mann over bord",
+      "id": "main-content"
+    },
+    {
+      "level": 2,
+      "text": "Fant du det du lette etter?",
+      "id": "gform_wrapper_15"
+    }
+  ]
+}

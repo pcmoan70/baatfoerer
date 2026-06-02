@@ -1,0 +1,23 @@
+{
+  "url": "https://www.lanternenkurs.no/praktiske-sporsmal-og-svar-om-batforerproven/",
+  "site": "lanternenkurs",
+  "source_id": "lanternenkurs",
+  "title": "1. Praktiske spørsmål og svar om båtførerprøven - Lanternen",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "fd573e433ffa432ebb784e28439bbb4f1faa2bacc5ebd15b7ff518803a9d500f",
+  "fetched_at": "2026-06-02T11:19:15.885115+00:00",
+  "depth": 2,
+  "text_chars": 1660,
+  "n_links": 36,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/praktiske-sporsmal-og-svar-om-batforerproven.html",
+    "text": "pages/praktiske-sporsmal-og-svar-om-batforerproven.txt"
+  },
+  "anchors": []
+}

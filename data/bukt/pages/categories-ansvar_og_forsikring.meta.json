@@ -1,0 +1,23 @@
+{
+  "url": "https://bukt.no/categories/ANSVAR_OG_FORSIKRING",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Ansvar og forsikring - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "da5062902ae34b8156b49ee79bac50033ca14dcdf27d455ed55e483f18b57629",
+  "fetched_at": "2026-06-02T11:14:03.735590+00:00",
+  "depth": 2,
+  "text_chars": 1668,
+  "n_links": 29,
+  "n_pdf_links": 0,
+  "n_images": 0,
+  "images": [],
+  "files": {
+    "html": "pages/categories-ansvar_og_forsikring.html",
+    "text": "pages/categories-ansvar_og_forsikring.txt"
+  },
+  "anchors": []
+}

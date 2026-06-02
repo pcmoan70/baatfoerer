@@ -1,0 +1,32 @@
+{
+  "url": "https://bukt.no/articles/fyrlykter",
+  "site": "bukt",
+  "source_id": "bukt",
+  "title": "Hva forteller fyrlyktene deg i mørket? - bukt.no",
+  "status_code": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "etag": null,
+  "last_modified": null,
+  "checksum_sha256": "dec260ce9239bbe0649a9809d4022a33cd389d01a32ca2cd606f11a246ec7ba5",
+  "fetched_at": "2026-06-02T11:16:33.274061+00:00",
+  "depth": 2,
+  "text_chars": 1769,
+  "n_links": 17,
+  "n_pdf_links": 0,
+  "n_images": 2,
+  "images": [
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-fyrlykt_stor.png",
+      "alt": "Fyrlykt"
+    },
+    {
+      "file": "bukt\\images\\quiz-static-img-articles-fyrlykter_kart.png",
+      "alt": "Sjøkart med sektorlykt med rød, grønn og hvit sektor"
+    }
+  ],
+  "files": {
+    "html": "pages/articles-fyrlykter.html",
+    "text": "pages/articles-fyrlykter.txt"
+  },
+  "anchors": []
+}
