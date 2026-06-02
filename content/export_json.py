@@ -92,6 +92,25 @@ def main() -> int:
 
     (OUT / "images.json").write_text(json.dumps(list(web_img.values()), ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # --- flashcards (spaced repetition): bildekort + konseptkort ---
+    ID_CATS = {"sjomerke_lateral", "sjomerke_kardinal", "sjomerke_spesial", "sjomerke_senterleds",
+               "sjomerke_frittliggende_grunne", "lanterne", "fyr_lykt", "lyskarakteristikk",
+               "farvannsskilt", "kart_symbol"}
+    cards = []
+    for r in con.execute("SELECT * FROM images WHERE reusable=1 AND flashcard=1"):
+        if r["category"] in ID_CATS and (r["norwegian_term"] or "").strip() and r["id"] in web_img:
+            w = web_img[r["id"]]
+            cards.append({"id": f"img_{r['id']}", "kind": "image", "category": r["category"],
+                          "src": w["src"], "credit": w["credit"],
+                          "front": "Hva viser bildet?", "answer": r["norwegian_term"],
+                          "detail": r["what_it_shows"]})
+    for c in concepts:
+        if (c["summary"] or "").strip():
+            cards.append({"id": f"con_{c['id']}", "kind": "concept", "category": c["area"],
+                          "front": c["title"], "answer": c["summary"],
+                          "detail": (c["learning_goals"] or [None])[0]})
+    (OUT / "flashcards.json").write_text(json.dumps(cards, ensure_ascii=False, indent=2), encoding="utf-8")
+
     meta = {
         "n_sources": len(sources), "n_areas": len(areas),
         "n_concepts": len(concepts), "n_questions": len(questions),

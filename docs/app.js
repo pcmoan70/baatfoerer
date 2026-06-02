@@ -51,13 +51,14 @@ let conceptById = {}, areaById = {};
 
 async function loadData() {
   const base = "data/";
-  const [syllabus, concepts, questions, sources] = await Promise.all([
+  const [syllabus, concepts, questions, sources, flashcards] = await Promise.all([
     fetch(base + "syllabus.json").then(r => r.json()),
     fetch(base + "concepts.json").then(r => r.json()),
     fetch(base + "questions.json").then(r => r.json()),
     fetch(base + "sources.json").then(r => r.json()),
+    fetch(base + "flashcards.json").then(r => r.json()).catch(() => []),
   ]);
-  DATA = { areas: syllabus, concepts, questions, sources };
+  DATA = { areas: syllabus, concepts, questions, sources, flashcards };
   conceptById = Object.fromEntries(concepts.map(c => [c.id, c]));
   areaById = Object.fromEntries(syllabus.map(a => [a.id, a]));
 }
@@ -68,7 +69,7 @@ let P = null;   // gjeldende elevprofil
 
 function uid() { return "s" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); }
 function normProfile(p) {
-  p.answers ||= {}; p.mastery ||= {}; p.lastSeen ||= {}; p.errors ||= []; p.recent ||= []; p.exams ||= [];
+  p.answers ||= {}; p.mastery ||= {}; p.lastSeen ||= {}; p.errors ||= []; p.recent ||= []; p.exams ||= []; p.srs ||= {};
   return p;
 }
 function loadStore() {
@@ -161,7 +162,7 @@ function pickQuestion() {
 // ---- Render: quiz ----
 let current = null, answered = false;
 
-const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel", sammenlign: "#comparePanel" };
+const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel", sammenlign: "#comparePanel", flashcards: "#fcPanel" };
 function showView(which) {
   for (const sel of Object.values(MAIN_SECTIONS)) { const el = $(sel); if (el) el.hidden = true; }
   const el = $(MAIN_SECTIONS[which]); if (el) el.hidden = false;
@@ -274,6 +275,7 @@ function renderErrors() {
 function renderSidebar() {
   $("#cAll").textContent = DATA.questions.length;
   $("#cErr").textContent = P.errors.length;
+  if (DATA.flashcards) { const d = dueCount(); $("#cDue").textContent = d || ""; }
   // pensumområder med mestringsfelt
   const areaItems = DATA.areas.map(a => {
     const isSpes = a.id === "spesielt";
@@ -407,8 +409,77 @@ function setView(view, area = null) {
   if (view === "feillogg") renderErrors();
   else if (view === "eksamen") showView("examStart");
   else if (view === "sammenlign") renderCompare();
+  else if (view === "flashcards") startFlashcards();
   else nextQuestion();
   renderSidebar();
+}
+
+// ---- Flashcards (spaced repetition, SM-2-lite) ----
+const DAY = 864e5;
+let fcQueue = [], fcCard = null, fcRevealed = false;
+function dueCount() {
+  const now = Date.now();
+  return DATA.flashcards.filter(c => P.srs[c.id] && P.srs[c.id].due <= now).length;
+}
+function buildQueue(extraNew) {
+  const now = Date.now();
+  const due = DATA.flashcards.filter(c => P.srs[c.id] && P.srs[c.id].due <= now)
+    .sort((a, b) => P.srs[a.id].due - P.srs[b.id].due);
+  const fresh = DATA.flashcards.filter(c => !P.srs[c.id]).slice(0, extraNew);
+  return [...due, ...fresh];
+}
+function startFlashcards() {
+  showView("flashcards");
+  fcQueue = buildQueue(10);
+  nextCard();
+}
+function nextCard() {
+  fcRevealed = false;
+  $("#fcRate").hidden = true; $("#fcReveal").hidden = false; $("#fcBack").hidden = true;
+  if (!fcQueue.length) { renderFcDone(); return; }
+  $("#flashcard").hidden = false; $("#fcReveal").hidden = false; $("#fcDone").hidden = true;
+  fcCard = fcQueue.shift();
+  const c = fcCard;
+  $("#fcKicker").textContent = c.kind === "image" ? "Identifiser bildet" : (areaById[c.category]?.title || "Konsept");
+  const img = $("#fcImage");
+  if (c.kind === "image" && c.src) { img.hidden = false; img.innerHTML = `<img src="${c.src}" alt=""><div class="cap">${esc("Illustrasjon: " + (c.credit || "offentlig kilde"))}</div>`; }
+  else { img.hidden = true; img.innerHTML = ""; }
+  $("#fcFront").textContent = c.front;
+  $("#fcAnswer").textContent = c.answer;
+  $("#fcDetail").textContent = c.detail || "";
+  updateFcStats();
+}
+function revealCard() {
+  if (!fcCard) return;
+  fcRevealed = true;
+  $("#fcBack").hidden = false; $("#fcReveal").hidden = true; $("#fcRate").hidden = false;
+}
+function rateCard(r) {
+  if (!fcCard || !fcRevealed) return;
+  const st = P.srs[fcCard.id] || { ease: 2.5, interval: 0, reps: 0 };
+  if (r === "again") {
+    st.reps = 0; st.interval = 0; st.ease = Math.max(1.3, st.ease - 0.2);
+    st.due = Date.now() + 10 * 60 * 1000; fcQueue.push(fcCard);   // se igjen i økten
+  } else {
+    if (r === "hard") { st.ease = Math.max(1.3, st.ease - 0.15); st.interval = st.reps === 0 ? 1 : Math.max(1, Math.round(st.interval * 1.2)); }
+    else if (r === "good") { st.interval = st.reps === 0 ? 1 : st.reps === 1 ? 3 : Math.round(st.interval * st.ease); }
+    else if (r === "easy") { st.ease += 0.15; st.interval = st.reps === 0 ? 2 : Math.round(st.interval * st.ease * 1.3); }
+    st.reps++; st.due = Date.now() + st.interval * DAY;
+  }
+  P.srs[fcCard.id] = st; saveProfile();
+  nextCard(); renderSidebar();
+}
+function updateFcStats() {
+  const learned = Object.keys(P.srs).length;
+  $("#fcStats").textContent = `${fcQueue.length + 1} igjen i økten · ${learned}/${DATA.flashcards.length} kort lært`;
+}
+function renderFcDone() {
+  $("#flashcard").hidden = true; $("#fcReveal").hidden = true; $("#fcRate").hidden = true;
+  $("#fcDone").hidden = false;
+  const remainingNew = DATA.flashcards.filter(c => !P.srs[c.id]).length;
+  $("#fcMore").hidden = remainingNew === 0;
+  $("#fcMore").textContent = `Lær ${Math.min(10, remainingNew)} nye kort`;
+  $("#fcStats").textContent = `${Object.keys(P.srs).length}/${DATA.flashcards.length} kort lært`;
 }
 
 // ---- Elev-håndtering (modal med flere elever) ----
@@ -595,6 +666,11 @@ function bindEvents() {
       else { const k = KEYS.indexOf(e.key.toUpperCase()); if (k >= 0) examChoose(k); }
       return;
     }
+    if (filter.view === "flashcards" && !$("#fcPanel").hidden) {
+      if (!fcRevealed) { if (e.key === " " || e.key === "Enter") { e.preventDefault(); revealCard(); } }
+      else { const m = { "1": "again", "2": "hard", "3": "good", "4": "easy" }; if (m[e.key]) rateCard(m[e.key]); }
+      return;
+    }
     if (filter.view !== "adaptive" && filter.view !== "quiz") return;
     if (e.key === "Enter" || e.key === "ArrowRight") $("#nextBtn").click();
     const k = KEYS.indexOf(e.key.toUpperCase());
@@ -656,6 +732,11 @@ function bindEvents() {
     submitExam();
   });
   $("#resultClose").addEventListener("click", () => setView("adaptive", null));
+
+  // flashcards
+  $("#fcShow").addEventListener("click", revealCard);
+  $("#fcRate").addEventListener("click", e => { const b = e.target.closest(".rate-btn"); if (b) rateCard(b.dataset.r); });
+  $("#fcMore").addEventListener("click", () => { fcQueue = buildQueue(10); nextCard(); });
 }
 
 function renderResources() {

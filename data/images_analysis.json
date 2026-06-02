@@ -266,7 +266,8 @@
         "flashcard"
       ],
       "reusable": true,
-      "notes": "Offisiell Kystverket-figur; kan forveksles med spesialmerke — sjekk kildekontekst."
+      "notes": "Offisiell Kystverket-figur; kan forveksles med spesialmerke — sjekk kildekontekst.",
+      "flashcard": false
     },
     {
       "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-fc2c9bd2.png",
@@ -482,7 +483,8 @@
         "flashcard"
       ],
       "reusable": true,
-      "notes": "Mangler topptegn; eksakt kategori (spesial vs kardinal) tvetydig fra denne visningen."
+      "notes": "Mangler topptegn; eksakt kategori (spesial vs kardinal) tvetydig fra denne visningen.",
+      "flashcard": false
     },
     {
       "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a4eee04b.png",
@@ -614,7 +616,8 @@
         "flashcard"
       ],
       "reusable": true,
-      "notes": "OBS: filnavn 'sormerker' (sør), men fargene gul-over-sort er NORD-mønster. Mulig fargefeil i kilden, eller topptegn (som definerer retning) er utelatt. Sjekk før gjenbruk."
+      "notes": "OBS: filnavn 'sormerker' (sør), men fargene gul-over-sort er NORD-mønster. Mulig fargefeil i kilden, eller topptegn (som definerer retning) er utelatt. Sjekk før gjenbruk.",
+      "flashcard": false
     },
     {
       "file": "lanternenkurs/images/wp-content-uploads-2021-04-iala-system-for-sjomerker-boyer-o-c9789993.png",
@@ -1119,7 +1122,8 @@
       "license": "CC BY-SA 3.0",
       "attribution": "StMH (CC BY-SA 3.0), via Wikimedia Commons",
       "source_page": "https://commons.wikimedia.org/wiki/File:Leitfeuer_001.svg",
-      "notes": "Wikimedia Commons, fritt lisensiert."
+      "notes": "Wikimedia Commons, fritt lisensiert.",
+      "flashcard": false
     },
     {
       "file": "wikimedia/images/grund-markering-sj-kort.png",

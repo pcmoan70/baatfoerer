@@ -39,6 +39,7 @@
         <p class="nav-heading">Trening</p>
         <ul class="nav-list" id="modeList">
           <li data-view="adaptive" class="active">Adaptiv øving <span class="count" id="cAll"></span></li>
+          <li data-view="flashcards">Flashcards <span class="count" id="cDue"></span></li>
           <li data-view="eksamen">Eksamensmodus</li>
           <li data-view="feillogg">Feillogg <span class="count" id="cErr">0</span></li>
           <li data-view="sammenlign">Sammenlign elever</li>
@@ -89,6 +90,34 @@
         <header class="panel-head"><h2>Feillogg</h2><button class="ghost-btn" id="clearErr">Tøm feillogg</button></header>
         <p class="panel-sub">Oppgaver du har svart feil på. Trykk for å øve på temaet igjen.</p>
         <ul class="err-list" id="errList"></ul>
+      </section>
+
+      <!-- Flashcards (spaced repetition) -->
+      <section class="panel" id="fcPanel" hidden>
+        <header class="panel-head"><h2>Flashcards</h2><span class="fc-stats" id="fcStats"></span></header>
+        <p class="panel-sub">Spaced repetition: vurder hvor godt du husket kortet, så kommer det tilbake til riktig tid.</p>
+        <div class="flashcard" id="flashcard">
+          <span class="fc-kicker" id="fcKicker"></span>
+          <figure class="fc-image" id="fcImage" hidden></figure>
+          <h3 class="fc-front" id="fcFront"></h3>
+          <div class="fc-back" id="fcBack" hidden>
+            <p class="fc-answer" id="fcAnswer"></p>
+            <p class="fc-detail" id="fcDetail"></p>
+          </div>
+        </div>
+        <div class="fc-controls" id="fcReveal">
+          <button class="nav-btn next" id="fcShow">Vis svar</button>
+        </div>
+        <div class="fc-controls fc-rate" id="fcRate" hidden>
+          <button class="rate-btn again" data-r="again">På nytt<small>~10 min</small></button>
+          <button class="rate-btn hard" data-r="hard">Vanskelig</button>
+          <button class="rate-btn good" data-r="good">Bra</button>
+          <button class="rate-btn easy" data-r="easy">Lett</button>
+        </div>
+        <div class="fc-done" id="fcDone" hidden>
+          <p>🎉 Du er à jour! Ingen flere kort å repetere akkurat nå.</p>
+          <button class="ghost-btn" id="fcMore">Lær 10 nye kort</button>
+        </div>
       </section>
 
       <!-- Eksamen: introduksjon -->

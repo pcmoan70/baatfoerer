@@ -1,0 +1,660 @@
+[
+  {
+    "id": "img_1",
+    "kind": "image",
+    "category": "sjomerke_kardinal",
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3ace3ec8.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "kardinalmerker",
+    "detail": "Komplett kardinalmerke-diagram med N/Ø/S/V rundt en rød FARE-sirkel (undervannsskjær). Hver retning viser bøye og stake med sort/gul fargeskjema, kjegletopptegn og lyskarakteristikk (Q W, Q(3) W, Q(6) W+LFl W, Q(9) W)."
+  },
+  {
+    "id": "img_2",
+    "kind": "image",
+    "category": "sjomerke_kardinal",
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-e495ce75.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "nordmerke",
+    "detail": "Enkelt kardinalmerke som bøye og stake; gul øverst med sort belte i midten."
+  },
+  {
+    "id": "img_3",
+    "kind": "image",
+    "category": "sjomerke_frittliggende_grunne",
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-9db6004e.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "frittliggende grunne (HFB-merke)",
+    "detail": "Bøye og stake malt sort med to horisontale røde belter (isolert fare)."
+  },
+  {
+    "id": "img_4",
+    "kind": "image",
+    "category": "farvannsskilt",
+    "src": "data/img/kystverket__images__contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "fartsgrense (farvannsskilt)",
+    "detail": "Firkantet farvannsskilt med rød kant, hvitt felt og sort '5' = fartsgrense 5 knop."
+  },
+  {
+    "id": "img_7",
+    "kind": "image",
+    "category": "sjomerke_frittliggende_grunne",
+    "src": "data/img/redningsselskapet__images__content-uploads-2016-01-sjomerke_blindleia.jpg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "fastmerke med visarm (peker mot trygt farvann)",
+    "detail": "Foto av stein/betong-varde malt sort-hvit-sort med horisontal visarm; rødt 5-knops skilt på nabostein. Armen peker mot trygt farvann."
+  },
+  {
+    "id": "img_8",
+    "kind": "image",
+    "category": "sjomerke_kardinal",
+    "src": "data/img/redningsselskapet__images__content-uploads-2025-08-nordmerk_m_bakgrunn.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "nordmerke",
+    "detail": "Stilisert flat illustrasjon av stake i blått vann, sort øverst og gul nederst (sort-over-gul = nordmerke)."
+  },
+  {
+    "id": "img_9",
+    "kind": "image",
+    "category": "sjomerke_lateral",
+    "src": "data/img/redningsselskapet__images__content-uploads-2016-01-sideavmerking_rod.jpg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "babord lateralmerke (rød stake)",
+    "detail": "Foto av høy rød stake i vannet med måke på toppen. Helrød = babord lateralmerke."
+  },
+  {
+    "id": "img_11",
+    "kind": "image",
+    "category": "sjomerke_frittliggende_grunne",
+    "src": "data/img/lanternenkurs__images__wp-content-uploads-2023-09-sjomerke_blindleia-1.jpg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "fastmerke med visarm",
+    "detail": "Identisk Blindleia-foto: sort-hvit-sort varde med visarm + rødt 5-knops skilt."
+  },
+  {
+    "id": "img_14",
+    "kind": "image",
+    "category": "sjomerke_lateral",
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-fc2c9bd2.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "rød lateralstake / babordmerke",
+    "detail": "To røde diagrammer: rød stake og rød bøye med kjegletopp og røde lysglimt (babord side)."
+  },
+  {
+    "id": "img_15",
+    "kind": "image",
+    "category": "sjomerke_senterleds",
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-ab0cc6eb.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "midtleds-/senterledsmerke (rød-hvit)",
+    "detail": "To diagrammer av rød-hvit vertikalstripet merke: bøye på rød/hvit rutete base med gule glimt, og slank rød/hvit stripet stake."
+  },
+  {
+    "id": "img_16",
+    "kind": "image",
+    "category": "fyr_lykt",
+    "src": "data/img/kartverket__images__globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "fyr (Halten fyr)",
+    "detail": "Foto av Halten fyr: hvitt tårn med to sorte horisontale belter, fyrbygninger, rød naust; oppdrettsmerd i forgrunnen."
+  },
+  {
+    "id": "img_18",
+    "kind": "image",
+    "category": "sjomerke_frittliggende_grunne",
+    "src": "data/img/redningsselskapet__images__content-uploads-2016-01-frittliggende_grunne.jpg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "merke for frittliggende grunne (isolert fare)",
+    "detail": "Foto av flytende stake, sort med ett bredt rødt belte (isolert fare) — noe slitt maling, antydning blått belte."
+  },
+  {
+    "id": "img_19",
+    "kind": "image",
+    "category": "sjomerke_lateral",
+    "src": "data/img/redningsselskapet__images__content-uploads-2016-01-gront_merke.jpg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "grønn stake / styrbord lateralmerke",
+    "detail": "Foto av grønt konisk lateralmerke (grønn stake/bøye med spiss topp) i Oslofjorden, rust ved vannlinjen."
+  },
+  {
+    "id": "img_20",
+    "kind": "image",
+    "category": "sjomerke_kardinal",
+    "src": "data/img/redningsselskapet__images__content-uploads-2025-08-ostmerke_m_bakgrunn.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "østmerke (øst-kardinalmerke)",
+    "detail": "Stilisert stake i blått vann: sort med ett gult belte i midten (sort-gul-sort) = østmerke."
+  },
+  {
+    "id": "img_25",
+    "kind": "image",
+    "category": "sjomerke_lateral",
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a4eee04b.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "styrbord lateralmerke (grønt)",
+    "detail": "To grønne illustrasjoner: grønn konisk bøye med lysstråler og slank grønn stake med spiss topp."
+  },
+  {
+    "id": "img_29",
+    "kind": "image",
+    "category": "sjomerke_senterleds",
+    "src": "data/img/redningsselskapet__images__content-uploads-2026-04-senterledsmerke-1024x731.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "senterledsmerke (midtfarvann / trygt-vann)",
+    "detail": "Farget illustrasjon av rød-hvit vertikalstripet flytende merke: bøye med rødt lys/topp og matchende stripet stake, med refleksjon."
+  },
+  {
+    "id": "img_32",
+    "kind": "image",
+    "category": "sjomerke_lateral",
+    "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-iala-system-for-sjomerker-boyer-o-c9789993.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "laterale sjømerker (IALA-systemet)",
+    "detail": "IALA-lateralmerker: røde merker (R) til venstre, grønne (G) til høyre, med bøye/spar/stake-varianter og kartsymbol-silhuetter med røde/grønne lysflagg; retningspil i midten."
+  },
+  {
+    "id": "img_33",
+    "kind": "image",
+    "category": "lyskarakteristikk",
+    "src": "data/img/lanternenkurs__images__wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "lyskarakteristikker",
+    "detail": "Tidslinje med gul=lys-på og sort=mørke for F (fast), Oc (formørkende), ISO (isofase), Fl (blink), pluss Oc(3)/Fl(2), og liste over forkortelser (LF, Q, Q(3), IQ, VQ, UQ, MO(K), AL WR)."
+  },
+  {
+    "id": "img_35",
+    "kind": "image",
+    "category": "sjomerke_spesial",
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a67ae32f.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "spesialmerke / hinder-/varselsmerke (gul-svart)",
+    "detail": "To illustrasjoner av sort/gul merke: bøye (konisk) og stake, sort med ett gult horisontalt belte; bøya har gule lysstråler."
+  },
+  {
+    "id": "img_36",
+    "kind": "image",
+    "category": "sjomerke_spesial",
+    "src": "data/img/kystverket__images__globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-1436d7ea.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "gult kryss-merke (X-topptegn) / spesialmerke",
+    "detail": "To helgule merker: bøye med base og høy kropp, og tynn gul stake, hver toppet med gult X (Andreaskors)."
+  },
+  {
+    "id": "img_37",
+    "kind": "image",
+    "category": "fyr_lykt",
+    "src": "data/img/kystverket__images__contentassets-0cdf44808b804bcfbe32912ae78e972c-eksempel-pa-s-d80e5d08.jpg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "fyrlykt med sektorer / sektorinndeling",
+    "detail": "Skjermbilde av elektronisk sjøkart (Ramsøysundet) som viser fyrlykt-sektorer: grønne, røde og hvite sektorbuer gjennom leia."
+  },
+  {
+    "id": "img_40",
+    "kind": "image",
+    "category": "sjomerke_spesial",
+    "src": "data/img/redningsselskapet__images__content-uploads-2026-04-badeboye_spesialmerke-1024x731.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "spesialmerke (gult, X-topptegn) – f.eks. badebøye",
+    "detail": "Illustrasjon av to helgule spesialmerker i blått vann: gul bøye og gul stake, hver med gult X-topptegn og refleksjon."
+  },
+  {
+    "id": "img_42",
+    "kind": "image",
+    "category": "sjomerke_kardinal",
+    "src": "data/img/redningsselskapet__images__content-uploads-2025-08-vestmerke_m_bakgrunn.png",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "vestmerke (vest kardinalmerke)",
+    "detail": "Flat illustrasjon av stake i blått vann, gul-sort-gul (sort midtbelte) = vestmerke."
+  },
+  {
+    "id": "img_44",
+    "kind": "image",
+    "category": "farvannsskilt",
+    "src": "data/img/lanternenkurs__images__wp-content-uploads-2023-09-sjomerke_blindleia-1-1024x900.jpg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "fartsgrenseskilt (5 knop) / farvannsskilt",
+    "detail": "Foto fra sjøen i Blindleia: skjær med sort-hvit malt navigasjonsmerke, og i forgrunnen hvitt fartsgrenseskilt '5' med tekst '50 m fra land, 15. jun–15. aug'."
+  },
+  {
+    "id": "img_47",
+    "kind": "image",
+    "category": "sjomerke_kardinal",
+    "src": "data/img/bukt__images__quiz-static-img-articles-kardinalmerker.svg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "kardinalmerker (nord, øst, sør, vest)",
+    "detail": "SVG med de fire kardinalmerkene ordnet etter retning, hvert et innebygd bilde av bøye/merke med sort/gul belter og to-kjegle topptegn; tekstetiketter Nord/Øst/Sør/Vest."
+  },
+  {
+    "id": "img_48",
+    "kind": "image",
+    "category": "sjomerke_lateral",
+    "src": "data/img/bukt__images__quiz-static-img-articles-lateralmerker.svg",
+    "credit": "offentlig kilde",
+    "front": "Hva viser bildet?",
+    "answer": "lateralmerker (babordmerke og styrbordmerke)",
+    "detail": "Vektordiagram av lateralmerker: rødt 'Babordmerke' og grønt 'Styrbordmerke' med grønt trekant-topptegn, pluss tekst om at leias hovedretning vises på kartet med pil."
+  },
+  {
+    "id": "img_49",
+    "kind": "image",
+    "category": "lanterne",
+    "src": "data/img/wikimedia__images__ship-positionlights.png",
+    "credit": "Trex2001 (CC BY-SA 4.0), via Wikimedia Commons",
+    "front": "Hva viser bildet?",
+    "answer": "lanternenes synssektorer (ovenfra)",
+    "detail": "Sett ovenfra med baugen opp: rød sektor dekker babord side, grønn sektor styrbord side, og hvit sektor dekker akterover. Viser fra hvilke retninger hvert lys kan ses."
+  },
+  {
+    "id": "img_50",
+    "kind": "image",
+    "category": "lanterne",
+    "src": "data/img/wikimedia__images__visibilityarc.png",
+    "credit": "Original: Claudio Elias Vector: ThelmOSO (CC0), via Wikimedia Commons",
+    "front": "Hva viser bildet?",
+    "answer": "lanternenes synsvinkler (nummerert)",
+    "detail": "Nummerert diagram ovenfra: 1 = topplys (hvitt, forover), 2 = rødt babord sidelys, 3 = grønt styrbord sidelys, 4 = hvitt akterlys, 5 = gult slepelys."
+  },
+  {
+    "id": "img_51",
+    "kind": "image",
+    "category": "lanterne",
+    "src": "data/img/wikimedia__images__ship-position-lights-angles.png",
+    "credit": "Claudio Elias (CC BY-SA 4.0), via Wikimedia Commons",
+    "front": "Hva viser bildet?",
+    "answer": "lanternenes synsvinkler i grader",
+    "detail": "Sett ovenfra med gradtall: sidelys 112,5° på hver side, topplys 225° forover, akterlys 135° akterover. Rødt på babord (venstre), grønt på styrbord (høyre)."
+  },
+  {
+    "id": "img_52",
+    "kind": "image",
+    "category": "lanterne",
+    "src": "data/img/wikimedia__images__maschinenfahrzeug-nachts-.png",
+    "credit": "ThoKay (CC BY-SA 1.0), via Wikimedia Commons",
+    "front": "Hva viser bildet?",
+    "answer": "maskindrevet fartøy sett forfra om natten",
+    "detail": "Et maskindrevet fartøy sett rett forfra i mørket: grønt lys til venstre (fartøyets styrbord side), rødt lys til høyre (fartøyets babord side), og hvite topplys. To topplys betyr fartøy på 50 m eller mer."
+  },
+  {
+    "id": "img_53",
+    "kind": "image",
+    "category": "lanterne",
+    "src": "data/img/wikimedia__images__positionslichter.png",
+    "credit": "ThoKay (CC BY-SA 1.0), via Wikimedia Commons",
+    "front": "Hva viser bildet?",
+    "answer": "lanterneplassering sett ovenfra",
+    "detail": "Sett ovenfra: rødt sidelys på babord (venstre), grønt sidelys på styrbord (høyre), hvitt topplys forut og hvitt akterlys bak."
+  },
+  {
+    "id": "img_54",
+    "kind": "image",
+    "category": "fyr_lykt",
+    "src": "data/img/wikimedia__images__schema-feu-directionnel.png",
+    "credit": "Pline (CC BY-SA 3.0), via Wikimedia Commons",
+    "front": "Hva viser bildet?",
+    "answer": "sektorlykt: hvit trygg sektor, rød og grønn faresektor",
+    "detail": "Sektorlykt vist på kart: den hvite sektoren i midten markerer trygt løp, rød sektor mot fare på babord side og grønn sektor mot fare på styrbord side. Piler peker på grunner i de fargede sektorene."
+  },
+  {
+    "id": "img_56",
+    "kind": "image",
+    "category": "kart_symbol",
+    "src": "data/img/wikimedia__images__grund-markering-sj-kort.png",
+    "credit": "Lidingo (Public domain), via Wikimedia Commons",
+    "front": "Hva viser bildet?",
+    "answer": "kartsymbol for grunne/undervannsskjær",
+    "detail": "Et sjøkartsymbol: et kryss (+) med fire prikker innenfor en stiplet farekontur markerer en grunne eller et undervannsskjær."
+  },
+  {
+    "id": "con_lr-smabatloven-sentrale-bestemmelser",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Småbåtloven – sentrale bestemmelser for fritidsbåtfører",
+    "answer": "Småbåtloven (lov om fritids- og småbåter, LOV-1998-06-26-47) er rammeloven for fritidsbåtbruk i Norge og regulerer blant annet aktsomhet, fart, promille, flyteutstyr, registrering og førerkompetanse.",
+    "detail": "Vite at småbåtloven (LOV-1998-06-26-47) er rammeloven for fritidsbåtbruk i Norge."
+  },
+  {
+    "id": "con_lr-promille-baatforer",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Promillegrense og ruspåvirkning ved føring av båt",
+    "answer": "Det er forbudt å føre fritidsbåt i ruspåvirket tilstand. For fritidsbåt under 15 m gjelder promillegrense 0,8 ‰; for båt 15 m eller lengre gjelder 0,2 ‰.",
+    "detail": "Kunne promillegrensen 0,8 ‰ for fritidsbåt under 15 m og 0,2 ‰ for båt 15 m eller lengre."
+  },
+  {
+    "id": "con_lr-flyteutstyr-bruk-regler",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Påbud om flyteutstyr – under 8 m, i fart, utendørs, CE-merket",
+    "answer": "Det skal være egnet flyteutstyr til alle om bord. I båt under 8 m skal alle som oppholder seg utendørs ha flyteutstyret på seg når båten er i fart. Utstyret skal være CE-/rattmerket.",
+    "detail": "Vite at det skal være egnet flyteutstyr til alle om bord, tilpasset hver person."
+  },
+  {
+    "id": "con_lr-fartsregler-fartsbegrensninger",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Fartsregler – 50 m fra badende, 5 knop nær land, lokale grenser",
+    "answer": "Det er alltid plikt til avpasset fart. Det er forbudt å passere badende nærmere enn 50 m, mange steder gjelder maks 5 knop nær land og i havner, og kommunene kan fastsette lokale fartsgrenser for fartøy opp til 24 m.",
+    "detail": "Vite at det alltid skal holdes avpasset og sikker fart etter forholdene."
+  },
+  {
+    "id": "con_lr-batforerbevis-minstealder",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Båtførerbevis, minstealder og høyhastighetsbevis",
+    "answer": "Båtførerbevis kreves for personer født 1.1.1980 eller senere som skal føre fritidsbåt over 8 m eller med motor over 25 hk. Minstealder er 16 år for motor over 10 hk. Fra 2023 kreves høyhastighetsbevis (18 år) for båt som kan gå 50 knop eller mer.",
+    "detail": "Vite at båtførerbevis kreves for født ≥1.1.1980 ved båt over 8 m eller motor over 25 hk."
+  },
+  {
+    "id": "con_lr-ce-merking-cin-registrering",
+    "kind": "concept",
+    "category": "lover",
+    "front": "CE-konstruksjonskategorier, CIN-skrognummer og produsentskilt",
+    "answer": "Fritidsbåter skal være CE-merket med konstruksjonskategori A, B, C eller D etter hvilket farvann de er bygget for. Båten har et unikt CIN-skrognummer, et produsentskilt og skal følges av samsvarserklæring og brukerhåndbok.",
+    "detail": "Kunne CE-konstruksjonskategoriene A (havgående), B (utenskjærs), C (kystfarvann/fjord) og D (beskyttet farvann)."
+  },
+  {
+    "id": "con_lr-vikeplikt-styring-seilas",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Vikeplikt og styring – sjøveisreglene del B",
+    "answer": "Sjøveisreglenes styrings- og seilasregler avgjør hvem som skal vike og hvem som skal holde kurs i en mulig kollisjonssituasjon. Den vikepliktige skal handle tidlig og tydelig.",
+    "detail": "Forstå at den vikepliktige skal handle tidlig og tydelig, mens den andre holder kurs og fart"
+  },
+  {
+    "id": "con_lr-lanterner",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Lanterneføring og signalflagg",
+    "answer": "Lanternene viser andre fartøy hvor du er, hvilken vei du går og hva slags fartøy du er. Riktig lanterneføring er påbudt fra solnedgang til soloppgang og ved nedsatt sikt.",
+    "detail": "Gjenkjenne en motorbåt på topplys + sidelys + akterlys, og en seilbåt på sidelys + akterlys uten topplys"
+  },
+  {
+    "id": "con_lr-lydsignaler-utstyr",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Utstyr for lyd- og lyssignaler",
+    "answer": "Regel 33 sier hvilket lydsignalutstyr et fartøy skal ha om bord, slik at det kan gi de påbudte manøver- og varselsignalene.",
+    "detail": "Vite at fartøy ≥ 12 m skal ha fløyte, og ≥ 100 m også klokke"
+  },
+  {
+    "id": "con_lr-manoversignaler",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Manøver- og varselsignaler (regel 34)",
+    "answer": "Regel 34 fastsetter lydsignaler som maskindrevne fartøy bruker for å vise hverandre hva de gjør, og et varselsignal når en er i tvil.",
+    "detail": "Kunne tolke 1 kort = styrbord, 2 korte = babord, 3 korte = maskin akterover"
+  },
+  {
+    "id": "con_lr-nedsatt-sikt",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Lydsignaler ved nedsatt sikt (regel 35)",
+    "answer": "I tåke og annen nedsatt sikt skal fartøy gi jevnlige lydsignaler som forteller andre at de er der og hva slags fartøy de er, siden lanternene ikke sees.",
+    "detail": "Vite at maskindrevet fartøy i fart gir ett langt støt hvert ≤ 2 min i nedsatt sikt"
+  },
+  {
+    "id": "con_lr-nodsignaler",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Nødsignaler og nødkommunikasjon",
+    "answer": "Nødsignalene i sjøveisreglenes vedlegg IV viser at et fartøy er i nød og trenger hjelp. I tillegg er VHF kanal 16 og Kystradioen sentrale for å varsle nød.",
+    "detail": "Kjenne de viktigste nødsignalene: rødt bluss, oransje røyk, arm-heving, kontinuerlig tåkesignal, flammer, firkantflagg + kule"
+  },
+  {
+    "id": "con_lr-norske-farvann",
+    "kind": "concept",
+    "category": "lover",
+    "front": "Særregler for norske farvann (regel 43–45, 54)",
+    "answer": "I tillegg til de internasjonale reglene har Norge egne tilleggsregler for norske farvann. De setter blant annet krav til forsvarlig fart og oppførsel, og ansvar for skade ved bølgeslag.",
+    "detail": "Vite at Norge har egne tilleggsregler (regel 43 og utover) i tillegg til de internasjonale"
+  },
+  {
+    "id": "con_nv_kart_oppbygging",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Sjøkartets oppbygging, dybder og kartdatum",
+    "answer": "Sjøkartet viser dybder i meter ned til sjøkartnull (LAT), og er bygd opp av målestokk, datum, dybdetall, dybdekoter, land- og sjøkonturer samt symboler og forkortelser.",
+    "detail": "Forklare at dybder i norske sjøkart er oppgitt i meter ned til sjøkartnull (LAT)"
+  },
+  {
+    "id": "con_nv_kart_symboler",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Viktige kartsymboler: skvalpeskjær, grunne, kabel, rørledning, luftspenn og bru",
+    "answer": "Du må kjenne igjen sentrale kartsymboler og hva de betyr i virkeligheten: skvalpeskjær som tørrfaller, grunner, kabler og rørledninger på bunnen, samt luftspenn og broer med oppgitt høyde/klaring.",
+    "detail": "Kjenne igjen og forklare symbolet for skvalpeskjær (tørrfaller ved lav vannstand)"
+  },
+  {
+    "id": "con_nv_kompass",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Magnetkompasset: misvisning (deklinasjon) og deviasjon",
+    "answer": "Magnetkompasset peker mot magnetisk nord. To feilkilder skiller magnetisk fra rettvisende kurs: misvisning (deklinasjon) fra jordens magnetfelt og deviasjon fra magnetiske felt i egen båt.",
+    "detail": "Forklare at magnetkompasset retter seg etter jordens magnetfelt mot magnetisk nord"
+  },
+  {
+    "id": "con_nv_elektronisk",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "GPS og kartplotter: muligheter og begrensninger",
+    "answer": "GPS og kartplotter gir nøyaktig posisjon, kurs og fart i sanntid, men er sårbare for strømbrudd, signaltap, gamle/overskalerte kart og feiltolkning. Papirkart og kompass bør være tilgjengelig som reserve.",
+    "detail": "Forklare hva GPS og kartplotter gir av informasjon (posisjon, kurs og fart over grunn)"
+  },
+  {
+    "id": "con_nv_strom_tidevann",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Strøm og tidevann langs norskekysten",
+    "answer": "Tidevannet får vannstanden til å stige (flo) og synke (fjære) i en regelmessig syklus og skaper tidevannsstrøm. Vannstand og strøm påvirker dybde, klaring og kurs, og kan slå sterkt til i trange sund.",
+    "detail": "Forklare flo og fjære som regelmessig heving/senking av havet drevet av måne og sol"
+  },
+  {
+    "id": "con_nv_fart_distanse",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Fart, tid og distanse: nautisk mil og knop",
+    "answer": "1 nautisk mil = 1852 m = 1 breddeminutt. Fart i knop er nautiske mil per time. Distanse = fart × tid, fart = distanse ÷ tid, tid = distanse ÷ fart.",
+    "detail": "Huske at 1 nautisk mil = 1852 m = 1 breddeminutt"
+  },
+  {
+    "id": "con_nv_orientering",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Orientere seg: kompass, GPS-koordinater, landemerker og peiling",
+    "answer": "Du orienterer deg ved å koble kartet til virkeligheten: ta ut en kurs med kompass, lese GPS-koordinater (bredde/lengde), kjenne igjen landemerker og sjømerker, og bestemme posisjon ved peiling.",
+    "detail": "Orientere seg ved å koble landemerker og sjømerker til kartet"
+  },
+  {
+    "id": "con_nv-lateralmerker-iala",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Lateralmerker – «rødt om babord inn»",
+    "answer": "Lateralmerker (sideavmerking) markerer sidene av en led eller et havneinnløp. I IALA region A, som Norge tilhører, er røde merker babordmerker og grønne merker styrbordmerker når du følger leias hovedretning.",
+    "detail": "Forklare regelen «rødt om babord inn» og når den gjelder (følge leias hovedretning i IALA region A)."
+  },
+  {
+    "id": "con_nv-kardinalmerker-iala",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Kardinalmerker – nord, øst, sør og vest",
+    "answer": "Kardinalmerker er sort/gule og forteller på hvilken kompasskant av merket det er trygt farvann. Du skal passere nord for nordmerket, øst for østmerket, sør for sørmerket og vest for vestmerket.",
+    "detail": "Gjengi farge (BY/BYB/YB/YBY) og kjegletopptegn for nord-, øst-, sør- og vestmerket."
+  },
+  {
+    "id": "con_nv-spesial-fare-senterled-merker",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Spesialmerke, frittliggende fare og senterledsmerke",
+    "answer": "Utenom lateral- og kardinalmerkene finnes spesialmerket (gult med X), merket for frittliggende fare (sort med røde belter, BRB) og senterledsmerket (rød-hvit stripet) som markerer trygt vann.",
+    "detail": "Kjenne igjen spesialmerket (gult, X-topptegn) og hva slags områder det markerer."
+  },
+  {
+    "id": "con_nv-sektorlykt-fyr",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Sektorlykt – hvit, rød og grønn sektor",
+    "answer": "En sektorlykt lyser med ulik farge i ulike retninger. Hvit sektor viser farbart/trygt løp; rød og grønn sektor advarer mot fare/grunne, der grønn ligger på styrbord og rød på babord side av leia.",
+    "detail": "Forklare at hvit sektor er trygt løp, mens rød og grønn sektor advarer mot fare."
+  },
+  {
+    "id": "con_nv-lyskarakteristikker",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Lyskarakteristikker – F, Oc, Iso, Fl og Q",
+    "answer": "Lyskarakteristikken er fyrets «puls» som gjør det mulig å skille lykter fra hverandre: fast lys (F), formørkende (Oc), isofase (Iso), blink (Fl) og hurtigblink (Q), med tall for gruppe og periode.",
+    "detail": "Skille mellom F, Oc, Iso, Fl og Q ut fra forholdet mellom lys og mørke."
+  },
+  {
+    "id": "con_nv-farvannsskilt-fartsgrense",
+    "kind": "concept",
+    "category": "navigasjon",
+    "front": "Farvannsskilt – fartsgrense og varselskilt",
+    "answer": "Farvannsskilt gir veiledning på sjøen, blant annet om fartsgrenser, forbud og farer. Fartsgrenseskiltet er firkantet med rød kant, hvitt felt og sort tall som angir høyeste tillatte fart i knop.",
+    "detail": "Kjenne igjen fartsgrenseskiltet (firkantet, rød kant, hvitt felt, sort tall) og lese fartsgrensen i knop."
+  },
+  {
+    "id": "con_sm-sikkerhetsutstyr",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Sikkerhetsutstyr om bord og riktig bruk",
+    "answer": "En fritidsbåt skal ha egnet sikkerhetsutstyr tilpasset båt og bruk, og føreren må vite hvordan utstyret brukes. Flyteutstyr til alle om bord er kjernekravet.",
+    "detail": "Vite at det skal være egnet flyteutstyr til alle om bord, og at alle skal ha det på seg i fart i båt under 8 m"
+  },
+  {
+    "id": "con_sm-brann",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Brannfare, brannårsaker og slukking om bord",
+    "answer": "De vanligste brannkildene i fritidsbåt er bensindamp og propan, som begge er tyngre enn luft og samler seg lavt. Riktig lufting før start og egnet slukkeutstyr er avgjørende.",
+    "detail": "Vite at bensindamp og propan er tyngre enn luft og samler seg lavt i båten"
+  },
+  {
+    "id": "con_sm-vhf-nod",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "VHF, mobiltelefon og varsling i nødsituasjoner",
+    "answer": "VHF kanal 16 er nød- og anropskanalen til sjøs, og Kystradioen nås på telefon 120. Riktig og rask varsling er avgjørende i en nødsituasjon.",
+    "detail": "Vite at VHF kanal 16 er nød- og anropskanal, og at Kystradioen nås på telefon 120"
+  },
+  {
+    "id": "con_sm-assistanse",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Assistanse, sleping og hjelp til andre",
+    "answer": "God sjømannskap innebærer å yte hjelp til andre i nød så langt det er trygt. Sleping krer riktig festepunkt, passe fart og oppmerksomhet på slepelinen.",
+    "detail": "Forstå plikten og tradisjonen for å hjelpe andre i nød så langt det er trygt"
+  },
+  {
+    "id": "con_sm-battyper-ce",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Båttyper og CE-konstruksjonskategorier A–D",
+    "answer": "Ulike båttyper passer til ulike farvann. CE-merkingens konstruksjonskategorier A, B, C og D forteller hvilke vind- og bølgeforhold båten er bygget for.",
+    "detail": "Kunne CE-kategoriene A, B, C, D og hvilke farvann/forhold de gjelder"
+  },
+  {
+    "id": "con_sm-trim-stabilitet",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Trim, stabilitet, last og fribord",
+    "answer": "Riktig trim, tilstrekkelig stabilitet og passe last gir en trygg og sjødyktig båt. Overlast senker fribordet og øker faren for å ta inn vann og kantre.",
+    "detail": "Forklare hva trim, stabilitet og fribord er"
+  },
+  {
+    "id": "con_sm-vedlikehold",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Vedlikehold av båt, motor, rigg og utstyr",
+    "answer": "Godt vedlikehold av skrog, motor, rigg og utstyr forebygger motorstopp, havari og brann. Drivstoff-, kjøle- og smøresystem krever særlig oppmerksomhet.",
+    "detail": "Vite at godt vedlikehold forebygger motorstopp, havari og brann"
+  },
+  {
+    "id": "con_sm-fortoyning-anker",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Sikker fortøyning og ankring",
+    "answer": "Forsvarlig fortøyning og riktig ankring holder båten trygt. Anker krever passe type, nok kjetting/line og tilstrekkelig utstukket lengde i forhold til dybden.",
+    "detail": "Vite hva som kjennetegner forsvarlig fortøyning (solide fester, fjæring, fendere, tidevann)"
+  },
+  {
+    "id": "con_sm-miljo",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Miljøhensyn til sjøs",
+    "answer": "God båtbruk tar hensyn til miljøet: unngå utslipp og forsøpling, vis hensyn i reservater og nasjonalparker, og begrens støy og bølgeslag.",
+    "detail": "Vite at olje, drivstoff, kloakk og avfall ikke skal slippes ut i sjøen"
+  },
+  {
+    "id": "con_sm-ansvar-forsikring",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Ansvar og forsikring for båtfører",
+    "answer": "Båtføreren har ansvaret for båt, mannskap og at ferdselen skjer trygt og lovlig. Forsikring er frivillig men sterkt anbefalt; ansvarsforsikring dekker skade på andre.",
+    "detail": "Forstå at føreren har ansvar for båt, mannskap og lovlig/trygg ferdsel"
+  },
+  {
+    "id": "con_sm-forstehjelp",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Førstehjelp til sjøs: BLÅS, HLR og hypotermi",
+    "answer": "Førstehjelpsprinsippet BLÅS (Bevissthet, Luftveier, Åndedrett, Sirkulasjon) gir rekkefølgen i en akuttsituasjon. HLR utføres 30:2, og nedkjøling (hypotermi) krever varsom håndtering.",
+    "detail": "Kunne BLÅS-rekkefølgen (Bevissthet, Luftveier, Åndedrett, Sirkulasjon)"
+  },
+  {
+    "id": "con_sm-meteorologi",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Meteorologi: vær, vind, sjøforhold og sikt",
+    "answer": "Å lese værmelding og forstå hvordan vind, sjø og sikt utvikler seg er avgjørende. Sjekk alltid melding før tur og respekter vær og farvann (sjøvettregel 3).",
+    "detail": "Vite at man skal sjekke værmelding før og under tur og respektere vær og farvann"
+  },
+  {
+    "id": "con_sm-vannsport",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Sikkerhet ved vannsport og vannscooter",
+    "answer": "Vannski, wakeboard, tubing og vannscooter krever ekstra forsiktighet, godt oppsyn og avstand til badende og andre. Vannscooter følger samme regler som båt.",
+    "detail": "Vite at den som slepes skal ha flyteutstyr, og at det bør være egen observatør"
+  },
+  {
+    "id": "con_sm-hoy-fart",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Farer ved høy fart og høyhastighetsnavigasjon",
+    "answer": "Høy fart gir kortere reaksjonstid, innsnevret syn (tunnelsyn) og store konsekvenser ved sammenstøt. Hold forsvarlig avstand til land og avpasset fart.",
+    "detail": "Forklare hvorfor høy fart gir kortere reaksjonstid og innsnevret syn (tunnelsyn)"
+  },
+  {
+    "id": "con_sm-godt-sjomannskap",
+    "kind": "concept",
+    "category": "sjomannskap",
+    "front": "Godt sjømannskap og de 7 sjøvettreglene",
+    "answer": "Godt sjømannskap er sunn fornuft, planlegging, hensyn og ansvar på sjøen. De 7 sjøvettreglene oppsummerer kjernen i trygg og hensynsfull ferdsel.",
+    "detail": "Kunne de 7 sjøvettreglene og hva hver av dem innebærer"
+  }
+]

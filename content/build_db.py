@@ -57,13 +57,14 @@ def main() -> int:
     img_id = {}
     ana = json.loads((ROOT / "data" / "images_analysis.json").read_text(encoding="utf-8"))
     for im in ana["images"]:
-        cur.execute("""INSERT OR IGNORE INTO images(file,site,category,norwegian_term,what_it_shows,reusable,page_url,license,attribution)
-                       VALUES(?,?,?,?,?,?,?,?,?)""",
+        cur.execute("""INSERT OR IGNORE INTO images(file,site,category,norwegian_term,what_it_shows,reusable,page_url,license,attribution,flashcard)
+                       VALUES(?,?,?,?,?,?,?,?,?,?)""",
                     (im["file"], im["file"].split("/")[0], im.get("category"),
                      im.get("norwegian_term"), im.get("what_it_shows"),
                      1 if im.get("reusable") else 0,
                      im.get("page_url") or im.get("source_page"),
-                     im.get("license"), im.get("attribution")))
+                     im.get("license"), im.get("attribution"),
+                     0 if im.get("flashcard") is False else 1))
         img_id[im["file"]] = cur.execute("SELECT id FROM images WHERE file=?", (im["file"],)).fetchone()[0]
 
     def ensure_source(ref):

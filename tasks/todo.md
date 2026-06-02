@@ -63,8 +63,13 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
       spesielt-krav; spørsmålspalett, resultat med områdefordeling og
       feilgjennomgang (forklaring + kilde); oppdaterer mestring + feillogg
 - [x] **Stokket svaralternativer** (fasit var 100 % på A) — nå jevnt fordelt
-- [ ] Spaced repetition / flashcard-modus
+- [x] **Flashcards + spaced repetition** (SM-2-lite): bildekort (sjømerker/
+      lanterner/fyr) + konseptkort; vurdering På nytt/Vanskelig/Bra/Lett;
+      SR-tilstand per elev; forfaller-teller i meny
+- [x] Bilde-kvalitetssjekk: ekskluderte fargefeil-«sørmerke» + tvetydige
+      gul/sort-merker + ledefyr fra «identifiser»-bildekort
 - [ ] Eksport/import av progresjon + offline-PWA (Fase 5)
+- [ ] Sjømerke-/lanterne-/vikeplikt-simulator (Fase 4)
 
 ## Kildelenking-prinsipp (gjelder alt innhold) 🔗
 

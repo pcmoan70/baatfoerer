@@ -327,7 +327,13 @@ body {
 
 /* ===== Mestringsfelt i sidemeny ===== */
 .area-item { flex-direction: column; align-items: stretch; gap: 6px; }
+.area-item::before { display: none; }   /* dotten flyttes inn i tekstraden */
 .area-row { display: flex; align-items: center; gap: 10px; width: 100%; }
+.area-row::before {
+  content: ""; width: 7px; height: 7px; border-radius: 50%;
+  background: var(--brass); flex: none; opacity: .7;
+}
+.area-item.active .area-row::before { opacity: 1; box-shadow: 0 0 0 3px rgba(199,154,75,.22); }
 .area-row .count { margin-left: auto; }
 .mastery { height: 5px; border-radius: 4px; background: rgba(255,255,255,.1); overflow: hidden; }
 .mastery > i { display: block; height: 100%; background: linear-gradient(90deg, var(--teal), var(--brass)); }
@@ -349,6 +355,34 @@ body {
   max-width: 90%; text-decoration: none;
 }
 a.img-credit:hover { text-decoration: underline; }
+
+/* ===== Flashcards ===== */
+.fc-stats { font-size: .82rem; color: var(--ink-soft); }
+.flashcard {
+  min-height: 280px; background: var(--foam); border: 1px solid rgba(12,42,64,.14);
+  border-radius: var(--radius); padding: 26px; margin: 6px 0 18px; text-align: center;
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 14px;
+}
+.fc-kicker { font-size: .68rem; letter-spacing: 1.5px; text-transform: uppercase; color: var(--sea); font-weight: 700; }
+.fc-image { margin: 0; width: 100%; max-width: 300px; }
+.fc-image img { width: 100%; max-height: 220px; object-fit: contain; border-radius: var(--radius-sm); background: #06192a; }
+.fc-image .cap { font-size: .62rem; color: var(--ink-soft); margin-top: 4px; }
+.fc-front { font-family: var(--font-display); font-size: 1.5rem; color: var(--navy); margin: 0; line-height: 1.25; }
+.fc-back { border-top: 1px dashed rgba(12,42,64,.2); padding-top: 14px; width: 100%; }
+.fc-answer { font-family: var(--font-display); font-size: 1.5rem; font-weight: 600; color: var(--teal); margin: 0 0 8px; }
+.fc-detail { font-size: .95rem; color: var(--ink-soft); margin: 0; line-height: 1.5; }
+.fc-controls { display: flex; justify-content: center; gap: 10px; }
+.fc-controls[hidden] { display: none; }
+.fc-controls .nav-btn { min-width: 160px; justify-content: center; }
+.rate-btn { flex: 1; max-width: 150px; padding: 12px 10px; border-radius: var(--radius-sm); border: 1.5px solid; background: var(--foam); cursor: pointer; font-weight: 600; font-size: .92rem; display: flex; flex-direction: column; gap: 2px; }
+.rate-btn small { font-weight: 400; font-size: .68rem; opacity: .7; }
+.rate-btn.again { border-color: var(--wrong); color: var(--wrong); }
+.rate-btn.hard { border-color: #c98b3a; color: #a6701f; }
+.rate-btn.good { border-color: var(--sea); color: var(--sea); }
+.rate-btn.easy { border-color: var(--correct); color: var(--correct); }
+.rate-btn:hover { filter: brightness(.97); transform: translateY(-1px); }
+.fc-done { text-align: center; color: var(--ink-soft); }
+.fc-done p { font-size: 1.05rem; margin-bottom: 14px; }
 
 /* toast-varsel (f.eks. etter sendt tilbakemelding) */
 .toast {

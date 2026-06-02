@@ -54,7 +54,8 @@ CREATE TABLE images (
   reusable       INTEGER DEFAULT 0,      -- 0 = kun analyse (opphavsrett), 1 = ok
   page_url       TEXT,
   license        TEXT,                   -- f.eks. "CC BY-SA 4.0", "CC0", "Public domain"
-  attribution    TEXT                    -- kreditering (forfatter + lisens + kilde)
+  attribution    TEXT,                   -- kreditering (forfatter + lisens + kilde)
+  flashcard      INTEGER DEFAULT 1       -- 0 = ekskluder fra «identifiser»-bildekort
 );
 
 -- Konsepter (læringsenheter). importance og exam_area styrer adaptiv vekting.
