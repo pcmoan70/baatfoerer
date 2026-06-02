@@ -26,14 +26,32 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
 - [ ] `scraper/validate_content.py` — JSON schema, dubletter, source_refs
 - [ ] Utvid til 300 spørsmål (MVP 1-mål)
 
+## Designprinsipp (gjelder hele frontend) ⚓
+
+**Gjennomført maritim design og konsekvent stil på alle grafiske fremstillinger.**
+
+- [ ] Etabler et maritimt designsystem tidlig (design tokens, brukes overalt):
+  - Fargepalett: dyp marineblå, sjøgrønn, messing/tau-aksent, hvit/off-white
+  - Typografi: ren, lesbar; tydelig nautisk/klassisk overskriftsfont
+  - Ikonografi: konsistent strektykkelse og hjørneradius
+- [ ] Felles SVG-stil for ALLE grafiske fremstillinger (sjømerker, lanterner,
+      kompass, kart, vikeplikt-diagrammer) — samme strektykkelse, fargebruk,
+      perspektiv og merkelapper på tvers av moduler
+- [ ] Egenproduserte vektorgrafikker (ikke kopierte bilder) bygget i samme stil,
+      basert på analyse av de skrapte fagbildene
+- [ ] Subtile maritime detaljer (tau-/kompassmotiv) uten å gå på bekostning av
+      lesbarhet eller mobilytelse
+- [ ] Mørk «nattmodus» for lanterne-simulator (realistisk mørkeseilas)
+
 ## Fase 3 — Frontend (statisk webapp)
 
 - [ ] Sett opp SvelteKit/React + Vite + TypeScript
+- [ ] Implementer det maritime designsystemet (se Designprinsipp over)
 - [ ] Datalag: last `sources/syllabus/concepts/questions.json`
 - [ ] Quizmotor (Question/UserAnswer-modeller)
 - [ ] Eksamensmodus (50 spørsmål / 60 min / 80 %)
 - [ ] Lokal progresjonslagring (IndexedDB via Dexie)
-- [ ] Klarhetsindeks-forside
+- [ ] Klarhetsindeks-forside (maritimt dashbord)
 
 ## Fase 4 — Adaptiv og simulatorer
 

@@ -377,6 +377,21 @@ Dagens status:
 
 ## 9. Frontend-arkitektur
 
+### Designprinsipp: gjennomført maritim stil ⚓
+
+Hele siden skal ha en gjennomført maritim design, og en konsekvent visuell stil
+på alle grafiske fremstillinger.
+
+- Felles maritimt designsystem (design tokens): marineblå/sjøgrønn palett,
+  messing/tau-aksent, ren nautisk typografi, konsistent ikonografi.
+- Én felles SVG-stil for alle grafiske elementer — sjømerker, lanterner,
+  kompass, kartoppgaver og vikeplikt-diagrammer skal dele strektykkelse,
+  fargebruk, perspektiv og merkelapper, slik at de ser ut til å høre sammen.
+- Grafikk produseres egenhendig som vektorgrafikk (basert på analyse av skrapte
+  fagbilder), ikke som kopierte bilder.
+- Subtile maritime detaljer uten å svekke lesbarhet eller mobilytelse; egen
+  «nattmodus» for lanterne-simulatoren.
+
 Foreslått stack:
 
 ```text
