@@ -355,15 +355,29 @@ function buildFeedbackMailto(q, note) {
   return `mailto:${FEEDBACK_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 }
 function feedbackParams(q, note) {
+  const qid = q ? q.id : "";
+  const prompt = q ? q.prompt : "";
+  const correct = (q && q.choices && q.correct != null) ? q.choices[q.correct] : "";
+  const source = (q && (q.sources || [])[0] && q.sources[0].url) || "";
+  const student = P ? P.name : "";
+  const subject = "Båtføreprøven – tilbakemelding" + (q ? ` (oppgave ${qid})` : "");
+  // Samlet melding – fungerer også om malen bare bruker {{message}}.
+  const message = [
+    "Tilbakemelding fra Båtføreprøven-treningssiden:", "",
+    qid ? `Oppgave-ID: ${qid}` : null,
+    prompt ? `Spørsmål: ${prompt}` : null,
+    correct ? `Oppgitt riktig svar: ${correct}` : null,
+    source ? `Kilde: ${source}` : null,
+    student ? `Elev: ${student}` : null,
+    "", "Kommentar:", note || "(ingen kommentar)",
+  ].filter(x => x !== null).join("\n");
   return {
-    to_email: FEEDBACK_EMAIL,
-    subject: "Båtføreprøven – tilbakemelding" + (q ? ` (oppgave ${q.id})` : ""),
-    question_id: q ? q.id : "",
-    question: q ? q.prompt : "",
-    correct_answer: (q && q.choices && q.correct != null) ? q.choices[q.correct] : "",
-    source: (q && (q.sources || [])[0] && q.sources[0].url) || "",
-    student: P ? P.name : "",
-    comment: note || "(ingen kommentar)",
+    // strukturerte felt (for en egendefinert mal)
+    to_email: FEEDBACK_EMAIL, subject, title: subject,
+    question_id: qid, question: prompt, correct_answer: correct,
+    source, student, comment: note || "(ingen kommentar)",
+    // samlede/standard-felt (for en enkel mal)
+    message, name: student || "Båtføreprøven", email: FEEDBACK_EMAIL, reply_to: FEEDBACK_EMAIL,
   };
 }
 async function sendFeedback() {
