@@ -65,7 +65,8 @@ relevante offentlige nettsiden — ned til avsnitt/linje, ikke bare forsiden.**
 
 ## Fase 3 — Frontend (statisk webapp)
 
-- [x] Statisk prototype `app/` (zero-build HTML/CSS/JS) — modern maritim layout
+- [x] Statisk prototype `docs/` (zero-build HTML/CSS/JS) — modern maritim layout
+      (GitHub Pages-mappe; aktiver Pages → Branch: main, Folder: /docs)
 - [x] Maritimt designsystem (design tokens, palett, typografi) i `styles.css`
 - [x] Felles SVG-illustrasjonsstil (boat / lantern / sjømerke-scener)
 - [x] Quizmotor-prototype: spørsmål, svar, feedback, dyp kildelenke, klarhetsindeks
