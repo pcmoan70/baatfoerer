@@ -1,0 +1,247 @@
+{
+  "site": "lanternenkurs",
+  "n": 12,
+  "images": [
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2021-04-spesialmerket-lanternen-batforerkurs-copyright.png",
+      "category": "sjomerke_spesial",
+      "what_it_shows": "Helgult spesialmerke som bøye/stake med gult X-topptegn (Andreaskors), gul stake merket 'Y'.",
+      "key_visual_features": [
+        "helgul",
+        "gult X-topptegn",
+        "bøye+stake",
+        "Y (gul)"
+      ],
+      "norwegian_term": "spesialmerke",
+      "teaches_concept": "spesialmerker",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "Filnavn 'copyright' — lanternenkurs.no proprietær. Kun analyse."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2023-09-sjomerke_blindleia-1.jpg",
+      "category": "sjomerke_frittliggende_grunne",
+      "what_it_shows": "Identisk Blindleia-foto: sort-hvit-sort varde med visarm + rødt 5-knops skilt.",
+      "key_visual_features": [
+        "sort-hvit-sort varde",
+        "visarm",
+        "5-knops skilt"
+      ],
+      "norwegian_term": "fastmerke med visarm",
+      "teaches_concept": "fastmerker_visarm",
+      "good_for_question_types": [
+        "scenario",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Duplikat av RS-bildet (samme Blindleia-foto, kreditt Mads H. Randøy)."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2021-04-vikeplikt-mototbat-kryssende-kurs-8f67cef9.png",
+      "category": "vikeplikt_diagram",
+      "what_it_shows": "Ovenfra-diagram med to motorbåter A og B på kryssende kurs; buet pil viser A som viker bak B (vikeplikt for den som har den andre på styrbord side).",
+      "key_visual_features": [
+        "to båter A og B",
+        "kryssende kurs",
+        "vike-pil",
+        "ovenfra"
+      ],
+      "norwegian_term": "vikeplikt ved kryssende kurs",
+      "teaches_concept": "vikeplikt_kryssende",
+      "good_for_question_types": [
+        "scenario",
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "lanternenkurs.no proprietær — kun analyse."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2021-04-senterledsmerket-lanternen-batforerkurs-copyright.png",
+      "category": "sjomerke_senterleds",
+      "what_it_shows": "Diagram av senterleds/trygt-vann-merke: rød-hvit vertikalstripet høy bøye/stake i bølger, stake merket 'RW'.",
+      "key_visual_features": [
+        "rød-hvite vertikale striper",
+        "'RW'",
+        "bølger"
+      ],
+      "norwegian_term": "senterledsmerke / midtledsmerke (trygt-vann)",
+      "teaches_concept": "senterledsmerke-rod-hvit",
+      "good_for_question_types": [
+        "bilde_symbol",
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "Filnavn 'copyright' — kun analyse. RW = rød/hvit."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2021-04-midtgrunnemerket-lanternen-batforerkurs-copyright.png",
+      "category": "sjomerke_frittliggende_grunne",
+      "what_it_shows": "Diagram av midtgrunne/isolert fare: sort-rød-sort båndet bøye og stake med to-kule topptegn; stake merket 'BRB'.",
+      "key_visual_features": [
+        "sort-rød-sort bånd",
+        "to-kule topptegn",
+        "'BRB'"
+      ],
+      "norwegian_term": "midtgrunnemerke / frittliggende grunne (isolert fare)",
+      "teaches_concept": "midtgrunne-isolert-fare-BRB",
+      "good_for_question_types": [
+        "bilde_symbol",
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "Filnavn 'copyright' — kun analyse. BRB = black-red-black."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2021-04-image.png",
+      "category": "kart_symbol",
+      "what_it_shows": "Sjøkart-utsnitt 'Store Svartoksen' med sektorlykt: fargede sektorbuer (rød/magenta, grønn, gul), dybdetall og karakteristikk 'Fl(2) 5s'.",
+      "key_visual_features": [
+        "fargesektorer",
+        "kartdybder",
+        "'Fl(2) 5s'",
+        "sektorlykt"
+      ],
+      "norwegian_term": "sektorlykt med fargesektorer på sjøkart",
+      "teaches_concept": "sektorlykt-fargesektorer-kart",
+      "good_for_question_types": [
+        "bilde_symbol",
+        "scenario",
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "Kartdata fra Kartverket men utsnitt fra kommersielt kurs — kun analyse."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2021-04-iala-system-for-sjomerker-boyer-o-c9789993.png",
+      "category": "sjomerke_lateral",
+      "what_it_shows": "IALA-lateralmerker: røde merker (R) til venstre, grønne (G) til høyre, med bøye/spar/stake-varianter og kartsymbol-silhuetter med røde/grønne lysflagg; retningspil i midten.",
+      "key_visual_features": [
+        "røde merker (R)",
+        "grønne merker (G)",
+        "bøye/spar/stake",
+        "kartsymboler",
+        "retningspil"
+      ],
+      "norwegian_term": "laterale sjømerker (IALA-systemet)",
+      "teaches_concept": "iala-lateralmerker-rod-gronn",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Viser fysiske merker + kartsymboler, babord (rød) vs styrbord (grønn). Ingen synlig vannmerke."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2021-04-lyskarakterisitkker-lanternen-bat-16f85661.jpg",
+      "category": "lyskarakteristikk",
+      "what_it_shows": "Tidslinje med gul=lys-på og sort=mørke for F (fast), Oc (formørkende), ISO (isofase), Fl (blink), pluss Oc(3)/Fl(2), og liste over forkortelser (LF, Q, Q(3), IQ, VQ, UQ, MO(K), AL WR).",
+      "key_visual_features": [
+        "gul/sort tidssøyler",
+        "F/Oc/ISO/Fl-rader",
+        "grupperte eksempler",
+        "forkortelsesliste"
+      ],
+      "norwegian_term": "lyskarakteristikker",
+      "teaches_concept": "lyskarakteristikker-fyr",
+      "good_for_question_types": [
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Tydelig læringsdiagram for lysrytmer og standardforkortelser."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2021-04-vikeplikt-seilbat-styrbord-babord-c68f4be2.png",
+      "category": "vikeplikt_diagram",
+      "what_it_shows": "Ovenfra kryssingssituasjon (nr 1): to seilbåter A og B på konvergerende kurs med kurspiler og vindsymbol øverst til venstre.",
+      "key_visual_features": [
+        "ovenfra",
+        "to seilbåter A/B",
+        "kurspiler",
+        "vindsymbol",
+        "nummerert"
+      ],
+      "norwegian_term": "vikeplikt mellom seilbåter (styrbord/babord halser)",
+      "teaches_concept": "vikeplikt-seilbat-styrbord-babord",
+      "good_for_question_types": [
+        "scenario",
+        "mcq"
+      ],
+      "reusable": true,
+      "notes": "Vikeplikt etter hvilken halse seilbåtene går for; god basis for egne spørsmål."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2021-04-kardinalmerkene-lanternen-batforerkurs-copyright.png",
+      "category": "sjomerke_kardinal",
+      "what_it_shows": "Komplett 'Kardinalmerkene'-diagram: fire merker (N/Ø/S/V) rundt kompass med rød 'Fare'-rombe i midten, sort/gul-skjema, to-kjegle topptegn, lyskarakteristikk; høyre side viser stolpefarger BY/YB/YBY/BYB.",
+      "key_visual_features": [
+        "kompass N/Ø/S/V",
+        "to-kjegle topptegn",
+        "sort/gul",
+        "Q(3)/Q(6)/Q(9)",
+        "rød 'Fare'",
+        "BY/YB/YBY/BYB"
+      ],
+      "norwegian_term": "kardinalmerker (nord/øst/sør/vest)",
+      "teaches_concept": "kardinalmerker_komplett_oversikt",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "Filnavn 'copyright' — kun analyse. Utmerket referanse for egen originalgrafikk."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2023-09-sjomerke_blindleia-1-1024x900.jpg",
+      "category": "farvannsskilt",
+      "what_it_shows": "Foto fra sjøen i Blindleia: skjær med sort-hvit malt navigasjonsmerke, og i forgrunnen hvitt fartsgrenseskilt '5' med tekst '50 m fra land, 15. jun–15. aug'.",
+      "key_visual_features": [
+        "fartsgrense '5'",
+        "sesongtekst 50 m fra land",
+        "sort-hvitt strandmerke",
+        "skjærgård"
+      ],
+      "norwegian_term": "fartsgrenseskilt (5 knop) / farvannsskilt",
+      "teaches_concept": "fartsgrense_skilt_5_knop",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Ekte foto med fartsskilt + strandmerke; god autentisk scenario."
+    },
+    {
+      "file": "lanternenkurs/images/wp-content-uploads-2021-04-ferge-nevlunghavn-atlantic-lanternen-batforerkurs.png",
+      "category": "annet",
+      "what_it_shows": "Flat vektorillustrasjon av stort hvitt passasjerskip/ferge på stiliserte bølger, navn 'Nevlunghavn Atlantic' på skroget.",
+      "key_visual_features": [
+        "stort hvitt passasjerskip",
+        "flere dekk",
+        "oransje livbåter",
+        "navn på skrog"
+      ],
+      "norwegian_term": "passasjerskip / ferge",
+      "teaches_concept": "stort_fartoy_vikeplikt_kontekst",
+      "good_for_question_types": [
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Generisk tegneserie-skip i vikeplikt-artikkel; ikke symbol."
+    }
+  ]
+}

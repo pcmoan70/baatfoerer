@@ -1,0 +1,69 @@
+{
+  "site": "bukt",
+  "n": 3,
+  "images": [
+    {
+      "file": "bukt/images/quiz-static-img-articles-fyrlykter_kart.png",
+      "category": "kart_symbol",
+      "what_it_shows": "Sjøkart-utsnitt med sektorlykt nær 'Veslekalv/Kalvskjær': fargede sektorbuer rød/magenta, grønn, hvit, gul, peilelinjer, dybdetall, stedsnavn.",
+      "key_visual_features": [
+        "rød/grønn/hvit/gul sektor",
+        "sektorlykt på kart",
+        "peilelinjer",
+        "dybder"
+      ],
+      "norwegian_term": "sektorlykt med rød, grønn og hvit sektor (på sjøkart)",
+      "teaches_concept": "sektorlykt-rod-gronn-hvit-sektor",
+      "good_for_question_types": [
+        "bilde_symbol",
+        "scenario",
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "bukt.no quiz-asset (kommersielt); kartdata Kartverket. Kun analyse."
+    },
+    {
+      "file": "bukt/images/quiz-static-img-articles-kardinalmerker.svg",
+      "category": "sjomerke_kardinal",
+      "what_it_shows": "SVG med de fire kardinalmerkene ordnet etter retning, hvert et innebygd bilde av bøye/merke med sort/gul belter og to-kjegle topptegn; tekstetiketter Nord/Øst/Sør/Vest.",
+      "key_visual_features": [
+        "fire kardinalmerker",
+        "sort/gul belter",
+        "to-kjegle topptegn",
+        "etiketter N/Ø/S/V"
+      ],
+      "norwegian_term": "kardinalmerker (nord, øst, sør, vest)",
+      "teaches_concept": "kardinalmerker-fire-retninger",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "SVG kunne ikke rendres visuelt; innhold bekreftet fra SVG-kilden (innebygde raster + tekstetiketter). Komplett kardinalsett."
+    },
+    {
+      "file": "bukt/images/quiz-static-img-articles-lateralmerker.svg",
+      "category": "sjomerke_lateral",
+      "what_it_shows": "Vektordiagram av lateralmerker: rødt 'Babordmerke' og grønt 'Styrbordmerke' med grønt trekant-topptegn, pluss tekst om at leias hovedretning vises på kartet med pil.",
+      "key_visual_features": [
+        "rødt babordmerke",
+        "grønt styrbordmerke",
+        "grønt trekant-topptegn",
+        "etiketter",
+        "kartpil hovedretning"
+      ],
+      "norwegian_term": "lateralmerker (babordmerke og styrbordmerke)",
+      "teaches_concept": "lateralmerker_babord_styrbord",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "SVG (tekstbasert) lest direkte; ren redigerbar Inkscape-grafikk fra bukt.no av IALA region A lateralmerker + kartretningskonvensjon."
+    }
+  ]
+}

@@ -2,19 +2,23 @@
 
 Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele produktet.
 
-## Fase 0 — Datainnsamling (scraping) ← PÅGÅR
+## Fase 0 — Datainnsamling (scraping) ← FERDIG ✅
 
 - [x] Sett opp `scraper/` med dependencies (httpx, bs4, lxml, trafilatura, pypdf)
 - [x] Lag kilderegister `scraper/sources.yaml` (14 kilder, offisielle + private)
 - [x] Bygg crawler `scraper/fetch_sources.py` (robots.txt, høflig delay, depth-begrenset)
 - [x] Bilde-nedlasting med alt/caption/checksum → `data/{site}/images/`
 - [x] Seksjons-ankere per side (`anchors` i meta) + `enrich_anchors.py`-backfill
-- [~] Skrap alle kilder → rå HTML, tekst, PDF, bilder *(kjører — sdir ferdig/pågår)*
-- [ ] Lagre per kilde i `data/{source_site}/` (pages/, pdf/, images/, index.json)
-- [ ] Lag global manifest `data/manifest.json` (checksum, etag, last-modified)
-- [ ] Backfill ankere (`enrich_anchors.py`) etter crawl
-- [ ] Bygg bildekatalog (`analyze_images.py`) — relevans-rangering
-- [ ] Vision-analyse av fagbilder (sjømerker, lanterner, fyr, kart)
+- [x] Skrap alle 14 kilder → 343 sider, 596 bilder, 17 relevante PDF-er
+- [x] Lagre per kilde i `data/{source_site}/` (pages/, pdf/, images/, index.json)
+- [x] Global manifest `data/manifest.json` + `rebuild_index.py` (multi-seed merge)
+- [x] Backfill ankere (`enrich_anchors.py`) — 343 meta-filer
+- [x] Bildekatalog (`analyze_images.py`) — 596 rangert, 304 prioritert
+- [x] Vision-analyse av 48 fagbilder → `data/images_analysis.json` (+ per-site)
+      med kategori, norsk term, konsept, gjenbruk/copyright-flagg
+- [x] Respektert robots.txt (lovdata link-only); committed/pushed til GitHub
+- Note: lovdata blokkert av robots (lenke-only per plan); goypasjoen/bliskipper
+  er JS-tunge private sider (1 side hver) — lav prioritet, inspirasjon-only
 
 ## Fase 1 — Normalisering og innholdsmodell
 

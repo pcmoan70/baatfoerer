@@ -1,0 +1,239 @@
+{
+  "site": "redningsselskapet",
+  "n": 12,
+  "images": [
+    {
+      "file": "redningsselskapet/images/content-uploads-2016-01-sjomerke_blindleia.jpg",
+      "category": "sjomerke_frittliggende_grunne",
+      "what_it_shows": "Foto av stein/betong-varde malt sort-hvit-sort med horisontal visarm; rødt 5-knops skilt på nabostein. Armen peker mot trygt farvann.",
+      "key_visual_features": [
+        "sort-hvit-sort varde",
+        "horisontal visarm",
+        "5-knops skilt",
+        "steinkyst"
+      ],
+      "norwegian_term": "fastmerke med visarm (peker mot trygt farvann)",
+      "teaches_concept": "fastmerker_visarm",
+      "good_for_question_types": [
+        "scenario",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Foto Mads H. Randøy (RS). Samme motiv som lanternenkurs-versjon (duplikat)."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2025-08-nordmerk_m_bakgrunn.png",
+      "category": "sjomerke_kardinal",
+      "what_it_shows": "Stilisert flat illustrasjon av stake i blått vann, sort øverst og gul nederst (sort-over-gul = nordmerke).",
+      "key_visual_features": [
+        "sort topp, gul bunn",
+        "stake",
+        "flat vektorkunst"
+      ],
+      "norwegian_term": "nordmerke",
+      "teaches_concept": "kardinalmerker_nord",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Filnavn+farge bekrefter nord. Topptegn ikke vist."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2016-01-sideavmerking_rod.jpg",
+      "category": "sjomerke_lateral",
+      "what_it_shows": "Foto av høy rød stake i vannet med måke på toppen. Helrød = babord lateralmerke.",
+      "key_visual_features": [
+        "helrød stake",
+        "lateralmerke",
+        "kystvann"
+      ],
+      "norwegian_term": "babord lateralmerke (rød stake)",
+      "teaches_concept": "lateralmerker_babord",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Rød = babord ved innseiling (IALA region A)."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2016-01-frittliggende_grunne.jpg",
+      "category": "sjomerke_frittliggende_grunne",
+      "what_it_shows": "Foto av flytende stake, sort med ett bredt rødt belte (isolert fare) — noe slitt maling, antydning blått belte.",
+      "key_visual_features": [
+        "sort kropp",
+        "rødt belte",
+        "flytende stake",
+        "slitt maling"
+      ],
+      "norwegian_term": "merke for frittliggende grunne (isolert fare)",
+      "teaches_concept": "frittliggende-grunne-isolert-fare",
+      "good_for_question_types": [
+        "bilde_symbol",
+        "mcq",
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Slitt maling gjør farger litt tvetydige; topptegn ikke synlig."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2016-01-gront_merke.jpg",
+      "category": "sjomerke_lateral",
+      "what_it_shows": "Foto av grønt konisk lateralmerke (grønn stake/bøye med spiss topp) i Oslofjorden, rust ved vannlinjen.",
+      "key_visual_features": [
+        "helgrønn",
+        "spiss konisk topp",
+        "flytende merke",
+        "rust"
+      ],
+      "norwegian_term": "grønn stake / styrbord lateralmerke",
+      "teaches_concept": "gront-lateralmerke-styrbord",
+      "good_for_question_types": [
+        "bilde_symbol",
+        "mcq",
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Tydelig enkeltmotiv; god for grønn/styrbord gjenkjenning."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2025-08-ostmerke_m_bakgrunn.png",
+      "category": "sjomerke_kardinal",
+      "what_it_shows": "Stilisert stake i blått vann: sort med ett gult belte i midten (sort-gul-sort) = østmerke.",
+      "key_visual_features": [
+        "sort stake",
+        "gult midtbelte",
+        "sort topp og bunn"
+      ],
+      "norwegian_term": "østmerke (øst-kardinalmerke)",
+      "teaches_concept": "kardinalmerke-ost",
+      "good_for_question_types": [
+        "bilde_symbol",
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Identifiseres på belteoppsett; topptegn ikke gjengitt."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2026-04-senterledsmerke-1024x731.png",
+      "category": "sjomerke_senterleds",
+      "what_it_shows": "Farget illustrasjon av rød-hvit vertikalstripet flytende merke: bøye med rødt lys/topp og matchende stripet stake, med refleksjon.",
+      "key_visual_features": [
+        "rød-hvite vertikale striper",
+        "bøye+stake",
+        "lysstråler",
+        "refleksjon"
+      ],
+      "norwegian_term": "senterledsmerke (midtfarvann / trygt-vann)",
+      "teaches_concept": "senterledsmerke-rod-hvit",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Rød/hvit vertikalstripe = trygt-vann. Rød kuletopptegn er standard, men ikke tydelig vist."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2021-07-medlem_rs_sommer2025.jpg",
+      "category": "annet",
+      "what_it_shows": "Portrett av mann i rød RS-merket oppblåsbar redningsvest med RS-korslogo (medlemsreklame).",
+      "key_visual_features": [
+        "RS-merket vest",
+        "RS-korslogo",
+        "reklame"
+      ],
+      "norwegian_term": "",
+      "teaches_concept": "rs-medlemskap-reklame",
+      "good_for_question_types": [
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "Markedsføringsbilde; ikke instruksjon."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2025-08-sormerker_m_bakgrunn.png",
+      "category": "sjomerke_kardinal",
+      "what_it_shows": "Flat illustrasjon av stake i blått vann, gul øverst og sort nederst (gul-over-sort), uten topptegn.",
+      "key_visual_features": [
+        "gul over sort stake",
+        "flat illustrasjon",
+        "ingen topptegn"
+      ],
+      "norwegian_term": "kardinalmerke (sørmerke)",
+      "teaches_concept": "kardinalmerke-sor-farger",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "OBS: filnavn 'sormerker' (sør), men fargene gul-over-sort er NORD-mønster. Mulig fargefeil i kilden, eller topptegn (som definerer retning) er utelatt. Sjekk før gjenbruk."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2026-04-badeboye_spesialmerke-1024x731.png",
+      "category": "sjomerke_spesial",
+      "what_it_shows": "Illustrasjon av to helgule spesialmerker i blått vann: gul bøye og gul stake, hver med gult X-topptegn og refleksjon.",
+      "key_visual_features": [
+        "helgul",
+        "gult X-topptegn",
+        "bøye+stake",
+        "refleksjon"
+      ],
+      "norwegian_term": "spesialmerke (gult, X-topptegn) – f.eks. badebøye",
+      "teaches_concept": "spesialmerke_gul_x",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Filnavn 'badeboye_spesialmerke' = badeområde/spesialmerke. RS-illustrasjon."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2022-05-hoyhastighet_vannscooter_fart.jpg",
+      "category": "annet",
+      "what_it_shows": "Actionfoto av person i våtdrakt/hjelm på vannscooter i høy fart med sprut.",
+      "key_visual_features": [
+        "vannscooter",
+        "høy fart med sprut",
+        "hjelm/våtdrakt"
+      ],
+      "norwegian_term": "vannscooter (høyhastighetsfartøy)",
+      "teaches_concept": "vannscooter_hoy_fart_regler",
+      "good_for_question_types": [
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Kontekstfoto for fart/høyhastighet; ikke sjømerke."
+    },
+    {
+      "file": "redningsselskapet/images/content-uploads-2025-08-vestmerke_m_bakgrunn.png",
+      "category": "sjomerke_kardinal",
+      "what_it_shows": "Flat illustrasjon av stake i blått vann, gul-sort-gul (sort midtbelte) = vestmerke.",
+      "key_visual_features": [
+        "stake",
+        "gul-sort-gul",
+        "sort midtbelte"
+      ],
+      "norwegian_term": "vestmerke (vest kardinalmerke)",
+      "teaches_concept": "kardinalmerke_vest",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Gul-sort-gul matcher vestmerke; topptegn (to kjegler spiss-mot-spiss) ikke vist."
+    }
+  ]
+}

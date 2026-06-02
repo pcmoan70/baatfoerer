@@ -1,0 +1,247 @@
+{
+  "site": "kystverket",
+  "n": 12,
+  "images": [
+    {
+      "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3ace3ec8.png",
+      "category": "sjomerke_kardinal",
+      "what_it_shows": "Komplett kardinalmerke-diagram med N/Ø/S/V rundt en rød FARE-sirkel (undervannsskjær). Hver retning viser bøye og stake med sort/gul fargeskjema, kjegletopptegn og lyskarakteristikk (Q W, Q(3) W, Q(6) W+LFl W, Q(9) W).",
+      "key_visual_features": [
+        "sort og gul",
+        "dobbeltkjegle-topptegn",
+        "kompassoppsett N/Ø/S/V",
+        "lysmerking Q/Q(3)/Q(6)+LFl/Q(9)",
+        "rød FARE-sirkel"
+      ],
+      "norwegian_term": "kardinalmerker",
+      "teaches_concept": "kardinalmerker",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard",
+        "scenario"
+      ],
+      "reusable": true,
+      "notes": "Utmerket samlet oversikt over alle fire kardinalmerker med lyskarakteristikk; offisiell Kystverket-figur."
+    },
+    {
+      "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-e495ce75.png",
+      "category": "sjomerke_kardinal",
+      "what_it_shows": "Enkelt kardinalmerke som bøye og stake; gul øverst med sort belte i midten.",
+      "key_visual_features": [
+        "gul og sort",
+        "sort belte",
+        "dobbeltkjegle-topptegn",
+        "bøye+stake"
+      ],
+      "norwegian_term": "nordmerke",
+      "teaches_concept": "kardinalmerker_nord",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Topptegn ikke tydelig i utsnittet; retning litt tvetydig."
+    },
+    {
+      "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-9db6004e.png",
+      "category": "sjomerke_frittliggende_grunne",
+      "what_it_shows": "Bøye og stake malt sort med to horisontale røde belter (isolert fare).",
+      "key_visual_features": [
+        "sort med røde belter",
+        "to røde belter",
+        "bøye+stake"
+      ],
+      "norwegian_term": "frittliggende grunne (HFB-merke)",
+      "teaches_concept": "frittliggende_grunne",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "To-kule topptegn ikke synlig i utsnittet, men farge er entydig."
+    },
+    {
+      "file": "kystverket/images/contentassets-69de6d4f23ba4eb087a05ca79ba20bb2-f---fartsgrense.jpg",
+      "category": "farvannsskilt",
+      "what_it_shows": "Firkantet farvannsskilt med rød kant, hvitt felt og sort '5' = fartsgrense 5 knop.",
+      "key_visual_features": [
+        "rød kant",
+        "hvitt felt",
+        "sort tall 5",
+        "firkantet"
+      ],
+      "norwegian_term": "fartsgrense (farvannsskilt)",
+      "teaches_concept": "farvannsskilt_fartsgrense",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Ren offisiell fartsgrenseskilt-grafikk."
+    },
+    {
+      "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-3531b831.png",
+      "category": "sjomerke_lateral",
+      "what_it_shows": "To diagrammer av gul/sort merke: bøye med sort topp-kjegle på gul base med gule lysglimt, og stake sort-over-gul.",
+      "key_visual_features": [
+        "gul base",
+        "sort toppkjegle",
+        "gule glimt",
+        "sort-over-gul stake"
+      ],
+      "norwegian_term": "flytende merke (gul/sort)",
+      "teaches_concept": "lateralmerker-farger-og-former",
+      "good_for_question_types": [
+        "bilde_symbol",
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Offisiell Kystverket-figur; kan forveksles med spesialmerke — sjekk kildekontekst."
+    },
+    {
+      "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-fc2c9bd2.png",
+      "category": "sjomerke_lateral",
+      "what_it_shows": "To røde diagrammer: rød stake og rød bøye med kjegletopp og røde lysglimt (babord side).",
+      "key_visual_features": [
+        "helrød",
+        "stake",
+        "rød bøye",
+        "røde glimt"
+      ],
+      "norwegian_term": "rød lateralstake / babordmerke",
+      "teaches_concept": "lateralmerker-rod-babord",
+      "good_for_question_types": [
+        "bilde_symbol",
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Offisiell, ren figur. Par med grønn variant."
+    },
+    {
+      "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-ab0cc6eb.png",
+      "category": "sjomerke_senterleds",
+      "what_it_shows": "To diagrammer av rød-hvit vertikalstripet merke: bøye på rød/hvit rutete base med gule glimt, og slank rød/hvit stripet stake.",
+      "key_visual_features": [
+        "rød-hvite vertikale striper",
+        "gule glimt",
+        "stripet stake"
+      ],
+      "norwegian_term": "midtleds-/senterledsmerke (rød-hvit)",
+      "teaches_concept": "rod-hvit-stripet-merke",
+      "good_for_question_types": [
+        "bilde_symbol",
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Rød/hvit vertikalstripe = trygt-vann/senterleds; verifiser klassifisering mot kilde."
+    },
+    {
+      "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-2ab44bb4.png",
+      "category": "sjomerke_lateral",
+      "what_it_shows": "To enkle illustrasjoner av gul/sort flytende merke: konisk bøye (gul topp på sort base, lysstråler) og stake gul-over-sort. Ingen topptegn.",
+      "key_visual_features": [
+        "gul over sort",
+        "bøye og stake",
+        "lysstråler",
+        "sort base"
+      ],
+      "norwegian_term": "flytende merke (gul-sort variant)",
+      "teaches_concept": "flytende-sjomerker-farger",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Mangler topptegn; eksakt kategori (spesial vs kardinal) tvetydig fra denne visningen."
+    },
+    {
+      "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a4eee04b.png",
+      "category": "sjomerke_lateral",
+      "what_it_shows": "To grønne illustrasjoner: grønn konisk bøye med lysstråler og slank grønn stake med spiss topp.",
+      "key_visual_features": [
+        "helgrønn",
+        "bøye+stake",
+        "spiss topp",
+        "lysstråler"
+      ],
+      "norwegian_term": "styrbord lateralmerke (grønt)",
+      "teaches_concept": "lateralmerke-styrbord-gronn",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Grønn = styrbord (IALA region A)."
+    },
+    {
+      "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-a67ae32f.png",
+      "category": "sjomerke_spesial",
+      "what_it_shows": "To illustrasjoner av sort/gul merke: bøye (konisk) og stake, sort med ett gult horisontalt belte; bøya har gule lysstråler.",
+      "key_visual_features": [
+        "sort kropp",
+        "ett gult belte",
+        "konisk bøye",
+        "tynn stake",
+        "gule lysstråler"
+      ],
+      "norwegian_term": "spesialmerke / hinder-/varselsmerke (gul-svart)",
+      "teaches_concept": "spesialmerke_gul_svart",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Offisiell Kystverket-illustrasjon (bøye+stake), uten vannmerke."
+    },
+    {
+      "file": "kystverket/images/globalassets-bildervedleggfaktabokser-sjovegen-fyr-lykter-og-1436d7ea.png",
+      "category": "sjomerke_spesial",
+      "what_it_shows": "To helgule merker: bøye med base og høy kropp, og tynn gul stake, hver toppet med gult X (Andreaskors).",
+      "key_visual_features": [
+        "helgul",
+        "gult X-topptegn",
+        "bøye+stake"
+      ],
+      "norwegian_term": "gult kryss-merke (X-topptegn) / spesialmerke",
+      "teaches_concept": "gul_x_merke_grunne",
+      "good_for_question_types": [
+        "mcq",
+        "bilde_symbol",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Gult saltirekors. Offisiell Kystverket-grafikk."
+    },
+    {
+      "file": "kystverket/images/contentassets-0cdf44808b804bcfbe32912ae78e972c-eksempel-pa-s-d80e5d08.jpg",
+      "category": "fyr_lykt",
+      "what_it_shows": "Skjermbilde av elektronisk sjøkart (Ramsøysundet) som viser fyrlykt-sektorer: grønne, røde og hvite sektorbuer gjennom leia.",
+      "key_visual_features": [
+        "sjøkart med dybder",
+        "grønn sektor",
+        "røde sektorer",
+        "hvit sektor",
+        "sektorgrenselinjer"
+      ],
+      "norwegian_term": "fyrlykt med sektorer / sektorinndeling",
+      "teaches_concept": "fyrlykt_sektorer_rod_gronn_hvit",
+      "good_for_question_types": [
+        "mcq",
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Alt-tekst: 'Eksempel på sektorinndeling i sjøkart'. Kystverket-kartutsnitt."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "site": "kartverket",
+  "n": 9,
+  "images": [
+    {
+      "file": "kartverket/images/globalassets-bilder-til-sjos-foto-sjomaling-illustrasjon.jpg-37269907.jpg",
+      "category": "annet",
+      "what_it_shows": "To-panels illustrasjon: gammel vs ny dybdemåling (håndtegnet loddeskisse vs moderne multistråle-ekkolodd).",
+      "key_visual_features": [
+        "oppmålingsfartøy",
+        "multistråle-sveip",
+        "ekkogram",
+        "isfjell"
+      ],
+      "norwegian_term": "sjømåling / dybdemåling",
+      "teaches_concept": "dybdedata_sjomaling",
+      "good_for_question_types": [
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Redaksjonell; lav quizverdi."
+    },
+    {
+      "file": "kartverket/images/globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-bil-fc4ec090.jpg",
+      "category": "navigasjon_foto",
+      "what_it_shows": "Foto: mann ved roret med oppblåsbar redningsvest, kvinne leser papirsjøkart i åpen motorbåt.",
+      "key_visual_features": [
+        "motorbåt",
+        "oppblåsbar vest",
+        "papirsjøkart i bruk"
+      ],
+      "norwegian_term": "navigasjon med sjøkart",
+      "teaches_concept": "navigasjon_sjokartbruk",
+      "good_for_question_types": [
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Kartverket kampanjefoto (Foto: Kartverket)."
+    },
+    {
+      "file": "kartverket/images/globalassets-bilder-til-sjos-foto-halten-fyr-froya.jpg-7666662e.jpg",
+      "category": "fyr_lykt",
+      "what_it_shows": "Foto av Halten fyr: hvitt tårn med to sorte horisontale belter, fyrbygninger, rød naust; oppdrettsmerd i forgrunnen.",
+      "key_visual_features": [
+        "hvitt tårn, to sorte belter",
+        "klippeøy",
+        "fyrstasjon"
+      ],
+      "norwegian_term": "fyr (Halten fyr)",
+      "teaches_concept": "fyrstasjon-utseende",
+      "good_for_question_types": [
+        "scenario",
+        "flashcard",
+        "mcq"
+      ],
+      "reusable": true,
+      "notes": "Ekte foto; best til kontekst/scenario."
+    },
+    {
+      "file": "kartverket/images/globalassets-bilder-til-sjos-foto-hovedseriekart-planlegger-seilas.jpg-3b9cbf77.jpg",
+      "category": "navigasjon_foto",
+      "what_it_shows": "Foto: to unge menn på brygge peker på papirsjøkart og planlegger seilas.",
+      "key_visual_features": [
+        "papirsjøkart",
+        "brygge",
+        "planlegging"
+      ],
+      "norwegian_term": "seilasplanlegging / kartlesing",
+      "teaches_concept": "planlegge-seilas",
+      "good_for_question_types": [
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Foto Morten Brun — referanse, ikke gjenbruk."
+    },
+    {
+      "file": "kartverket/images/globalassets-bilder-til-sjos-foto-tingholmen-med-kartutsnitt-e024ae95.jpg",
+      "category": "fyr_lykt",
+      "what_it_shows": "Foto av hvit fyrlykt med rødt lanterntak på skjær, med kartutsnitt øverst til høyre som viser røde/grønne/hvite lyssektorer og 'Tingholmen Oc(2) 8s'.",
+      "key_visual_features": [
+        "hvit lykt, rødt tak",
+        "kartoverlegg",
+        "fargesektorer",
+        "Oc(2) 8s"
+      ],
+      "norwegian_term": "fyrlykt med fargesektorer",
+      "teaches_concept": "fyrlykt-fargesektorer-kartsymbol",
+      "good_for_question_types": [
+        "scenario",
+        "mcq",
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "Foto: Arnfinn Lie — kun referanse. Kombinerer foto + kartsektorer + formørkende lys."
+    },
+    {
+      "file": "kartverket/images/globalassets-bilder-til-lands-foto-turkart-kompass-og-turkar-e4e55741.jpg",
+      "category": "annet",
+      "what_it_shows": "Stockfoto av person med turkart (topografisk) og Silva orienteringskompass utendørs.",
+      "key_visual_features": [
+        "papir-turkart",
+        "Silva-kompass",
+        "tur-setting"
+      ],
+      "norwegian_term": "kart og kompass",
+      "teaches_concept": "kart-og-kompass-navigasjon",
+      "good_for_question_types": [
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "Land/tur, ikke maritimt; merkevarer synlige; marginal relevans."
+    },
+    {
+      "file": "kartverket/images/globalassets-bilder-til-sjos-foto-seilbat-gps-adobestock.jpg-3b9cbf77.jpg",
+      "category": "navigasjon_foto",
+      "what_it_shows": "Foto av eldre mann i sjøvær og oppblåsbar vest som styrer seilbåt og ser på kartplotter/GPS.",
+      "key_visual_features": [
+        "seilbåt-ror",
+        "kartplotter/GPS",
+        "sjøvær",
+        "vest"
+      ],
+      "norwegian_term": "kartplotter / GPS",
+      "teaches_concept": "elektronisk-navigasjon-kartplotter",
+      "good_for_question_types": [
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": false,
+      "notes": "AdobeStock-lisens — ikke gjenbruk som egen grafikk."
+    },
+    {
+      "file": "kartverket/images/globalassets-bilder-til-sjos-foto-skolekart-sjokart.jpg-3b9cbf77.jpg",
+      "category": "navigasjon_foto",
+      "what_it_shows": "Foto av hender som plotter kurs på papirsjøkart med blyant og parallell/trekantlinjal; skolekart over hovedseriekart.",
+      "key_visual_features": [
+        "papirsjøkart",
+        "blyant",
+        "trekantlinjal",
+        "kursplotting",
+        "skolekart"
+      ],
+      "norwegian_term": "kartarbeid / kursplotting",
+      "teaches_concept": "navigasjon_kartarbeid",
+      "good_for_question_types": [
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Offisielt Kartverket-foto; god kontekst."
+    },
+    {
+      "file": "kartverket/images/globalassets-bilder-til-sjos-foto-sjokartkampanjen-20212-hero.jpg-3b9cbf77.jpg",
+      "category": "navigasjon_foto",
+      "what_it_shows": "Foto av to personer i åpen motorbåt: mann ved utenbordsror med oppblåsbar vest, kvinne leser papirsjøkart, også med vest.",
+      "key_visual_features": [
+        "åpen motorbåt",
+        "oppblåsbare vester",
+        "papirsjøkart",
+        "utenbordsmotor"
+      ],
+      "norwegian_term": "bruk av sjøkart / redningsvest om bord",
+      "teaches_concept": "navigasjon_og_redningsvest",
+      "good_for_question_types": [
+        "scenario",
+        "flashcard"
+      ],
+      "reusable": true,
+      "notes": "Kartverket kampanje-hero (Foto: Kartverket)."
+    }
+  ]
+}
