@@ -319,9 +319,9 @@ const FEEDBACK_EMAIL = "vesmir09@gmail.com";   // mottaker av tilbakemeldinger
 //   templateId : Email Templates → (din mal) → Template ID (f.eks. template_xxx)
 // Template-malen bør bruke variablene under (Cc/To = {{to_email}}).
 const EMAILJS = {
-  publicKey: "DIN_PUBLIC_KEY",       // <-- LIM INN Public Key her
-  serviceId: "baatfører",            // oppgitt (sjekk at den matcher Service ID i EmailJS)
-  templateId: "DIN_TEMPLATE_ID",     // <-- LIM INN Template ID her
+  publicKey: "-5S2PctOrxEViV5Pf",    // EmailJS Public Key
+  serviceId: "baatfører",            // Service ID (bekreft at den matcher EmailJS → Email Services)
+  templateId: "template_pwhwacl",    // EmailJS Template ID
 };
 let emailjsReady = false;
 function initEmailJS() {
