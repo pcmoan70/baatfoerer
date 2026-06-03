@@ -3904,15 +3904,15 @@
     "difficulty": 1,
     "importance": "normal",
     "exam_area": "sjomannskap",
-    "prompt": "Hvilken CE-konstruksjonskategori er beregnet for de mest krevende forholdene (havgående)?",
+    "prompt": "Hvilken CE-konstruksjonskategori gjelder for beskyttet farvann (små innsjøer, elver og kanaler med lette forhold)?",
     "choices": [
-      "Kategori B",
-      "Kategori D",
+      "Kategori C",
       "Kategori A",
-      "Kategori C"
+      "Kategori D",
+      "Kategori B"
     ],
     "correct": 2,
-    "explanation": "Kategori A (havgående) tåler mest, deretter B (utenskjærs), så C (kystfarvann/fjord) og D (beskyttet farvann) tåler minst.",
+    "explanation": "Kategori D er for beskyttet farvann (vind opptil liten kuling, bølger opptil ca. 0,3 m). A=havgående, B=utenskjærs/åpent hav, C=kystfarvann/fjord.",
     "image": null,
     "sources": [
       {
@@ -7620,7 +7620,7 @@
   {
     "id": "q_vikeplikt_008",
     "concept_id": "lr-vikeplikt-styring-seilas",
-    "type": "bilde_symbol",
+    "type": "scenario",
     "difficulty": 2,
     "importance": "critical",
     "exam_area": "spesielt_viktige",
@@ -8554,10 +8554,10 @@
     "image": null,
     "sources": [
       {
-        "source_id": "lovdata_sjoveisreglene",
-        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
-        "section": "Vedlegg IV / nødkommunikasjon",
-        "quote": "VHF kanal 16 er internasjonal nød- og anropskanal."
+        "source_id": "sdir_pensum",
+        "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+        "section": "Spesielt viktige emner – nødsituasjoner (pensum 1.2 f / 1.4.6)",
+        "quote": "SR-radio (VHF) kanal 16 og DSC (Digital Selective Calling)"
       }
     ]
   },
@@ -8632,10 +8632,10 @@
     "image": null,
     "sources": [
       {
-        "source_id": "lovdata_sjoveisreglene",
-        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
-        "section": "Nødkommunikasjon",
-        "quote": "Kystradioen kan kontaktes på telefon 120 ved nød."
+        "source_id": "sdir_pensum",
+        "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+        "section": "Spesielt viktige emner – nødsituasjoner (pensum 1.2 f / 1.4.6)",
+        "quote": "kystradiostasjonens nummer 120"
       }
     ]
   },
@@ -8658,10 +8658,10 @@
     "image": null,
     "sources": [
       {
-        "source_id": "lovdata_sjoveisreglene",
-        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
-        "section": "Nødkommunikasjon",
-        "quote": "Nødanrop innledes med Mayday gjentatt tre ganger på kanal 16."
+        "source_id": "sdir_pensum",
+        "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+        "section": "Spesielt viktige emner – nødsituasjoner (pensum 1.2 f / 1.4.6)",
+        "quote": "nødsignaler vedlegg IV"
       }
     ]
   },
@@ -8736,10 +8736,10 @@
     "image": null,
     "sources": [
       {
-        "source_id": "lovdata_sjoveisreglene",
-        "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
-        "section": "Nødkommunikasjon – DSC",
-        "quote": "DSC-utstyr sender digitalt nødanrop med posisjon på kanal 70."
+        "source_id": "sdir_pensum",
+        "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+        "section": "Spesielt viktige emner – nødsituasjoner (pensum 1.2 f / 1.4.6)",
+        "quote": "SR-radio (VHF) kanal 16 og DSC (Digital Selective Calling)"
       }
     ]
   },

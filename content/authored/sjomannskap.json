@@ -1262,15 +1262,15 @@
       "difficulty": 1,
       "importance": "normal",
       "exam_area": "sjomannskap",
-      "prompt": "Hvilken CE-konstruksjonskategori er beregnet for de mest krevende forholdene (havgående)?",
+      "prompt": "Hvilken CE-konstruksjonskategori gjelder for beskyttet farvann (små innsjøer, elver og kanaler med lette forhold)?",
       "choices": [
-        "Kategori A",
-        "Kategori B",
+        "Kategori D",
         "Kategori C",
-        "Kategori D"
+        "Kategori B",
+        "Kategori A"
       ],
       "correct": 0,
-      "explanation": "Kategori A (havgående) tåler mest, deretter B (utenskjærs), så C (kystfarvann/fjord) og D (beskyttet farvann) tåler minst.",
+      "explanation": "Kategori D er for beskyttet farvann (vind opptil liten kuling, bølger opptil ca. 0,3 m). A=havgående, B=utenskjærs/åpent hav, C=kystfarvann/fjord.",
       "source_refs": [
         {
           "source_id": "sdir_pensum",

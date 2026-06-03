@@ -355,7 +355,7 @@
     {
       "id": "q_vikeplikt_008",
       "concept_id": "lr-vikeplikt-styring-seilas",
-      "type": "bilde_symbol",
+      "type": "scenario",
       "difficulty": 2,
       "importance": "critical",
       "exam_area": "spesielt_viktige",
@@ -1246,10 +1246,10 @@
       "explanation": "VHF kanal 16 er den internasjonale nød-, sikkerhets- og anropskanalen. Nødanrop sendes som «Mayday, Mayday, Mayday».",
       "source_refs": [
         {
-          "source_id": "lovdata_sjoveisreglene",
-          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
-          "section": "Vedlegg IV / nødkommunikasjon",
-          "quote": "VHF kanal 16 er internasjonal nød- og anropskanal."
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "Spesielt viktige emner – nødsituasjoner (pensum 1.2 f / 1.4.6)",
+          "quote": "SR-radio (VHF) kanal 16 og DSC (Digital Selective Calling)"
         }
       ]
     },
@@ -1321,10 +1321,10 @@
       "explanation": "Kystradioen nås på telefon 120 ved nød. På VHF er nødkanalen 16. (110 er brann, 113 ambulanse.)",
       "source_refs": [
         {
-          "source_id": "lovdata_sjoveisreglene",
-          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
-          "section": "Nødkommunikasjon",
-          "quote": "Kystradioen kan kontaktes på telefon 120 ved nød."
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "Spesielt viktige emner – nødsituasjoner (pensum 1.2 f / 1.4.6)",
+          "quote": "kystradiostasjonens nummer 120"
         }
       ]
     },
@@ -1346,10 +1346,10 @@
       "explanation": "Et nødanrop innledes med «Mayday, Mayday, Mayday», etterfulgt av båtens navn, posisjon og hva som er galt. («Pan-Pan» brukes ved hastemelding uten umiddelbar livsfare.)",
       "source_refs": [
         {
-          "source_id": "lovdata_sjoveisreglene",
-          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
-          "section": "Nødkommunikasjon",
-          "quote": "Nødanrop innledes med Mayday gjentatt tre ganger på kanal 16."
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "Spesielt viktige emner – nødsituasjoner (pensum 1.2 f / 1.4.6)",
+          "quote": "nødsignaler vedlegg IV"
         }
       ]
     },
@@ -1421,10 +1421,10 @@
       "explanation": "En VHF med DSC (Digital Selective Calling) kan sende et digitalt nødanrop med posisjon automatisk når du holder inne den røde nødknappen.",
       "source_refs": [
         {
-          "source_id": "lovdata_sjoveisreglene",
-          "url": "https://lovdata.no/dokument/SF/forskrift/1975-12-01-5",
-          "section": "Nødkommunikasjon – DSC",
-          "quote": "DSC-utstyr sender digitalt nødanrop med posisjon på kanal 70."
+          "source_id": "sdir_pensum",
+          "url": "https://www.sdir.no/fritidsbat/sertifikater/batforerbevis/pensum-til-batforerproven/",
+          "section": "Spesielt viktige emner – nødsituasjoner (pensum 1.2 f / 1.4.6)",
+          "quote": "SR-radio (VHF) kanal 16 og DSC (Digital Selective Calling)"
         }
       ]
     },
