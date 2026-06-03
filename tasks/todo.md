@@ -76,8 +76,11 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
 - [x] **Vikepliktsimulator**: 8 toppvisnings-situasjoner (kryssende, møtende,
       innhenting, motor vs seil, trangt løp/ferge); velg handling → fasit + regel;
       regler verifisert mot CRIB (regel 9/13/14/15/17/18)
-- [ ] Sjømerke-simulator (rask identifisering med verifiserte bilder)
-- [ ] Lanterne-simulator (identifiser fartøyretning fra lys)
+- [x] **Lanterne-simulator**: 5 nattscener (forfra, bare grønt/rødt, akterlys,
+      seil uten topplys) → identifiser retning/type; konvensjon grønt-venstre/
+      rødt-høyre verifisert
+- [~] Sjømerke-identifisering dekkes av bilde_symbol-spørsmål + flashcards
+      (egen «simulator»-drill kan lages senere ved behov)
 
 ## Kildelenking-prinsipp (gjelder alt innhold) 🔗
 

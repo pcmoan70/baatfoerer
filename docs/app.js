@@ -162,7 +162,7 @@ function pickQuestion() {
 // ---- Render: quiz ----
 let current = null, answered = false;
 
-const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel", sammenlign: "#comparePanel", flashcards: "#fcPanel", vikeplikt: "#vpPanel" };
+const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel", sammenlign: "#comparePanel", flashcards: "#fcPanel", vikeplikt: "#vpPanel", lanterne: "#llPanel" };
 function showView(which) {
   for (const sel of Object.values(MAIN_SECTIONS)) { const el = $(sel); if (el) el.hidden = true; }
   const el = $(MAIN_SECTIONS[which]); if (el) el.hidden = false;
@@ -425,8 +425,87 @@ function setView(view, area = null) {
   else if (view === "sammenlign") renderCompare();
   else if (view === "flashcards") startFlashcards();
   else if (view === "vikeplikt") startVikeplikt();
+  else if (view === "lanterne") startLanterne();
   else nextQuestion();
   renderSidebar();
+}
+
+// ---- Lanternesimulator (Fase 4) ----
+// Du ser lysene fra et annet fartøy i mørket. Konvensjon verifisert: ser du
+// fartøyet FORFRA er grønt (dets styrbord) til din venstre, rødt til din høyre.
+const LL_SCENARIOS = [
+  { title: "Rødt, grønt og hvitt forut",
+    lights: [{ x: 40, y: 55, c: "green" }, { x: 60, y: 55, c: "red" }, { x: 50, y: 41, c: "white" }],
+    q: "Du ser disse lysene i mørket: grønt til venstre, rødt til høyre, og et hvitt lys over. Hva betyr det?",
+    choices: ["Et maskindrevet fartøy kommer mot deg (du ser det forfra)", "Fartøyet går fra deg", "Fartøyet krysser fra høyre mot venstre", "Fartøyet ligger for anker"],
+    correct: 0, rule: "Lanterner – forfra", expl: "Ser du både rødt og grønt sidelys, ser du fartøyet forfra – det kommer mot deg. Grønt til venstre er dets styrbord, rødt til høyre er dets babord. Hvitt topplys = maskindrevet." },
+  { title: "Bare grønt sidelys",
+    lights: [{ x: 50, y: 55, c: "green" }, { x: 50, y: 43, c: "white" }],
+    q: "Du ser bare et grønt lys (med et hvitt lys over). Hva forteller det deg?",
+    choices: ["Du ser styrbord side – fartøyet krysser fra din venstre mot høyre", "Fartøyet kommer rett mot deg", "Du ser babord side av fartøyet", "Fartøyet går rett fra deg"],
+    correct: 0, rule: "Lanterner – grønt sidelys", expl: "Grønt sidelys sitter på styrbord. Ser du bare grønt, vender fartøyets styrbord side mot deg, og det krysser kursen din fra venstre mot høyre." },
+  { title: "Bare rødt sidelys",
+    lights: [{ x: 50, y: 55, c: "red" }, { x: 50, y: 43, c: "white" }],
+    q: "Du ser bare et rødt lys (med et hvitt lys over). Hva forteller det deg?",
+    choices: ["Du ser babord side – fartøyet krysser fra din høyre mot venstre", "Fartøyet kommer rett mot deg", "Du ser styrbord side av fartøyet", "Fartøyet ligger for anker"],
+    correct: 0, rule: "Lanterner – rødt sidelys", expl: "Rødt sidelys sitter på babord. Ser du bare rødt, vender fartøyets babord side mot deg, og det krysser fra høyre mot venstre." },
+  { title: "Bare hvitt lys",
+    lights: [{ x: 50, y: 56, c: "white" }],
+    q: "Du ser bare ett hvitt lys, uten farger, og fartøyet beveger seg. Hva ser du mest sannsynlig?",
+    choices: ["Akterlyset – fartøyet går fra deg", "Fartøyet kommer mot deg", "Du ser babord side", "En seilbåt fra siden"],
+    correct: 0, rule: "Lanterner – akterlys", expl: "Bare hvitt lys uten farger betyr at du ser akterlyset – fartøyet beveger seg bort fra deg." },
+  { title: "Sidelys uten topplys",
+    lights: [{ x: 40, y: 55, c: "green" }, { x: 60, y: 55, c: "red" }],
+    q: "Du ser grønt til venstre og rødt til høyre, men INGEN hvitt topplys over. Hva er dette?",
+    choices: ["En seilbåt for seil kommer mot deg", "En stor motorbåt kommer mot deg", "Fartøyet ligger for anker", "Fartøyet går fra deg"],
+    correct: 0, rule: "Lanterner – seilfartøy", expl: "Seilfartøy for seil fører sidelys og akterlys, men IKKE topplys. Sidelys uten topplys forfra betyr en seilbåt som kommer mot deg." },
+];
+
+let llOrder = [], llIdx = 0, llAnswered = false, llScore = { n: 0, c: 0 };
+function llLight(l) {
+  const c = { red: "#e0533f", green: "#2fae6b", white: "#f4ead0" }[l.c];
+  return `<circle cx="${l.x}" cy="${l.y}" r="7" fill="${c}" opacity=".2"/><circle cx="${l.x}" cy="${l.y}" r="2.6" fill="${c}"/>`;
+}
+function llSceneSvg(s) {
+  return `<svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet">
+    <rect width="100" height="100" fill="#06192a"/>
+    <g fill="#9fb3c0" opacity=".5"><circle cx="18" cy="14" r=".7"/><circle cx="80" cy="12" r=".6"/><circle cx="62" cy="20" r=".5"/><circle cx="34" cy="9" r=".5"/></g>
+    ${s.lights.map(llLight).join("")}
+    <g stroke="#0e2b40" stroke-width="1" fill="none" opacity=".7"><path d="M0 80 q12 -3 24 0 t24 0 t24 0 t24 0"/><path d="M0 90 q12 3 24 0 t24 0 t24 0"/></g>
+  </svg>`;
+}
+function startLanterne() {
+  showView("lanterne");
+  llOrder = shuffle(LL_SCENARIOS.map((_, i) => i)); llIdx = 0; llScore = { n: 0, c: 0 };
+  renderLl();
+}
+function renderLl() {
+  llAnswered = false;
+  const s = LL_SCENARIOS[llOrder[llIdx]];
+  $("#llTitle").textContent = `Situasjon ${llIdx + 1}/${llOrder.length} · ${s.title}`;
+  $("#llScene").innerHTML = llSceneSvg(s);
+  $("#llQ").textContent = s.q;
+  $("#llChoices").innerHTML = s.choices.map((c, i) =>
+    `<li><button class="choice" data-i="${i}"><span class="key">${KEYS[i]}</span><span>${esc(c)}</span></button></li>`).join("");
+  $("#llFeedback").hidden = true; $("#llNext").disabled = true;
+  $("#llScore").textContent = llScore.n ? `${llScore.c}/${llScore.n} riktige` : "";
+}
+function llAnswer(i) {
+  if (llAnswered) return;
+  const s = LL_SCENARIOS[llOrder[llIdx]];
+  llAnswered = true; llScore.n++; if (i === s.correct) llScore.c++;
+  document.querySelectorAll("#llChoices .choice").forEach(b => {
+    b.disabled = true; const bi = +b.dataset.i;
+    if (bi === s.correct) b.classList.add("correct"); else if (bi === i) b.classList.add("wrong");
+  });
+  $("#llRule").textContent = "⚓ " + s.rule; $("#llRule").className = "badge crit";
+  $("#llExpl").textContent = s.expl; $("#llFeedback").hidden = false; $("#llNext").disabled = false;
+  $("#llScore").textContent = `${llScore.c}/${llScore.n} riktige`;
+}
+function llNext() {
+  if (llIdx < llOrder.length - 1) llIdx++;
+  else { llOrder = shuffle(LL_SCENARIOS.map((_, i) => i)); llIdx = 0; }
+  renderLl();
 }
 
 // ---- Vikepliktsimulator (Fase 4) ----
@@ -794,6 +873,11 @@ function bindEvents() {
       else if (e.key === "Enter" || e.key === "ArrowRight") $("#vpNext").click();
       return;
     }
+    if (filter.view === "lanterne" && !$("#llPanel").hidden) {
+      if (!llAnswered) { const k = KEYS.indexOf(e.key.toUpperCase()); if (k >= 0) { const b = document.querySelector(`#llChoices .choice[data-i="${k}"]`); if (b) b.click(); } }
+      else if (e.key === "Enter" || e.key === "ArrowRight") $("#llNext").click();
+      return;
+    }
     if (filter.view !== "adaptive" && filter.view !== "quiz") return;
     if (e.key === "Enter" || e.key === "ArrowRight") $("#nextBtn").click();
     const k = KEYS.indexOf(e.key.toUpperCase());
@@ -859,6 +943,10 @@ function bindEvents() {
   // vikepliktsimulator
   $("#vpChoices").addEventListener("click", e => { const b = e.target.closest(".choice"); if (b) vpAnswer(+b.dataset.i); });
   $("#vpNext").addEventListener("click", vpNext);
+
+  // lanternesimulator
+  $("#llChoices").addEventListener("click", e => { const b = e.target.closest(".choice"); if (b) llAnswer(+b.dataset.i); });
+  $("#llNext").addEventListener("click", llNext);
 
   // flashcards
   $("#fcShow").addEventListener("click", revealCard);
