@@ -40,6 +40,7 @@
         <ul class="nav-list" id="modeList">
           <li data-view="adaptive" class="active">Adaptiv øving <span class="count" id="cAll"></span></li>
           <li data-view="flashcards">Flashcards <span class="count" id="cDue"></span></li>
+          <li data-view="vikeplikt">Vikepliktsimulator</li>
           <li data-view="eksamen">Eksamensmodus</li>
           <li data-view="feillogg">Feillogg <span class="count" id="cErr">0</span></li>
           <li data-view="sammenlign">Sammenlign elever</li>
@@ -90,6 +91,23 @@
         <header class="panel-head"><h2>Feillogg</h2><button class="ghost-btn" id="clearErr">Tøm feillogg</button></header>
         <p class="panel-sub">Oppgaver du har svart feil på. Trykk for å øve på temaet igjen.</p>
         <ul class="err-list" id="errList"></ul>
+      </section>
+
+      <!-- Vikepliktsimulator -->
+      <section class="panel" id="vpPanel" hidden>
+        <header class="panel-head"><h2>Vikepliktsimulator</h2><span class="fc-stats" id="vpScore"></span></header>
+        <p class="panel-sub" id="vpTitle"></p>
+        <figure class="vp-scene" id="vpScene"></figure>
+        <h3 class="question" id="vpQ"></h3>
+        <ul class="choices" id="vpChoices"></ul>
+        <div class="feedback" id="vpFeedback" hidden>
+          <span class="badge" id="vpRule"></span>
+          <p class="feedback-text" id="vpExpl"></p>
+        </div>
+        <div class="task-nav vp-nav">
+          <button class="nav-btn next" id="vpNext"><span>Neste situasjon</span>
+            <svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        </div>
       </section>
 
       <!-- Flashcards (spaced repetition) -->

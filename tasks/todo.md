@@ -69,7 +69,15 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
 - [x] Bilde-kvalitetssjekk: ekskluderte fargefeil-«sørmerke» + tvetydige
       gul/sort-merker + ledefyr fra «identifiser»-bildekort
 - [ ] Eksport/import av progresjon + offline-PWA (Fase 5)
-- [ ] Sjømerke-/lanterne-/vikeplikt-simulator (Fase 4)
+
+## Fase 4 — Simulatorer ← PÅGÅR
+
+- [x] Alle 350 spørsmål dobbeltsjekket (6 adversariske faktasjekkere) — rene
+- [x] **Vikepliktsimulator**: 8 toppvisnings-situasjoner (kryssende, møtende,
+      innhenting, motor vs seil, trangt løp/ferge); velg handling → fasit + regel;
+      regler verifisert mot CRIB (regel 9/13/14/15/17/18)
+- [ ] Sjømerke-simulator (rask identifisering med verifiserte bilder)
+- [ ] Lanterne-simulator (identifiser fartøyretning fra lys)
 
 ## Kildelenking-prinsipp (gjelder alt innhold) 🔗
 

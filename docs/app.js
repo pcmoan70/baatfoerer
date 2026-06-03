@@ -162,7 +162,7 @@ function pickQuestion() {
 // ---- Render: quiz ----
 let current = null, answered = false;
 
-const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel", sammenlign: "#comparePanel", flashcards: "#fcPanel" };
+const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel", sammenlign: "#comparePanel", flashcards: "#fcPanel", vikeplikt: "#vpPanel" };
 function showView(which) {
   for (const sel of Object.values(MAIN_SECTIONS)) { const el = $(sel); if (el) el.hidden = true; }
   const el = $(MAIN_SECTIONS[which]); if (el) el.hidden = false;
@@ -424,8 +424,112 @@ function setView(view, area = null) {
   else if (view === "eksamen") showView("examStart");
   else if (view === "sammenlign") renderCompare();
   else if (view === "flashcards") startFlashcards();
+  else if (view === "vikeplikt") startVikeplikt();
   else nextQuestion();
   renderSidebar();
+}
+
+// ---- Vikepliktsimulator (Fase 4) ----
+// Toppvisning (baugen din peker opp/nord). Reglene er verifisert mot CRIB.
+const VP_SCENARIOS = [
+  { title: "Kryssende kurs – motorbåt fra styrbord",
+    boats: [{ x: 50, y: 78, heading: 0, kind: "du", label: "Du" }, { x: 80, y: 44, heading: 270, kind: "motor", label: "Motorbåt" }],
+    q: "En motorbåt nærmer seg fra din styrbord side (høyre) på kryssende kurs. Hva gjør du?",
+    choices: ["Holder kurs og fart", "Viker – dreier til styrbord og går bak det andre fartøyet", "Dreier til babord og går foran", "Øker farten og krysser foran"],
+    correct: 1, rule: "Sjøveisregel 15", explanation: "To motorfartøy på kryssende kurs: det som har det andre på sin STYRBORD side skal vike, og helst gå akten om (bak). Du har motorbåten på styrbord → du viker." },
+  { title: "Kryssende kurs – motorbåt fra babord",
+    boats: [{ x: 50, y: 78, heading: 0, kind: "du", label: "Du" }, { x: 20, y: 44, heading: 90, kind: "motor", label: "Motorbåt" }],
+    q: "En motorbåt nærmer seg fra din babord side (venstre) på kryssende kurs. Hva gjør du?",
+    choices: ["Holder kurs og fart, men følger med", "Viker til styrbord", "Stopper helt", "Dreier til babord"],
+    correct: 0, rule: "Sjøveisregel 15 og 17", explanation: "Det andre fartøyet har deg på sin styrbord side, så DET skal vike. Du holder kurs og fart – men følg med og vær klar til å handle om det ikke viker." },
+  { title: "Møtende på motgående kurs",
+    boats: [{ x: 50, y: 78, heading: 0, kind: "du", label: "Du" }, { x: 50, y: 24, heading: 180, kind: "motor", label: "Motorbåt" }],
+    q: "Du møter en motorbåt tilnærmet rett forfra (motgående). Hva gjør dere?",
+    choices: ["Begge dreier til styrbord og passerer babord mot babord", "Begge dreier til babord", "Du holder kurs, den andre viker", "Begge øker farten"],
+    correct: 0, rule: "Sjøveisregel 14", explanation: "Møtende motorfartøy rett forfra: BEGGE dreier til styrbord og passerer babord side mot babord side (venstre mot venstre)." },
+  { title: "Du tar igjen et tregere fartøy",
+    boats: [{ x: 50, y: 82, heading: 0, kind: "du", label: "Du" }, { x: 50, y: 40, heading: 0, kind: "motor", label: "Tregere båt" }],
+    q: "Du er raskere og tar igjen et fartøy forfra. Hva gjør du?",
+    choices: ["Du viker og holder god klaring når du går forbi", "Du holder kurs – den foran må vike", "Du tvinger deg forbi tett innpå", "Du krever at den andre øker farten"],
+    correct: 0, rule: "Sjøveisregel 13", explanation: "Den som innhenter (tar igjen) skal alltid holde av veien for den som blir innhentet – uansett fartøystype. Hold god klaring forbi." },
+  { title: "Du blir innhentet",
+    boats: [{ x: 50, y: 48, heading: 0, kind: "du", label: "Du" }, { x: 50, y: 90, heading: 0, kind: "motor", label: "Raskere båt" }],
+    q: "En raskere båt tar deg igjen bakfra. Hva gjør du?",
+    choices: ["Holder kurs og fart – den som innhenter skal vike", "Viker brått til babord", "Stopper midt i løpet", "Svinger uforutsigbart"],
+    correct: 0, rule: "Sjøveisregel 13 og 17", explanation: "Du blir innhentet, så du skal holde kurs og fart. Det innhentende fartøyet har plikt til å holde klar." },
+  { title: "Motorbåt møter seilbåt",
+    boats: [{ x: 50, y: 78, heading: 0, kind: "du", label: "Du (motor)" }, { x: 22, y: 46, heading: 80, kind: "seil", label: "Seilbåt" }],
+    q: "Du fører motorbåt og møter en seilbåt for seil (fra babord). Hva gjør du?",
+    choices: ["Viker for seilbåten", "Holder kurs fordi den kommer fra babord", "Krever at seilbåten viker", "Øker farten forbi"],
+    correct: 0, rule: "Sjøveisregel 18", explanation: "Et maskindrevet fartøy skal vike for seilfartøy. Det gjelder selv om seilbåten kommer fra din babord side – regel 18 går foran «babord = hold kurs»." },
+  { title: "Du er seilbåt, møter motorbåt",
+    boats: [{ x: 50, y: 78, heading: 0, kind: "du-seil", label: "Du (seil)" }, { x: 80, y: 44, heading: 260, kind: "motor", label: "Motorbåt" }],
+    q: "Du seiler for seil og en motorbåt nærmer seg fra styrbord. Hva gjør du?",
+    choices: ["Holder kurs og fart – motorfartøyet skal vike for deg", "Viker fordi den er på styrbord", "Starter motoren og viker", "Stopper"],
+    correct: 0, rule: "Sjøveisregel 18", explanation: "Motorfartøy skal vike for seilfartøy. Som seilbåt holder du kurs og fart – men følg med og vær klar til å handle om motorbåten ikke viker." },
+  { title: "Trangt løp med møtende ferge", channel: true,
+    boats: [{ x: 50, y: 82, heading: 0, kind: "du", label: "Du" }, { x: 50, y: 28, heading: 180, kind: "ferge", label: "Ferge" }],
+    q: "I et trangt løp møter du en ferge som bare kan navigere midt i løpet. Hva gjør du?",
+    choices: ["Holder deg til styrbord side av løpet og hindrer ikke fergen", "Holder midt i løpet", "Krysser foran fergen", "Stopper tvers i løpet"],
+    correct: 0, rule: "Sjøveisregel 9", explanation: "I trange løp skal du holde deg så nær styrbord yttergrense som trygt. Små fartøy skal ikke hindre fartøy som bare kan navigere trygt inne i løpet, som en ferge." },
+];
+
+let vpOrder = [], vpIdx = 0, vpAnswered = false, vpScore = { n: 0, c: 0 };
+function vpBoat(b) {
+  const col = b.kind.startsWith("du") ? "#c79a4b" : "#11364f";
+  const sz = b.kind === "ferge" ? 1.7 : 1;
+  const sail = b.kind.includes("seil") ? `<path d="M.3 -1 L3 3.5 L.3 3.5 Z" fill="#f6f1e7" stroke="#0c2a40" stroke-width=".4"/>` : "";
+  const g = `<g transform="translate(${b.x} ${b.y}) rotate(${b.heading}) scale(${sz})">
+      <line x1="0" y1="-4" x2="0" y2="-11" stroke="${col}" stroke-width=".9"/>
+      <path d="M-1.7 -9 L0 -12.4 L1.7 -9 Z" fill="${col}"/>
+      <path d="M0 -5 L3.4 4.6 L-3.4 4.6 Z" fill="${col}" stroke="#0c2a40" stroke-width=".5"/>${sail}
+    </g>`;
+  const ly = b.y + (b.kind === "ferge" ? 11.5 : 8.6);
+  return g + `<text x="${b.x}" y="${ly}" text-anchor="middle" font-size="3.6" font-weight="700" fill="#06283a">${esc(b.label)}</text>`;
+}
+function vpScene(s) {
+  const banks = s.channel ? `<rect x="0" y="0" width="22" height="100" fill="#e7dcc3"/><rect x="78" y="0" width="22" height="100" fill="#e7dcc3"/>` : "";
+  return `<svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid meet">
+    <rect width="100" height="100" fill="#1d6e8c"/>${banks}
+    <g opacity=".18" stroke="#bfe0ea" stroke-width=".7" fill="none">
+      <path d="M0 33 q10 -3 20 0 t20 0 t20 0 t20 0 t20 0"/><path d="M0 66 q10 3 20 0 t20 0 t20 0 t20 0 t20 0"/></g>
+    <text x="5" y="9" font-size="4.2" fill="#bfe0ea" opacity=".6" font-weight="700">N ↑</text>
+    ${s.boats.map(vpBoat).join("")}
+  </svg>`;
+}
+function startVikeplikt() {
+  showView("vikeplikt");
+  vpOrder = shuffle(VP_SCENARIOS.map((_, i) => i)); vpIdx = 0; vpScore = { n: 0, c: 0 };
+  renderVp();
+}
+function renderVp() {
+  vpAnswered = false;
+  const s = VP_SCENARIOS[vpOrder[vpIdx]];
+  $("#vpTitle").textContent = `Situasjon ${vpIdx + 1}/${vpOrder.length} · ${s.title}`;
+  $("#vpScene").innerHTML = vpScene(s);
+  $("#vpQ").textContent = s.q;
+  $("#vpChoices").innerHTML = s.choices.map((c, i) =>
+    `<li><button class="choice" data-i="${i}"><span class="key">${KEYS[i]}</span><span>${esc(c)}</span></button></li>`).join("");
+  $("#vpFeedback").hidden = true; $("#vpNext").disabled = true;
+  $("#vpScore").textContent = vpScore.n ? `${vpScore.c}/${vpScore.n} riktige` : "";
+}
+function vpAnswer(i) {
+  if (vpAnswered) return;
+  const s = VP_SCENARIOS[vpOrder[vpIdx]];
+  vpAnswered = true; vpScore.n++; if (i === s.correct) vpScore.c++;
+  document.querySelectorAll("#vpChoices .choice").forEach(b => {
+    b.disabled = true; const bi = +b.dataset.i;
+    if (bi === s.correct) b.classList.add("correct"); else if (bi === i) b.classList.add("wrong");
+  });
+  $("#vpRule").textContent = "⚓ " + s.rule; $("#vpRule").className = "badge crit";
+  $("#vpExpl").textContent = s.explanation;
+  $("#vpFeedback").hidden = false; $("#vpNext").disabled = false;
+  $("#vpScore").textContent = `${vpScore.c}/${vpScore.n} riktige`;
+}
+function vpNext() {
+  if (vpIdx < vpOrder.length - 1) vpIdx++;
+  else { vpOrder = shuffle(VP_SCENARIOS.map((_, i) => i)); vpIdx = 0; }   // ny runde
+  renderVp();
 }
 
 // ---- Flashcards (spaced repetition, SM-2-lite) ----
@@ -685,6 +789,11 @@ function bindEvents() {
       else { const m = { "1": "again", "2": "hard", "3": "good", "4": "easy" }; if (m[e.key]) rateCard(m[e.key]); }
       return;
     }
+    if (filter.view === "vikeplikt" && !$("#vpPanel").hidden) {
+      if (!vpAnswered) { const k = KEYS.indexOf(e.key.toUpperCase()); if (k >= 0) { const b = document.querySelector(`#vpChoices .choice[data-i="${k}"]`); if (b) b.click(); } }
+      else if (e.key === "Enter" || e.key === "ArrowRight") $("#vpNext").click();
+      return;
+    }
     if (filter.view !== "adaptive" && filter.view !== "quiz") return;
     if (e.key === "Enter" || e.key === "ArrowRight") $("#nextBtn").click();
     const k = KEYS.indexOf(e.key.toUpperCase());
@@ -746,6 +855,10 @@ function bindEvents() {
     submitExam();
   });
   $("#resultClose").addEventListener("click", () => setView("adaptive", null));
+
+  // vikepliktsimulator
+  $("#vpChoices").addEventListener("click", e => { const b = e.target.closest(".choice"); if (b) vpAnswer(+b.dataset.i); });
+  $("#vpNext").addEventListener("click", vpNext);
 
   // flashcards
   $("#fcShow").addEventListener("click", revealCard);
