@@ -42,6 +42,7 @@
           <li data-view="flashcards">Flashcards <span class="count" id="cDue"></span></li>
           <li data-view="vikeplikt">Vikepliktsimulator</li>
           <li data-view="lanterne">Lanternesimulator</li>
+          <li data-view="sjomerke">Sjømerke-drill</li>
           <li data-view="eksamen">Eksamensmodus</li>
           <li data-view="feillogg">Feillogg <span class="count" id="cErr">0</span></li>
           <li data-view="sammenlign">Sammenlign elever</li>
@@ -107,6 +108,20 @@
         </div>
         <div class="task-nav vp-nav">
           <button class="nav-btn next" id="vpNext"><span>Neste situasjon</span>
+            <svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        </div>
+      </section>
+
+      <!-- Sjømerke-drill -->
+      <section class="panel" id="smPanel" hidden>
+        <header class="panel-head"><h2>Sjømerke-drill</h2><span class="fc-stats" id="smScore"></span></header>
+        <p class="panel-sub" id="smStreak"></p>
+        <figure class="sm-image" id="smImg"></figure>
+        <h3 class="question">Hvilket sjømerke / skilt viser bildet?</h3>
+        <ul class="choices" id="smChoices"></ul>
+        <div class="feedback" id="smFeedback" hidden><p class="feedback-text" id="smExpl"></p></div>
+        <div class="task-nav vp-nav">
+          <button class="nav-btn next" id="smNext"><span>Neste</span>
             <svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
         </div>
       </section>

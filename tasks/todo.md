@@ -79,8 +79,9 @@ Avledet fra `plan_batforerprove_treningsside.md`. Avkrysningsliste for hele prod
 - [x] **Lanterne-simulator**: 5 nattscener (forfra, bare grønt/rødt, akterlys,
       seil uten topplys) → identifiser retning/type; konvensjon grønt-venstre/
       rødt-høyre verifisert
-- [~] Sjømerke-identifisering dekkes av bilde_symbol-spørsmål + flashcards
-      (egen «simulator»-drill kan lages senere ved behov)
+- [x] **Sjømerke-drill**: rask identifisering av 23 verifiserte sjømerke-/skilt-
+      bilder; kanonisk svar + tilfeldige distraktorer; streak + beste streak
+      (lagret per elev). Fase 4 komplett.
 
 ## Kildelenking-prinsipp (gjelder alt innhold) 🔗
 

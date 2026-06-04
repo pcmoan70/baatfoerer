@@ -51,14 +51,15 @@ let conceptById = {}, areaById = {};
 
 async function loadData() {
   const base = "data/";
-  const [syllabus, concepts, questions, sources, flashcards] = await Promise.all([
+  const [syllabus, concepts, questions, sources, flashcards, seamarks] = await Promise.all([
     fetch(base + "syllabus.json").then(r => r.json()),
     fetch(base + "concepts.json").then(r => r.json()),
     fetch(base + "questions.json").then(r => r.json()),
     fetch(base + "sources.json").then(r => r.json()),
     fetch(base + "flashcards.json").then(r => r.json()).catch(() => []),
+    fetch(base + "seamarks.json").then(r => r.json()).catch(() => []),
   ]);
-  DATA = { areas: syllabus, concepts, questions, sources, flashcards };
+  DATA = { areas: syllabus, concepts, questions, sources, flashcards, seamarks };
   conceptById = Object.fromEntries(concepts.map(c => [c.id, c]));
   areaById = Object.fromEntries(syllabus.map(a => [a.id, a]));
 }
@@ -162,7 +163,7 @@ function pickQuestion() {
 // ---- Render: quiz ----
 let current = null, answered = false;
 
-const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel", sammenlign: "#comparePanel", flashcards: "#fcPanel", vikeplikt: "#vpPanel", lanterne: "#llPanel" };
+const MAIN_SECTIONS = { quiz: "#taskCard", feillogg: "#errPanel", examStart: "#examStart", exam: "#examCard", result: "#resultPanel", sammenlign: "#comparePanel", flashcards: "#fcPanel", vikeplikt: "#vpPanel", lanterne: "#llPanel", sjomerke: "#smPanel" };
 function showView(which) {
   for (const sel of Object.values(MAIN_SECTIONS)) { const el = $(sel); if (el) el.hidden = true; }
   const el = $(MAIN_SECTIONS[which]); if (el) el.hidden = false;
@@ -426,9 +427,59 @@ function setView(view, area = null) {
   else if (view === "flashcards") startFlashcards();
   else if (view === "vikeplikt") startVikeplikt();
   else if (view === "lanterne") startLanterne();
+  else if (view === "sjomerke") startSjomerke();
   else nextQuestion();
   renderSidebar();
 }
+
+// ---- Sjømerke-drill (Fase 4): rask identifisering ----
+const DRILL_EXTRA = ["Sørmerke (kardinal)"];   // sør finnes ikke som bilde, men er god distraktor
+let smQueue = [], smItem = null, smAnswered = false, smScore = { n: 0, c: 0 }, smStreak = 0;
+function smPool() {
+  const s = new Set(DATA.seamarks.map(x => x.answer));
+  DRILL_EXTRA.forEach(e => s.add(e));
+  return [...s];
+}
+function smChoicesFor(correct) {
+  const distract = shuffle(smPool().filter(a => a !== correct)).slice(0, 3);
+  return shuffle([correct, ...distract]);
+}
+function startSjomerke() {
+  showView("sjomerke");
+  smQueue = shuffle([...DATA.seamarks]); smScore = { n: 0, c: 0 }; smStreak = 0;
+  smNextItem();
+}
+function smNextItem() {
+  smAnswered = false;
+  if (!smQueue.length) smQueue = shuffle([...DATA.seamarks]);
+  smItem = smQueue.shift();
+  const choices = smChoicesFor(smItem.answer);
+  smItem._choices = choices; smItem._correct = choices.indexOf(smItem.answer);
+  $("#smImg").innerHTML = `<img src="${smItem.src}" alt=""><div class="cap">${esc("Illustrasjon: " + (smItem.credit || "offentlig kilde"))}</div>`;
+  $("#smChoices").innerHTML = choices.map((c, i) =>
+    `<li><button class="choice" data-i="${i}"><span class="key">${KEYS[i]}</span><span>${esc(c)}</span></button></li>`).join("");
+  $("#smFeedback").hidden = true; $("#smNext").disabled = true;
+  smRenderScore();
+}
+function smAnswer(i) {
+  if (smAnswered) return;
+  smAnswered = true; smScore.n++;
+  const ok = i === smItem._correct;
+  if (ok) { smScore.c++; smStreak++; if (smStreak > (P.drillBest || 0)) { P.drillBest = smStreak; saveProfile(); } }
+  else smStreak = 0;
+  document.querySelectorAll("#smChoices .choice").forEach(b => {
+    b.disabled = true; const bi = +b.dataset.i;
+    if (bi === smItem._correct) b.classList.add("correct"); else if (bi === i) b.classList.add("wrong");
+  });
+  $("#smExpl").textContent = ok ? `Riktig! ${smItem.answer}` : `Riktig svar: ${smItem.answer}`;
+  $("#smFeedback").hidden = false; $("#smNext").disabled = false;
+  smRenderScore();
+}
+function smRenderScore() {
+  $("#smScore").textContent = smScore.n ? `${smScore.c}/${smScore.n} riktige` : "";
+  $("#smStreak").textContent = `Streak: ${smStreak} · Beste: ${P.drillBest || 0}`;
+}
+function smNext() { smNextItem(); }
 
 // ---- Lanternesimulator (Fase 4) ----
 // Du ser lysene fra et annet fartøy i mørket. Konvensjon verifisert: ser du
@@ -878,6 +929,11 @@ function bindEvents() {
       else if (e.key === "Enter" || e.key === "ArrowRight") $("#llNext").click();
       return;
     }
+    if (filter.view === "sjomerke" && !$("#smPanel").hidden) {
+      if (!smAnswered) { const k = KEYS.indexOf(e.key.toUpperCase()); if (k >= 0) { const b = document.querySelector(`#smChoices .choice[data-i="${k}"]`); if (b) b.click(); } }
+      else if (e.key === "Enter" || e.key === "ArrowRight") $("#smNext").click();
+      return;
+    }
     if (filter.view !== "adaptive" && filter.view !== "quiz") return;
     if (e.key === "Enter" || e.key === "ArrowRight") $("#nextBtn").click();
     const k = KEYS.indexOf(e.key.toUpperCase());
@@ -947,6 +1003,10 @@ function bindEvents() {
   // lanternesimulator
   $("#llChoices").addEventListener("click", e => { const b = e.target.closest(".choice"); if (b) llAnswer(+b.dataset.i); });
   $("#llNext").addEventListener("click", llNext);
+
+  // sjømerke-drill
+  $("#smChoices").addEventListener("click", e => { const b = e.target.closest(".choice"); if (b) smAnswer(+b.dataset.i); });
+  $("#smNext").addEventListener("click", smNext);
 
   // flashcards
   $("#fcShow").addEventListener("click", revealCard);

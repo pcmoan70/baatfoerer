@@ -111,6 +111,39 @@ def main() -> int:
                           "detail": (c["learning_goals"] or [None])[0]})
     (OUT / "flashcards.json").write_text(json.dumps(cards, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # --- sjømerke-drill: bilde -> kanonisk svar (for rask identifisering) ---
+    def seamark_answer(cat, term):
+        t = (term or "").lower()
+        if cat == "sjomerke_lateral":
+            if "iala" in t or ("lateralmerker" in t and "babord" not in t and "styrbord" not in t):
+                return "Lateralmerker (oversikt)"
+            if "babord" in t or "rød" in t or "rod" in t: return "Babord lateralmerke (rødt)"
+            if "styrbord" in t or "grøn" in t or "gron" in t: return "Styrbord lateralmerke (grønt)"
+            return "Lateralmerke"
+        if cat == "sjomerke_kardinal":
+            if "nord" in t: return "Nordmerke (kardinal)"
+            if "øst" in t or "ost" in t: return "Østmerke (kardinal)"
+            if "sør" in t or "sor" in t: return "Sørmerke (kardinal)"
+            if "vest" in t: return "Vestmerke (kardinal)"
+            return "Kardinalmerker (oversikt)"
+        if cat == "sjomerke_spesial": return "Spesialmerke (gult X)"
+        if cat == "sjomerke_frittliggende_grunne":
+            if "visarm" in t or "fastmerke" in t: return "Fastmerke med visarm"
+            return "Frittliggende fare (isolert fare)"
+        if cat == "sjomerke_senterleds": return "Senterledsmerke (trygt vann)"
+        if cat == "farvannsskilt": return "Fartsgrenseskilt"
+        return None
+    SEA_CATS = {"sjomerke_lateral", "sjomerke_kardinal", "sjomerke_spesial",
+                "sjomerke_senterleds", "sjomerke_frittliggende_grunne", "farvannsskilt"}
+    seamarks = []
+    for r in con.execute("SELECT * FROM images WHERE reusable=1 AND flashcard=1"):
+        if r["category"] in SEA_CATS and r["id"] in web_img:
+            ans = seamark_answer(r["category"], r["norwegian_term"])
+            if ans:
+                w = web_img[r["id"]]
+                seamarks.append({"src": w["src"], "credit": w["credit"], "answer": ans})
+    (OUT / "seamarks.json").write_text(json.dumps(seamarks, ensure_ascii=False, indent=2), encoding="utf-8")
+
     meta = {
         "n_sources": len(sources), "n_areas": len(areas),
         "n_concepts": len(concepts), "n_questions": len(questions),
