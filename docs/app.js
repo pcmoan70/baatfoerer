@@ -342,6 +342,16 @@ function openFeedback(q) {
   $("#feedbackModal").hidden = false;
   setTimeout(() => $("#fbText").focus(), 50);
 }
+// Henter gjeldende oppgave/situasjon for «Meld feil» i alle moduser.
+function currentTaskContext() {
+  const v = filter.view;
+  if (v === "eksamen" && !$("#examCard").hidden) return exam.questions[exam.idx] || null;
+  if (v === "flashcards" && fcCard) return { id: fcCard.id, prompt: (fcCard.kind === "image" ? "Bildekort: " : "Konseptkort: ") + (fcCard.kind === "image" ? fcCard.answer : fcCard.front) };
+  if (v === "vikeplikt" && VP_SCENARIOS[vpOrder[vpIdx]]) { const s = VP_SCENARIOS[vpOrder[vpIdx]]; return { id: "vikeplikt_" + vpOrder[vpIdx], prompt: "Vikepliktsimulator: " + s.title + " – " + s.q }; }
+  if (v === "lanterne" && LL_SCENARIOS[llOrder[llIdx]]) { const s = LL_SCENARIOS[llOrder[llIdx]]; return { id: "lanterne_" + llOrder[llIdx], prompt: "Lanternesimulator: " + s.title + " – " + s.q }; }
+  if (v === "sjomerke" && smItem) return { id: "sjomerke", prompt: "Sjømerke-drill (fasit: " + smItem.answer + ") – " + smItem.src };
+  return current;
+}
 function buildFeedbackMailto(q, note) {
   const subject = "Båtføreprøven – tilbakemelding" + (q ? ` (oppgave ${q.id})` : "");
   const body = [
@@ -903,6 +913,8 @@ function bindEvents() {
   });
   $("#nextBtn").addEventListener("click", () => { if (filter.view === "feillogg") return; nextQuestion(); });
   $("#reportBtn").addEventListener("click", () => openFeedback(current));
+  ["examReport", "fcReport", "vpReport", "llReport", "smReport"].forEach(id =>
+    $("#" + id).addEventListener("click", () => openFeedback(currentTaskContext())));
   $("#fbSend").addEventListener("click", sendFeedback);
   $("#fbCancel").addEventListener("click", () => { $("#feedbackModal").hidden = true; });
   document.addEventListener("keydown", e => {
